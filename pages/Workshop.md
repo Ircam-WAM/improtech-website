@@ -1,4 +1,4 @@
-title: Important Dates
+title: Workshop
 
 # Important Dates
 kljnlkjnljbnljbhkjbnlkjnlk
