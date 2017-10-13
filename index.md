@@ -5,7 +5,7 @@ category: about
 
 # Welcome
 
-![ISMIR_Logo_Black]({filename}/images/IKGraphicID.png) 
+![IK_Logo({filename}/images/IKGraphicID.png) 
 
 =======
 
