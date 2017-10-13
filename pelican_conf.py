@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "ikparisphilly 2018"
+SITENAME = "ikparisphilly 2017"
 SITEURL = 'http://ikparisphilly.ircam.fr'
 # AUTHOR = 'Guillaume Pellerin'
 # Uncomment following line if you want document-relative URLs when developing
