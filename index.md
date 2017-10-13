@@ -18,6 +18,5 @@ Now is the time five years later to renew with the ImproTech workshop - festival
 
 ImproTech Paris - Philly will take place at University of Pennsylvania, with concerts at The Rotunda and the Annenberg Center, and musical events at the ICA. Scholars, students, musician, makers will come from all places in europe and the US to talk about their work, demo, teach and perform. IK Paris-Philly will flourish on the explosive encounter of prominent research labs researchers, well established musical figures of Jazz and contemporary music, and the young avant-garde / underground scene of Philadelphia and surroundings.
 
-![ISMIR_Logo_Black]({filename}/images/logo_black.png)
 
 vla bla vla vla vla
