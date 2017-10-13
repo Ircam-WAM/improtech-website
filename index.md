@@ -5,9 +5,10 @@ category: about
 
 # Welcome
 
-<HEAD
 ![ISMIR_Logo_Black]({filename}/images/IKGraphicID.png) 
+
 =======
+
 ## bla bla
 In 2004 was held at ircam, during the 1st Sound and Music Computing Conference, a workshop on Improvisation and the Computer, that gathered the cream of musicians and researchers operating in the field. The event was a great success and it had a strong impact on the public, the musical scene - and on Ircam as well, by introducing there, for the first time at the highest level, improvisation as a major research topic and a respected field of investigation. Above all, it was a wonderful opportunity to share an exceptional artistic and scientific moment. A trace of this moment is the DVD Contact that captures the performance by David Wessel and Roscoe Mitchell, a founding member of the Art Ensemble of Chicago.
 
@@ -17,8 +18,6 @@ Now is the time five years later to renew with the ImproTech workshop - festival
 
 ImproTech Paris - Philly will take place at University of Pennsylvania, with concerts at The Rotunda and the Annenberg Center, and musical events at the ICA. Scholars, students, musician, makers will come from all places in europe and the US to talk about their work, demo, teach and perform. IK Paris-Philly will flourish on the explosive encounter of prominent research labs researchers, well established musical figures of Jazz and contemporary music, and the young avant-garde / underground scene of Philadelphia and surroundings.
 
-
 ![ISMIR_Logo_Black]({filename}/images/logo_black.png)
-> 
 
 vla bla vla vla vla
