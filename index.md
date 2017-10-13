@@ -1,7 +1,7 @@
 title: Improtech Paris - Philly 2017
 slug: index
 save_as: index.html
-category: about
+category: xxx
 
 # Welcome
 
