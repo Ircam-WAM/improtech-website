@@ -5,4 +5,4 @@ category: about
 
 # Welcome
 
-![ISMIR_Logo_Black]({filename}/images/blank.png)
+![ISMIR_Logo_Black]({filename}/images/logo_black.png)
