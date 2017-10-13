@@ -5,4 +5,6 @@ category: about
 
 # Welcome
 
+## bla bla
+
 ![ISMIR_Logo_Black]({filename}/images/logo_black.png)
