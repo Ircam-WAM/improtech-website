@@ -1,3 +1,5 @@
+# Organisation
+
 ## Workshop Chair
 
 - Pr. Gérard Assayag, Ircam - STMS Lab (CNRS, UPMC) 
