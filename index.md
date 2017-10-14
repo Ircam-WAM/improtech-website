@@ -5,9 +5,8 @@ category: about
 
 # Welcome to Digital Improvised Interaction World
 
-![IK_Logo({filename}/images/IKGraphicID.png) 
+![IK_Logo]({filename}/images/IKGraphicID.png) 
 
-=======
 
 ## The Improtech (IK) series
 In 2004 was held at ircam, during the 1st Sound and Music Computing Conference, a workshop on Improvisation and the Computer, that gathered the cream of musicians and researchers operating in the field. The event was a great success and it had a strong impact on the public, the musical scene - and on Ircam as well, by introducing there, for the first time at the highest level, improvisation as a major research topic and a respected field of investigation. Above all, it was a wonderful opportunity to share an exceptional artistic and scientific moment. A trace of this moment is the DVD Contact that captures the performance by David Wessel and Roscoe Mitchell, a founding member of the Art Ensemble of Chicago.

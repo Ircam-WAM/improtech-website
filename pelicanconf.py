@@ -8,17 +8,18 @@ SITEURL = 'http://ikparisphilly.ircam.fr'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 #THEME = '/srv/lib/pelican-themes/pelican-striped-html5up'
-THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
+#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/pelican-bootstrap3'
+THEME = '/Users/assayag/Documents/GitHub/pelican-themes/waterspill-en'
 
 BOOTSTRAP_THEME = 'united'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
-PATH = '/var/in'
-OUTPUT_PATH = '/var/out'
+PATH = '.'
+OUTPUT_PATH = 'output/'
 STATIC_PATHS = ['doc', 'images', 'extra']
 
 TIMEZONE = 'Europe/Paris'
-#
+
 DEFAULT_LANG = 'en'
 DEFAULT_DATE = 'fs'
 
@@ -47,7 +48,7 @@ TWITTER_CARDS = False
 TWITTER_USERNAME = 'ismir2018'
 TWITTER_WIDGET_ID = '516222825451888640'
 
-PLUGIN_PATHS = ['/srv/lib/pelican-plugins']
+PLUGIN_PATHS = ['/Users/assayag/Documents/GitHub/pelican-plugins']
 PLUGINS = ['assets', 'jinja2content', 'sitemap', 'gallery',
             'i18n_subsites',
             'render_math',
