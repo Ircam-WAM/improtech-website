@@ -1,3 +1,5 @@
+title: Organisation
+
 # Organisation
 
 ## Workshop Chair
