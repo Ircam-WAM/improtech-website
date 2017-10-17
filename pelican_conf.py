@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "Improtech 2017"
+SITENAME = "Improtech 2017 BLA"
 SITEURL = 'http://ikparisphilly.ircam.fr'
 # AUTHOR = 'Guillaume Pellerin'
 # Uncomment following line if you want document-relative URLs when developing
@@ -23,7 +23,7 @@ STATIC_PATHS = ['doc', 'images', 'extra']
 #HEADER_IMAGE = "header.png"
 
 BANNER = '/images/IKPoster_Banner.png'
-# BANNER_SUBTITLE = 'Paris - Philly'
+# BANNER_SUBTITLE = 'Paris - PhillyBLA '
 BANNER_ALL_PAGES = True
 
 #SIDEBAR_IMAGES_HEADER = 'IKGraphicID.png'
