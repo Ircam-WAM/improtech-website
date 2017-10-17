@@ -7,12 +7,7 @@ SITEURL = 'http://ikparisphilly.ircam.fr'
 # AUTHOR = 'Guillaume Pellerin'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
-#THEME = '/srv/lib/pelican-themes/pelican-striped-html5up'
 THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
-#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/waterspill-en'
-#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/bold'
-#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/bricks'
-#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/nest'
 
 
 BOOTSTRAP_THEME = 'united'
@@ -21,12 +16,11 @@ BOOTSTRAP_THEME = 'united'
 
 PATH = '/var/in'
 OUTPUT_PATH = '/var/out'
-
 STATIC_PATHS = ['doc', 'images', 'extra']
 
-NEST_HEADER_IMAGE = '/images/header.png'
+#NEST_HEADER_IMAGE = '/images/header.png'
 #NEST_HEADER_LOGO = '/images/logo.png'
-HEADER_IMAGE = "header.png"
+#HEADER_IMAGE = "header.png"
 
 BANNER = '/images/header.png'
 BANNER_SUBTITLE = 'Paris - Philly'
@@ -70,10 +64,8 @@ TWITTER_USERNAME = 'ircam'
 TWITTER_WIDGET_ID = '516222825451888640'
 
 PLUGIN_PATHS = ['/srv/lib/pelican-plugins']
-PLUGINS = ['assets', 'jinja2content', 'sitemap', 'gallery',
-            'i18n_subsites',
-            'render_math',
-            'neighbors',
+PLUGINS = ['assets', 'i18n_subsites', 'jinja2content', 'sitemap', 'gallery',
+        #     'neighbors',
         #    'liquid_tags.img', 'liquid_tags.video',
         #    'liquid_tags.youtube', 'liquid_tags.vimeo',
         #    'liquid_tags.include_code',
@@ -118,7 +110,21 @@ PELICANGIT_WHITELISTED_FILES = [
 
 PELICANGIT_PORT=8888
 
-MARKDOWN = {'extensions': ['markdown.extensions.meta',]}
+#MARKDOWN = {'extensions': ['markdown.extensions.meta',]}
+
+MARKDOWN = {
+    'extensions': ['markdown.extensions.meta',],
+    'extension_configs': {
+        'markdown.extensions.codehilite': {
+            'css_class': 'highlight',
+        },
+        'markdown.extensions.extra': {},
+        # optionally, more extensions,
+        # e.g. markdown.extensions.meta
+    },
+    'output_format': 'html5',
+}
+
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
