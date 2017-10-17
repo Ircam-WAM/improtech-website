@@ -58,7 +58,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/Ircam/'),
           )
 
 #DISQUS_SITENAME='ismir2018'
-GITHUB_USER = 'ircam'
+#GITHUB_USER = 'ircam'
 TWITTER_CARDS = False
 TWITTER_USERNAME = 'ircam'
 TWITTER_WIDGET_ID = '516222825451888640'
