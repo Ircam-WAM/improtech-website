@@ -23,7 +23,7 @@ STATIC_PATHS = ['doc', 'images', 'extra']
 #HEADER_IMAGE = "header.png"
 
 BANNER = '/images/IKPoster_Banner.png'
-#BANNER_SUBTITLE = 'Paris - Philly'
+# BANNER_SUBTITLE = 'Paris - Philly'
 BANNER_ALL_PAGES = True
 
 #SIDEBAR_IMAGES_HEADER = 'IKGraphicID.png'
