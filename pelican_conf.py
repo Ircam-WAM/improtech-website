@@ -22,8 +22,8 @@ STATIC_PATHS = ['doc', 'images', 'extra']
 #NEST_HEADER_LOGO = '/images/logo.png'
 #HEADER_IMAGE = "header.png"
 
-BANNER = '/images/header.png'
-BANNER_SUBTITLE = 'Paris - Philly'
+BANNER = '/images/IKPoster_Banner.png'
+#BANNER_SUBTITLE = 'Paris - Philly'
 BANNER_ALL_PAGES = True
 
 #SIDEBAR_IMAGES_HEADER = 'IKGraphicID.png'
