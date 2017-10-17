@@ -1,4 +1,4 @@
-title: Partners and sponsoring institutions
+title: Partners
 
 # Partners and sponsoring institutions
 
