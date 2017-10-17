@@ -23,10 +23,10 @@ BOOTSTRAP_THEME = 'united'
 #BOOTSTRAP_THEME = 'yeti'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
-PATH = '.'
-OUTPUT_PATH = 'output/'
-STATIC_PATHS = ['doc', 'images', 'extra']
+PATH = '/var/in'
+OUTPUT_PATH = '/var/out'
 
+STATIC_PATHS = ['doc', 'images', 'extra']
 
 NEST_HEADER_IMAGE = '/images/header.png'
 #NEST_HEADER_LOGO = '/images/logo.png'
