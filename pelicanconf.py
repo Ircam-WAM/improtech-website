@@ -2,21 +2,42 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "Improtech Paris - Philly 2017"
+SITENAME = "Improtech 2017"
 SITEURL = 'http://ikparisphilly.ircam.fr'
 # AUTHOR = 'Guillaume Pellerin'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 #THEME = '/srv/lib/pelican-themes/pelican-striped-html5up'
-#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/pelican-bootstrap3'
-THEME = '/Users/assayag/Documents/GitHub/pelican-themes/waterspill-en'
+THEME = '/Users/assayag/Documents/GitHub/pelican-themes/pelican-bootstrap3'
+#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/waterspill-en'
+#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/bold'
+#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/bricks'
+#THEME = '/Users/assayag/Documents/GitHub/pelican-themes/nest'
+
+#PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives'))
+PAGINATED_DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives'))
+
 
 BOOTSTRAP_THEME = 'united'
+#BOOTSTRAP_THEME = 'yeti'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
 PATH = '.'
 OUTPUT_PATH = 'output/'
 STATIC_PATHS = ['doc', 'images', 'extra']
+
+
+NEST_HEADER_IMAGE = '/images/header.png'
+#NEST_HEADER_LOGO = '/images/logo.png'
+HEADER_IMAGE = "header.png"
+
+BANNER = '/images/header.png'
+BANNER_SUBTITLE = 'Paris - Philly'
+BANNER_ALL_PAGES = True
+
+#SIDEBAR_IMAGES_HEADER = 'IKGraphicID.png'
+#SIDEBAR_IMAGES = ["/images/omax.png","/images/omax.png"]
 
 TIMEZONE = 'Europe/Paris'
 
@@ -40,12 +61,16 @@ LINKS =  (('Ircam', 'http://www.ircam.fr'),
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/Ircam/'),
           ('GitHub', 'https://github.com/Ircam-RnD/'),
+          ('FaceBook', 'https://www.facebook.com/iIRCAM/'),
+          ('Youtube', 'https://www.youtube.com/user/Ircam75'),
+          ('DailyMotion', 'https://www.dailymotion.com/RepMus'),
+          ('Vimeo', 'https://vimeo.com/user15042869'),
           )
 
 #DISQUS_SITENAME='ismir2018'
-GITHUB_USER = 'ismir2018'
+GITHUB_USER = 'ircam'
 TWITTER_CARDS = False
-TWITTER_USERNAME = 'ismir2018'
+TWITTER_USERNAME = 'ircam'
 TWITTER_WIDGET_ID = '516222825451888640'
 
 PLUGIN_PATHS = ['/Users/assayag/Documents/GitHub/pelican-plugins']
