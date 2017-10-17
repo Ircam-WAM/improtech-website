@@ -14,10 +14,6 @@ THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 #THEME = '/Users/assayag/Documents/GitHub/pelican-themes/bricks'
 #THEME = '/Users/assayag/Documents/GitHub/pelican-themes/nest'
 
-#PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
-DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives'))
-PAGINATED_DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives'))
-
 
 BOOTSTRAP_THEME = 'united'
 #BOOTSTRAP_THEME = 'yeti'
