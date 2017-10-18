@@ -29,14 +29,14 @@ IK-PP gets different kinds of support and sponsoring  from  :
 - ICA - Institute for contemporary Art, Philadelphia,
 - Annenberg Center, Philadelphia,
 - Ars Nova Workshop, Philadelphia.  
-  
+
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Calarts.png" width="90"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/harvardlogo.png" height="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/drexel.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/arsnovalogo.png" width="220"> </a>  
-  
+
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/mcc.png" width="75"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/cnrsfr-grand.jpg" width="75"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/upmc.gif" width="150"> </a>
@@ -48,9 +48,8 @@ Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et
 
 ---
 
-
 <p align="center">
-   <br><br><br><br>
+   <br><br>
   <img src="../images/IKPoster_Frag13.png" height="400"> 
    <br><br>
 </p>
