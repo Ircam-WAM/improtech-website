@@ -9,10 +9,12 @@ save_as: index.html
   
   
 ---
-
+<p align="center">
+ <br><br>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/ircam.gif" width="130"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/collegium-logo.png" width="90"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/logo-ehess.gif" width="80"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/logo-iremus.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/penn_fulllogo.gif" width="200"> </a>
- 
+<br><br><br><br>
+</p>
