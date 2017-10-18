@@ -50,7 +50,7 @@ Michael Young, Pr., Deputy Vice-Chancellor, University of Sunderland
 
 <p align="center">
    <br><br><br><br>
-  <img src="../images/IKPoster_frag5.png">
+  <img src="../images/IKPoster_frag5.png" width="400">
    <br><br>
 </p>
 
