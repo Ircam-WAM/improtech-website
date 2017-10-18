@@ -30,9 +30,13 @@ ImproTech Paris-Philly Art work
     <br><br>
   <img src="../images/IKPoster_Frag13.png" width="400" "hspace="20">
     <br><br>
-  <img src="../images/IKPoster_frag14.png" width="400" "hspace="20">
+  <img src="../images/IKPoster_frag14.png" width="600" "hspace="20">
     <br><br>
   <img src="../images/IKPoster_frag15.png" width="600" "hspace="20">
+    <br><br>
+  <img src="../images/IKPoster2.png" width="600" "hspace="20">
+    <br><br>
+  <img src="../images/IKPoster3.png" width="600" "hspace="20">
     <br><br>
  
 </p>
