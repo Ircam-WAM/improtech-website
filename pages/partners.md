@@ -43,8 +43,11 @@ IK-PP gets different kinds of support and sponsoring  from  :
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/inria.png" width="150"> </a>  
 
 ---
+
 Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by Compagnie Lubat, EHESS, Ircam.
+
 ---
+
 
 <p align="center">
    <br><br><br><br>
