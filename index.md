@@ -1,4 +1,7 @@
 title: ImproTech Paris - Philly 2017 xxx
+slug: index
+save_as: index.html
+
 category:xxx
 
 ## The ImproTech series
