@@ -1,10 +1,9 @@
 title: Partners
 
-# Partners and sponsoring institutions
+# Partners and sponsors
 
-Improtech Paris - Philly is made possible by the direct financial support of Agence Nationale de la Recherche (Grant ANR-14-CE24-0002-01) and of Collegium Musicae, Sorbonne Universités (Action financée par Sorbonne Universités)
-
-It is also made possible by the involvement of University of Pennsylvania who is the hosting institution, and of several academical, artistic and private actors who will kindly contribute at different levels to this unique event.
+ImproTech Paris - Philly is a joint initiative by Ircam, EHESS, IReMus and University of Pennsylvania. 
+It is made possible by the direct financial support of Agence Nationale de la Recherche (Grant ANR-14-CE24-0002-01), Sorbonne Universités (Action financée par Sorbonne Universités), and Région Nouvelle Aquitaine - Cultures Connectée, and by varied forms of sponsoring by a series of prestigious international partners who contribute at differentlevels to this unique event.
 
 - Agence Nationale de la Recherche (ANR) Pr. Gérard Assayag
 - Collegium Musicae, Sorbonne Universités Pr. Carlos Agon, Pr. Agnes Puisillieux.
@@ -23,3 +22,28 @@ It is also made possible by the involvement of University of Pennsylvania who is
 - ICA - Institute for contemporary Art, Philadelphia,
 - Annenberg Center, Philadelphia,
 - Ars Nova Workshop, Philadelphia.
+
+
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/ANR.png" width="100"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/sorbonne.png" width="150"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/Aquitaine.png" width="100"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/penn_fulllogo.gif" width="200"> </a>
+
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/ircam.gif" width="130"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/collegium-logo.png" width="90"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/CultCon.jpg" height="90"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/logo-ehess.gif" width="80"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/NYU.png" width="150"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/princetonlogo.png" width="180"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/Calarts.png" width="90"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/harvardlogo.png" height="180"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/drexel.png" width="100"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/prohelvetia.png" width="220"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/arsnovalogo.png" width="220"> </a>
+
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/mcc.png" width="75"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/cnrsfr-grand.jpg" width="75"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/upmc.gif" width="150"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/inria.png" width="150"> </a>
+
+
