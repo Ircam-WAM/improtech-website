@@ -1,5 +1,3 @@
-title: Credits
-
 ImproTech Paris - Philly (IK-PP) is a priority action of the **DYCI2 research project**, the **Collegium Musicae** Institute, and the  **Jazz augmenté project**, organised by  **Ircam, EHESS, IReMus** and **University of Pennsylvania**.
 
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ircam.gif" width="130"> </a>
