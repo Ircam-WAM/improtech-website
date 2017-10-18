@@ -1,4 +1,4 @@
-title: ImproTech Paris - Philly 2017  kjqsdlkqjhdlkHFLKDFJHSDQKJH
+title: ImproTech Paris - Philly 2017
 slug: index
 save_as: index.html
 category: home
