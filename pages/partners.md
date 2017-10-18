@@ -2,7 +2,7 @@ title: Partners
 
 # Credits
 
-ImproTech Paris - Philly (IK-PP) is a priority action of the **DYCI2 research project**, the **Collegium Musicae** Institute, and  **Cultures Connectées**, organised by  **Ircam, EHESS, IReMus** and **University of Pennsylvania**.
+ImproTech Paris - Philly (IK-PP) is a priority action of the **DYCI2 research project**, the **Collegium Musicae** Institute, and the  **Jazz augmenté project**, organised by  **Ircam, EHESS, IReMus** and **University of Pennsylvania**.
 
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ircam.gif" width="130"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/collegium-logo.png" width="90"> </a>
@@ -33,7 +33,7 @@ IK-PP gets different kinds of support and sponsoring  from  :
 - Annenberg Center, Philadelphia,
 - Ars Nova Workshop, Philadelphia.  
 
-Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle.
+Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by Compagnie Lubat, EHESS, Ircam.
 
 ---
   
