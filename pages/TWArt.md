@@ -13,7 +13,7 @@ title: Art work
   <img src="../images/IKPoster_frag10.png" width="400">
   <img src="../images/IKPoster_frag11.png" width="400">
   <img src="../images/IKPoster_Frag12.png" width="200">
-  <img src="../images/IKPoster_Frag13.png" width="400">
+  <img src="../images/IKPoster_Frag13.png" width="220">
   <img src="../images/IKPoster_frag14.png" width="400">
   <img src="../images/IKPoster_frag15.png" width="400">
   <img src="../images/IKPoster.png" width="400">
