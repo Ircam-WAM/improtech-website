@@ -6,11 +6,10 @@ save_as: index.html
 <br>
 <br>
 <img src="images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">Now is the time five years later to renew with the ImproTech workshop - festival formula, and measure the technological, aesthetical, and sociological evolutions since the last gathering. The meeting place is this time in Philadelphia which seems a natural destination after NYC, for its unique improvised music scene and history, and its perpetual enchantment with the ever floating figures of Coltrane, Sun Ra, or McCoy Tyner. ImproTech Paris - Philly will take place at University of Pennsylvania, with concerts at The Rotunda and the Annenberg Center, and musical events at the ICA. Scholars, students, musician, makers will come from all places in europe and the US to talk about their work, demo, teach and perform. IK Paris-Philly will flourish on the explosive encounter of prominent research labs researchers, well established musical figures of Jazz and contemporary music, and the young avant-garde / underground scene of Philadelphia and surroundings.
-  
-  
+<br><br>
 ---
 <p align="center">
- <br><br>
+<br><br>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/ircam.gif" width="130"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/collegium-logo.png" width="90"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/logo-ehess.gif" width="80"> </a>
