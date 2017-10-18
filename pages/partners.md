@@ -4,7 +4,18 @@ title: Partners
 
 ImproTech Paris - Philly (IK-PP) is a priority action of the **DYCI2 collaborative research project**, the **Collegium Musicae** Institute, and  **Cultures Connectées**, organised by  **Ircam, EHESS, IReMus** and **University of Pennsylvania**.
 
-IK-PP is directly supported financially by **Agence Nationale de la Recherche** (Grant ANR-14-CE24-0002-01), **Sorbonne Universités** (Action financée par Sorbonne Universités), and **Région Nouvelle Aquitaine**.
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ircam.gif" width="130"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/collegium-logo.png" width="90"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CultCon.jpg" height="90"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-ehess.gif" width="80"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/logo-iremus.png" width="80"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>
+
+IK-PP is directly supported financially by **Sorbonne Universités** (Action financée par Sorbonne Universités), **Agence Nationale de la Recherche** (Grant ANR-14-CE24-0002-01) and **Région Nouvelle Aquitaine**.
+
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/sorbonne.png" width="150"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ANR.png" width="100"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Aquitaine.png" width="100"> </a>
 
 IK-PP gets different kinds of support and sponsoring  from  :
 
@@ -22,17 +33,6 @@ IK-PP gets different kinds of support and sponsoring  from  :
 - Ars Nova Workshop, Philadelphia.  
   
 ---
-  
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ANR.png" width="100"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/sorbonne.png" width="150"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Aquitaine.png" width="100"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/collegium-logo.png" width="90"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CultCon.jpg" height="90"> </a>
-  
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ircam.gif" width="130"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-ehess.gif" width="80"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="images/logo-iremus.png" width="80"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>
   
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
