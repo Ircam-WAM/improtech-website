@@ -50,7 +50,7 @@ Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et
 
 <p align="center">
    <br><br><br><br>
-  <img src="../images/IKPoster_frag13.png" width="400"> 
+  <img src="../images/IKPoster_Frag13.png" width="400"> 
    <br><br>
 </p>
 
