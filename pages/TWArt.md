@@ -1,5 +1,9 @@
 title: Art work
 
+ImproTech Paris-Philly Art work 
+© Turner Williams 2017
+
+---
 
 <p align="center">
   <img src="../images/IKPoster.png" width="600" "hspace="20">
