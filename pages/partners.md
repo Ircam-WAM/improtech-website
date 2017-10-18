@@ -27,14 +27,12 @@ IK-PP gets different kinds of support and sponsoring  from  :
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/sorbonne.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Aquitaine.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/collegium-logo.png" width="90"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CultCon.jpg" height="90"> </a>  
-  
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CultCon.jpg" height="90"> </a>
   
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ircam.gif" width="130"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-ehess.gif" width="80"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/logo-iremus.png" width="80"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>  
-  
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>
   
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
@@ -42,7 +40,6 @@ IK-PP gets different kinds of support and sponsoring  from  :
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/harvardlogo.png" height="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/drexel.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/arsnovalogo.png" width="220"> </a>  
-  
   
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/mcc.png" width="75"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/cnrsfr-grand.jpg" width="75"> </a>
