@@ -3,7 +3,7 @@ title: Partners
 # Partners and sponsors
 
 ImproTech Paris - Philly is a joint initiative by Ircam, EHESS, IReMus and University of Pennsylvania. 
-It is made possible by the direct financial support of Agence Nationale de la Recherche (Grant ANR-14-CE24-0002-01), Sorbonne Universités (Action financée par Sorbonne Universités), and Région Nouvelle Aquitaine - Cultures Connectée, and by varied forms of sponsoring by a series of prestigious international partners who contribute at differentlevels to this unique event.
+It is made possible by the direct financial support of Agence Nationale de la Recherche (Grant ANR-14-CE24-0002-01), Sorbonne Universités (Action financée par Sorbonne Universités), and Région Nouvelle Aquitaine - Cultures Connectée, and by varied forms of sponsoring from a series of prestigious international partners who contribute at differentlevels to this unique event.
 
 - Agence Nationale de la Recherche (ANR) Pr. Gérard Assayag
 - Collegium Musicae, Sorbonne Universités Pr. Carlos Agon, Pr. Agnes Puisillieux.
@@ -22,8 +22,13 @@ It is made possible by the direct financial support of Agence Nationale de la Re
 - ICA - Institute for contemporary Art, Philadelphia,
 - Annenberg Center, Philadelphia,
 - Ars Nova Workshop, Philadelphia.
-
-
+  
+  
+  ---
+  
+  
+  
+  
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ANR.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/sorbonne.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Aquitaine.png" width="100"> </a>
