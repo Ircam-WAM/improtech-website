@@ -9,6 +9,7 @@ ImproTech Paris - Philly (IK-PP) is a priority action of the **DYCI2 collaborati
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CultCon.jpg" height="90"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-ehess.gif" width="80"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="images/logo-iremus.png" width="80"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="images/logo-iremus.png" width="80"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>
 
 IK-PP is directly supported financially by **Sorbonne Universités** (Action financée par Sorbonne Universités), **Agence Nationale de la Recherche** (Grant ANR-14-CE24-0002-01) and **Région Nouvelle Aquitaine**.
