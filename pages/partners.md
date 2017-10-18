@@ -46,5 +46,13 @@ Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/upmc.gif" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/inria.png" width="150"> </a>  
 
+---
+
+<p align="center">
+   <br><br><br><br>
+  <img src="../images/IKPoster_frag13.png" width="400">
+   <br><br>
+</p>
+
 
 
