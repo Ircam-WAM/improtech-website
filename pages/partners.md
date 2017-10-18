@@ -2,7 +2,7 @@ title: Partners
 
 # Credits
 
-ImproTech Paris - Philly (IK-PP) is a priority action of the **DYCI2 collaborative research project**, the **Collegium Musicae** Institute, and  **Cultures Connectées**, organised by  **Ircam STMS Lab, EHESS, IReMus** and **University of Pennsylvania**.
+ImproTech Paris - Philly (IK-PP) is a priority action of the **DYCI2 research project**, the **Collegium Musicae** Institute, and  **Cultures Connectées**, organised by  **Ircam, EHESS, IReMus** and **University of Pennsylvania**.
 
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ircam.gif" width="130"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/collegium-logo.png" width="90"> </a>
