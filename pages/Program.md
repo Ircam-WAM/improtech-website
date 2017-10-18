@@ -76,9 +76,12 @@ Pierre Couprie
 
 Tae Hong Park
 
+<br><br>
+
+---
 
 <p align="center">
-   <br><br><br><br>
+   <br><br>
   <img src="../images/IKPoster_frag6.png" width="400">
    <br><br>
 </p>
