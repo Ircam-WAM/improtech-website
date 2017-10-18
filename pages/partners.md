@@ -29,10 +29,6 @@ IK-PP gets different kinds of support and sponsoring  from  :
 - ICA - Institute for contemporary Art, Philadelphia,
 - Annenberg Center, Philadelphia,
 - Ars Nova Workshop, Philadelphia.  
-
-Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by Compagnie Lubat, EHESS, Ircam.
-
----
   
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
@@ -47,10 +43,12 @@ Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/inria.png" width="150"> </a>  
 
 ---
+Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by Compagnie Lubat, EHESS, Ircam.
+---
 
 <p align="center">
    <br><br><br><br>
-  <img src="../images/IKPoster_Frag13.png" width="400"> 
+  <img src="../images/IKPoster_Frag13.png" height="400"> 
    <br><br>
 </p>
 
