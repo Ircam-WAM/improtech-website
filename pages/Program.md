@@ -1,6 +1,5 @@
 title: Program
 
-
 ### Expected researchers
 
 Gérard Assayag, Pr. Ircam
@@ -33,6 +32,8 @@ Jeff Gregorio, ExCITe Center,Drexel University
 
 Youngmoo Kim, ExCITe Center,Drexel University
 
+...
+
 ### Expected Musicians
 
 George Lewis
@@ -49,8 +50,6 @@ Michelle-Agnes Magalhaes
 
 Rémy Fox
 
-Anthony Braxton
-
 Hprizm
 
 Mari Kimura
@@ -60,7 +59,6 @@ Rudresh Mahanthappa
 David Rosenboom
 
 LaDonna Smith
-
 
 Davey Williams
 
@@ -75,6 +73,8 @@ Gyorgy Kurtag
 Pierre Couprie
 
 Tae Hong Park
+
+...
 
 <br><br>
 
