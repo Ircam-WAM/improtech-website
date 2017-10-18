@@ -8,9 +8,9 @@ ImproTech Paris-Philly Art work
 <p align="center">
   <img src="../images/IKPoster.png" width="600" "hspace="20">
     <br><br>
-  <img src="../images/IKPoster_frag2.png" width="400" hspace="20">
+  <img src="../images/IKPoster_frag2.png" width="600" hspace="20">
     <br><br>
-  <img src="../images/IKPoster_frag3.png" width="400 "hspace="20">
+  <img src="../images/IKPoster_frag3.png" width="600 "hspace="20">
     <br><br>
   <img src="../images/IKPoster_frag5.png" width="400" "hspace="20">
      <br><br>
