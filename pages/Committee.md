@@ -48,3 +48,6 @@ Hugues Vinet, Head Innovation and Research Resources Dpt, Ircam
 
 Michael Young, Pr., Deputy Vice-Chancellor, University of Sunderland
 
+[![IKPoster_frag5]({filename}/images/IKPoster_frag5.png "Mon Image")] ({filename}/images/IKPoster_frag5.png){: data-lightbox="monimage" title="Mon Image" }
+
+
