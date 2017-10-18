@@ -3,7 +3,8 @@ title: Art work
 
 <p align="center">
 
-  <img src="../images/IKPoster_frag2.png" width="400">
+    <img src="../images/IKPoster_frag13.png" width="400">
+<img src="../images/IKPoster_frag2.png" width="400">
   <img src="../images/IKPoster_frag3.png" width="400">
   <img src="../images/IKPoster_frag5.png" width="400">
   <img src="../images/IKPoster_frag6.png" width="400">
