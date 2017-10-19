@@ -1,7 +1,9 @@
 title: Art work
 
-ImproTech Paris-Philly Art work 
-© Turner Williams 2017
+---
+
+ImproTech Paris-Philly : elements of graphic design to be used for the project
+Art Work © Turner Williams 2017
 
 ---
 
