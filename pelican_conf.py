@@ -12,7 +12,7 @@ THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 
 #BOOTSTRAP_THEME = 'united'
 #BOOTSTRAP_THEME = 'yeti'
-BOOTSTRAP_THEME = 'paper'
+BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
 PATH = '/var/in'
