@@ -1,5 +1,6 @@
 Title: Credits
 
+---
 
 ImproTech Paris - Philly 2017 (IK-PP 2012) is brought by **Ircam** (DYCI2 project), **Collegium Musicae** (Public actions 2017-18),  **djazz** (Jazz augmenté project), **IReMus** and **University of Pennsylvania**.
 <br><br>
@@ -47,6 +48,7 @@ IK-PP gets different kinds of support and sponsoring  from  :
 <br><br>
 
 ---
+
 Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by Compagnie Lubat, EHESS, Ircam.
 
 ---
