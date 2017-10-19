@@ -150,7 +150,7 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
-SIDEBAR_IMAGES_HEADER = '/images/IKGraphicID.png'
+SIDEBAR_IMAGES_HEADER = 'images/IKGraphicID.png'
 #SIDEBAR_IMAGES = ["/images/omax.png","/images/omax.png"]
 
 
