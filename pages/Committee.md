@@ -1,5 +1,5 @@
 title: Committee
-
+<br><br>
 ### Workshop Chair
 
 Pr. Gérard Assayag, Ircam - STMS Lab (CNRS, UPMC)
@@ -10,11 +10,15 @@ Pr. Pierre Couprie, Paris-Sorbonne - Iremus Lab.
 
 Pr. Eugene Lew, University of Pennsylvania - Music Technology Dpt.
 
+---
+
 ### Organising Committee
 
 Sylvie Benoit, Ircam
 
 Turner Williams, Ars Nova Workshop, Philadelphia.
+
+---
 
 ### Science / Art Advisory Board
 
