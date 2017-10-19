@@ -8,15 +8,14 @@ ImproTech Paris - Philly 2017 (IK-PP 2012) is brought by **Ircam** (DYCI2 projec
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/DjazzLOGO.png" width="140"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-iremus.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>
-
+<br><br>
 IK-PP is directly supported financially by **Sorbonne Universités** (Action financée par Sorbonne Universités), **Agence Nationale de la Recherche** (Grant ANR-14-CE24-0002-01) and **Région Nouvelle Aquitaine - Cultures connectées**.
-
+<br><br>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/sorbonne.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ANR.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Aquitaine.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CultCon.jpg" height="80"> </a>
-
-
+<br><br>
 IK-PP gets different kinds of support and sponsoring  from  :
 
 - Princeton University Pr. Dmitri Tymoczko
@@ -31,22 +30,22 @@ IK-PP gets different kinds of support and sponsoring  from  :
 - ICA - Institute for contemporary Art, Philadelphia,
 - Annenberg Center, Philadelphia,
 - Ars Nova Workshop, Philadelphia.
-
+<br><br>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Calarts.png" width="90"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/harvardlogo.png" height="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/drexel.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/arsnovalogo.png" width="220"> </a>
-
+<br><br>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-ehess.gif" width="80"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/mcc.png" width="75"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/cnrsfr-grand.jpg" width="75"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/upmc.gif" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/inria.png" width="150"> </a>
+<br><br>
 
 ---
-
 Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by Compagnie Lubat, EHESS, Ircam.
 
 ---
