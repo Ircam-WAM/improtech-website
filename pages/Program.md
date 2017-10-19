@@ -1,5 +1,7 @@
 title: Program
 
+---
+
 ### Expected researchers
 
 Gérard Assayag, Pr. Ircam
@@ -32,7 +34,7 @@ Jeff Gregorio, ExCITe Center,Drexel University
 
 Youngmoo Kim, ExCITe Center,Drexel University
 
-...
+---
 
 ### Expected Musicians
 
