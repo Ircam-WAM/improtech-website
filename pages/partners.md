@@ -45,18 +45,18 @@ IK-PP gets a variety of support or sponsoring  from :
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/HYVibe.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/arsnovalogo.png" width="220"> </a>
 <br><br>
+
+---
+
+Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by djazz, Compagnie Lubat, EHESS, Ircam.
+SCRIME is a joint creation studio operated by Conservatoire National de Région de Bordeaux, ENSEIRB, and University of Bordeaux 1.
+<br><br>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-ehess.gif" width="80"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/mcc.png" width="75"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/cnrsfr-grand.jpg" width="75"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/upmc.gif" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/inria.png" width="150"> </a>
 <br><br>
-
----
-
-Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by djazz, Compagnie Lubat, EHESS, Ircam.
-SCRIME is a joint creation studio operated by Conservatoire National de Région de Bordeaux, ENSEIRB, and University of Bordeaux 1.
-
 
 ---
 
