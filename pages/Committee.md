@@ -2,7 +2,7 @@ title: Committee
 
 ---
 
-### Workshop Chair
+### General Chair
 
 Pr. Gérard Assayag, Ircam - STMS Lab  
 Pr. Marc Chemillier, EHESS - Cams Lab  
