@@ -37,7 +37,7 @@ IK-PP gets a variety of support or sponsoring  from :
 <br><br>
 
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Scrime.jpg" width="150"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Scrime.jpg" width="200"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Calarts.png" width="90"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/harvardlogo.png" height="180"> </a>
