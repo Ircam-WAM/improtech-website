@@ -37,6 +37,7 @@ IK-PP gets a variety of support or sponsoring  from :
 <br><br>
 
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Scrime.jpg" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Calarts.png" width="90"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/harvardlogo.png" height="180"> </a>
@@ -54,7 +55,7 @@ IK-PP gets a variety of support or sponsoring  from :
 ---
 
 Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by djazz, Compagnie Lubat, EHESS, Ircam.
-SCRIME is a joint creatin studio operated by Conservatoire National de Région de Bordeaux, ENSEIRB, and University of Bordeaux 1.
+SCRIME is a joint creation studio operated by Conservatoire National de Région de Bordeaux, ENSEIRB, and University of Bordeaux 1.
 
 
 ---
