@@ -17,19 +17,19 @@ IK-PP is directly supported financially by **Sorbonne Universités** (Action fin
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Aquitaine.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CultCon.jpg" height="80"> </a>
 <br><br>
-IK-PP gets different kinds of support and sponsoring  from  :
-
-- Princeton University Pr. Dmitri Tymoczko
-- Harvard - Radcliffe institute Pr. Michelle Agnes Magalhaes, RI Fellow
+IK-PP gets a variety of support or sponsoring  from  :  
 - New York University Pr. Tae Hong Park
-- University of California at Irvine Pr. Mari Kimura
 - California Institute of Arts (CalArts) Pr. David Rosenboom
 - Drexel University (ExCITe Center) Pr. Youngmoo Kim
+- Princeton University Pr. Dmitri Tymoczko
+- Harvard - Radcliffe institute Pr. Michelle Agnes Magalhaes, RI Fellow
+- University of California at Irvine Pr. Mari Kimura
 - University of California at San Diego (UCSD) Pr. Shlomo Dubnov
 - HyVibe, Adrien Mamou Mani, CEO
 - Concordia University of Montreal, Pr. Sandeep Baghwati
 - ICA - Institute for contemporary Art, Philadelphia,
 - Annenberg Center, Philadelphia,
+- The Rotunda Hall, Philadelphia
 - Ars Nova Workshop, Philadelphia.
 <br><br>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
