@@ -53,7 +53,7 @@ Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et
 
 ---
 
-ImproTech Paris Philly 2017 [Art Work]({filename}/pages/TWArt.md] and Graphic Design © Turner Williams
+ImproTech Paris Philly 2017 [Art Work]({filename}/pages/TWArt.md) and Graphic Design © Turner Williams
 
 ---
 
