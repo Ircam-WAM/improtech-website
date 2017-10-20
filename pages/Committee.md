@@ -4,20 +4,16 @@ title: Committee
 
 ### Workshop Chair
 
-Pr. Gérard Assayag, Ircam - STMS Lab
-
-Pr. Marc Chemillier, EHESS - Cams Lab.
-
-Pr. Pierre Couprie, Paris-Sorbonne - Iremus Lab.
-
-Pr. Eugene Lew, University of Pennsylvania - Music Technology Dpt.
+Pr. Gérard Assayag, Ircam - STMS Lab  
+Pr. Marc Chemillier, EHESS - Cams Lab  
+Pr. Pierre Couprie, Paris-Sorbonne - Iremus Lab  
+Pr. Eugene Lew, University of Pennsylvania - Music Technology Dpt  
 
 ---
 
 ### Organising Committee
 
-Sylvie Benoit, Ircam
-
+Sylvie Benoit, Ircam  
 Turner Williams, Ars Nova Workshop
 
 ---
@@ -37,8 +33,8 @@ Tae Hong Park, Pr. New York University, Director of Composition program
 Robert Rowe, Pr., New York University, Director of Music Technology  
 Pierre Alexandre Tremblay, Pr. Huddersfield University, composition and improvisation 
 Atau Tanaka, Pr. Goldsmiths University of London  
-Hugues Vinet, Head Innovation and Research Resources Dpt, Ircam
-Michael Young, Pr. University of Sunderland, Deputy Vice-Chancellor, 
+Hugues Vinet, Head Innovation and Research Resources Dpt, Ircam  
+Michael Young, Pr. University of Sunderland, Deputy Vice-Chancellor  
 <br><br>
 
 ---
