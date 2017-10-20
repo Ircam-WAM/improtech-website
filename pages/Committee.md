@@ -4,7 +4,7 @@ title: Committee
 
 ### Workshop Chair
 
-Pr. Gérard Assayag, Ircam - STMS Lab (CNRS, UPMC)
+Pr. Gérard Assayag, Ircam - STMS Lab
 
 Pr. Marc Chemillier, EHESS - Cams Lab.
 
@@ -18,42 +18,27 @@ Pr. Eugene Lew, University of Pennsylvania - Music Technology Dpt.
 
 Sylvie Benoit, Ircam
 
-Turner Williams, Ars Nova Workshop, Philadelphia.
+Turner Williams, Ars Nova Workshop
 
 ---
 
 ### Science / Art Advisory Board
 
-Carlos Agon, Pr. UPMC, Head Ircam-STMS research Lab
-
-Brigitte d’Andréa-Novel, Pr. Mines School of Paris
-
-Elaine Chew, Pr. Director of Music Initiatives, Centre for Digital Music, Queen Mary University of London
-
-Maxime Crochemore, Pr. King’s College of London
-
-Andrew Hugill, Pr. Centre for Creative Computing, Bath Spa University
-
-György Kurtág, Art/Science coordinator, SCRIME, University of Bordeaux II
-
-George Lewis, Pr., Area Chair of Composition, Columbia University
-
-Bernard Lubat, Head Uzeste Music Festival Hestajada de las Arts
-
-Peter Nelson, Pr., Personal Chair of Music and Technology, U. Edinburgh
-
-Tae Hong Park, Pr. Director of Composition program, New York University
-
-Robert Rowe, Pr., Director of Music Technology, New York University
-
-Pierre Alexandre Tremblay, PR composition and improvisation Huddersfield University
-
-Atau Tanaka, Pr. Goldsmiths, University of London
-
+Carlos Agon, Pr. Université Pierre et Marie Curie, Head Ircam-STMS research Lab  
+Brigitte d’Andréa-Novel, Pr. Mines ParisTech  
+Elaine Chew, Pr. Queen Mary University of London, Director of Music Initiatives, Centre for Digital Music  
+Maxime Crochemore, Pr. King’s College of London  
+Andrew Hugill, Pr. Centre for Creative Computing, Bath Spa University  
+György Kurtág, Art/Science coordinator, SCRIME, University of Bordeaux II  
+George Lewis, Pr., Area Chair of Composition, Columbia University  
+Bernard Lubat, Dir. Compagnie Lubat,  Uzeste Music Festival - Hestajada de las Arts  
+Peter Nelson, Pr. University of Edinburgh, Personal Chair of Music and Technology  
+Tae Hong Park, Pr. New York University, Director of Composition program  
+Robert Rowe, Pr., New York University, Director of Music Technology  
+Pierre Alexandre Tremblay, Pr. Huddersfield University, composition and improvisation 
+Atau Tanaka, Pr. Goldsmiths University of London  
 Hugues Vinet, Head Innovation and Research Resources Dpt, Ircam
-
-Michael Young, Pr., Deputy Vice-Chancellor, University of Sunderland
-
+Michael Young, Pr. University of Sunderland, Deputy Vice-Chancellor, 
 <br><br>
 
 ---
