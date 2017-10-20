@@ -17,9 +17,10 @@ IK-PP is directly supported financially by **Sorbonne Universités** (Action fin
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Aquitaine.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CultCon.jpg" height="80"> </a>
 <br><br>
-IK-PP gets a variety of support or sponsoring  from  :  
-- New York University Pr. Tae Hong Park
-- California Institute of Arts (CalArts) Pr. David Rosenboom
+IK-PP gets a variety of support or sponsoring  from :
+
+- New York University Pr. Tae Hong Park  
+- California Institute of Arts (CalArts) Pr. David Rosenboom  
 - Drexel University (ExCITe Center) Pr. Youngmoo Kim
 - Princeton University Pr. Dmitri Tymoczko
 - Harvard - Radcliffe institute Pr. Michelle Agnes Magalhaes, RI Fellow
@@ -31,7 +32,9 @@ IK-PP gets a variety of support or sponsoring  from  :
 - Annenberg Center, Philadelphia,
 - The Rotunda Hall, Philadelphia
 - Ars Nova Workshop, Philadelphia.
+
 <br><br>
+
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Calarts.png" width="90"> </a>
