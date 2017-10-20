@@ -1,4 +1,5 @@
 title: Art work
+status: hidden
 
 ---
 
