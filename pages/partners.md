@@ -20,6 +20,7 @@ IK-PP is directly supported financially by **Sorbonne Universités** (Action fin
 IK-PP gets a variety of support or sponsoring  from :
 
 - New York University Pr. Tae Hong Park  
+- SCRIME (Studio de Création et de Recherche en Informatique et Musique Électroacoustique) Bordeaux
 - California Institute of Arts (CalArts) Pr. David Rosenboom  
 - Drexel University (ExCITe Center) Pr. Youngmoo Kim
 - Princeton University Pr. Dmitri Tymoczko
@@ -52,7 +53,9 @@ IK-PP gets a variety of support or sponsoring  from :
 
 ---
 
-Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by Compagnie Lubat, EHESS, Ircam.
+Ircam STMS Lab is a joint Lab of IRCAM, Ministry of Culture, CNRS, and Pierre et Marie Curie University. The DYCI2 Project is operated by Ircam-STMS, Inria, and University of La Rochelle. The Jazz augmenté project is operated by djazz, Compagnie Lubat, EHESS, Ircam.
+SCRIME is a joint creatin studio operated by Conservatoire National de Région de Bordeaux, ENSEIRB, and University of Bordeaux 1.
+
 
 ---
 
