@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 SITENAME = "Improtech 2017"
 SITEURL = 'http://ikparisphilly.ircam.fr'
-# AUTHOR = 'Guillaume Pellerin'
+# AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
@@ -17,7 +17,9 @@ BOOTSTRAP_THEME = 'readable'
 
 PATH = '/var/in'
 OUTPUT_PATH = '/var/out'
-STATIC_PATHS = ['doc', 'images', 'extra']
+STATIC_PATHS = ['doc', '
+                
+                ', 'extra']
 
 #NEST_HEADER_IMAGE = '/images/header.png'
 #NEST_HEADER_LOGO = '/images/logo.png'
@@ -146,13 +148,15 @@ EXTRA_PATH_METADATA = {
 SHOW_DATE_MODIFIED = False
 
 
-HIDE_SIDEBAR = True
+HIDE_SIDEBAR = False
 BOOTSTRAP_NAVBAR_INVERSE = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = False
 DISPLAY_CATEGORIES_ON_MENU = False
 SUMMARY_MAX_LENGTH = None
 #TAGS_SAVE_AS = ''
 #TAG_SAVE_AS = ''
+ABOUT_ME = ' Improvisation with Digital Intelligence'
+AVATAR = '/images/IKPoster_frag10.png'
 
 
 
