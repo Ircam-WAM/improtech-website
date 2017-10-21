@@ -45,7 +45,7 @@ LINKS =  (('Ircam', 'http://www.ircam.fr'),
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/Ircam/'),
-          ('GitHub', 'https://github.com/Ircam-RnD/'),
+#          ('GitHub', 'https://github.com/Ircam-RnD/'),
           ('FaceBook', 'https://www.facebook.com/iIRCAM/'),
           ('Youtube', 'https://www.youtube.com/user/Ircam75'),
           ('DailyMotion', 'https://www.dailymotion.com/RepMus'),
