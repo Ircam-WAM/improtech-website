@@ -23,7 +23,7 @@ IK-PP is directly supported financially by **Sorbonne Universités** (Action fin
 <br><br>
 IK-PP gets a variety of support or sponsoring  from :
 
-- New York University Pr. Tae Hong Park  
+- New York University, Pr. Tae Hong Park  
 - Studio de Création et de Recherche en Informatique et Musique Électroacoustique (SCRIME), Pr. Györgi Kurtàg
 - California Institute of Arts (CalArts), Pr. David Rosenboom  
 - Drexel University (ExCITe Center), Pr. Youngmoo Kim
