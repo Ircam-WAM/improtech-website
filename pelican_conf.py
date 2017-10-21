@@ -146,7 +146,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 LOAD_CONTENT_CACHE = False
 
-ABOUT_ME = 'bma ba '
+ABOUT_ME = ''
 AVATAR = '/images/IKPoster_frag5.png'
 
 
