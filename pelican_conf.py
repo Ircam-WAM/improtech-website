@@ -143,8 +143,8 @@ BOOTSTRAP_NAVBAR_INVERSE = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
-ABOUT_ME = 'Improvisation with Digital Intelligence'
-AVATAR = '/images/IKPoster_frag10.png'
+#ABOUT_ME = 'Improvisation with Digital Intelligence'
+@AVATAR = '/images/IKPoster_frag10.png'
 
 
 
