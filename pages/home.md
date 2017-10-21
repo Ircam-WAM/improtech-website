@@ -1,7 +1,7 @@
 Title: Improtech Paris - Philly 2017 
 Status: hidden 
 save_as: index.html
-## December 11th - 13th, 2017 at the University of Pennsylvania
+#### December 11th - 13th, 2017 at the University of Pennsylvania
 <br>
 <br>
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">Improtech Paris - Philly (ikPP) gathers scholars, technologists, musicians, makers, around the idea of **musical improvisation with digital intelligence** (IDI), taking notice of the emergence and development of this new creative field.
