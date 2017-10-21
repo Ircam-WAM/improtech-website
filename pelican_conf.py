@@ -17,20 +17,11 @@ BOOTSTRAP_THEME = 'readable'
 
 PATH = '/var/in'
 OUTPUT_PATH = '/var/out'
-STATIC_PATHS = ['doc', '
-                
-                ', 'extra']
-
-#NEST_HEADER_IMAGE = '/images/header.png'
-#NEST_HEADER_LOGO = '/images/logo.png'
-#HEADER_IMAGE = "header.png"
+STATIC_PATHS = ['doc', 'images']
 
 BANNER = '/images/IKPoster_Banner.png'
 BANNER_SUBTITLE = ''
 BANNER_ALL_PAGES = True
-
-#SIDEBAR_IMAGES_HEADER = 'IKGraphicID.png'
-#SIDEBAR_IMAGES = ["/images/omax.png","/images/omax.png"]
 
 TIMEZONE = 'Europe/Paris'
 
@@ -41,6 +32,7 @@ SUMMARY_MAX_LENGTH = 127
 SLUGIFY_SOURCE = 'title'
 # DEFAULT_PAGINATION = 5
 
+LOAD_CONTENT_CACHE = False
 
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = None
@@ -150,9 +142,7 @@ HIDE_SIDEBAR = False
 BOOTSTRAP_NAVBAR_INVERSE = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = False
 DISPLAY_CATEGORIES_ON_MENU = False
-SUMMARY_MAX_LENGTH = None
-#TAGS_SAVE_AS = ''
-#TAG_SAVE_AS = ''
+
 ABOUT_ME = 'Improvisation with Digital Intelligence'
 AVATAR = '/images/IKPoster_frag10.png'
 
