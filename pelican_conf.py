@@ -15,6 +15,8 @@ THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
+HIDE_SIDEBAR = False
+
 PATH = '/var/in'
 OUTPUT_PATH = '/var/out'
 STATIC_PATHS = ['doc', '
@@ -148,14 +150,13 @@ EXTRA_PATH_METADATA = {
 SHOW_DATE_MODIFIED = False
 
 
-HIDE_SIDEBAR = False
 BOOTSTRAP_NAVBAR_INVERSE = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = False
 DISPLAY_CATEGORIES_ON_MENU = False
 SUMMARY_MAX_LENGTH = None
 #TAGS_SAVE_AS = ''
 #TAG_SAVE_AS = ''
-ABOUT_ME = ' Improvisation with Digital Intelligence'
+ABOUT_ME = 'Improvisation with Digital Intelligence'
 AVATAR = '/images/IKPoster_frag10.png'
 
 
