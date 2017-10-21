@@ -44,12 +44,13 @@ LINKS =  (('Ircam', 'http://www.ircam.fr'),
           )
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/Ircam/'),
+SOCIAL = (
+#          ('Twitter', 'https://twitter.com/Ircam/'),
 #          ('GitHub', 'https://github.com/Ircam-RnD/'),
-          ('FaceBook', 'https://www.facebook.com/iIRCAM/'),
-          ('Youtube', 'https://www.youtube.com/user/Ircam75'),
-          ('DailyMotion', 'https://www.dailymotion.com/RepMus'),
-          ('Vimeo', 'https://vimeo.com/user15042869'),
+#          ('FaceBook', 'https://www.facebook.com/iIRCAM/'),
+#          ('Youtube', 'https://www.youtube.com/user/Ircam75'),
+#          ('DailyMotion', 'https://www.dailymotion.com/RepMus'),
+#          ('Vimeo', 'https://vimeo.com/user15042869'),
           )
 
 #DISQUS_SITENAME='ismir2018'
