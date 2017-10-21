@@ -146,7 +146,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 LOAD_CONTENT_CACHE = False
 
 #ABOUT_ME = 'Improvisation with Digital Intelligence'
-#AVATAR = '/images/IKPoster_frag10.png'
+#AVATAR = '/images/IKPoster_frag9.png'
 
 
 
