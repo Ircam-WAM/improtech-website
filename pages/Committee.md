@@ -31,7 +31,7 @@ Bernard Lubat, Dir. Compagnie Lubat,  Uzeste Music Festival - Hestajada de las A
 Peter Nelson, Pr. University of Edinburgh, Personal Chair of Music and Technology  
 Tae Hong Park, Pr. New York University, Director of Composition program  
 Robert Rowe, Pr., New York University, Director of Music Technology  
-Pierre Alexandre Tremblay, Pr. Huddersfield University, composition and improvisation 
+Pierre Alexandre Tremblay, Pr. Huddersfield University, composition and improvisation  
 Atau Tanaka, Pr. Goldsmiths University of London  
 Hugues Vinet, Head Innovation and Research Resources Dpt, Ircam  
 Michael Young, Pr. University of Sunderland, Deputy Vice-Chancellor  
