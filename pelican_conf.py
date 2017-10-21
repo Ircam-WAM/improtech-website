@@ -15,8 +15,6 @@ THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
-HIDE_SIDEBAR = False
-
 PATH = '/var/in'
 OUTPUT_PATH = '/var/out'
 STATIC_PATHS = ['doc', '
