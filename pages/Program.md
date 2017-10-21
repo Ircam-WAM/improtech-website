@@ -70,7 +70,7 @@ Dafna Naphtali
 
 Michael Young
 
-Gyorgy Kurtag
+György Kurtág
 
 Pierre Couprie
 
