@@ -1,7 +1,6 @@
 Title: Improtech Paris - Philly 2017 
 Status: hidden 
 save_as: index.html
-<br>
 ## December 11th - 13th, 2017 at the University of Pennsylvania
 <br>
 <br>
