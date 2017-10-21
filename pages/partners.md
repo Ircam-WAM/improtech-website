@@ -25,16 +25,16 @@ IK-PP gets a variety of support or sponsoring  from :
 
 - New York University Pr. Tae Hong Park  
 - Studio de Création et de Recherche en Informatique et Musique Électroacoustique (SCRIME), Pr. Györgi Kurtàg
-- California Institute of Arts (CalArts) Pr. David Rosenboom  
-- Drexel University (ExCITe Center) Pr. Youngmoo Kim
-- Princeton University Pr. Dmitri Tymoczko
+- California Institute of Arts (CalArts), Pr. David Rosenboom  
+- Drexel University (ExCITe Center), Pr. Youngmoo Kim
+- Princeton University, Pr. Dmitri Tymoczko
 - Harvard - Radcliffe institute Pr. Michelle Agnes Magalhaes, RI Fellow
-- University of California at Irvine Pr. Mari Kimura
-- University of California at San Diego (UCSD) Pr. Shlomo Dubnov
+- University of California at Irvine, Pr. Mari Kimura
+- University of California at San Diego (UCSD), Pr. Shlomo Dubnov
 - HyVibe, Adrien Mamou Mani, CEO
 - Concordia University of Montreal, Pr. Sandeep Baghwati
 - ICA - Institute for contemporary Art, Philadelphia,
-- Annenberg Center, Philadelphia,
+- Annenberg Center, Philadelphia
 - The Rotunda Hall, Philadelphia
 - Ars Nova Workshop, Philadelphia
 <br><br>
