@@ -27,7 +27,6 @@ title: Program
 - MatMos
 - Michael Young
 - Michael Young
-- Michelle-Agnes Magalhaes
 - Moor Mother
 - Pierre Couprie
 - Pierre Couprie
