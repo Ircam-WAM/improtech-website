@@ -2,79 +2,44 @@ title: Program
 
 ---
 
-### Expected researchers
+### Expected participants 
 
-Gérard Assayag, Pr. Ircam
-
-Marc Chemillier, Pr. Ehess
-
-Pierre Couprie, Pr. Sorbonne-Université
-
-George Bloch, Pr. U. Strasbourg
-
-Jérôme Nika, Ircam
-
-Adrien Mamou Mani, CEO HyVibe
-
-Shlomo Dubnov, Pr. UCSD
-
-Tae Hong Park, Pr. NYU
-
-Dmitri Tymoczko, Pr. Princeton
-
-David Rosenboom, CalArts
-
-Steve Lehman, CalArts
-
-Eugene Lew, Pr. U. Penn
-
-Michael Young, Pr., U. Sunderland
-
-Jeff Gregorio, ExCITe Center,Drexel University
-
-Youngmoo Kim, ExCITe Center,Drexel University
-
----
-
-### Expected Musicians
-
-George Lewis
-
-Steve Lehman
-
-Bernard Lubat
-
-Charles Kely
-
-Denis Beuret
-
-Michelle-Agnes Magalhaes
-
-Rémy Fox
-
-Hprizm
-
-Mari Kimura
-
-Rudresh Mahanthappa
-
-David Rosenboom
-
-LaDonna Smith
-
-Davey Williams
-
-Moor Mother
-
-Dafna Naphtali
-
-Michael Young
-
-György Kurtág
-
-Pierre Couprie
-
-Tae Hong Park
+- Adrien Mamou Mani
+- Bernard Lubat
+- Charles Kely
+- Dafna Naphtali
+- Davey Williams
+- David Rosenboom
+- David Rosenboom
+- Denis Beuret
+- Dmitri Tymoczko
+- Eugene Lew
+- George Bloch
+- George Lewis
+- Gérard Assayag
+- György Kurtág
+- Hprizm
+- Jeff Gregorio
+- Jérôme Nika
+- LaDonna Smith
+- Lucas Ligeti
+- Marc Chemillier
+- Mari Kimura
+- MatMos
+- Michael Young
+- Michael Young
+- Michelle-Agnes Magalhaes
+- Moor Mother
+- Pierre Couprie
+- Pierre Couprie
+- Rémy Fox
+- Rudresh Mahanthappa
+- Sarah Reid
+- Shlomo Dubnov
+- Steve Lehman
+- Susan Alcorn
+- Tae Hong Park
+- Youngmoo Kim
 
 ...
 
