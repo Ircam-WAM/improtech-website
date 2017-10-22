@@ -1,6 +1,5 @@
 title: Program
 
----
 
 ### Expected participants 
 
@@ -40,8 +39,6 @@ title: Program
 - Susan Alcorn
 - Tae Hong Park
 - Youngmoo Kim
-
-...
 
 <br><br>
 
