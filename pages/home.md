@@ -1,6 +1,11 @@
 Title: Improtech Paris - Philly 2017 
 Status: hidden 
 save_as: index.html
+Date: 2017-10-23 10:20
+Tags: ircam, improvisation, performance, human machine interaction, improtech, omax, artificial intelligence, digital intelligence, machine musicianship
+Authors: Gerard Assayag
+Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
+
 #### December 11th - 13th, 2017 at the University of Pennsylvania
 <br>
 <br>
