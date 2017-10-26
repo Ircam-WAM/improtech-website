@@ -9,7 +9,6 @@ title: Program
 - Dafna Naphtali
 - Davey Williams
 - David Rosenboom
-- David Rosenboom
 - Denis Beuret
 - Dmitri Tymoczko
 - Eugene Lew
@@ -26,9 +25,7 @@ title: Program
 - Mari Kimura
 - MatMos
 - Michael Young
-- Michael Young
 - Moor Mother
-- Pierre Couprie
 - Pierre Couprie
 - Rémy Fox
 - Rudresh Mahanthappa
