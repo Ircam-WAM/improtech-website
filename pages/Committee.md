@@ -6,7 +6,7 @@ title: Committee
 
 Pr. Gérard Assayag, Ircam - STMS Lab  
 Pr. Marc Chemillier, EHESS - Cams Lab  
-Pr. Pierre Couprie, Paris-Sorbonne - Iremus Lab  
+Pr. Pierre Couprie, Paris-Sorbonne - IReMus Lab  
 Pr. Eugene Lew, University of Pennsylvania - Music Technology Dpt  
 
 ---
