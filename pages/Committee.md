@@ -25,7 +25,7 @@ Brigitte d’Andréa-Novel, Pr. Mines ParisTech
 Elaine Chew, Pr. Queen Mary University of London, Director of Music Initiatives, Centre for Digital Music  
 Maxime Crochemore, Pr. King’s College of London  
 Andrew Hugill, Pr. Centre for Creative Computing, Bath Spa University  
-György Kurtág, Art/Science coordinator, SCRIME, University of Bordeaux II  
+György Kurtág, Art/Science coordinator, SCRIME, University of Bordeaux
 George Lewis, Pr., Area Chair of Composition, Columbia University  
 Bernard Lubat, Dir. Compagnie Lubat,  Uzeste Music Festival - Hestajada de las Arts  
 Peter Nelson, Pr. University of Edinburgh, Personal Chair of Music and Technology  
