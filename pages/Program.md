@@ -20,7 +20,7 @@ title: Program
 - Jeff Gregorio
 - Jérôme Nika
 - LaDonna Smith
-- Lucas Ligeti
+- Lukas Ligeti
 - Marc Chemillier
 - Mari Kimura
 - MatMos
