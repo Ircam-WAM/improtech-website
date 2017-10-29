@@ -61,6 +61,8 @@ SCRIME is a joint creation studio operated by Conservatoire National de Région 
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/cnrsfr-grand.jpg" width="75"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/upmc.gif" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/inria.png" width="150"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CieLubatLogo.png" width="150"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/UzesteLogo.png" width="150"> </a>
 </p>
 <br><br>
 
