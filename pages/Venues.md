@@ -2,9 +2,9 @@ title: Venues
 
 ---
 
- - [Music Department, University of Pennsylvania, Philadelphia (https://www.sas.upenn.edu/music/)
+ - [Music Department, University of Pennsylvania, Philadelphia] (https://www.sas.upenn.edu/music/)
  - [Harold Prince Theater, Annenberg Center for the Performing Arts, Philadelphia](https://www.annenbergcenter.org)
- - [The Rotunda, Philadelphia](HAROLD PRINCE THEATRE)
+ - [The Rotunda, Philadelphia](http://www.therotunda.org/)
  - [ICA - Institute of Contemporary Art, Philadelphia](http://icaphila.org/)
 
  <br><br>
