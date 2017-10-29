@@ -34,7 +34,7 @@ IK-PP gets a variety of support or sponsoring  from :
 - HyVibe, Adrien Mamou Mani, CEO
 - Concordia University of Montreal, Pr. Sandeep Baghwati
 - ICA - Institute of Contemporary Art, Philadelphia,
-- Annenberg Center, Philadelphia
+- Annenberg Center for the Performing Arts, Philadelphia
 - The Rotunda, Philadelphia
 - Ars Nova Workshop, Philadelphia
 <br><br>
