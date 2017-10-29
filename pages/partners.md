@@ -66,7 +66,7 @@ SCRIME is a joint creation studio operated by Conservatoire National de Région 
 
 ---
 
-ImproTech Paris Philly 2017 [Art Work]({filename}/pages/TWArt.md) and Graphic Design © Turner Williams
+ImproTech Paris Philly 2017 [Art Work]({filename}/pages/Visuals.md) and Graphic Design © Turner Williams
 
 ---
 
