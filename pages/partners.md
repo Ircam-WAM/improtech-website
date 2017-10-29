@@ -72,7 +72,7 @@ ImproTech Paris Philly 2017 [Art Work]({filename}/pages/Visuals.md) and Graphic 
 
 <p align="center">
    <br><br>
-  <img src="../images/IKPoster_Frag9.png" width="250"> 
+  <img src="../images/IKPoster_frag9.png" width="250"> 
    <br><br>
 </p>
 
