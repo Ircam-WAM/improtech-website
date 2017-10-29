@@ -24,7 +24,7 @@ Carlos Agon, Pr. Université Pierre et Marie Curie, Head Ircam-STMS research Lab
 Brigitte d’Andréa-Novel, Pr. Mines ParisTech  
 Elaine Chew, Pr. Queen Mary University of London, Director of Music Initiatives, Centre for Digital Music  
 Maxime Crochemore, Pr. King’s College of London  
-Shlomo Dubnov, PR. University of California at San DIego (UCSD)
+Shlomo Dubnov, PR. University of California at San DIego (UCSD)  
 Andrew Hugill, Pr. Centre for Creative Computing, Bath Spa University  
 György Kurtág, Art/Science coordinator, SCRIME, University of Bordeaux  
 George Lewis, Pr., Area Chair of Composition, Columbia University  
