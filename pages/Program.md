@@ -24,7 +24,7 @@ title: Program
 - Lukas Ligeti
 - Marc Chemillier
 - Mari Kimura
-- MatMos
+- Matmos
 - Michael Young
 - Moor Mother
 - Pierre Couprie
