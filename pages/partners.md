@@ -33,9 +33,9 @@ IK-PP gets a variety of support or sponsoring  from :
 - University of California at San Diego (UCSD), Pr. Shlomo Dubnov
 - HyVibe, Adrien Mamou Mani, CEO
 - Concordia University of Montreal, Pr. Sandeep Baghwati
-- ICA - Institute for contemporary Art, Philadelphia,
+- ICA - Institute of Contemporary Art, Philadelphia,
 - Annenberg Center, Philadelphia
-- The Rotunda Hall, Philadelphia
+- The Rotunda, Philadelphia
 - Ars Nova Workshop, Philadelphia
 <br><br>
 <p align="center">
