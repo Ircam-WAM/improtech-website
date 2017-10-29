@@ -1,7 +1,7 @@
 title: Program
 
 
-### Expected participants 
+### Expected participants
 
 - Adrien Mamou Mani
 - Bernard Lubat
@@ -30,6 +30,7 @@ title: Program
 - Pierre Couprie
 - Rémy Fox
 - Rudresh Mahanthappa
+- Roscoe Mitchell
 - Sarah Reid
 - Shlomo Dubnov
 - Steve Lehman
@@ -46,4 +47,3 @@ title: Program
   <img src="../images/IKPoster_frag6.png" width="400">
    <br><br>
 </p>
-
