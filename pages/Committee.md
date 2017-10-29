@@ -41,7 +41,7 @@ Michael Young, Pr. University of Sunderland, Deputy Vice-Chancellor
 
 <p align="center">
    <br><br>
-  <img src="../images/IKPoster_frag5.png" width="400">
+  <img src="../images/IKPoster_frag5.png" width="300">
    <br><br>
 </p>
 
