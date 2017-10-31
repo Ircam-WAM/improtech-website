@@ -5,6 +5,7 @@ title: Program
 
 - Adrien Mamou Mani
 - Bernard Lubat
+- Bob Ostertag  
 - Charles Kely
 - Dafna Naphtali
 - Davey Williams
