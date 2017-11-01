@@ -13,6 +13,7 @@ title: Program
 - Denis Beuret
 - Dmitri Tymoczko
 - Eugene Lew
+- Flannery Cunningham
 - George Bloch
 - George Lewis
 - Gérard Assayag
