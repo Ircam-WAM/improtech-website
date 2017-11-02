@@ -11,7 +11,7 @@ This Workshop and concerts are dedicated to the memory of David Wessel.
 
 ---
 
-<img src="../images/affichemartin.jpg" width="280" style="float:left" hspace="10">**Bob Ostertag** : Composer, performer, historian, instrument builder, journalist,
+<img src="../images/Bio_Ostertag.png" width="280" style="float:left" hspace="10">**Bob Ostertag** : Composer, performer, historian, instrument builder, journalist,
 activist, kayak instructor, Bob Ostertag's work cannot easily be
 summarized or pigeon-holed. He has published more than twenty
 CDs of music, two DVDs, and five books. His writings on
