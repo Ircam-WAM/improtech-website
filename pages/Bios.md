@@ -11,7 +11,34 @@ This Workshop and concerts are dedicated to the memory of David Wessel.
 
 ---
 
-<img src="../images/affichemartin.jpg" width="280" style="float:left" hspace="10">Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
+<img src="../images/affichemartin.jpg" width="280" style="float:left" hspace="10">**Bob Ostertag** : Composer, performer, historian, instrument builder, journalist,
+activist, kayak instructor, Bob Ostertag's work cannot easily be
+summarized or pigeon-holed. He has published more than twenty
+CDs of music, two DVDs, and five books. His writings on
+contemporary politics have been published on every continent and
+in many languages. Electronic instruments of his own design are at
+the cutting edge of both music and video performance technology.
+He has performed at music, film, and multi-media festivals around
+the globe. His radically diverse collaborators include the Kronos
+Quartet, postmodernist John Zorn, heavy metal star Mike Patton,
+transgender cabaret start Justin Vivian Bond, British guitar
+innovator Fred Frith, Quebecois film maker Pierre Hébert, EDM star
+Rrose, jazz legend Anthony Braxton and many others. He is rumored to have connections to the
+shadowy media guerrilla group The Yes Men. He is currently a
+professor at the University of California at Davis.
+Ostertag began his musical career in 1978, touring Europe with jazz great Anthony Braxton,
+playing a keyboard-less modular analog synthesizer. He was not the first person to take a
+modular synthesizer on stage, but he was the first person to center his musical practice in a
+scene of “free improvisors” using a modular synth as his main ax.
+In 1979 he settled in New York City and became a key part of the late 1970s “downtown”
+scene along with John Zorn and Eugene Chadbourne. He left music for most of the 1980s and
+immersed himself in the Central American revolutionary movements of the time. His goodbye
+to the Salvadoran revolution, a composition titled “Sooner or Later,” is considered a classic of
+electronic music.
+His 2012 book (co-authored with Jane McAlevey) on labor unions in the US was named by
+The Nation as “the most important book of 2012.”
+The Wire called his previous book, Creative Life, “the most lucid philosophical work on music,
+culture, and politics since Steve Reich’s Writings on Music.”
 
 ---
 
