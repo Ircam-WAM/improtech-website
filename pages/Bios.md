@@ -21,6 +21,6 @@ This Workshop and concerts are dedicated to the memory of this great figure of I
 
 <p align="center">
    <br><br>
-  <img src="../images/IKPoster_frag10.png" width="300">
+  <img src="../images/IKPoster_frag16.png" width="300">
    <br><br>
 </p>
