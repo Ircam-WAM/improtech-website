@@ -37,7 +37,8 @@ electronic music.
 His 2012 book (co-authored with Jane McAlevey) on labor unions in the US was named by
 The Nation as “the most important book of 2012.”
 The Wire called his previous book, Creative Life, “the most lucid philosophical work on music,
-culture, and politics since Steve Reich’s Writings on Music.”
+culture, and politics since Steve Reich’s Writings on Music.”  
+[https://bobostertag.wordpress.com/]
 
 ---
 
