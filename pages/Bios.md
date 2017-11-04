@@ -56,19 +56,9 @@ http://vague-terrain.com/
 
 ---
 
-<img src="../images/Bio_Matmos_ by Josh Sisk.jpg" width="320" style="float:left" hspace="10">bla bla bla bla
-bla bla bla 
-bla bla bla 
-bla bla bla 
-bla bla bla 
-bla bla bla 
-bla bla bla 
-bla bla bla 
-bla bla bla 
-bla bla bla 
+<img src="../images/Bio_Matmos_ by Josh Sisk.jpg" width="320" style="float:left" hspace="10">bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  bla bla bla bla bla bla bla  
 
 ---
-
 
 <br><br><br>
 
