@@ -63,13 +63,17 @@ culture, and politics since Steve Reich’s Writings on Music.”
 
 <img src="../images/Bio_CharlesKelyZana-Rotsy.jpg" width="320" style="float:left" hspace="10">Born in Madagascar, **Jean-Charles Razanakoto** aka **Charles Kely Zana-Rotsy** began to sing at age 5 and to play the guitar at age 8 in the family band. He started to play on stage at age 11. He received attention because of his open tuning playing and his first hit was the song "Ifarakely" that he composed in a rock/folk style. His international career began when he joined the group of Malagasy zither player Rajery, and followed up with his collaboration with female singer from Tchad Mounira Mitchala. He has been twice the recipient of the RFI Award (Radio France International) in 2003 with Rajery and in 2009 with Mounira. His first solo album "Anilanao" was published in 2003, and his second "Zoma Zoma" in 2011. He has toured in USA and Canada and played many times in France at the Festival Musiques Métisses and in Europe. Graduate from the jazz school ARPEJ in Paris, he has collaborated with musicians such as the late Régis Gizavo and the Hot Club Madagascar with Erick Manana. He has been involved for two years in the Djazz project with EHESS and IRCAM. 
 
+&nbsp;
+
+&nbsp;
+
 ---
 
-&nbsp;
-
-&nbsp;
-
 <img src="../images/Bio_MarcChemillier.jpg" width="320" style="float:left" hspace="10">**Marc Chemillier** was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pierre Cornevin at the Schola Cantorum in Paris. Later he received a PhD in Computer Science and also has degrees in Mathematics, Musicology, Philosophy and Anthropology. He has been conducting fieldwork among the Nzakara of Central African Republic to study their harp music, and in Madagascar to work on the ethnomathematics of divination, and the trance music of the zither. Now Director of Studies at the EHESS in Paris (School for Advanced Studies in Social Sciences), his main interests focus on the design of a family of improvisation softwares in collaboration with IRCAM (OMax/ImproteK/Djazz), and their use in real live performances to study the impact of such devices in the social context of jazz concerts or traditional music rituals. 
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
