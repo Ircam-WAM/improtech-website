@@ -97,7 +97,9 @@ culture, and politics since Steve Reich’s Writings on Music.”
 ---
 
 <img src="../images/Bio_AdrienMamouMani.jpeg" width="320" style="float:left" hspace="10">**Adrien Mamou-Mani** is the CEO and co-Founder of HyVibe. Prior to creating HyVibe, he was the lead researcher for the Ircam Instrumental Acoustics team and the professor in musical acoustics at Paris Conservatoire. He holds a PhD in Acoustics and Mechanics from the University Pierre et Marie Curie (Paris) and has been a post-doctoral researcher at the Paris Philharmonic Museum and at the Open University Acoustics Laboratory (United Kingdom) as Newton Fellow. Adrien is recognized as a world expert in vibration and control of musical instruments. His instrument prototypes have been used by classical and contemporary soloists in Europe and South America, and have inspired composers to write dedicated pieces for them.  
-[http://hyvibe.audio/](http://hyvibe.audio/)
+[http://hyvibe.audio/](http://hyvibe.audio/)  
+
+&nbsp;
 
 ---
 
