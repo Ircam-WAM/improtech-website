@@ -82,7 +82,9 @@ culture, and politics since Steve Reich’s Writings on Music.”
 
 &nbsp;
 
-***
+
+---
+
 
 <img src="../images/Bio_PierreCouprie.jpg" width="320" style="float:left" hspace="10">**Pierre Couprie** was born in 1970, he studied instrumental composition, electroacoustic music, musical analysis, and free improvisation at Bordeaux Conservatory. He is an associate professor in digital pedagogy/computer music and a researcher at Sorbonne University (Research Institute in Musicology Lab). His research fields are the musical analysis and the representation of electroacoustic music. He also develops tools for research (iAnalyse, EAnalysis) or musical performance. In 2015, he won the Qwartz Max Mathews Price of technological innovation for his musical analysis software. As an improviser, he is a member of The Phonogénistes and The National Electroacoustic Orchestra (ONE).  
 [http://www.pierrecouprie.fr](http://www.pierrecouprie.fr)  
