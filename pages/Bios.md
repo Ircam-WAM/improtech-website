@@ -58,7 +58,7 @@ culture, and politics since Steve Reich’s Writings on Music.”
 ---
 
 <img src="../images/Bio_BernardLubat.png" width="320" style="float:left" hspace="10">Born in Uzeste in 1945, **Bernard Lubat**, pianist, vibraphonist, keyboard and accordion player, singer, composer and actor, began studying piano in 1957, attending the Bordeaux Conservatory where he discovered the drums, jazz and Milt Jackson. In 1961, he entered the Paris Conservatory where in 1963 he was awarded the prize for best percussionist. He was then taken on by the Jef Gilson Orchestra (1965) where he came into contact with Michel Portal, Bernard Vitet, François Jeanneau, Jean-Louis Chautemps, Henri Texier… He worked with Jean-Luc Ponty and Martial Solal, as a vibraphonist and for Stan Getz and Eddy Louiss as a drummer. At the same time he worked in contemporary music with Diego Masson, playing Varèse, Bartok, Xenakis, he took part in the premier of Luciano Berio's work Chemin 2 at the Scala de Milan and in the recording of Laborintus. In 1975, he established a group with André Ceccarelli, Marc Bertaux and Tony Bonfils. In 1978, he went on to set up the Festival Uzeste Musical (summer festival) and the Compagnie Lubat, a group with a changeable number of players. At the beginning of the 90s, he launched the festival de printemps and the festival d'hiver set up in cooperation with the Cie Lubat artists with Laure Duthilleul (actress), André Minvielle (singer and musician) and Patrick Auzier (musician and  firework designer) and the publishing house, Les Editions du Tilleul, for the production of CDs. Bernard Lubat and his company tour all over France and abroad. He has also been a musical expert working on the OMax/ImproteK/Djazz project in collaboration with IRCAM and EHESS.  
-[http://www.cie-lubat.org/](http://www.cie-lubat.org/)  
+[http://www.cie-lubat.org/](http://www.cie-lubat.org/) <br>
 
 ---
 
@@ -88,8 +88,6 @@ culture, and politics since Steve Reich’s Writings on Music.”
 <img src="../images/Bio_PierreCouprie.jpg" width="320" style="float:left" hspace="10">**Pierre Couprie** was born in 1970, he studied instrumental composition, electroacoustic music, musical analysis, and free improvisation at Bordeaux Conservatory. He is an associate professor in digital pedagogy/computer music and a researcher at Sorbonne University (Research Institute in Musicology Lab). His research fields are the musical analysis and the representation of electroacoustic music. He also develops tools for research (iAnalyse, EAnalysis) or musical performance. In 2015, he won the Qwartz Max Mathews Price of technological innovation for his musical analysis software. As an improviser, he is a member of The Phonogénistes and The National Electroacoustic Orchestra (ONE).  
 [http://www.pierrecouprie.fr](http://www.pierrecouprie.fr)  
 [http://logiciels.pierrecouprie.fr](http://logiciels.pierrecouprie.fr)
-
-&nbsp;
 
 &nbsp;
 
