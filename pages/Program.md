@@ -4,6 +4,7 @@ title: Program
 ### Expected participants
 
 - Adrien Mamou Mani
+- Anastasia Georgakis
 - Bernard Lubat
 - Bob Ostertag  
 - Charles Kely
