@@ -5,7 +5,7 @@ Title: Credits
 ImproTech Paris - Philly 2017 (IK-PP) is brought by **Ircam** (DYCI2 project), **Collegium Musicae** (Public actions 2017-18),  **djazz** (Jazz augmenté project), **IReMus** and **University of Pennsylvania**.
 <br><br>
 <p align="center">
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ircam.gif" width="130"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/LOGO.Ircam.jpg" width="130"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/collegium-logo.png" width="90"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/DjazzLOGO.png" width="140"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-iremus.png" width="100"> </a>
