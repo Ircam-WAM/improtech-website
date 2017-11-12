@@ -9,6 +9,11 @@ Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musician
 #### December 11th - 13th, 2017 at the University of Pennsylvania
 <br>
 <br>
+Workshop keynotes, presentations, demos and performances at U.Penn from dec. 11th to dec. 13th, 9:30 - 18:00
+Evening concert at the Annenberg Center for the Performing Arts, dec. 11th  
+Evening concert at The Rotunda, dec. 13th  
+<br>
+<br>
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">Improtech Paris - Philly (ikPP) gathers scholars, technologists, musicians, makers, around the idea of **musical improvisation with digital intelligence** (IDI), taking notice of the emergence and development of this new creative field.
 ikPP creates a **link between the european and american research and creation scenes** through the symbolic matching of two of their more eminent emblems, Paris and Philadelphia, just as it did a few years ago with Paris and New York.
 
