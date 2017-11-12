@@ -14,7 +14,7 @@ ikPP creates a **link between the european and american research and creation sc
 
 Five years after its [first iteration in New-York](http://repmus.ircam.fr/improtechpny) the **ImproTech workshop - festival** formula is back again to see the technological, aesthetical, and sociological evolutions that happened since the last gathering.  The meeting place in Philadelphia seems a natural destination, for its unique improvised music scene and history, and its perpetual enchantment with so many ever floating historical musical figures.
 
-**ImproTech Paris - Philly** will take place at the University of Pennsylvania from Dec. 11 to Dec. 13 2017, with concerts at The Rotunda and the Annenberg Center, and musical events at the ICA.
+The **ImproTech Paris - Philly workshop** will take place at the University of Pennsylvania from **Dec. 11 to Dec. 13** 2017, with **two evening concerts** at the Annenberg Center for the Performing Arts (**dec. 11th**) and The Rotunda (**dec. 13th**), and social events at the Institute of Contemporary Art (ICA).
  
 Scholars, students, musicians, makers will come from many places in europe and the US to talk about their work, demo, teach and perform. **ikPP** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz and contemporary music, and the young avant-garde / underground scene of Philadelphia and surroundings.
 <br><br>
