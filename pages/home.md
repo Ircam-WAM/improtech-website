@@ -9,7 +9,7 @@ Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musician
 #### December 11th - 13th, 2017 at the University of Pennsylvania
 <br>
 <br>
-Workshop keynotes, presentations, demos and performances at U.Penn from dec. 11th to dec. 13th, 9:30 - 18:00
+Workshop keynotes, presentations, demos and performances at U.Penn from dec. 11th to dec. 13th, 9:30 - 18:00  
 Evening concert at the Annenberg Center for the Performing Arts, dec. 11th  
 Evening concert at The Rotunda, dec. 13th  
 <br>
