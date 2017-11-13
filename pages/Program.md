@@ -34,7 +34,7 @@ Fisher-Bennett Hall	419 Rose Hall, 3340 Walnut St
 
 ### Keynotes speaker
 
-Bob Ostertag (UC Irvine)  
+Bob Ostertag (UC Davis)  
 David Rosenboom (CalArts)
 
 ### Round Table : hommage to David Wessel
@@ -54,76 +54,113 @@ This talk explores the use of networked computer animation as a front end for co
 Matthew Goodheart (RPI)  
 Reembodied sound is a form of electroacoustics that uses transducer-driven resonant objects to create acoustic realizations of sample and analysis derived mixed synthesis. This talk will focus on the use of reembodied sound as a generative basis to create large-scale, algorithmically driven sonic environments for improvisers, discussing both technical implementation and aesthetic orientation. Directions for future research involving digital listening agents and interactivity will also be addressed.
 
-Mediation between Musicians and Code with Neural Networks	Jeremy Stewart	RPI	For this talk, we will discuss design and implementation of a neural network system for performance between acoustic musicians and live coding performers. Starting with simple classification systems and experimenting with data for training deep neural networks, while also considering novel integrations into existing performance systems, we will outline our current work while also discussing potential steps forward.
-tbd	Matmos		Matmos stuff
-	Ben Casey	Ableton	Ableton tech update for improvisers
-	Joseph Pfender		Multichannel speaker array to produce digital feedback and live cepstral analysis that is driven by spoken word
-tablet piece - Density Function – workshop/talk to precede performance	Adam Vidiksis + BEEP	Temple	percussionist & student laptop ensemble leader (BEEP - Temple U)
-From OMAX to DYCI2	Jérôme Nika, Ken Deguernel, Rémy Fox	IRCAM	"From the popular omax improvisation software to the new project (DYCI2 Creative Dynamics of Improvised Interaction) at IRCAM and INRIA
+####RMediation between Musicians and Code with Neural Networks
+Jeremy Stewart (RPI)  
+For this talk, we will discuss design and implementation of a neural network system for performance between acoustic musicians and live coding performers. Starting with simple classification systems and experimenting with data for training deep neural networks, while also considering novel integrations into existing performance systems, we will outline our current work while also discussing potential steps forward.
 
-"
-The djazz project	Marc Chemillier	EHESS	Jazz machines and anthropology
-Portable Gold and Philosophers’ Stones (Deviant Resonances)	David Rosenboom	CalArts	Computer-electronics, auxiliary instrument (ex. electric violin, piano, DisklavierTM), two active imaginative listening brainwave performers (volunteers available for one orientation/rehearsal), and video projection
-Improvising in the electroacoustic esthetic	Pierre Couprie, Gyorgy Kurtag	Sorbonne	
-Interaction, rhythm cognition, digital muscianship	Steve Lehman	CalArts	Steve Lehman Stuff
-Violin / Machine Muscianship	Mari Kimura	UC Irvine	Mari Kimura Stuff
-Soundscapes as interfaces for data-driven musical possibilities.	Tae Hong Park	NYU	Ppl just need to bring laptop running their favorite music app - e.g. Max, supercollider, etc.
-NYU MARL Overview	Tae Hong Park	NYU	"MARL: Music and Audio Research Laboratory / DEPARTMENT OF MUSIC AND PERFORMING ARTS PROFESSIONS
-Group: Computer Music & Interactive Performance"
-tbd	Max Eilbacher		experimental electronics of the American Midwest (Sonic Arts Union aka Robert Ashley, Alvin Lucier, Gordon Mumma, etc)
-tbd	Bhob Rainey		tbd
-NYU Students Works	NYU Music Students	NYU	NYU Students Works
-The smart instrument project	Adrien Mamou - Mani	HyVibe	The smart instrument project. With Charles Kely.
-Piano Prosthesis, Live Algorithms for Music	Michael Young	U. of Sunderland	Can computers be creative? How would we know? The Live Algorithms for Music network explores such questions in the context of live improvisation,
-Drexel MET Lab overview	Yougmoo Kim, Jeff Gregorio	Drexel	Drexel ExCITe Center / The Music and Entertainment Technology Laboratory (MET-lab) at Drexel University is devoted to research in media technologies shaping the future of live performance and entertainment. Founded in 2005, the lab's research is ever evolving, currently focusing on the following areas:
-Math and improvisation	Dmitri Tymoczko, Rudresh Mahantappa	Princeton	Performance with Rudresh
-Trumpet + Personal system	Sarah Reid	CalArts	Trumpet + Personal system
-Heavy gurgle of electric fissues	Joo Won Park	Wayne St.	Joo Won Park (b.1980) wants to make everyday sound beautiful and strange so that everyday becomes beautiful and strange. He performs live with toys, consumer electronics, kitchenware, vegetables, and other non-musical objects by digitally processing their sounds. He also makes pieces with field recordings, sine waves, and any other sources that he can record or synthesize.
-Spatial constructs and concepts, rituals	John Mallia / Scott Deal	NEC studio	John Mallia lives and works in Boston, where he is a member of the Composition Faculty, and directs the Electronic Music Studio, at the New England Conservatory of Music. His compositional process is informed by spatial constructs and concepts, and a fascination with presence, ritual, and the thresholds standing between states of existence or awareness. In addition to composing chamber music and works combining acoustic instruments with electronics, he creates fixed media compositions, and collaborates with visual artists on multimedia works, including installation.
-	Flannery Cunningham		
-	Sandy James		Generative patches for Modular and Semi-Modular Synthesizers
-	Michelle-agnes Magalhaes		Composer, pianist, improviser
+####Matmos presentation	
+Matmos  
+Matmos presentation
+
+
+####Ableton Presentation
+Ben Casey (Ableton)  
+Ableton tech update for improvisers
+
+####Digital feedback driven by spoken word
+Joseph Pfender  
+Multichannel speaker array to produce digital feedback and live cepstral analysis that is driven by spoken word
+
+####Density Function
+Adam Vidiksis + BEEP (Temple U.)  
+Presentation and perfromance by percussionist & student laptop ensemble
+
+####From OMAX to DYCI2
+Jérôme Nika (Ircam), Ken Deguernel (Inria), Rémy Fox (Saxophone)  
+From the  Omax improvisation software to the new DYCI2 project (Creative Dynamics of Improvised Interaction)
+
+####The djazz project
+Marc Chemillier	(EHESS)  
+Jazz machines and anthropology
+
+####Portable Gold and Philosophers’ Stones (Deviant Resonances)	
+David Rosenboom	(CalArts)  
+Presentation and performance of David Rosenboom piece : Computer-electronics, auxiliary instrument (ex. electric violin, piano, DisklavierTM), two active imaginative listening brainwave performers (volunteers available for one orientation/rehearsal), and video projection
+
+####Improvising in the electroacoustic esthetics
+Pierre Couprie (Sorbonne University), Gyorgy Kurtag	(SCRIME, Bordeaux Univesity)  
+Improvising in the electroacoustic esthetics
+
+####Interaction, rhythm cognition, digital muscianship	
+Steve Lehman (CalArts)  
+interaction, rhythm cognition, digital muscianship	
+
+####The Violin / Machine Muscianship
+Mari Kimura	(UC Irvine)  
+The Violin / Machine Muscianship
+
+#### Soundscapes as interfaces for data-driven musical possibilities
+Tae Hong Park (NYU)  
+Hands-on, people can bring laptop running their favorite music app - e.g. Max, supercollider, etc.
+
+####NYU MARL activity Overview	
+Tae Hong Park (NYU)  
+MARL: Music and Audio Research Laboratory / DEPARTMENT OF MUSIC AND PERFORMING ARTS PROFESSIONS / Computer Music & Interactive Performance group
+
+####NYU Students Works
+NYU Music Students	
+NYU	 Students Works
+
+####Experimental electronics of the American Midwest
+Max Eilbacher  
+experimental electronics of the American Midwest (Sonic Arts Union aka Robert Ashley, Alvin Lucier, Gordon Mumma, etc)
+
+####Bhob Rainey
+hob Rainey  
+hob Rainey
+
+####The smart instrument project	
+Adrien Mamou-Mani (HyVibe)
+The smart instrument project. With Charles Kely.
+
+####Piano Prosthesis, Live Algorithms for Music	
+Michael Young (U. of Sunderland)
+Can computers be creative? How would we know? The Live Algorithms for Music network explores such questions in the context of live improvisation
+
+####Drexel MET Lab overview	
+Yougmoo Kim, Jeff Gregorio	(Drexel	University)  
+Drexel ExCITe Center / The Music and Entertainment Technology Laboratory (MET-lab) at Drexel University is devoted to research in media technologies shaping the future of live performance and entertainment. Founded in 2005, the lab's research is ever evolving.
+
+####Math and improvisation
+Dmitri Tymoczko, Rudresh Mahantappa	(Princeton University)  
+Talk and Performance with Rudresh Mahantappa (Saxophone)
+
+####Trumpet + Personal system	
+Sarah Reid (CalArts)  
+Trumpet + Personal system
+
+####Heavy gurgle of electric fissues
+Joo Won Park	(Wayne State U.)  
+Joo Won Park (b.1980) wants to make everyday sound beautiful and strange so that everyday becomes beautiful and strange. He performs live with toys, consumer electronics, kitchenware, vegetables, and other non-musical objects by digitally processing their sounds. He also makes pieces with field recordings, sine waves, and any other sources that he can record or synthesize.
+
+####Spatial constructs and concepts, rituals
+John Mallia / Scott Deal (NEC studio)
+John Mallia lives and works in Boston, where he is a member of the Composition Faculty, and directs the Electronic Music Studio, at the New England Conservatory of Music. His compositional process is informed by spatial constructs and concepts, and a fascination with presence, ritual, and the thresholds standing between states of existence or awareness. In addition to composing chamber music and works combining acoustic instruments with electronics, he creates fixed media compositions, and collaborates with visual artists on multimedia works, including installation.
+	
+####Flannery Cunningham
+to be continued
+
+####Sandy James
+Generative patches for Modular and Semi-Modular Synthesizers, to be continued		
+
+####Michelle-agnes Magalhaes
+Composer, pianist, improviser, to be continued
 
 
 ### Expected participants
 
-- Adrien Mamou Mani
-- Anastasia Georgakis
-- Bernard Lubat
-- Bob Ostertag  
-- Charles Kely
-- Dafna Naphtali
-- Davey Williams
-- David Rosenboom
-- Denis Beuret
-- Dmitri Tymoczko
-- Eugene Lew
-- Flannery Cunningham
-- George Bloch
-- George Lewis
-- Gérard Assayag
-- György Kurtág
-- Hprizm
-- Jeff Gregorio
-- Jérôme Nika
-- Joo Won Park
-- LaDonna Smith
-- Lukas Ligeti
-- Marc Chemillier
-- Mari Kimura
-- Matmos
-- Michael Young
-- Moor Mother
-- Pierre Couprie
-- Rémy Fox
-- Rudresh Mahanthappa
-- Roscoe Mitchell
-- Sarah Reid
-- Shlomo Dubnov
-- Steve Lehman
-- Susan Alcorn
-- Tae Hong Park
-- Youngmoo Kim
+- 
+- 
 
 <br><br>
 
