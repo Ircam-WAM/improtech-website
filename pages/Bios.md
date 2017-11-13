@@ -98,8 +98,8 @@ culture, and politics since Steve Reich’s Writings on Music.”
 <img src="../images/Bio_GyorgyKurtag.jpg" width="320" style="float:left" hspace="10">Arts&Sciences Coordinator in SCRIME at Université de Bordeaux, **György KURTAG Jr** is Composer, Performer. Researcher in innovative teaching methods of digital musical instruments. Fascinated by the musical behavior, the motivation of his works is inspired by the Collective Intelligence theory. His research include both analysis and capture of performer’s new musical gestures. He is taking part in developing the Méta-Mallette (Puce-Muse - Paris), the Continuator Project (Sony C.S.L - Paris), Dolabip (SCRIME-Bordeaux), Midi controller for Guitar by Shadow (Germany).<br>
 In the 1980s, he followed his mentor, Peter Eötvös to IRCAM (Paris), where he has collaborated with some of the most influential American researchers-composers in the computer music such as John Chowning, Tod Machover, George E. Lewis and David Wessel.<br> 
 All these expériences inspired him to create his own musical and digital universe. 
-[http://www.dailymotion.com/video/x1vrmwd](http://www.dailymotion.com/video/x1vrmwd)
-[https://www.youtube.com/watch?v=MJ8Z5skovLw](https://www.youtube.com/watch?v=MJ8Z5skovLw)
+[http://www.dailymotion.com/video/x1vrmwd](http://www.dailymotion.com/video/x1vrmwd)  
+[https://www.youtube.com/watch?v=MJ8Z5skovLw](https://www.youtube.com/watch?v=MJ8Z5skovLw)  
 [https://www.youtube.com/watch?v=M3Tr8mSDYl8](https://www.youtube.com/watch?v=M3Tr8mSDYl8)
 
 <br><br><br>
