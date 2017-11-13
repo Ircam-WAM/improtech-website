@@ -78,7 +78,7 @@ culture, and politics since Steve Reich’s Writings on Music.”
 <img src="../images/Bio_MarcChemillier.png" width="320" style="float:left" hspace="10">**Marc Chemillier** was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pierre Cornevin at the Schola Cantorum in Paris. Later he received a PhD in Computer Science and also has degrees in Mathematics, Musicology, Philosophy and Anthropology. He has been conducting fieldwork among the Nzakara of Central African Republic to study their harp music, and in Madagascar to work on the ethnomathematics of divination, and the trance music of the zither. Now Director of Studies at the EHESS in Paris (School for Advanced Studies in Social Sciences), his main interests focus on the design of a family of improvisation softwares in collaboration with IRCAM (OMax/ImproteK/Djazz), and their use in real live performances to study the impact of such devices in the social context of jazz concerts or traditional music rituals.  
 [improtekjazz.org](http://improtekjazz.org)  
 [digitaljazz.fr](http://digitaljazz.fr)
-<br><br><br><br>
+<br><br><br><br><br>
 
 ---
 
@@ -91,7 +91,7 @@ culture, and politics since Steve Reich’s Writings on Music.”
 
 <img src="../images/Bio_AdrienMamouMani.png" width="320" style="float:left" hspace="10">**Adrien Mamou-Mani** is the CEO and co-Founder of HyVibe. Prior to creating HyVibe, he was the lead researcher for the Ircam Instrumental Acoustics team and the professor in musical acoustics at Paris Conservatoire. He holds a PhD in Acoustics and Mechanics from the University Pierre et Marie Curie (Paris) and has been a post-doctoral researcher at the Paris Philharmonic Museum and at the Open University Acoustics Laboratory (United Kingdom) as Newton Fellow. Adrien is recognized as a world expert in vibration and control of musical instruments. His instrument prototypes have been used by classical and contemporary soloists in Europe and South America, and have inspired composers to write dedicated pieces for them.  
 [hyvibe.audio/](http://hyvibe.audio/)  
-<br>
+<br><br>
 
 ---
 
@@ -102,15 +102,13 @@ All these expériences inspired him to create his own musical and digital univer
 [https://www.youtube.com/watch?v=MJ8Z5skovLw](https://www.youtube.com/watch?v=MJ8Z5skovLw)  
 [https://www.youtube.com/watch?v=M3Tr8mSDYl8](https://www.youtube.com/watch?v=M3Tr8mSDYl8)
 
-<br>
-
 ---
 
 <img src="../images/Bio_MariKimura.jpeg" width="320" style="float:left" hspace="10">**Mari Kimura** is a violinist/composer and a leading figure in the field of interactive computer music. As a violinist, Mari is renowned for her mastery of subharmonics—the production of pitches that sound up to an octave below the violin’s lowest string—as well as for her dynamic performances as an improviser and her premieres of many notable compositions by today’s composers, including Luciano Berio and Salvadore Sciarrino, as well as a soloist with such major orchestras including the Tokyo Symphony and the Hamburg Symphony. She has received numerous awards and grants including a Guggenheim Fellowship, a Fromm Commission Award, a residency at IRCAM, and at the Rockefeller Brothers Fund. She is active in the development of a prototype motion sensor “Mugic” for interactive computer music performance, and she is the founding chair of Future Music Lab at the Atlantic Music Festival.  Her latest solo album “Voyage Apollonian” (Innova Recordings) includes her recent works for violin and motion sensor “Mugic”.  A graduate faculty at Juilliard since 1998, this year, Mari was appointed as a Full Professor of Music at the “Integrated Composition, Improvisation, and Technology” program (ICIT) at the University of California, Irvine. 
 [http://www.marikimura.com/](http://www.marikimura.com/)  
 [http://www.marikimura.com/videos.html](http://www.marikimura.com/videos.html)
 
-<br><br><br>
+<br>
 
 ---
 
