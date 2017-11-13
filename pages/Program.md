@@ -1,7 +1,9 @@
 title: Program
 
 
-## Dec. 11th : Evening concert at Prince Theater, Annenberg Center for the Performing arts
+## Evening concert on dec. 11th and 13h
+
+### Prince Theater, Annenberg Center for the Performing arts (dec. 11th)
 3680 Walnut St, Philadelphia, PA 19104  
 
 Marie Kimura, Gyorgy Kurtag, Pierre Couprie (violin,synths,computer interaction)  
@@ -13,7 +15,7 @@ David Rosenboom  (piano, spatialization system, computer interaction)
 LaDonna Smith, Susan Alcorn, Anastasia Georgaki (violin, pedal steel, accordion, electronics)  
 Michael Young  (piano, piano-prosthesis system)  
 
-## Dec 13th : Evening concert at The Rotunda
+### The Rotunda (dec. 13th)
 4014 Walnut Street, Philadelphia, PA 19104  
 
 Denis Beuret (trombone, live electronics)  
@@ -26,20 +28,20 @@ Bhob Rainey
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Adam Vidiksis (percussion, electronics)  
 
-## Workshop dec 11-13th at U. Penn
+## Workshop on dec 11-13th at U. Penn
 Lerner Center, Rm 101, 201 S 34th St  
 Fisher-Bennett Hall	419 Rose Hall, 3340 Walnut St  
 
 ### Keynotes speaker
 
-Bob Ostertag (UC Irvine)
+Bob Ostertag (UC Irvine)  
 David Rosenboom (CalArts)
 
 ### Round Table : hommage to David Wessel
 Roscoe Mitchell, Marc Chemillier (EHESS), Richard S. Andrew (CNMAT), Georges Bloch (U. Strasbourg)...
 
 ### Presentations, demos, performances
-
+<br>
 ####Intelligent Music Agents capable of joint intuitive and rational thinking
 Jonas Braasch (RPI)  
 This talk describes an intelligent music system approach that utilizes a joint bottom-up/top-down structure. The bottom-up structure is purely signal driven and calculates pitch, loudness, and information rate among other parameters using auditory models that simulate the functions of different parts of the brain. The top-down structure builds on a logic-based reasoning system and an ontology that was developed to reflect rules in jazz practice. Two instances of the agent have been developed to perform traditional and free jazz, and it is shown that the same general structure can be used to improvise different styles of jazz.
