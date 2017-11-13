@@ -1,7 +1,7 @@
 title: Program
 
 
-### Evening concert on dec 11th at Prince Theater, Annenberg Center for the Performing arts
+## Dec. 11th : Evening concert at Prince Theater, Annenberg Center for the Performing arts
 3680 Walnut St, Philadelphia, PA 19104  
 
 Marie Kimura, Gyorgy Kurtag, Pierre Couprie (violin,synths,computer interaction)  
@@ -13,7 +13,7 @@ David Rosenboom  (piano, spatialization system, computer interaction)
 LaDonna Smith, Susan Alcorn, Anastasia Georgaki (violin, pedal steel, accordion, electronics)  
 Michael Young  (piano, piano-prosthesis system)  
 
-### Evening concert on dec 13th at The Rotunda
+## Dec 13th : Evening concert at The Rotunda
 4014 Walnut Street, Philadelphia, PA 19104  
 
 Denis Beuret (trombone, live electronics)  
@@ -26,31 +26,30 @@ Bhob Rainey
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Adam Vidiksis (percussion, electronics)  
 
-### Workshop dec 11-13th at U. Penn
+## Workshop dec 11-13th at U. Penn
 Lerner Center, Rm 101, 201 S 34th St  
 Fisher-Bennett Hall	419 Rose Hall, 3340 Walnut St  
 
+### Keynotes speaker
 
-#### Keynotes speaker
+Bob Ostertag (UC Irvine)
+David Rosenboom (CalArts)
 
-Bob Ostertag
-David Rosenboom
+### Round Table : hommage to David Wessel
+Roscoe Mitchell, Marc Chemillier (EHESS), Richard S. Andrew (CNMAT), Georges Bloch (U. Strasbourg)...
 
-#### Round Table : hommage to David Wessel
-Roscoe Mitchell, M. Chemillier, Richard S. Andrew, ...
+### Presentations, demos, performances
 
-#### Presentations, demos, performances
-
-#####Intelligent Music Agents capable of joint intuitive and rational thinking**
-Jonas Braasch (RPI)
+####Intelligent Music Agents capable of joint intuitive and rational thinking
+Jonas Braasch (RPI)  
 This talk describes an intelligent music system approach that utilizes a joint bottom-up/top-down structure. The bottom-up structure is purely signal driven and calculates pitch, loudness, and information rate among other parameters using auditory models that simulate the functions of different parts of the brain. The top-down structure builds on a logic-based reasoning system and an ontology that was developed to reflect rules in jazz practice. Two instances of the agent have been developed to perform traditional and free jazz, and it is shown that the same general structure can be used to improvise different styles of jazz.
 
-#####Live Scoring for Computer Assisted Composition
-Justin Yang	(RPI)
+####Live Scoring for Computer Assisted Composition
+Justin Yang	(RPI)  
 This talk explores the use of networked computer animation as a front end for composition and scoring for live performers. An assortment of computer animated graphic tools can be used to develop interactions between algorithms and AI, and live performers. These tools help open the door for possibilities such as real-time scoring, structured improvisation, multi-nodal composition, real-time orchestration, and performer-computer interactions.
 
-#####Reembodied Sound and Algorithmic Environments for Improvisation
-Matthew Goodheart (RPI)
+####Reembodied Sound and Algorithmic Environments for Improvisation
+Matthew Goodheart (RPI)  
 Reembodied sound is a form of electroacoustics that uses transducer-driven resonant objects to create acoustic realizations of sample and analysis derived mixed synthesis. This talk will focus on the use of reembodied sound as a generative basis to create large-scale, algorithmically driven sonic environments for improvisers, discussing both technical implementation and aesthetic orientation. Directions for future research involving digital listening agents and interactivity will also be addressed.
 
 Mediation between Musicians and Code with Neural Networks	Jeremy Stewart	RPI	For this talk, we will discuss design and implementation of a neural network system for performance between acoustic musicians and live coding performers. Starting with simple classification systems and experimenting with data for training deep neural networks, while also considering novel integrations into existing performance systems, we will outline our current work while also discussing potential steps forward.
