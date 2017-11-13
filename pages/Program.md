@@ -1,10 +1,11 @@
 title: Program
 
+---
 
-## Evening concert on dec. 11th and 13h
+## Evening concerts on dec. 11th and 13h
 
-### Prince Theater, Annenberg Center for the Performing arts (dec. 11th)
-3680 Walnut St, Philadelphia, PA 19104  
+### Prince Theater, Annenberg Center for the Performing arts (dec. 11th, 8pm)
+*3680 Walnut St, Philadelphia, PA 19104*  
 
 Marie Kimura, Gyorgy Kurtag, Pierre Couprie (violin,synths,computer interaction)  
 Steve Lehman + Hprizm  (Sax, voice, electronics)  
@@ -15,8 +16,8 @@ David Rosenboom  (piano, spatialization system, computer interaction)
 LaDonna Smith, Susan Alcorn, Anastasia Georgaki (violin, pedal steel, accordion, electronics)  
 Michael Young  (piano, piano-prosthesis system)  
 
-### The Rotunda (dec. 13th)
-4014 Walnut Street, Philadelphia, PA 19104  
+### The Rotunda (dec. 13th, 8pm)
+*4014 Walnut Street, Philadelphia, PA 19104*  
 
 Denis Beuret (trombone, live electronics)  
 Georges Bloch, Rémy Fox, Michelle Agnes Magalhaes (ImproteK system, Saxophone, piano)  
@@ -28,9 +29,11 @@ Bhob Rainey
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Adam Vidiksis (percussion, electronics)  
 
-## Workshop on dec 11-13th at U. Penn
-Lerner Center, Rm 101, 201 S 34th St  
-Fisher-Bennett Hall	419 Rose Hall, 3340 Walnut St  
+---
+
+## Workshop on dec 11-13th (9:30am - 6pm)
+*U. Penn, Lerner Center, Rm 101, 201 S 34th St*  
+*U. Penn, Fisher-Bennett Hall	419 Rose Hall, 3340 Walnut St*  
 
 ### Keynotes speaker
 
@@ -155,12 +158,6 @@ Generative patches for Modular and Semi-Modular Synthesizers, to be continued
 
 ####Michelle-agnes Magalhaes
 Composer, pianist, improviser, to be continued
-
-
-### Expected participants
-
-- 
-- 
 
 <br><br>
 
