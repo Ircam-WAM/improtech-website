@@ -57,7 +57,7 @@ This talk explores the use of networked computer animation as a front end for co
 Matthew Goodheart (RPI)  
 Reembodied sound is a form of electroacoustics that uses transducer-driven resonant objects to create acoustic realizations of sample and analysis derived mixed synthesis. This talk will focus on the use of reembodied sound as a generative basis to create large-scale, algorithmically driven sonic environments for improvisers, discussing both technical implementation and aesthetic orientation. Directions for future research involving digital listening agents and interactivity will also be addressed.
 
-####RMediation between Musicians and Code with Neural Networks
+####Mediation between Musicians and Code with Neural Networks
 Jeremy Stewart (RPI)  
 For this talk, we will discuss design and implementation of a neural network system for performance between acoustic musicians and live coding performers. Starting with simple classification systems and experimenting with data for training deep neural networks, while also considering novel integrations into existing performance systems, we will outline our current work while also discussing potential steps forward.
 
