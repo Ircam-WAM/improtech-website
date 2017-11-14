@@ -10,9 +10,7 @@ This Workshop and concerts are dedicated to the memory of David Wessel.
 
 ---
 
-<img src="../images/bhob.jpg" width="320" style="float:left" hspace="10">**Bhob Rainey** works with sound, both acoustically and electronically. He, like a lot of people, is interested in quite a few things, but he is especially invested in matters relating to consciousness - its possibilities, limitations, absurdities, threats and futures. As a result, ideas from philosophy, technology, psychology, and the plain old grind worm their way into his work. So do horror and humor. His music is visceral, sometimes. Thoughtful, sometimes. Sometimes both. [https://bhobrainey.com](https://bhobrainey.com)
-<br>
-<br>
+<img src="../images/bhob.jpg" width="320" style="float:left" hspace="10">**Bhob Rainey** works with sound, both acoustically and electronically. He, like a lot of people, is interested in quite a few things, but he is especially invested in matters relating to consciousness - its possibilities, limitations, absurdities, threats and futures. As a result, ideas from philosophy, technology, psychology, and the plain old grind worm their way into his work. So do horror and humor. His music is visceral, sometimes. Thoughtful, sometimes. Sometimes both. Rainey is also a computer programmer, for real. If you use SuperCollider, you've probably tinkered with his plugins. If you're using this web site, you're using his code. That may seem trivial, but this is one of the only web sites where you can buy downloadable music, and all of the splits and royalties, etc., go immediately to all parties involved. Why this isn't normal is not clear. In any case, having an intimate knowledge of cutting edge technologies is helpful when both examing the possibilities they offer and putting forth a critique of their application, ideology, etc. He also plays the saxophone. [https://bhobrainey.com](https://bhobrainey.com)
 
 ---
 
