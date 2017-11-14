@@ -142,9 +142,9 @@ Talk and Performance with Rudresh Mahantappa (Saxophone)
 Sarah Reid (CalArts)  
 Trumpet + Personal system
 
-####Heavy gurgle of electric fissues
-Joo Won Park	(Wayne State U.)  
-Joo Won Park (b.1980) wants to make everyday sound beautiful and strange so that everyday becomes beautiful and strange. He performs live with toys, consumer electronics, kitchenware, vegetables, and other non-musical objects by digitally processing their sounds. He also makes pieces with field recordings, sine waves, and any other sources that he can record or synthesize.
+####Joo Won Park (Wayne State U.)
+100 Strange Sounds: Practice on Electroacoustic Improvisation<br>
+100 Strange Sounds consists of one hundred video recordings of solo improvisations using live electronics (http://www.100strangesounds.com). The purpose of this project was to improve the creator's technical and improvisational abilities while examining the documentation and promotional possibilities of an online video platform. The author will present the technical and aesthetic findings in completing the project by demonstrating the software and hardware setup as well as sharing the viewer data from Youtube and Google Analytics.
 
 ####Spatial constructs and concepts, rituals
 John Mallia / Scott Deal (NEC studio)
