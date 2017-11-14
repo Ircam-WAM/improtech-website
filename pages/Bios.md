@@ -160,6 +160,13 @@ He is currently a Professor of Music at The California Institute of the Arts, an
 
 ---
 
+<img src="../images/Bio_SarahBelleReid.jpg" width="320" style="float:left" hspace="10">**Sarah Belle Reid** is a Canadian performer-composer, active in the fields of electroacoustic trumpet performance, intermedia arts, music technology, and improvisation. She is a co-developer of the Minimally Invasive Gesture Sensing Interface (MIGSI) for trumpet: an open-source, wireless interface that captures performance data and provides real-time extended sonic and visual control for improvisation. Reid has presented and performed with MIGSI at institutions and festivals around the world including Stanford University’s Center for Computer Research in Music and Acoustics (CCRMA), the International Conference of New Interfaces for Musical Expression (NIME 2015: Brisbane, Australia), New Media Art & Sound Summit (NMASS 2017: Austin, TX), University of Oregon, UT Austin, and UC Irvine's Women in Music Technology Symposium (2016). As a composer, Reid’s work focuses on liminality and memory imprints both in sound and physical performance—a fascination inspired by Marcel Duchamp’s writings on infrathin—as well as the integration of electronics, hybrid/new instruments, and found objects. In 2017 her composition “Flux” for amplified percussion quartet won the Grammy-nominated Los Angeles Percussion Quartet’s Next Wave Composer Initiative. She is a founding member of the trumpet/modular synthesizer duo Burnt Dot and the Sarah Belle Reid Quartet, dedicated to exploring open forms of spontaneous creation, realization of graphic scores, and electroacoustic collaboration.
+<br>
+www.sarahbellereid.com 
+
+
+---
+
 <p align="center">
    <br><br>
   <img src="../images/IKPoster_frag16.png" width="300">

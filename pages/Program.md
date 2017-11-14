@@ -138,9 +138,9 @@ Drexel ExCITe Center / The Music and Entertainment Technology Laboratory (MET-la
 Dmitri Tymoczko, Rudresh Mahantappa	(Princeton University)  
 Talk and Performance with Rudresh Mahantappa (Saxophone)
 
-####Trumpet + Personal system	
+####MIGSI: The Minimally Invasive Gesture Sensing Interface for Trumpet	
 Sarah Reid (CalArts)  
-Trumpet + Personal system
+Performer-composer-technologist Sarah Reid will introduce the Minimally Invasive Gesture Sensing Interface (MIGSI) for trumpet. MIGSI uses sensor technology to capture gestural data such as valve displacement, hand tension, and instrument position, to offer extended control and expressivity to trumpet players. In addition to addressing technical and design-based considerations of MIGSI, this presentation will discuss various strategies for performing and composing with this new instrument, and will delve into a larger discussion on integrating new musical interfaces, micro-controllers, and electronic instruments into an improvisational practice.
 
 ####100 Strange Sounds: Practice on Electroacoustic Improvisation<br>
 Joo Won Park (Wayne State U.)<br>
