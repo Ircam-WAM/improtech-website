@@ -94,9 +94,10 @@ Presentation and performance of David Rosenboom piece : Computer-electronics, au
 Pierre Couprie (Sorbonne University), Gyorgy Kurtag (SCRIME, Bordeaux University)  
 Improvising in the electroacoustic esthetics
 
-####Interaction, rhythm cognition, digital muscianship	
+####Recent Trends in Pulse-Based Improvisation, Rhythm Cognition, and some Potential Applications for Interactive Design
 Steve Lehman (CalArts)  
-interaction, rhythm cognition, digital muscianship	
+interaction, rhythm cognition, digital muscianship<br>
+Recent work in the domain of computer-driven improvisation has privileged modes of interactivity that eschew tempo-based hierarchies of musical time. This talk will seek to interrogate some of these recent tendencies, and provide a brief overview of the speaker's recent work integrating improvisation with contemporary research in the field of rhythmic cognition. Some potential applications to tempo-based musical models for human-computer interaction will also be discussed.   
 
 ####Revolutionizing the Tradition: Extracting Human Expression using Motion Sensor for Music	
 Mari Kimura (UC Irvine)<br>
