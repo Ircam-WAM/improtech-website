@@ -46,12 +46,13 @@ All these expériences inspired him to create his own musical and digital univer
 
 <img src="../images/Bio_AdrienMamouMani.png" width="320" style="float:left" hspace="10">**Adrien Mamou-Mani** is the CEO and co-Founder of HyVibe. Prior to creating HyVibe, he was the lead researcher for the Ircam Instrumental Acoustics team and the professor in musical acoustics at Paris Conservatoire. He holds a PhD in Acoustics and Mechanics from the University Pierre et Marie Curie (Paris) and has been a post-doctoral researcher at the Paris Philharmonic Museum and at the Open University Acoustics Laboratory (United Kingdom) as Newton Fellow. Adrien is recognized as a world expert in vibration and control of musical instruments. His instrument prototypes have been used by classical and contemporary soloists in Europe and South America, and have inspired composers to write dedicated pieces for them.  
 [hyvibe.audio/](http://hyvibe.audio/)  
+<br>
+<br>
 
 ---
 
 <img src="../images/Bio_Matmos_ by Josh Sisk.jpg" width="320" style="float:left" hspace="10">**Matmos** is M.C. Schmidt and Drew Daniel, aided and abetted by many others. Currently based in Baltimore, the duo formed in San Francisco in the mid 1990s. Marrying the conceptual tactics and noisy textures of object-based musique concrete to a rhythmic matrix rooted in electronic pop music, the two are known for their highly unusual sound sources: amplified crayfish nerve tissue, the pages of bibles turning, liposuction surgery, rat cages, a cow uterus, snails, cigarettes, laser eye surgery, latex fetish clothing, life support systems, a five gallon bucket of oatmeal, and a washing machine. Matmos’ work presents a model of electronic composition as a relational network that connects sources and outcomes together; information about the process of creation activates the listening experience, providing the listener with entry points into sometimes densely allusive, baroque recordings. Matmos have released over ten albums on labels such as Matador and Thrill Jockey. They also have a history of rich collaborations with artists like Bjork, Antony, So Percussion, Terry Riley, The Kronos Quartet, David Tibet, Rachel’s, Zeena Parkins, and the Princeton Laptop Orchestra, Daria Martin, Young Jean Lee, and Ayman Harper. Outside Matmos, Schmidt and Daniel have also performed in Baltimore’s High Zero festival and engaged countless collaborators across the American underground and beyond for more than 20 years.  
 [vague-terrain.com/](http://vague-terrain.com/)
-<br>
 <br>
 
 ---
