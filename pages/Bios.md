@@ -10,11 +10,13 @@ This Workshop and concerts are dedicated to the memory of David Wessel.
 
 ---
 
-<img src="../images/bhob.jpg" width="320" style="float:left" hspace="10">**Bhob Rainey** works with sound, both acoustically and electronically. He, like a lot of people, is interested in quite a few things, but he is especially invested in matters relating to consciousness - its possibilities, limitations, absurdities, threats and futures. As a result, ideas from philosophy, technology, psychology, and the plain old grind worm their way into his work. So do horror and humor. His music is visceral, sometimes. Thoughtful, sometimes. Sometimes both. [https://bhobrainey.com](https://bhobrainey.com) </p>
+<img src="../images/bhob.jpg" width="320" style="float:left" hspace="10">**Bhob Rainey** works with sound, both acoustically and electronically. He, like a lot of people, is interested in quite a few things, but he is especially invested in matters relating to consciousness - its possibilities, limitations, absurdities, threats and futures. As a result, ideas from philosophy, technology, psychology, and the plain old grind worm their way into his work. So do horror and humor. His music is visceral, sometimes. Thoughtful, sometimes. Sometimes both. [https://bhobrainey.com](https://bhobrainey.com)</p>
 <br> 
 <br>
+
 ---
 <br>
+
 <img src="../images/Bio_Rosenboom.png" width="320" style="float:left" hspace="10">Recently lauded in The New York Times as an “avatar of experimental music,” **David Rosenboom** is a composer-performer, interdisciplinary artist, author and educator, who over five decades has explored the spontaneous evolution of musical forms, multidisciplinary composition and performance, unique languages for improvisation, cross-cultural collaborations, performance art and literature, interactive multi-media and new instrument technologies, art-science research and philosophy, and extended musical interface with the human nervous system. His wide-ranging work is broadly distributed and presented around the world. He holds the Richard Seaver Distinguished Chair in Music at California Institute of the Arts where he is also Dean of The Herb Alpert School of Music. David Rosenboom is author of influential books such as Biofeedback and the Arts, Extended Musical Interface with the Human Nervous System and many articles and monographs. Rosenboom is a Yamaha Artist.  "David Rosenboom ... has become one of the leading lights of interactive computer composition." (The Village Voice). *Photograph by Scott Groller*.  
 [www.davidrosenboom.com](http://www.davidrosenboom.com)  
 
