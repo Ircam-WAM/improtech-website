@@ -144,7 +144,7 @@ Trumpet + Personal system
 
 ####100 Strange Sounds: Practice on Electroacoustic Improvisation<br>
 Joo Won Park (Wayne State U.)<br>
-100 Strange Sounds consists of one hundred video recordings of solo improvisations using live electronics [http://www.100strangesounds.com](http://www.100strangesounds.com). The purpose of this project was to improve the creator's technical and improvisational abilities while examining the documentation and promotional possibilities of an online video platform. The author will present the technical and aesthetic findings in completing the project by demonstrating the software and hardware setup as well as sharing the viewer data from Youtube and Google Analytics.
+*100 Strange Sounds* consists of one hundred video recordings of solo improvisations using live electronics [http://www.100strangesounds.com](http://www.100strangesounds.com). The purpose of this project was to improve the creator's technical and improvisational abilities while examining the documentation and promotional possibilities of an online video platform. The author will present the technical and aesthetic findings in completing the project by demonstrating the software and hardware setup as well as sharing the viewer data from Youtube and Google Analytics.
 
 ####Spatial constructs and concepts, rituals
 John Mallia / Scott Deal (NEC studio)
