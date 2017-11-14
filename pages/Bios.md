@@ -7,7 +7,7 @@ title: Bios
 
 <img src="../images/Bio_SusanAlcorn.jpeg" width="320" style="float:left" hspace="10">**Susan Alcorn**. One of the world’s premiere musical innovators on her instrument, Baltimore-based Susan Alcorn has taken the pedal steel guitar far beyond its traditional role in country and western swing music. Known among steel guitarists for her virtuosity and authenticity in a traditional context, Alcorn first paid her dues in Texas country & western bands. Soon she began to expand the vocabulary of her instrument through her study of modern classical music (Messiaen, Varèse, Penderecki), the deep listening of Pauline Oliveros, Astor Piazzolla’s nuevo tango, free jazz, and world musics (Indian rags, South American songs, and gamelan orchestra). Her pieces reveal the complexity of her instrument and her musical experience while never straying from a very direct, intense, and personal musical expression. Though primarily a solo performer, Alcorn has collaborated with numerous artists including Pauline Oliveros, Evan Parker, Eugene Chadbourne, Peter Kowald, Chris Cutler, Ellen Fullman, Le Quan Ninh, Sean Meehan, Joe McPhee, LaDonna Smith, Mike Cooper, Jandek, Fred Frith, Maggie Nicols, and Mary Halvorson.
 <br>
-[www.susanalcorn.net/](http://www.susanalcorn.net)
+[www.susanalcorn.net](http://www.susanalcorn.net)
 
 ---
 
@@ -36,7 +36,7 @@ title: Bios
 
 <img src="../images/Bio_MariKimura.jpeg" width="320" style="float:left" hspace="10">**Mari Kimura** is a violinist/composer and a leading figure in the field of interactive computer music. As a violinist, Mari is renowned for her mastery of subharmonics—the production of pitches that sound up to an octave below the violin’s lowest string—as well as for her dynamic performances as an improviser and her premieres of many notable compositions by today’s composers, including Luciano Berio and Salvadore Sciarrino, as well as a soloist with such major orchestras including the Tokyo Symphony and the Hamburg Symphony. She has received numerous awards and grants including a Guggenheim Fellowship, a Fromm Commission Award, a residency at IRCAM, and at the Rockefeller Brothers Fund. She is active in the development of a prototype motion sensor “Mugic” for interactive computer music performance, and she is the founding chair of Future Music Lab at the Atlantic Music Festival.  Her latest solo album “Voyage Apollonian” (Innova Recordings) includes her recent works for violin and motion sensor “Mugic”.  A graduate faculty at Juilliard since 1998, this year, Mari was appointed as a Full Professor of Music at the “Integrated Composition, Improvisation, and Technology” program (ICIT) at the University of California, Irvine.
 <br>
-[www.marikimura.com/](http://www.marikimura.com)  
+[www.marikimura.com](http://www.marikimura.com)  
 [www.marikimura.com/videos.html](http://www.marikimura.com/videos.html)
 
 ---
@@ -53,13 +53,13 @@ All these expériences inspired him to create his own musical and digital univer
 
 <img src="../images/Bio_BernardLubat.png" width="320" style="float:left" hspace="10">Born in Uzeste in 1945, **Bernard Lubat**, pianist, vibraphonist, keyboard and accordion player, singer, composer and actor, began studying piano in 1957, attending the Bordeaux Conservatory where he discovered the drums, jazz and Milt Jackson. In 1961, he entered the Paris Conservatory where in 1963 he was awarded the prize for best percussionist. He was then taken on by the Jef Gilson Orchestra (1965) where he came into contact with Michel Portal, Bernard Vitet, François Jeanneau, Jean-Louis Chautemps, Henri Texier… He worked with Jean-Luc Ponty and Martial Solal, as a vibraphonist and for Stan Getz and Eddy Louiss as a drummer. At the same time he worked in contemporary music with Diego Masson, playing Varèse, Bartok, Xenakis, he took part in the premier of Luciano Berio's work Chemin 2 at the Scala de Milan and in the recording of Laborintus. In 1975, he established a group with André Ceccarelli, Marc Bertaux and Tony Bonfils. In 1978, he went on to set up the Festival Uzeste Musical (summer festival) and the Compagnie Lubat, a group with a changeable number of players. At the beginning of the 90s, he launched the festival de printemps and the festival d'hiver set up in cooperation with the Cie Lubat artists with Laure Duthilleul (actress), André Minvielle (singer and musician) and Patrick Auzier (musician and  firework designer) and the publishing house, Les Editions du Tilleul, for the production of CDs. Bernard Lubat and his company tour all over France and abroad. He has also been a musical expert working on the OMax/ImproteK/Djazz project in collaboration with IRCAM and EHESS.
 <br>
-[www.cie-lubat.org/](http://www.cie-lubat.org)
+[www.cie-lubat.org](http://www.cie-lubat.org)
 
 ---
 
 <img src="../images/Bio_AdrienMamouMani.png" width="320" style="float:left" hspace="10">**Adrien Mamou-Mani** is the CEO and co-Founder of HyVibe. Prior to creating HyVibe, he was the lead researcher for the Ircam Instrumental Acoustics team and the professor in musical acoustics at Paris Conservatoire. He holds a PhD in Acoustics and Mechanics from the University Pierre et Marie Curie (Paris) and has been a post-doctoral researcher at the Paris Philharmonic Museum and at the Open University Acoustics Laboratory (United Kingdom) as Newton Fellow. Adrien is recognized as a world expert in vibration and control of musical instruments. His instrument prototypes have been used by classical and contemporary soloists in Europe and South America, and have inspired composers to write dedicated pieces for them.
 <br>
-[hyvibe.audio/](http://hyvibe.audio)  
+[hyvibe.audio](http://hyvibe.audio)  
 <br>
 <br>
 
@@ -67,7 +67,7 @@ All these expériences inspired him to create his own musical and digital univer
 
 <img src="../images/Bio_Matmos_ by Josh Sisk.jpg" width="320" style="float:left" hspace="10">**Matmos** is M.C. Schmidt and Drew Daniel, aided and abetted by many others. Currently based in Baltimore, the duo formed in San Francisco in the mid 1990s. Marrying the conceptual tactics and noisy textures of object-based musique concrete to a rhythmic matrix rooted in electronic pop music, the two are known for their highly unusual sound sources: amplified crayfish nerve tissue, the pages of bibles turning, liposuction surgery, rat cages, a cow uterus, snails, cigarettes, laser eye surgery, latex fetish clothing, life support systems, a five gallon bucket of oatmeal, and a washing machine. Matmos’ work presents a model of electronic composition as a relational network that connects sources and outcomes together; information about the process of creation activates the listening experience, providing the listener with entry points into sometimes densely allusive, baroque recordings. Matmos have released over ten albums on labels such as Matador and Thrill Jockey. They also have a history of rich collaborations with artists like Bjork, Antony, So Percussion, Terry Riley, The Kronos Quartet, David Tibet, Rachel’s, Zeena Parkins, and the Princeton Laptop Orchestra, Daria Martin, Young Jean Lee, and Ayman Harper. Outside Matmos, Schmidt and Daniel have also performed in Baltimore’s High Zero festival and engaged countless collaborators across the American underground and beyond for more than 20 years.
 <br>
-[vague-terrain.com/](http://vague-terrain.com)
+[vague-terrain.com](http://vague-terrain.com)
 <br>
 
 ---
@@ -109,13 +109,13 @@ The Nation as “the most important book of 2012.”
 The Wire called his previous book, Creative Life, “the most lucid philosophical work on music,
 culture, and politics since Steve Reich’s Writings on Music.”
 <br>
-[bobostertag.wordpress.com/](https://bobostertag.wordpress.com)
+[bobostertag.wordpress.com](https://bobostertag.wordpress.com)
 
 ---
 
 <img src="../images/joowon.png" width="320" style="float:left" hspace="10">**Joo Won Park** wants to make everyday sound beautiful and strange so that everyday becomes beautiful and strange. He performs live with toys, consumer electronics, kitchenware, vegetables, and other non-musical objects by digitally processing their sounds. He also makes pieces with field recordings, sine waves, and any other sources that he can record or synthesize. Joo Won draws inspirations from Florida swamps, Philadelphia skyscrapers, his two sons, and other soundscapes surrounding him. He has studied at Berklee College of Music and the University of Florida, and currently teaches Music Technology at the Wayne State University. Joo Won’s music and writings are available on ICMC DVD, Spectrum Press, MIT Press, PARMA, Visceral Media, MCSD, SEAMUS, and No Remixes labels.
 <br>
-[joowonpark.net/](http://joowonpark.net)
+[joowonpark.net](http://joowonpark.net)
 
 ---
 
