@@ -102,7 +102,7 @@ interaction, rhythm cognition, digital muscianship
 Mari Kimura	(UC Irvine)  
 The Violin / Machine Muscianship
 
-#### Soundscapes as interfaces for data-driven musical possibilities
+####Soundscapes as interfaces for data-driven musical possibilities
 Tae Hong Park (NYU)  
 Hands-on, people can bring laptop running their favorite music app - e.g. Max, supercollider, etc.
 
@@ -150,8 +150,9 @@ Joo Won Park (Wayne State U.)<br>
 John Mallia / Scott Deal (NEC studio)
 John Mallia lives and works in Boston, where he is a member of the Composition Faculty, and directs the Electronic Music Studio, at the New England Conservatory of Music. His compositional process is informed by spatial constructs and concepts, and a fascination with presence, ritual, and the thresholds standing between states of existence or awareness. In addition to composing chamber music and works combining acoustic instruments with electronics, he creates fixed media compositions, and collaborates with visual artists on multimedia works, including installation.
 	
-####Flannery Cunningham
-to be continued
+####Space between these lines not dedicated<br>
+Flannery Cunningham (UPenn)<br>
+Space between these lines not dedicated for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system prior to performance to create rich, complex, sometimes unpredictable, but internally consistent outputs in response to inputs, in this piece the machine learning system is trained live in performance. An initial semi-random musical “seed” is used as an opening output, or performance by the computer. The player improvises in response to this, then generates a new seed for the system and improvises again. These varying improvisations and musical performances on the part of the computer are used as training data, and the system is then run. The human performer continues to improvise, and now the computer “improvises” as well, by interpolating between the initial musical seeds in often unexpected ways. The piece continues with an alternation of training and running the system. The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material in the training mode (allowing the human player to layer new musical material on top of an existing texture and create more extensive musical conditions that will elicit a similar response) and when it will generate a new seed.
 
 ####Sandy James
 Generative patches for Modular and Semi-Modular Synthesizers, to be continued		
