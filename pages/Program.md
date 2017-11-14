@@ -99,8 +99,8 @@ Steve Lehman (CalArts)
 interaction, rhythm cognition, digital muscianship	
 
 ####Revolutionizing the Tradition: Extracting Human Expression using Motion Sensor for Music	
-Mari Kimura (UC Irvine)	
-Talk/demo of motion sensor ‘mugic’ and some current development	
+Mari Kimura (UC Irvine)<br>
+Talk/demo of motion sensor ‘mugic’ and some current development<br>
 Violinist and composer Mari Kimura will discuss creating performances and compositions that integrate interactive computer, and the use of a motion sensor she has been developing.  The lecture includes demonstrations including musical performances with her current prototype model “Mugic”, and her work with students at her summer program “Future Music Lab” she directs at the Atlantic Music Festival in collaboration with IRCAM, and in her classroom at her new ‘home’, “Integrated Composition, Improvisation and Technology” (ICIT) program at the Music Department of University of California, Irvine.	
 
 ####Soundscapes as interfaces for data-driven musical possibilities
