@@ -77,6 +77,7 @@ All these expériences inspired him to create his own musical and digital univer
 This Workshop and concerts are dedicated to the memory of David Wessel.
 <br>
 [NY Times profile](https://www.nytimes.com/2017/06/23/arts/music/a-pioneering-black-composer-roscoe-mitchell-keeps-pushing.html)
+[ECM Records bio](https://www.ecmrecords.com/artists/1435045892/roscoe-mitchell)
 
 ---
 
