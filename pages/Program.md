@@ -119,7 +119,7 @@ Max Eilbacher
 experimental electronics of the American Midwest (Sonic Arts Union aka Robert Ashley, Alvin Lucier, Gordon Mumma, etc)
 
 ####Bhob Rainey
-Canopy of Catastrophes
+Canopy of Catastrophes <br>
 What are some good ways, when making music that is shared among humans (and, in terms of appreciation, likely only among humans), to “get outside yourself” and connect to non-human patterns, entities, signals, etc., without pretending to be objective? Can you not only point to or represent the “great outdoors” but also bring yourself and maybe your audience "outside”? Are computers and computational thinking at all helpful in answering these questions? Let’s talk sonification and data streams and generative patterns, but let’s also ask how they function aesthetically, what ends they might serve when sounds reach ears and that communal event we call music happens.
 
 ####The smart instrument project	
