@@ -90,18 +90,16 @@ Jazz machines and anthropology
 David Rosenboom	(CalArts)  
 Presentation and performance of David Rosenboom piece : Computer-electronics, auxiliary instrument (ex. electric violin, piano, DisklavierTM), two active imaginative listening brainwave performers (volunteers available for one orientation/rehearsal), and video projection
 
-####Improvising / Analysing in the electroacoustic esthetics
+####Improvising with a digital conductor
 Pierre Couprie (Sorbonne University), Gyorgy Kurtag (SCRIME, Bordeaux University)  
 Improvising in the electroacoustic esthetics
 
 ####Recent Trends in Pulse-Based Improvisation, Rhythm Cognition, and some Potential Applications for Interactive Design
-Steve Lehman (CalArts)  
-interaction, rhythm cognition, digital muscianship<br>
+Steve Lehman (CalArts)<br>
 Recent work in the domain of computer-driven improvisation has privileged modes of interactivity that eschew tempo-based hierarchies of musical time. This talk will seek to interrogate some of these recent tendencies, and provide a brief overview of the speaker's recent work integrating improvisation with contemporary research in the field of rhythmic cognition. Some potential applications to tempo-based musical models for human-computer interaction will also be discussed.   
 
 ####Revolutionizing the Tradition: Extracting Human Expression using Motion Sensor for Music	
 Mari Kimura (UC Irvine)<br>
-Talk/demo of motion sensor ‘mugic’ and some current development<br>
 Violinist and composer Mari Kimura will discuss creating performances and compositions that integrate interactive computer, and the use of a motion sensor she has been developing.  The lecture includes demonstrations including musical performances with her current prototype model “Mugic”, and her work with students at her summer program “Future Music Lab” she directs at the Atlantic Music Festival in collaboration with IRCAM, and in her classroom at her new ‘home’, “Integrated Composition, Improvisation and Technology” (ICIT) program at the Music Department of University of California, Irvine.	
 
 ####Soundscapes as interfaces for data-driven musical possibilities
