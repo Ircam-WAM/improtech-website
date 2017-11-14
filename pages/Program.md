@@ -90,7 +90,7 @@ Jazz machines and anthropology
 David Rosenboom	(CalArts)  
 Presentation and performance of David Rosenboom piece : Computer-electronics, auxiliary instrument (ex. electric violin, piano, DisklavierTM), two active imaginative listening brainwave performers (volunteers available for one orientation/rehearsal), and video projection
 
-####Improvising with a digital conductor
+####Improvising with a digital conductor 
 Pierre Couprie (Sorbonne University), Gyorgy Kurtag (SCRIME, Bordeaux University)  
 Improvising in the electroacoustic esthetics
 
