@@ -157,8 +157,12 @@ Flannery Cunningham (UPenn)<br>
 ####Sandy James
 Generative patches for Modular and Semi-Modular Synthesizers, to be continued		
 
-####Michelle-agnes Magalhaes
-Composer, pianist, improviser, to be continued
+####Body/Environment couplings through sound and light
+Mina Zarfsaz <br>
+This talk/demo is about an interactive audio/video piece that is consisted of a system of sensors, speakers, and projectors measuring the impact of movement and human organization as it reconstructs the dismantled fragments of pieces of music with any given group of people. Like an orchestra of instruments, it is the body of the spectator that co-composes the rhythmic content by co-ordinating movements with others as they trigger the sensors. 
+
+The “notes” in this project are struck at the interface of body and machine. While in the space, each person is either an active “ON” (within a sensor range) or a passive “OFF” (out of a sensor range.) This peice forces one’s perceptual system to search the space for triggered sounds and lit surfaces; to track changes, estimate distances and corporeal relationship with others. The piece never repeats itself exactly, has no beginning, middle or end.
+
 
 <br><br>
 
