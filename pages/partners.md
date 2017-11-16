@@ -23,6 +23,7 @@ IK-PP is directly supported financially by **Sorbonne Universités** (Action fin
 <br><br>
 IK-PP gets a variety of support or sponsoring  from :
 
+- Cultural Services of the French Embassy & FACE Foundation
 - New York University, Pr. Tae Hong Park  
 - Studio de Création et de Recherche en Informatique et Musique Électroacoustique (SCRIME), Pr. Györgi Kurtàg
 - California Institute of Arts (CalArts), Pr. David Rosenboom  
@@ -39,6 +40,7 @@ IK-PP gets a variety of support or sponsoring  from :
 - Ars Nova Workshop, Philadelphia
 <br><br>
 <p align="center">
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Logo_FrenchAmbassy.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="150"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Scrime.jpg" width="200"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
@@ -53,6 +55,7 @@ IK-PP gets a variety of support or sponsoring  from :
 
 </p>
 <br><br>
+
 
 ---
 
