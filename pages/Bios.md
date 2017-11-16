@@ -128,6 +128,12 @@ culture, and politics since Steve Reich’s Writings on Music.”
 
 ---
 
+<img src="../images/pfender.png" width="320" style="float:left" hspace="10">**Joseph Pfender** is a musicologist, composer, and writer. A PhD candidate at New York University, his research has focused on ways in which philosophy of technology and information theory have been incorporated into postwar modernism in musical and interarts practices. His dissertation considers the vernacularized dynamics of knowledge production in American science and technology, by exploring magnetic tape’s historical development from the late 19th-c onwards, analyzing its impact on avant-garde American composers beginning in 1947, and articulating tape’s effects on American artistic production during the Cultural Cold War. Building on experiences in previous fellowships in Shanghai and Hong Kong, he is thinking with scholarship by Lauren Flood, Anna Greenspan, Gabriele de Seta, and others, comparing the horizons of conceivability achieved by both a liberal neocolonialism of musical expression at mid-century, and music in new and febrile channels of global circulation today.
+<br>
+[www.josephpfender.wordpress.com](http://www.josephpfender.wordpress.com)
+
+---
+
 <img src="../images/joowon.png" width="320" style="float:left" hspace="10">**Joo Won Park** wants to make everyday sound beautiful and strange so that everyday becomes beautiful and strange. He performs live with toys, consumer electronics, kitchenware, vegetables, and other non-musical objects by digitally processing their sounds. He also makes pieces with field recordings, sine waves, and any other sources that he can record or synthesize. Joo Won draws inspirations from Florida swamps, Philadelphia skyscrapers, his two sons, and other soundscapes surrounding him. He has studied at Berklee College of Music and the University of Florida, and currently teaches Music Technology at the Wayne State University. Joo Won’s music and writings are available on ICMC DVD, Spectrum Press, MIT Press, PARMA, Visceral Media, MCSD, SEAMUS, and No Remixes labels.
 <br>
 [joowonpark.net](http://joowonpark.net)
