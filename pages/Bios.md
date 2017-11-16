@@ -62,7 +62,7 @@ The recipient of a 2015 Guggenheim Fellowship and a 2014 Doris Duke Artist Award
 Lehman received his B.A. (2000) and M.A. in Composition (2002) from Wesleyan University where he studied under Anthony Braxton, Jay Hoggard, and Alvin Lucier, while concurrently working with Jackie McLean at the Hartt School of Music. He received his doctorate with distinction in Music Composition from Columbia University (2012), where his principal teachers included Tristan Murail and George Lewis.<br>
 He is currently a Professor of Music at The California Institute of the Arts, and lives in Los Angeles.
 <br>
-[http://www.stevelehman.com/](http://www.stevelehman.com/)
+[www.stevelehman.com](http://www.stevelehman.com/)
 
 ---
 
