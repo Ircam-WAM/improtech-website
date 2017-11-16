@@ -39,9 +39,18 @@ title: Bios
 <br><br>
 
 ---
+
 <img src="../images/sandyjam.jpg" width="320" style="float:left" hspace="10">**Sandy James** teaches music technology and is in charge of labs, smart classrooms and computers at the Boyer College of Music and Dance, Temple University. Before Temple, she worked in the commercial software industry as a developer and analyst. Sandra has a Masters in Sonic Arts from University of Rome, Tor Vergata, a Bachelor degree in Computer Science from Temple University, and a Certificate in painting from the Pennsylvania Academy of the Fine Arts. She studied Latin Percussion at Philadelphia’s Latin American Music Association (AMLA), and has studied privately in Cuba and Panamá. Sandra uses a combination of analog sound synthesis and computer AV synthesis for her installations, fixed media pieces and performances. She has built some of her own synthesizers and modules, and has presented pieces created in Csound, Flash, pd, POVRay, Blender and Max / MSP. Sandra has presented papers on custom MIDI and OSC control at the Sorbonne in Paris, France, and the joint College Music Society/ATMI annual meeting in Minnesota.
 <br>
 [www.sandrajamesart.com](http://www.sandrajamesart.com)
+<br><br><br>
+
+---
+
+<img src="../images/ian.jpg" width="320" style="float:left" hspace="10">**KEROAÄN** is a collaborative research project between IAN M FRASER and REED EVAN ROSENBERG exploring composition of electronic music by an artificial intelligence. Pieces are diffused in real time with no human intervention whatsoever as the machine agent manipulates the qualities of chosen non-standard synthesis and microsound techniques. In live diffusions, the machine agent additionally controls laser apertures and an array of strobe lighting which collectively act as a visual projection of the agent's internal state as it structures the performance. A distinctly non-human logic pervades the resultant arrangements of chaotic sounds and high-intensity lighting, presenting an immersive, alien environment.
+<br>
+Ian M Fraser (b. 1980) resides in New York. [anmfraser.com](http://ianmfraser.com)
+Reed Evan Rosenberg (b. 1986) resides in New Jersey. [kickedrotor.tumblr.com](http://kickedrotor.tumblr.com)
 <br><br><br>
 
 ---
