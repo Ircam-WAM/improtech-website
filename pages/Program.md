@@ -161,9 +161,10 @@ Generative patches for Modular and Semi-Modular Synthesizers, to be continued
 ####Body/Environment couplings through sound and light
 Mina Zarfsaz <br>
 This talk/demo is about an interactive audio/video piece that is consisted of a system of sensors, speakers, and projectors measuring the impact of movement and human organization as it reconstructs the dismantled fragments of pieces of music with any given group of people. Like an orchestra of instruments, it is the body of the spectator that co-composes the rhythmic content by co-ordinating movements with others as they trigger the sensors. 
-
 The “notes” in this project are struck at the interface of body and machine. While in the space, each person is either an active “ON” (within a sensor range) or a passive “OFF” (out of a sensor range.) This peice forces one’s perceptual system to search the space for triggered sounds and lit surfaces; to track changes, estimate distances and corporeal relationship with others. The piece never repeats itself exactly, has no beginning, middle or end.
 
+####KEROAÄN
+KEROAÄN is a collaborative research project between IAN M FRASER and REED EVAN ROSENBERG exploring composition of electronic music by an artificial intelligence. Pieces are diffused in real time with no human intervention whatsoever as the machine agent manipulates the qualities of chosen non-standard synthesis and microsound techniques. In live diffusions, the machine agent additionally controls laser apertures and an array of strobe lighting which collectively act as a visual projection of the agent's internal state as it structures the performance. A distinctly non-human logic pervades the resultant arrangements of chaotic sounds and high-intensity lighting, presenting an immersive, alien environment.
 
 <br><br>
 
