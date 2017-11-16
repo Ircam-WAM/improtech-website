@@ -49,7 +49,8 @@ title: Bios
 
 <img src="../images/ian.jpg" width="320" style="float:left" hspace="10">**KEROAÄN** is a collaborative research project between IAN M FRASER and REED EVAN ROSENBERG exploring composition of electronic music by an artificial intelligence. Pieces are diffused in real time with no human intervention whatsoever as the machine agent manipulates the qualities of chosen non-standard synthesis and microsound techniques. In live diffusions, the machine agent additionally controls laser apertures and an array of strobe lighting which collectively act as a visual projection of the agent's internal state as it structures the performance. A distinctly non-human logic pervades the resultant arrangements of chaotic sounds and high-intensity lighting, presenting an immersive, alien environment.
 <br>
-Ian M Fraser (b. 1980) resides in New York. [anmfraser.com](http://ianmfraser.com)
+Ian M Fraser (b. 1980) resides in New York. [ianmfraser.com](http://ianmfraser.com)
+<br>
 Reed Evan Rosenberg (b. 1986) resides in New Jersey. [kickedrotor.tumblr.com](http://kickedrotor.tumblr.com)
 <br><br><br>
 
