@@ -70,9 +70,10 @@ Matmos presentation
 Ben Casey (Ableton)  
 Ableton tech update for improvisers
 
-####Digital feedback driven by spoken word
-Joseph Pfender  
-Multichannel speaker array to produce digital feedback and live cepstral analysis that is driven by spoken word
+####Coughing is a Form of Love
+Joseph Pfender & Melanie Farley
+This performance was born out of a shared interest in creating new expressive resources at the seam of the human and the algorithmic. The vocal experiment embodies the vulnerability of vocal expression, and attempts to disrupt that vulnerability by introducing chance robotic interventions, creating a kind of cyborg poetry. Drawing on the energy of groups like Pere Ubu and Patti Smith, the poetry also takes substantive inspiration from Yoko Ono’s instruction poems. The patch itself responds to historical avant-garde methods of recursive feedback, using sound synthesis and convolution procedures that have a topological affinity to David Tudor’s *Toneburst*. Taking a cue from earlier forays into instrumental belligerence and productive obstruction at NIME, we attempt to work into vocalic expressivity a logic of resistance and effervescence.
+<br>
 
 ####Density Function
 Adam Vidiksis + BEEP (Temple U.)  
