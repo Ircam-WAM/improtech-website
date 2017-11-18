@@ -42,7 +42,7 @@ title: Bios
 
 <img src="../images/gregorio.jpg" width="320" style="float:left" hspace="10">**Jeff Gregorio** is a PhD candidate at Drexel University, studying Electrical and Computer Engineering under Dr. Youngmoo Kim in the Expressive and Creative Interaction Technologies (ExCITe) Center and the Music & Entertainment Technology lab (MET-lab). His research focuses on various facets of musical expression—how it can be defined, recognized, and quantified for applications in next generation musical instruments and music recommendation systems. He is also an avid musician and multi-instrumentalist. In 2016-17 he was supported by a grant from the John S. and James L. Knight Foundation for tech enhanced music performance, which resulted in collaborative development of a system of wirelessly-communicating, electromagnetically-actuated acoustic drums with ExCITe artist in residence Peter English. In 2017 he was awarded a Philadelphia Geek Award for ”Maker of the Year” for this work. He was also a recipient of the National Science Foundation Graduate STEM Fellowship in K-12 Education (GK-12).
 <br>
-[www.poetforsale.com](http://www.poetforsale.com)
+[www.met-lab.org/jeff-gregorio](http://www.met-lab.org/jeff-gregorio)
 <br><br>
 
 ---
