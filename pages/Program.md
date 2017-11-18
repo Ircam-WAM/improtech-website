@@ -132,11 +132,11 @@ Michael Young (U. of Sunderland)
 Can computers be creative? How would we know? The Live Algorithms for Music network explores such questions in the context of live improvisation
 
 ####Drexel MET Lab overview	
-Yougmoo Kim, Jeff Gregorio	(Drexel	University)  
+Yougmoo Kim, Jeff Gregorio (Drexel University)  
 Drexel ExCITe Center / The Music and Entertainment Technology Laboratory (MET-lab) at Drexel University is devoted to research in media technologies shaping the future of live performance and entertainment. Founded in 2005, the lab's research is ever evolving.
 
 ####Math and improvisation
-Dmitri Tymoczko, Rudresh Mahantappa	(Princeton University)  
+Dmitri Tymoczko, Rudresh Mahantappa (Princeton University)  
 Talk and Performance with Rudresh Mahantappa (Saxophone)
 
 ####MIGSI: The Minimally Invasive Gesture Sensing Interface for Trumpet	
@@ -148,15 +148,15 @@ Joo Won Park (Wayne State U.)<br>
 *100 Strange Sounds* consists of one hundred video recordings of solo improvisations using live electronics [http://www.100strangesounds.com](http://www.100strangesounds.com). The purpose of this project was to improve the creator's technical and improvisational abilities while examining the documentation and promotional possibilities of an online video platform. The author will present the technical and aesthetic findings in completing the project by demonstrating the software and hardware setup as well as sharing the viewer data from Youtube and Google Analytics.
 
 ####Spatial constructs and concepts, rituals
-John Mallia / Scott Deal (NEC studio)
+John Mallia / Scott Deal (NEC studio)<br>
 John Mallia lives and works in Boston, where he is a member of the Composition Faculty, and directs the Electronic Music Studio, at the New England Conservatory of Music. His compositional process is informed by spatial constructs and concepts, and a fascination with presence, ritual, and the thresholds standing between states of existence or awareness. In addition to composing chamber music and works combining acoustic instruments with electronics, he creates fixed media compositions, and collaborates with visual artists on multimedia works, including installation.
 	
 ####Talkback: Human and Computer Improvisation through a Live-Trained Machine Learning Model<br>
 Flannery Cunningham (UPenn)<br>
 *Talkback* for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system during composition or rehearsal, in Talkback the machine learning system is trained live during the performance.  An initial semi-random musical “seed” is used as an opening output by the computer. The player improvises in response to this, and the piece evolves through an alternation of “training” and “running” the computer’s learned model.  The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material (allowing the human player to layer new musical material on top of an existing texture) and when it will generate a new seed (as when an improviser decides that the music has become too static and introduces a new idea). In this workshop, composer Flannery Cunningham will perform a version of Talkback for hammered dulcimer and laptop, introduce the technology and process of creating the work, and invite participants to experiment with the piece’s structure with their own instruments or voice.
 
-####Sandy James
-Generative patches for Modular and Semi-Modular Synthesizers, to be continued		
+####Generative patches for Modular and Semi-Modular Synthesizers, to be continued		
+Sandy James (Temple U.)<br>
 
 ####Body/Environment couplings through sound and light
 Mina Zarfsaz <br>
@@ -167,7 +167,7 @@ The “notes” in this project are struck at the interface of body and machine.
 KEROAÄN is a collaborative research project between IAN M FRASER and REED EVAN ROSENBERG exploring composition of electronic music by an artificial intelligence. Pieces are diffused in real time with no human intervention whatsoever as the machine agent manipulates the qualities of chosen non-standard synthesis and microsound techniques. In live diffusions, the machine agent additionally controls laser apertures and an array of strobe lighting which collectively act as a visual projection of the agent's internal state as it structures the performance. A distinctly non-human logic pervades the resultant arrangements of chaotic sounds and high-intensity lighting, presenting an immersive, alien environment.
 
 ####Augmentation of Acoustic Drums using Electromagnetic Actuation and Wireless Control
-Jeff Gregorio<br>
+Jeff Gregorio (Drexel)<br>
 We present a system for augmentation of acoustic drums using electromagnetic actuation of the resonant membrane, driven with continuous audio signals. Use of combinations of synthesized tones and feedback taken from the batter membrane extends the timbral and functional range of the drum. The system is designed to run on an embedded, WiFi-enabled platform, allowing multiple augmented drums to serve as voices of a spatially-distributed polyphonic synthesizer. Semi-autonomous behavior is also explored, with individual drums configured as nodes in a directed graph. EM actuation and wireless connectivity enables a network of augmented drums to function in traditionally percussive roles, as well as harmonic, melodic, and textural roles. This work is developed by an engineer in close collaboration with an artist in residence for use in live performance and interactive sound installation.
 
 <br><br>
