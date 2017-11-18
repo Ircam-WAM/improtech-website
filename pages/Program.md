@@ -166,6 +166,10 @@ The “notes” in this project are struck at the interface of body and machine.
 ####KEROAÄN
 KEROAÄN is a collaborative research project between IAN M FRASER and REED EVAN ROSENBERG exploring composition of electronic music by an artificial intelligence. Pieces are diffused in real time with no human intervention whatsoever as the machine agent manipulates the qualities of chosen non-standard synthesis and microsound techniques. In live diffusions, the machine agent additionally controls laser apertures and an array of strobe lighting which collectively act as a visual projection of the agent's internal state as it structures the performance. A distinctly non-human logic pervades the resultant arrangements of chaotic sounds and high-intensity lighting, presenting an immersive, alien environment.
 
+####Augmentation of Acoustic Drums using Electromagnetic Actuation and Wireless Control
+Jeff Gregorio<>br>
+We present a system for augmentation of acoustic drums using electromagnetic actuation of the resonant membrane, driven with continuous audio signals. Use of combinations of synthesized tones and feedback taken from the batter membrane extends the timbral and functional range of the drum. The system is designed to run on an embedded, WiFi-enabled platform, allowing multiple augmented drums to serve as voices of a spatially-distributed polyphonic synthesizer. Semi-autonomous behavior is also explored, with individual drums configured as nodes in a directed graph. EM actuation and wireless connectivity enables a network of augmented drums to function in traditionally percussive roles, as well as harmonic, melodic, and textural roles. This work is developed by an engineer in close collaboration with an artist in residence for use in live performance and interactive sound installation.
+
 <br><br>
 
 ---
