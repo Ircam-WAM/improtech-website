@@ -32,6 +32,8 @@ title: Bios
 [www.maxeilbacher.com](http://www.maxeilbacher.com)<br>
 [www.horselords.info/strobe.html](http://www.horselords.info/strobe.html)
 <br>
+<br>
+<br>
 
 ---
 
