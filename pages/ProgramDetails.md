@@ -16,5 +16,5 @@ What happens when two forms of musical intelligence—either having emerged natu
 In advanced forms of BCI (Brain-Computer Interface) in the arts we also try to imagine and implement links among complex self-organizing systems—like brains or multi-person hyper-brains—with forms of synthetic intelligence—possibly imbedded in musical instruments—, which we try to endow with some faculty for self-organization. To build these realizations, we may posit propositional models. They are propositional, because we, too, often operate with limited pre-definitions, and frequently with declared intentions to do so. Furthermore, nature operates with myriad forms of uncertainty at fundamental levels, and ironically, from that uncertainty emerges order, deviant resonances.  
 This talk will draw from selected examples of this composer’s works over several decades that explore how propositional models for musical worlds have energized a composer-performer’s practice in spontaneous music making, which often collapses distinctions among formal percepts and embraces a dynamic dimensionality in musical structures that may be fundamentally emergent and/or co-creative. Selected examples that emphasize interaction strategies in music are explored along with their implications for designs and definitions of instruments.  
 
-####test
+####test 
 
