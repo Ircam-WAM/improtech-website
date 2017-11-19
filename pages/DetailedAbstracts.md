@@ -1,7 +1,7 @@
 title: Detailed Abstracts
 status: Hidden
 
-####Portable Gold and Philosophers’ Stones (Deviant Resonances) {#anchor}
+####Portable Gold and Philosophers’ Stones (Deviant Resonances)
 David Rosenboom	(CalArts)  
 *(1972 & 2015), Computer-electronics with BCMI (Brain-Computer Music Interface), auxiliary instrument, and two active imaginative listening brainwave performers (volunteers)*  
 The “Philosopher’s Stone” is a mental symbol about the prima materia, the original substance and ultimate principle of the universe. It has been said that by returning from the qualities of sensation and thought, which we perceive through differentiation and specialization, to the undifferentiated purity of the prima materia, we might learn truths about creative power and the fundamental mutability of all phenomena. Combining this with the symbol, Portable Gold, was my way of emphasizing the timelessness and spacelessness of this idea, which we can carry with us anywhere. To manifest these symbols in music, I’ve made pieces that work with resonant coincidences detected among the physical brainwaves of performers and apply them inside the circuits of custom-built, live electronic music devices, to grow spontaneous musical forms. This version is realized with portable brainwave detectors, computer music software, and an auxiliary acoustic instrument.  
