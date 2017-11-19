@@ -1,4 +1,4 @@
-title: Detailed Program
+title: Detailed Abstracts
 status: Hidden
 
 ####Portable Gold and Philosophers’ Stones (Deviant Resonances) {#anchor}
