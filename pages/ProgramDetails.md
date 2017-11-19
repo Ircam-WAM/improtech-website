@@ -1,4 +1,4 @@
-title: toto
+title: Detailed Program
 status: Hidden
 
 ####Portable Gold and Philosophers’ Stones (Deviant Resonances) {#anchor}
