@@ -10,6 +10,7 @@ Portable Gold and Philosophers’ Stones (Deviant Resonances) continues this inv
 All the immersive electronic sounds heard in this performance are controlled by coincidences detected among spectral components extracted from performers’ brainwaves (EEG), along with occasional insertions of spontaneous musical impulses passing like breezes through the leaves of a neuromusical forest, which may react and then resettle according to whatever interactive dynamics might be then at play.  
 Thanks to InteraXon, Inc. for supporting this work by providing the Muse™ brain-sensing headbands.  
 
+<a name="foo"/>
 ####Keynotes speaker : David Rosenboom
 Deviant Resonances — Listening to Evolution  
 What happens when two forms of musical intelligence—either having emerged naturally from cosmological dynamics or been volitionally constructed by purposeful beings—attempt to initiate improvised co-communication with each other, while neither possess an a priori model describing the range and scope of manners in which either intelligence or music can be manifested? Will they even recognize each other? What predictive models can they use to search for something for which neither has a clear pre-definition? This is both a challenging and inspiring space to explore.  
