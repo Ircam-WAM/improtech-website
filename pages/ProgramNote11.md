@@ -1,4 +1,6 @@
 Title: Program Note : Concert at Annenberg Center, Dec. 11th
+Status: Hidden
+
 ####David Rosenboom  
 The Right Measure of Opposites (1998 and 2017 update)  
 Soloist: computer-electronics with algorithmic software instruments, computer-interfaced piano (Yamaha DisklavierTM grand), sound spatialization system  
