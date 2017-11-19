@@ -53,7 +53,7 @@ What happens when two forms of musical intelligence—either having emerged natu
 Roscoe Mitchell, Marc Chemillier (EHESS), Richard S. Andrew (CNMAT), Georges Bloch (U. Strasbourg)...
 
 ### Presentations, demos, performances
-<br>
+
 ####Intelligent Music Agents capable of joint intuitive and rational thinking
 Jonas Braasch (RPI)  
 This talk describes an intelligent music system approach that utilizes a joint bottom-up/top-down structure. The bottom-up structure is purely signal driven and calculates pitch, loudness, and information rate among other parameters using auditory models that simulate the functions of different parts of the brain. The top-down structure builds on a logic-based reasoning system and an ontology that was developed to reflect rules in jazz practice. Two instances of the agent have been developed to perform traditional and free jazz, and it is shown that the same general structure can be used to improvise different styles of jazz.
