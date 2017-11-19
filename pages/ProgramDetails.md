@@ -1,5 +1,5 @@
-Title: Program Details
-Status: Hidden
+Title:Program Details
+Status:Hidden
 
 ####Portable Gold and Philosophers’ Stones (Deviant Resonances) {#anchor}
 David Rosenboom	(CalArts)  
