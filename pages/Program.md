@@ -16,7 +16,7 @@ David Rosenboom  (piano, spatialization system, computer interaction)
 LaDonna Smith, Susan Alcorn, Anastasia Georgaki (violin, pedal steel, accordion, electronics)  
 Michael Young  (piano, piano-prosthesis system)  
   
-[*Program Note*](ProgramNote11)  
+[*Program Note*](ProgramNote11.md)  
   
 ### The Rotunda (dec. 13th, 8pm)
 *4014 Walnut Street, Philadelphia, PA 19104*  
