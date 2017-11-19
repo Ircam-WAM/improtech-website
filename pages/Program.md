@@ -15,9 +15,7 @@ Bob Ostertag (keyboards)
 David Rosenboom  (piano, spatialization system, computer interaction)  
 LaDonna Smith, Susan Alcorn, Anastasia Georgaki (violin, pedal steel, accordion, electronics)  
 Michael Young  (piano, piano-prosthesis system)  
-
-[Art Work]({filename}/pages/Visuals.md)  
-  
+    
 [*Program Note*]({filename}/pages/ProgramNote11.md)  
   
 ### The Rotunda (dec. 13th, 8pm)
