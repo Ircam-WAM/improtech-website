@@ -7,7 +7,7 @@ title: Program
 [*Read more ...*]({filename}pages/ProgramDetails.md)  
 [*Read more ...*]({filename}/pages/ProgramDetails.md)  
 
-
+ 
 
 
 ## Evening concerts on dec. 11th and 13h
