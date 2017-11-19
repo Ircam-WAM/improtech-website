@@ -196,3 +196,4 @@ We present a system for augmentation of acoustic drums using electromagnetic act
   <img src="../images/IKPoster_frag10.png" width="300">
    <br><br>
 </p>
+ 
