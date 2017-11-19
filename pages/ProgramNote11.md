@@ -1,6 +1,5 @@
 Title: Program Note
 Status: Hidden
-<br>
 ###Concert at Annenberg Center, Dec. 11th
 ####David Rosenboom  
 The Right Measure of Opposites (1998 and 2017 update)  
