@@ -19,7 +19,4 @@ In advanced forms of BCI (Brain-Computer Interface) in the arts we also try to i
 This talk will draw from selected examples of this composer’s works over several decades that explore how propositional models for musical worlds have energized a composer-performer’s practice in spontaneous music making, which often collapses distinctions among formal percepts and embraces a dynamic dimensionality in musical structures that may be fundamentally emergent and/or co-creative. Selected examples that emphasize interaction strategies in music are explored along with their implications for designs and definitions of instruments.  
 
 
-####test 
-bla bla bla
-
 
