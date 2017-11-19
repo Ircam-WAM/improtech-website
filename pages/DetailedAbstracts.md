@@ -1,6 +1,7 @@
 title: Detailed Abstracts
 status: Hidden
 
+<a name="Portable"/>
 ####Portable Gold and Philosophers’ Stones (Deviant Resonances)
 David Rosenboom	(CalArts)  
 *(1972 & 2015), Computer-electronics with BCMI (Brain-Computer Music Interface), auxiliary instrument, and two active imaginative listening brainwave performers (volunteers)*  
@@ -10,6 +11,7 @@ Portable Gold and Philosophers’ Stones (Deviant Resonances) continues this inv
 All the immersive electronic sounds heard in this performance are controlled by coincidences detected among spectral components extracted from performers’ brainwaves (EEG), along with occasional insertions of spontaneous musical impulses passing like breezes through the leaves of a neuromusical forest, which may react and then resettle according to whatever interactive dynamics might be then at play.  
 Thanks to InteraXon, Inc. for supporting this work by providing the Muse™ brain-sensing headbands.  
 
+<a name="Deviant"/>
 ####Keynotes speaker : David Rosenboom
 Deviant Resonances — Listening to Evolution  
 What happens when two forms of musical intelligence—either having emerged naturally from cosmological dynamics or been volitionally constructed by purposeful beings—attempt to initiate improvised co-communication with each other, while neither possess an a priori model describing the range and scope of manners in which either intelligence or music can be manifested? Will they even recognize each other? What predictive models can they use to search for something for which neither has a clear pre-definition? This is both a challenging and inspiring space to explore.  
@@ -17,7 +19,6 @@ In advanced forms of BCI (Brain-Computer Interface) in the arts we also try to i
 This talk will draw from selected examples of this composer’s works over several decades that explore how propositional models for musical worlds have energized a composer-performer’s practice in spontaneous music making, which often collapses distinctions among formal percepts and embraces a dynamic dimensionality in musical structures that may be fundamentally emergent and/or co-creative. Selected examples that emphasize interaction strategies in music are explored along with their implications for designs and definitions of instruments.  
 
 
-<a name="foo"/>
 ####test 
 bla bla bla
 
