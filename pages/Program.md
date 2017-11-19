@@ -91,9 +91,9 @@ Jazz machines and anthropology
 David Rosenboom	(CalArts)  
 Presentation and performance of David Rosenboom piece : Computer-electronics, auxiliary instrument (ex. electric violin, piano, DisklavierTM), two active imaginative listening brainwave performers (volunteers available for one orientation/rehearsal), and video projection
 
-####Improvising with a digital conductor 
+####French electroacoustic improvisation 
 Pierre Couprie (Sorbonne University), Gyorgy Kurtag (SCRIME, Bordeaux University)  
-Improvising in the electroacoustic esthetics
+During this talk, we will present a French improvisation group in electroacoustic music: ONE (Orchestre National Electroacoustique). In this group, we have developed our instrument and/or the digital part of our devices. We also use a digital conductor called 'John' which propose an improvisation score for each musician from a list of words, nuances and variation of intensity. We also discuss the analysis of performance through representation technic to study John's influence on musical improvisation.
 
 ####Recent Trends in Pulse-Based Improvisation, Rhythm Cognition, and some Potential Applications for Interactive Design
 Steve Lehman (CalArts)<br>
