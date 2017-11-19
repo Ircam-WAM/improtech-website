@@ -11,6 +11,11 @@ title: Bios
 
 ---
 
+<img src="../images/Bio_GBloch.jpg" width="320" style="float:left" hspace="10">Georges Bloch, composer and researcher, got en engineering degree before studying composition in U. C. San Diego (PH. D. in 1988). His compositions revolve around three centers of interest: music and space, interaction and collaboration with other artists. He is Associate professor at Strasbourg University and was instrumental in developing Tonmeister cursus in France, in Strasbourg and in Paris Conservatoire. Because of his interest for opera, he has been linked to music-theater productions as well as studies in film music. As researcher associated to Ircam in Paris, he actually works on the OMax/Somax/DYCI2 family of computer–assisted improvisation systems.
+<br><br><br><br>
+
+---
+
 <img src="../images/camae.jpg" width="320" style="float:left" hspace="10">**Camae Ayewa** is an interdisciplinary artist based in Philadelphia. Moor Mother (Goddess) is her low fi/dark rap/chill step/ blk girl blues/witch rap/coffee shop riot gurl songs/southern girl dittys/black ghost songs/love chants/african warrior spells/kongo hoodoo/holly hill Mississippi root jams/project housing bop/baptism jazz/quantum futurism/anthropology of conscience/superdefstar gospel/Lima dream music/slaveship punk/soultronic beats/death poems project, with which she has toured worldwide and performed at numerous festivals – sharing the stage with King Britt, Islam Chipsy, Claudia Rankine and many others.  As a soundscape artist, her work has been featured at Samek Art Museum, Metropolitan Museum of Art Chicago, Vox Populi, Moogfest, and Everson Museum of Art. Camae is also a singer in punk band The Mighty Paradocs, the voice of the liberation-minded free unit Irreversible Entanglements, and the co-founder of Rockers! Philly – a 10-year long running event series and festival focused on marginalized artists. As a workshop facilitator, she works with youth-centered programs, non profits, and shelters. As a curator of fundraising events, Camae has worked with and serves on the board of Girls Rock Philly, and is a partner at Black Quantum Futurism (with Rasheedah Phillips). Camae is also a poet and author of the forthcoming poetry book Fetish Bones, and is an avid zinemaker, noise therapist, and collector. 
 <br>
 [Pitchfork profile](https://pitchfork.com/features/rising/9968-moor-mother-hardcore-poet/)
@@ -110,6 +115,14 @@ He is currently a Professor of Music at The California Institute of the Arts, an
 [www.cie-lubat.org](http://www.cie-lubat.org)
 
 ---
+
+<img src="../images/Bio_Rudresh_Mahanthappa.jpeg" width="320" style="float:left" hspace="10">Hailed by Pitchfork as “jaw-dropping… one of the finest saxophonists going,” alto saxophonist, composer and educator **Rudresh Mahanthappa** is widely known as one of the premier voices in jazz of the 21st century. He has over a dozen albums to his credit, including the acclaimed Bird Calls, which topped many critics’ best-of-year lists for 2015 and was hailed by PopMatters as “complex, rhythmically vital, free in spirit while still criss-crossed with mutating structures.” Rudresh has been named alto saxophonist of the year for six of seven years running in Downbeat Magazine’s International Critics’ Polls (2011-2013, 2015-2017), and for five consecutive years by the Jazz Journalists’ Association (2009-2013) and again in 2016. He won alto saxophonist of the year in the 2016 JazzTimes Magazine Critics’ Poll and was named the Village Voice’s "Best Jazz Artist" in 2015.  He has also received the Guggenheim Fellowship and the Doris Duke Performing Artist Award, among other honors, and is currently the Anthony H. P. Lee ’79 Director of Jazz at Princeton University.  His newest album “Agrima” is considered to be one of the top jazz releases of 2017. Photograph © Ethan Levitas.
+<br>
+[http://rudreshm.com](http://rudreshm.com)
+<br>
+
+---
+
 
 <img src="../images/Bio_AdrienMamouMani.png" width="320" style="float:left" hspace="10">**Adrien Mamou-Mani** is the CEO and co-Founder of HyVibe. Prior to creating HyVibe, he was the lead researcher for the Ircam Instrumental Acoustics team and the professor in musical acoustics at Paris Conservatoire. He holds a PhD in Acoustics and Mechanics from the University Pierre et Marie Curie (Paris) and has been a post-doctoral researcher at the Paris Philharmonic Museum and at the Open University Acoustics Laboratory (United Kingdom) as Newton Fellow. Adrien is recognized as a world expert in vibration and control of musical instruments. His instrument prototypes have been used by classical and contemporary soloists in Europe and South America, and have inspired composers to write dedicated pieces for them.
 <br>
