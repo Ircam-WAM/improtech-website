@@ -47,7 +47,7 @@ No Idea
 ####David Rosenboom (Keynote speaker)
 Deviant Resonances — Listening to Evolution  
 What happens when two forms of musical intelligence—either having emerged naturally from cosmological dynamics or been volitionally constructed by purposeful beings—attempt to initiate improvised co-communication with each other, while neither possess an a priori model describing the range and scope of manners in which either intelligence or music can be manifested? Will they even recognize each other? What predictive models can they use to search for something for which neither has a clear pre-definition? This is both a challenging and inspiring space to explore. 
-[*Read more ...*]({filename}/pages/ProgramDetails.md#test)  
+[*Read more ...*]({filename}/pages/ProgramDetails.md)  
 
 ### Round Table : hommage to David Wessel
 Roscoe Mitchell, Marc Chemillier (EHESS), Richard S. Andrew (CNMAT), Georges Bloch (U. Strasbourg)...
