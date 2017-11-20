@@ -1,6 +1,8 @@
 title: Detailed Abstracts
 status: Hidden
 
+[TOC]
+
 <a name="Portable"/>
 ####Portable Gold and Philosophers’ Stones (Deviant Resonances)
 David Rosenboom	(CalArts)  
