@@ -6,7 +6,7 @@ title: Bios
 ---
 
 <img src="../images/Bio_SusanAlcorn.jpeg" width="320" style="float:left" hspace="10">
-#####**Susan Alcorn**.
+#####Susan Alcorn
 One of the world’s premiere musical innovators on her instrument, Baltimore-based Susan Alcorn has taken the pedal steel guitar far beyond its traditional role in country and western swing music. Known among steel guitarists for her virtuosity and authenticity in a traditional context, Alcorn first paid her dues in Texas country & western bands. Soon she began to expand the vocabulary of her instrument through her study of modern classical music (Messiaen, Varèse, Penderecki), the deep listening of Pauline Oliveros, Astor Piazzolla’s nuevo tango, free jazz, and world musics (Indian rags, South American songs, and gamelan orchestra). Her pieces reveal the complexity of her instrument and her musical experience while never straying from a very direct, intense, and personal musical expression. Though primarily a solo performer, Alcorn has collaborated with numerous artists including Pauline Oliveros, Evan Parker, Eugene Chadbourne, Peter Kowald, Chris Cutler, Ellen Fullman, Le Quan Ninh, Sean Meehan, Joe McPhee, LaDonna Smith, Mike Cooper, Jandek, Fred Frith, Maggie Nicols, and Mary Halvorson.
 <br>
 [www.susanalcorn.net](http://www.susanalcorn.net)
