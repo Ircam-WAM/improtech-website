@@ -132,7 +132,7 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 
 ---
 
-<img src="../images/Bio_Rudresh_Mahanthappa.jpeg" width="320" style="float:left" hspace="10">
+<img src="../images/Bio_Rudresh_Mahanthappa.jpg" width="320" style="float:left" hspace="10">
 ####Rudresh Mahanthappa
 Hailed by Pitchfork as “jaw-dropping… one of the finest saxophonists going,” alto saxophonist, composer and educator Rudresh Mahanthappa is widely known as one of the premier voices in jazz of the 21st century. He has over a dozen albums to his credit, including the acclaimed Bird Calls, which topped many critics’ best-of-year lists for 2015 and was hailed by PopMatters as “complex, rhythmically vital, free in spirit while still criss-crossed with mutating structures.” Rudresh has been named alto saxophonist of the year for six of seven years running in Downbeat Magazine’s International Critics’ Polls (2011-2013, 2015-2017), and for five consecutive years by the Jazz Journalists’ Association (2009-2013) and again in 2016. He won alto saxophonist of the year in the 2016 JazzTimes Magazine Critics’ Poll and was named the Village Voice’s "Best Jazz Artist" in 2015.  He has also received the Guggenheim Fellowship and the Doris Duke Performing Artist Award, among other honors, and is currently the Anthony H. P. Lee ’79 Director of Jazz at Princeton University.  His newest album “Agrima” is considered to be one of the top jazz releases of 2017. Photograph © Ethan Levitas.
 <br>
