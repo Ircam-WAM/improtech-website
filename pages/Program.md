@@ -15,19 +15,21 @@ Bob Ostertag (keyboards)
 David Rosenboom  (piano, spatialization system, computer interaction)  
 LaDonna Smith, Susan Alcorn, Anastasia Georgaki (violin, pedal steel, accordion, electronics)  
 Michael Young  (piano, piano-prosthesis system)  
-    
+Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
+
+
 [*Program Note*]({filename}/pages/ProgramNote11.md)
   
 ### The Rotunda (dec. 13th, 8pm)
 *4014 Walnut Street, Philadelphia, PA 19104*  
 
-Denis Beuret (trombone, live electronics)  
-Georges Bloch, Rémi Fox, Michelle Agnes Magalhaes (ImproteK system, Saxophone, piano)  
+Denis Beuret, Sarah Belle Reid  (trombone, Trumpet, live electronics)  
+Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
 Max Eilbacher (electronics)  
 Charles Kely, Marc Chemillier (guitar, djazz system)  
 Moor Mother (voice, electronics)  
 Dana Naphtali (electronics)  
-Bhob Rainey  
+Bhob Rainey  (electronics)
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Adam Vidiksis (percussion, electronics)  
   
