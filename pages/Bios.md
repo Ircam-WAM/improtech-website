@@ -1,8 +1,8 @@
-title: Bios
+title: Participants to ImproTech Paris - Philly
+
+---
 
 [TOC]
-
-### Improtech Paris-Philly 2017 Participants
 
 ---
 
