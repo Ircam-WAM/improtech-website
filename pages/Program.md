@@ -89,8 +89,9 @@ Adam Vidiksis + BEEP (Temple U.)
 Presentation and perfromance by percussionist & student laptop ensemble
 
 ####From OMAX to DYCI2
-Jérôme Nika (Ircam), Ken Deguernel (Inria), Rémi Fox (Saxophone)  
-From the  Omax improvisation software to the new DYCI2 project (Creative Dynamics of Improvised Interaction)
+Jérôme Nika (Ircam), Ken Deguernel (Inria), Rémi Fox (Musician)  
+From the  Omax improvisation software to the new DYCI2 project (Creative Dynamics of Improvised Interaction)  
+Current musical improvisation systems are able to generate unidimensional musical sequences by recombining their musical contents. However, considering several dimensions (melody, harmony...) and several temporal levels are difficult issues. We propose to combine probabilistic approaches with formal language theory in order to better assess the complexity of a musical discourse, both from a multidimensional and multi-level point of view in the context of improvisation where the amount of data is limited. The methods proposed have been evaluated by professional musicians and improvisers during listening sessions.
 
 ####The djazz project
 Marc Chemillier	(EHESS)  
