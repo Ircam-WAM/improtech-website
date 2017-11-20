@@ -22,7 +22,7 @@ Michael Young  (piano, piano-prosthesis system)
 *4014 Walnut Street, Philadelphia, PA 19104*  
 
 Denis Beuret (trombone, live electronics)  
-Georges Bloch, Rémy Fox, Michelle Agnes Magalhaes (ImproteK system, Saxophone, piano)  
+Georges Bloch, Rémi Fox, Michelle Agnes Magalhaes (ImproteK system, Saxophone, piano)  
 Max Eilbacher (electronics)  
 Charles Kely, Marc Chemillier (guitar, djazz system)  
 Moor Mother (voice, electronics)  
@@ -89,7 +89,7 @@ Adam Vidiksis + BEEP (Temple U.)
 Presentation and perfromance by percussionist & student laptop ensemble
 
 ####From OMAX to DYCI2
-Jérôme Nika (Ircam), Ken Deguernel (Inria), Rémy Fox (Saxophone)  
+Jérôme Nika (Ircam), Ken Deguernel (Inria), Rémi Fox (Saxophone)  
 From the  Omax improvisation software to the new DYCI2 project (Creative Dynamics of Improvised Interaction)
 
 ####The djazz project
