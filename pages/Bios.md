@@ -80,7 +80,7 @@ is a PhD candidate at Drexel University, studying Electrical and Computer Engine
 <img src="../images/sandyjam.jpg" width="320" style="float:left" hspace="10">
 ####Sandy James
 teaches music technology and is in charge of labs, smart classrooms and computers at the Boyer College of Music and Dance, Temple University. Before Temple, she worked in the commercial software industry as a developer and analyst. Sandra has a Masters in Sonic Arts from University of Rome, Tor Vergata, a Bachelor degree in Computer Science from Temple University, and a Certificate in painting from the Pennsylvania Academy of the Fine Arts. She studied Latin Percussion at Philadelphia’s Latin American Music Association (AMLA), and has studied privately in Cuba and Panamá. Sandra uses a combination of analog sound synthesis and computer AV synthesis for her installations, fixed media pieces and performances. She has built some of her own synthesizers and modules, and has presented pieces created in Csound, Flash, pd, POVRay, Blender and Max / MSP. Sandra has presented papers on custom MIDI and OSC control at the Sorbonne in Paris, France, and the joint College Music Society/ATMI annual meeting in Minnesota. [www.sandrajamesart.com](http://www.sandrajamesart.com)
-<br><br>
+<br>
 
 ---
 
@@ -91,7 +91,7 @@ is a collaborative research project between **IAN M FRASER and REED EVAN ROSENBE
 Ian M Fraser (b. 1980) resides in New York. [ianmfraser.com](http://ianmfraser.com)
 <br>
 Reed Evan Rosenberg (b. 1986) resides in New Jersey. [kickedrotor.tumblr.com](http://kickedrotor.tumblr.com)
-<br><br>
+<br>
 
 ---
 
