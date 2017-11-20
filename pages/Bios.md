@@ -150,7 +150,6 @@ is the CEO and co-Founder of HyVibe. Prior to creating HyVibe, he was the lead r
 <br>
 [hyvibe.audio](http://hyvibe.audio)  
 <br>
-<br>
 
 ---
 
