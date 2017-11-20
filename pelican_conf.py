@@ -115,6 +115,8 @@ MARKDOWN = {
             'css_class': 'highlight',
         },
         'markdown.extensions.extra': {},
+        'markdown.extensions.toc': {},
+              
         # optionally, more extensions,
         # e.g. markdown.extensions.meta
     },
