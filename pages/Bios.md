@@ -1,5 +1,6 @@
 title: Bios
 
+[TOC]
 
 ### Improtech Paris-Philly 2017 Participants
 
