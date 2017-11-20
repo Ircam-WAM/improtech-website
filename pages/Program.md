@@ -88,10 +88,14 @@ This performance was born out of a shared interest in creating new expressive re
 Adam Vidiksis + BEEP (Temple U.)  
 Presentation and perfromance by percussionist & student laptop ensemble
 
-####From OMAX to DYCI2
-Jérôme Nika (Ircam), Ken Deguernel (Inria), Rémi Fox (Musician)  
-From the  Omax improvisation software to the new DYCI2 project (Creative Dynamics of Improvised Interaction)  
-Current musical improvisation systems are able to generate unidimensional musical sequences by recombining their musical contents. However, considering several dimensions (melody, harmony...) and several temporal levels are difficult issues. We propose to combine probabilistic approaches with formal language theory in order to better assess the complexity of a musical discourse, both from a multidimensional and multi-level point of view in the context of improvisation where the amount of data is limited. The methods proposed have been evaluated by professional musicians and improvisers during listening sessions.
+####From OMax to DYCI2 : merging free, reactive, and scenario-based features in human-computer co-improvisation  
+Jérôme Nika (Ircam) with Rémi Fox (Musician)  
+The collaborative research and development project DYCI2, Creative Dynamics of Improvised Interaction, focuses on conceiving, adapting, and bringing into play efficient models of artificial listening, learning, interaction, and generation of musical contents. It aims at developing creative and autonomous digital musical agents able to take part in various human projects in an interactive and artistically credible way. The concerned areas are live performance, production, pedagogy, and active listening. 
+This presentation will give an overview of the project focusing on the design of multi-agent architectures and models of knowledge and decision (OMax, SoMax, ImproteK, DYCI2) in order to explore scenarios of music co-improvisation involving human and digital agents. The objective is to merge the usually exclusive "free", "reactive", and "scenario-based" paradigms in interactive music generation to adapt to a wide range of musical contexts involving hybrid temporality and multimodal interactions. The DYCI2 project is led in close and continuous interaction with expert musicians, and these interactions are an integral part of the iterative development of the models and of the software prototypes.  Therefore, the presentation will be illustrated by material coming from past, present, and future associated artistic projects.
+
+#### DYCI2 project : Multi-dimensional and Multi-scale learning of music structure for machine improvisation
+Ken Deguernel (Inria Nancy)  
+Current musical improvisation systems are able to generate unidimensional musical sequences by recombining their musical contents. However, considering several dimensions (melody, harmony...) and several temporal levels are difficult issues. We propose to combine probabilistic approaches with formal language theory in order to better assess the complexity of a musical discourse, both from a multidimensional and multi-level point of view in the context of improvisation where the amount of data is limited. The methods proposed have been evaluated by professional musicians and improvisers during listening sessions.  
 
 ####The djazz project
 Marc Chemillier	(EHESS)  
