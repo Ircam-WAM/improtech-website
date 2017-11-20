@@ -104,6 +104,15 @@ Reed Evan Rosenberg (b. 1986) resides in New Jersey. [kickedrotor.tumblr.com](ht
 
 ---
 
+<img src="../images/youngmoo.jpg" width="320" style="float:left" hspace="10">
+####Youngmoo Kim
+Youngmoo Kim is Director of the Expressive & Creative Interaction Technologies (ExCITe) Center and Professor of Electrical and Computer Engineering at Drexel University. He has also served as Resident Technologist for Opera Philadelphia. He received his Ph.D. from the MIT Media Lab and also holds Master's degrees in Electrical Engineering and Music (Vocal Performance Practice) from Stanford University. His research group, the Music & Entertainment Technology Laboratory (MET-lab) pursues transdisciplinary activities at the convergence of technology and creative expression and the advancement of arts-integrated learning in science and engineering, including machine understanding of sound, interfaces and robotics for expressive interaction, and K-12 outreach for STEAM education. He co-chaired the 2008 International Conference on Music Information Retrieval and was invited by the National Academy of Engineering to co-organize the “Engineering and Music” session for the 2010 Frontiers of Engineering conference.
+<br>
+[drexel.edu/excite/about/people/staff/kim](http://drexel.edu/excite/about/people/staff/kim)
+<br>
+
+---
+
 <img src="../images/Bio_MariKimura.jpeg" width="320" style="float:left" hspace="10">
 ####Mari Kimura
 is a violinist/composer and a leading figure in the field of interactive computer music. As a violinist, Mari is renowned for her mastery of subharmonics—the production of pitches that sound up to an octave below the violin’s lowest string—as well as for her dynamic performances as an improviser and her premieres of many notable compositions by today’s composers, including Luciano Berio and Salvadore Sciarrino, as well as a soloist with such major orchestras including the Tokyo Symphony and the Hamburg Symphony. She has received numerous awards and grants including a Guggenheim Fellowship, a Fromm Commission Award, a residency at IRCAM, and at the Rockefeller Brothers Fund. She is active in the development of a prototype motion sensor “Mugic” for interactive computer music performance, and she is the founding chair of Future Music Lab at the Atlantic Music Festival.  Her latest solo album “Voyage Apollonian” (Innova Recordings) includes her recent works for violin and motion sensor “Mugic”.  A graduate faculty at Juilliard since 1998, this year, Mari was appointed as a Full Professor of Music at the “Integrated Composition, Improvisation, and Technology” program (ICIT) at the University of California, Irvine.
