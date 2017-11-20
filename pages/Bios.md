@@ -66,7 +66,7 @@ Composer Flannery Cunningham is fascinated by illusion and auditory perception, 
 ####Ken Deguernel
 is a Ph.D. student in computer music, co-supervised by  Emmanuel Vincent (Inria) and Gérard Assayag (IRCAM), whose subject is learning  of musical structures in the context of improvisation. He holds a Master's degree in mathematical engineering from the French National Institute of Applied Sciences, a Master’s degree in theoretical computer science from the University of Rouen and a Master’s degree in acoustic, signal processing, and informatics applied to music from IRCAM. His research interests include music informatics, formal language theory, automata and semigroups theory, probabilistic models and musicology. In particular, his current work focuses on the understanding, the analysis and the modelling of the creative processes activated by musicians during improvisations.
 <br>
-https://members.loria.fr/KDeguernel/
+[https://members.loria.fr/KDeguernel/](https://members.loria.fr/KDeguernel/)
 
 ---
 
