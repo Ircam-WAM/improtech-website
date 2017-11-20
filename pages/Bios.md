@@ -1,4 +1,4 @@
-title: Participants to ImproTech Paris - Philly
+title: Participants
 
 ---
 
