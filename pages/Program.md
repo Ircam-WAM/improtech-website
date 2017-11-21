@@ -52,7 +52,7 @@ What happens when two forms of musical intelligence—either having emerged natu
 [*Read more ...*]({filename}/pages/DetailedAbstracts.md#keynotes-speaker-david-rosenboom)
 
 ### Round Table : Hommage to David Wessel
-Roscoe Mitchell, Marc Chemillier (EHESS), Richard S. Andrew (CNMAT), Georges Bloch (U. Strasbourg)...
+Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg)...
 
 ### Presentations, demos, performances
 
