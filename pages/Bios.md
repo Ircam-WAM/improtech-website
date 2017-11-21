@@ -341,6 +341,15 @@ is a Canadian performer-composer, active in the fields of electroacoustic trumpe
 
 ---
 
+<img src="../images/tsuruoka.jpg" width="320" style="float:left" hspace="10">
+####Toshihisa Tsuruoka
+was born in Tokyo, Japan in 1994. After having studied classical trumpet for several years and curating an annual art symposium (the Art de Art Concert) in Tokyo, Toshi ventured off to NYC to study jazz guitar and earn a BA in Philosophy with a minor in Art History. Along the way, Toshi earned an Ableton Live Producer Certificate from Dubspot.  He is currently earning an MM in Theory & Composition at NYU, striving to “perfect human imperfection in music”. 
+<br>
+<br>
+<br>
+
+---
+
 <img src="../images/watford.gif" width="320" style="float:left" hspace="10">
 ####Chris Watford
 is a Boston/New York based bassoonist concerned with the expansion of the instrument's capabilities. Praised for giving "smooth varnish" (Boston Globe) to his performances with a "clear consistent tone," Watford works to advance the instrument's relevance within diverse contexts. As a specialist in contemporary music, his performances transcend traditional practice to explore the limits of microtonality, extended techniques, improvisation and electroacoustics. His work with composers often investigates unfamiliar sounds and extreme sonic identities, with a specific dedication to the exploitation of the bassoon's acoustic peculiarities.  
