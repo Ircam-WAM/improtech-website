@@ -22,6 +22,15 @@ is an interdisciplinary artist based in Philadelphia. Moor Mother (Goddess) is h
 
 ---
 
+<img src="../images/erich.jpg" width="320" style="float:left" hspace="10">
+####Erich Barganier
+is a composer and multi-instrumentalist hailing from St. Petersburg, Florida. He focuses on writing modern classical works and experimental electronic music that explores microtonality, extended techniques, melodic interplay, generative processes, and algorithmic phrasing. His compositions have been performed live or as installations across the world in cities as diverse as New York City, London, Minsk, Sydney, and Kuala Lumpur and have been recorded on ​Nebularosa Records and Janus Music and Sound.
+<br>
+[www.barganiermusic.com](http://www.barganiermusic.com)
+<br><br><br>
+
+---
+
 <img src="../images/Bio_GBloch.jpg" width="320" style="float:left" hspace="10">
 ####Georges Bloch
 composer and researcher, got an engineering degree before studying composition in U. C. San Diego (PH. D. in 1988). His compositions revolve around three centers of interest: music and space, interaction and collaboration with other artists. He is Associate professor at Strasbourg University and was instrumental in developing Tonmeister cursus in France, in Strasbourg and in Paris Conservatoire. Because of his interest for opera, he has been linked to music-theater productions as well as studies in film music. As researcher associated to Ircam in Paris, he actually works on the OMax/Somax/DYCI2 family of computer–assisted improvisation systems.
