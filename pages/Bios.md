@@ -347,9 +347,12 @@ was born in Tokyo, Japan in 1994. After having studied classical trumpet for sev
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 ---
 
+<br>
 <br>
 <br>
 <img src="../images/watford.gif" width="320" style="float:left" hspace="10">
