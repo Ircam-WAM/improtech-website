@@ -307,6 +307,14 @@ works with sound, both acoustically and electronically. He, like a lot of people
 
 ---
 
+<img src="../images/Bio_SarahBelleReid.jpg" width="320" style="float:left" hspace="10">
+####Sarah Belle Reid
+is a Canadian performer-composer, active in the fields of electroacoustic trumpet performance, intermedia arts, music technology, and improvisation. She is a co-developer of the Minimally Invasive Gesture Sensing Interface (MIGSI) for trumpet: an open-source, wireless interface that captures performance data and provides real-time extended sonic and visual control for improvisation. Reid has presented and performed with MIGSI at institutions and festivals around the world including Stanford University’s Center for Computer Research in Music and Acoustics (CCRMA), the International Conference of New Interfaces for Musical Expression (NIME 2015: Brisbane, Australia), New Media Art & Sound Summit (NMASS 2017: Austin, TX), University of Oregon, UT Austin, and UC Irvine's Women in Music Technology Symposium (2016). As a composer, Reid’s work focuses on liminality and memory imprints both in sound and physical performance—a fascination inspired by Marcel Duchamp’s writings on infrathin—as well as the integration of electronics, hybrid/new instruments, and found objects. In 2017 her composition “Flux” for amplified percussion quartet won the Grammy-nominated Los Angeles Percussion Quartet’s Next Wave Composer Initiative. She is a founding member of the trumpet/modular synthesizer duo Burnt Dot and the Sarah Belle Reid Quartet, dedicated to exploring open forms of spontaneous creation, realization of graphic scores, and electroacoustic collaboration.
+<br>
+[www.sarahbellereid.com](http://www.sarahbellereid.com)
+
+---
+
 <img src="../images/Bio_Rosenboom.png" width="320" style="float:left" hspace="10">
 ####David Rosenboom
 Recently lauded in The New York Times as an “avatar of experimental music,” David Rosenboom is a composer-performer, interdisciplinary artist, author and educator, who over five decades has explored the spontaneous evolution of musical forms, multidisciplinary composition and performance, unique languages for improvisation, cross-cultural collaborations, performance art and literature, interactive multi-media and new instrument technologies, art-science research and philosophy, and extended musical interface with the human nervous system. His wide-ranging work is broadly distributed and presented around the world. He holds the Richard Seaver Distinguished Chair in Music at California Institute of the Arts where he is also Dean of The Herb Alpert School of Music. David Rosenboom is author of influential books such as Biofeedback and the Arts, Extended Musical Interface with the Human Nervous System and many articles and monographs. Rosenboom is a Yamaha Artist.  "David Rosenboom ... has become one of the leading lights of interactive computer composition." (The Village Voice). *Photograph by Scott Groller*.
@@ -333,14 +341,6 @@ is an American violinist, violist, vocalist, teacher, and musical impresario. A 
 
 ---
 
-<img src="../images/Bio_SarahBelleReid.jpg" width="320" style="float:left" hspace="10">
-####Sarah Belle Reid
-is a Canadian performer-composer, active in the fields of electroacoustic trumpet performance, intermedia arts, music technology, and improvisation. She is a co-developer of the Minimally Invasive Gesture Sensing Interface (MIGSI) for trumpet: an open-source, wireless interface that captures performance data and provides real-time extended sonic and visual control for improvisation. Reid has presented and performed with MIGSI at institutions and festivals around the world including Stanford University’s Center for Computer Research in Music and Acoustics (CCRMA), the International Conference of New Interfaces for Musical Expression (NIME 2015: Brisbane, Australia), New Media Art & Sound Summit (NMASS 2017: Austin, TX), University of Oregon, UT Austin, and UC Irvine's Women in Music Technology Symposium (2016). As a composer, Reid’s work focuses on liminality and memory imprints both in sound and physical performance—a fascination inspired by Marcel Duchamp’s writings on infrathin—as well as the integration of electronics, hybrid/new instruments, and found objects. In 2017 her composition “Flux” for amplified percussion quartet won the Grammy-nominated Los Angeles Percussion Quartet’s Next Wave Composer Initiative. She is a founding member of the trumpet/modular synthesizer duo Burnt Dot and the Sarah Belle Reid Quartet, dedicated to exploring open forms of spontaneous creation, realization of graphic scores, and electroacoustic collaboration.
-<br>
-[www.sarahbellereid.com](http://www.sarahbellereid.com) 
-
----
-
 <img src="../images/tsuruoka.jpg" width="320" style="float:left" hspace="10">
 ####Toshihisa Tsuruoka
 was born in Tokyo, Japan in 1994. After having studied classical trumpet for several years and curating an annual art symposium (the Art de Art Concert) in Tokyo, Toshi ventured off to NYC to study jazz guitar and earn a BA in Philosophy with a minor in Art History. Along the way, Toshi earned an Ableton Live Producer Certificate from Dubspot.  He is currently earning an MM in Theory & Composition at NYU, striving to “perfect human imperfection in music”. 
@@ -350,6 +350,8 @@ was born in Tokyo, Japan in 1994. After having studied classical trumpet for sev
 
 ---
 
+<br>
+<br>
 <img src="../images/watford.gif" width="320" style="float:left" hspace="10">
 ####Chris Watford
 is a Boston/New York based bassoonist concerned with the expansion of the instrument's capabilities. Praised for giving "smooth varnish" (Boston Globe) to his performances with a "clear consistent tone," Watford works to advance the instrument's relevance within diverse contexts. As a specialist in contemporary music, his performances transcend traditional practice to explore the limits of microtonality, extended techniques, improvisation and electroacoustics. His work with composers often investigates unfamiliar sounds and extreme sonic identities, with a specific dedication to the exploitation of the bassoon's acoustic peculiarities.  
