@@ -380,7 +380,7 @@ Watford has worked closely with such leading composers as Salvatore Sciarrino, P
 is composer and currently Deputy Vice-Chancellor at the University of Sunderland in the North East of England, previously Head of Music at Goldsmiths. He is co-founder of the EPSRC-funded Live Algorithms for Music network. He studied at the Universities of Oxford and Durham. His work has focused on interactive music systems,Bio_MichaelYoung.png art collaborations and generative audiovisual installation. Chris Redgate’s CD (Electrifying Oboe, Métier) includes two versions of oboe_prosthesis.
 <br>
 [www.michaelyoung.info](www.michaelyoung.info)  
-<br><br><br><br>
+<br><br><br><br><br>
 
 ---
 
