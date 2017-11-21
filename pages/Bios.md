@@ -37,6 +37,14 @@ composer and researcher, got an engineering degree before studying composition i
 <br><br><br><br>
 
 ---
+<img src="../images/chang.jpg" width="320" style="float:left" hspace="10">
+####Leo Chang
+is a composer of electroacoustic and acoustic new music. Lately, he has been focused on how listening practices may influence musical composition. He is currently pursuing his Master's degree in Music Composition at New York University where he studies with Joan La Barbara and Tae Hong Park. He holds a Bachelor’s degree from Washington University in St. Louis, where he studied with Christopher Stark and Juri Seo. Leo has presented his music at various festivals: notably the Society of Electro-Acoustic Music in the United States (SEAMUS) National Conference, and the New York City Electroacoustic Music Festival (NYCEMF) at National Sawdust. He has written for musicians with disparate backgrounds: from professional ensembles such as the JACK quartet and Musica Intima, to students from the Manhattan School of Music, Northwestern University, NYU, and any close friends who are willing to humor him and work with him in a creative capacity.
+<br>
+[www.listentoleo.com](http://www.listentoleo.com)
+<br><br><br>
+
+---
 
 <img src="../images/Bio_MarcChemillier.png" width="320" style="float:left" hspace="10">
 ####Marc Chemillier 
