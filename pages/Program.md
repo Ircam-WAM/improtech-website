@@ -142,9 +142,9 @@ experimental electronics of the American Midwest (Sonic Arts Union aka Robert As
 Bhob Rainey<br>
 What are some good ways, when making music that is shared among humans (and, in terms of appreciation, likely only among humans), to “get outside yourself” and connect to non-human patterns, entities, signals, etc., without pretending to be objective? Can you not only point to or represent the “great outdoors” but also bring yourself and maybe your audience "outside”? Are computers and computational thinking at all helpful in answering these questions? Let’s talk sonification and data streams and generative patterns, but let’s also ask how they function aesthetically, what ends they might serve when sounds reach ears and that communal event we call music happens.
 
-####The smart instrument project	
-Adrien Mamou-Mani (HyVibe)
-The smart instrument project. With Charles Kely.
+####Smart Acoustic Instruments: From Early Research to HyVibe
+Adrien Mamou-Mani (HyVibe)  
+Smart acoustic instruments are acoustic instruments with programmable sounds. I will present the research at the origin of this concept and examples of prototypes that have been used by artists. The emphasis will be put on the HyVibe Guitar, designed to be the future of electro-acoustic guitars, using digital technology and vibration control. Finally, I will share first ideas on its potential use for improvisation. 
 
 ####Piano Prosthesis, Live Algorithms for Music	
 Michael Young (U. of Sunderland)
