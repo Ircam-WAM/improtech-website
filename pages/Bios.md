@@ -86,6 +86,17 @@ is a PhD candidate at Drexel University, studying Electrical and Computer Engine
 
 ---
 
+<img src="../images/hatchers.jpg" width="320" style="float:left" hspace="10">
+####Hatchers
+ is the electronics and drums duo of Michael Roy Barker and Brian Osborne. These two have developed a strong vocabulary after twelve years of collaboration. Their music explores influences from noise and free jazz as well as non idiomatic free improvised music. Barker uses modified and homemade instruments, modular synth, and voice with Osborne playing a drum kit frequently augmented by tapes, contact mics, bells and gongs. They currently have finished working on a full length LP that will be out in the Spring of 2017 on Send help and Heat Retention Records. Barker also performs under the moniker “Embarker” where he has toured the US, Europe, and Japan creating hyperkinetic, genre-bending music that is often used as a soundtrack to found videos or as an interactive audio visual experience. Osborne has studied with percussion master Milford Graves, and performs in the doom/free jazz duo The Gate. He has recorded or performed with Robert Beatty, Tom Blancarte, Daniel Carter, Tim Dahl, Peter Evans, Paul Flaherty, Frode Gjerstad, Oliver Lake, Joe McPhee, Dan Peck, Tamio Shiraishi, Nate Wooley, Spencer Yeh, Wretched Worst, George Steeltoe Ensemble and more. In 2003 he founded his own record label, Heat Retention Records.
+ <br>
+[hatchers.org](http://hatchers.org)
+<br>
+[sendhelp.org/Embarker](http://sendhelp.org/Embarker)
+
+---
+
+
 <img src="../images/sandyjam.jpg" width="320" style="float:left" hspace="10">
 ####Sandy James
 teaches music technology and is in charge of labs, smart classrooms and computers at the Boyer College of Music and Dance, Temple University. Before Temple, she worked in the commercial software industry as a developer and analyst. Sandra has a Masters in Sonic Arts from University of Rome, Tor Vergata, a Bachelor degree in Computer Science from Temple University, and a Certificate in painting from the Pennsylvania Academy of the Fine Arts. She studied Latin Percussion at Philadelphia’s Latin American Music Association (AMLA), and has studied privately in Cuba and Panamá. Sandra uses a combination of analog sound synthesis and computer AV synthesis for her installations, fixed media pieces and performances. She has built some of her own synthesizers and modules, and has presented pieces created in Csound, Flash, pd, POVRay, Blender and Max / MSP. Sandra has presented papers on custom MIDI and OSC control at the Sorbonne in Paris, France, and the joint College Music Society/ATMI annual meeting in Minnesota. [www.sandrajamesart.com](http://www.sandrajamesart.com)
