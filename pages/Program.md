@@ -13,7 +13,7 @@ Bernard Lubat + Marc Chemillier & Gérard Assayag (piano, voice, Omax/ImproteK s
 Roscoe Mitchell (reeds)  
 Bob Ostertag (keyboards)  
 David Rosenboom  (piano, spatialization system, computer interaction)  
-LaDonna Smith, Susan Alcorn, (violin, pedal steel, electronics)
+LaDonna Smith, Susan Alcorn, (violin, pedal steel, electronics)  
 Michael Young  (piano, piano-prosthesis system)  
 Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
 
