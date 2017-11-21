@@ -250,19 +250,27 @@ culture, and politics since Steve Reich’s Writings on Music.”
 
 ---
 
-<img src="../images/pfender.jpg" width="320" style="float:left" hspace="10">
-####Joseph Pfender
-is a musicologist, composer, and writer. A PhD candidate at New York University, his research has focused on ways in which philosophy of technology and information theory have been incorporated into postwar modernism in musical and interarts practices. His dissertation considers the vernacularized dynamics of knowledge production in American science and technology, by exploring magnetic tape’s historical development from the late 19th-c onwards, analyzing its impact on avant-garde American composers beginning in 1947, and articulating tape’s effects on American artistic production during the Cultural Cold War. Building on experiences in previous fellowships in Shanghai and Hong Kong, he is thinking with scholarship by Lauren Flood, Anna Greenspan, Gabriele de Seta, and others, comparing the horizons of conceivability achieved by both a liberal neocolonialism of musical expression at mid-century, and music in new and febrile channels of global circulation today.
-<br>
-[www.josephpfender.wordpress.com](http://www.josephpfender.wordpress.com)
-
----
-
 <img src="../images/joowon.png" width="320" style="float:left" hspace="10">
 ####Joo Won Park
 wants to make everyday sound beautiful and strange so that everyday becomes beautiful and strange. He performs live with toys, consumer electronics, kitchenware, vegetables, and other non-musical objects by digitally processing their sounds. He also makes pieces with field recordings, sine waves, and any other sources that he can record or synthesize. Joo Won draws inspirations from Florida swamps, Philadelphia skyscrapers, his two sons, and other soundscapes surrounding him. He has studied at Berklee College of Music and the University of Florida, and currently teaches Music Technology at the Wayne State University. Joo Won’s music and writings are available on ICMC DVD, Spectrum Press, MIT Press, PARMA, Visceral Media, MCSD, SEAMUS, and No Remixes labels.
 <br>
 [joowonpark.net](http://joowonpark.net)
+
+---
+
+<img src="../images/taehong.jpg" width="320" style="float:left" hspace="10">
+####Tae Hong Park
+is a composer, bassist, and music technologist. Park received his Bachelor of Engineering degree in Electronics from Korea University in 1994 and has worked in the area of digital communication systems and digital musical keyboards at the LG Central Research Laboratory in Seoul, Korea from 1994 to 1998. He also holds degrees from Dartmouth College (M.A.) and Princeton University (M.F.A and Ph.D.). His current interests are primarily in composition of electro-acoustic and acoustic music, signal processing, computer-aided music analysis, cyber-physical systems, soundscapes, and new media studies. His music has been heard in various locations including Austria, Brazil, China, Canada, France, Germany, Holland, Hungary, Ireland, Italy, Mexico, South Korea, Slovenia, Sweden, UK, and USA; in venues, conferences and festivals including Aether Fest, Bourges, Carnegie Hall, CEAIT, CYNETart, DIEM, Electric Rainbow Coalition, EarZoom, EMM, EUCUE Series, FEMS, ffmup, High Voltage, ICMC, Into the Soundscape V, ISMEAM, klangprojektionen, LACMA, LITSK, MATA, MAXIS, NWEAMO, NYCEMF, Pulse Field, Reflexionen Festival, Santa Fe International Festival of Electro-Acoustic Music, SICMF, SEAMUS, Sonorities Festival, Spark Festival, Third Practice, and Transparent Tape Music Festival. His works have been played by groups and performers such as the Argento Ensemble, Brentano String Quartet, California E.A.R. Unit, Ensemble Surplus, Wayne Dumaine, Edward Carroll, Entropy, Kaleidoscope, Zoe Martlew, Nash Ensemble of London, New Jersey Symphony Orchestra, and the Tarab Cello Ensemble. Park is board member of SEAMUS, Editor of Journal SEAMUS, serves as Editorial Consultant for Computer Music Journal, has served two terms as President of ICMA, is director of NYU’s Interactive Arts Performance Series, is chair of the 2018 ICMC, and has served as Chair of ICMC 2006, ICAD 2013, SID 2015, and Noisegate 2016 conferences. He is author of “Introduction to DSP: Computer Musically Speaking” published in 2010. He is currently Associate Professor in Music Technology and Composition at New York University.
+<br>
+[steinhardt.nyu.edu/faculty/Tae_Hong_Park](https://steinhardt.nyu.edu/faculty/Tae_Hong_Park)
+
+---
+
+<img src="../images/pfender.jpg" width="320" style="float:left" hspace="10">
+####Joseph Pfender
+is a musicologist, composer, and writer. A PhD candidate at New York University, his research has focused on ways in which philosophy of technology and information theory have been incorporated into postwar modernism in musical and interarts practices. His dissertation considers the vernacularized dynamics of knowledge production in American science and technology, by exploring magnetic tape’s historical development from the late 19th-c onwards, analyzing its impact on avant-garde American composers beginning in 1947, and articulating tape’s effects on American artistic production during the Cultural Cold War. Building on experiences in previous fellowships in Shanghai and Hong Kong, he is thinking with scholarship by Lauren Flood, Anna Greenspan, Gabriele de Seta, and others, comparing the horizons of conceivability achieved by both a liberal neocolonialism of musical expression at mid-century, and music in new and febrile channels of global circulation today.
+<br>
+[www.josephpfender.wordpress.com](http://www.josephpfender.wordpress.com)
 
 ---
 
