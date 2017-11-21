@@ -374,6 +374,16 @@ Watford has worked closely with such leading composers as Salvatore Sciarrino, P
 
 ---
 
+
+<img src="../images/Bio_MichaelYoung.gif" width="320" style="float:left" hspace="10">
+####Michael Young
+is composer and currently Deputy Vice-Chancellor at the University of Sunderland in the North East of England, previously Head of Music at Goldsmiths. He is co-founder of the EPSRC-funded Live Algorithms for Music network. He studied at the Universities of Oxford and Durham. His work has focused on interactive music systems, art collaborations and generative audiovisual installation. Chris Redgate’s CD (Electrifying Oboe, Métier) includes two versions of oboe_prosthesis.
+<br>
+[www.michaelyoung.info](www.michaelyoung.info)
+<br>
+
+---
+
 <img src="../images/mina.jpg" width="320" style="float:left" hspace="10">
 ####Mina Zarfsaz
 is an interdisciplinary artist, designer and system thinker who works across the fields of art, philosophy, architecture, and design. Her work seeks to invert common tools and social control to create dialogue, exchange critical perspective, generate questions and ideally inspire a better understanding of what we perceive as reality and its representations. Zarfsaz’ work explores the nature of perception and the organization of the everyday in the world around us. Her work is part of a larger set of challenges to two ideas: we consider our bodies separate from our environment, and that our perception happens in our heads without requiring an enactive approach to the environment. In her procedural installations, the walking body is conditioned by the architecture where the body often gets involved in a series of imaging-along— walking around, bending, and situating in order to assemble or dismantle an expectation—that reconstitutes new perceptions, and thereby reinscribes new realities. Zarfsaz has attended Pratt Institute's MFA ComD program and received her MFA from Montclair State University in Studio Arts. She holds a BFA from State University of New York, a BA in Business Administration from University of Alzahra and an Interior Design Certificate from Tehran University. Zarfsaz currently lives and works in Philadelphia, Pennsylvania, and holds teaching appointments at Temple University, and Rowan University. Zarfsaz regularly works as a lecturer and workshop leader; her work has been shown in galleries internationally and across New York: Magnan Metz Gallery, Broadway Gallery, Times Square Museum, and New York State Museum to name a few. Her work is also featured in Artslant, NY Arts Magazine. In 2016, Zarfsaz joined the art collective Vox Populi in Philadelphia as a member and board of directors’ member representative. At Vox she focuses on curatorial and publications programming. She has been granted residencies at Vermont Studio Center and most recently at Icebox Project Space.
