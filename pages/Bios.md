@@ -361,11 +361,9 @@ was born in Tokyo, Japan in 1994. After having studied classical trumpet for sev
 <br>
 <br>
 <br>
+
 ---
 
-<br>
-<br>
-<br>
 <img src="../images/watford.gif" width="320" style="float:left" hspace="10">
 ####Chris Watford
 is a Boston/New York based bassoonist concerned with the expansion of the instrument's capabilities. Praised for giving "smooth varnish" (Boston Globe) to his performances with a "clear consistent tone," Watford works to advance the instrument's relevance within diverse contexts. As a specialist in contemporary music, his performances transcend traditional practice to explore the limits of microtonality, extended techniques, improvisation and electroacoustics. His work with composers often investigates unfamiliar sounds and extreme sonic identities, with a specific dedication to the exploitation of the bassoon's acoustic peculiarities.  
@@ -374,13 +372,12 @@ Watford has worked closely with such leading composers as Salvatore Sciarrino, P
 
 ---
 
-
 <img src="../images/Bio_MichaelYoung.png" width="320" style="float:left" hspace="10">
 ####Michael Young
 is composer and currently Deputy Vice-Chancellor at the University of Sunderland in the North East of England, previously Head of Music at Goldsmiths. He is co-founder of the EPSRC-funded Live Algorithms for Music network. He studied at the Universities of Oxford and Durham. His work has focused on interactive music systems,Bio_MichaelYoung.png art collaborations and generative audiovisual installation. Chris Redgate’s CD (Electrifying Oboe, Métier) includes two versions of oboe_prosthesis.
 <br>
 [www.michaelyoung.info](www.michaelyoung.info)  
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ---
 
