@@ -8,12 +8,12 @@ title: Program
 *3680 Walnut St, Philadelphia, PA 19104*  
 
 Marie Kimura, Gyorgy Kurtag, Pierre Couprie (violin,synths,computer interaction)  
-Steve Lehman + Hprizm  (Sax, voice, electronics)  
-Bernard Lubat + Marc Chemillier, Gérard Assayag (piano, voice, Omax/ImproteK system)  
+Steve Lehman + Hprizm  (sax, voice, electronics)  
+Bernard Lubat + Marc Chemillier & Gérard Assayag (piano, voice, Omax/ImproteK system)  
 Roscoe Mitchell (reeds)  
 Bob Ostertag (keyboards)  
 David Rosenboom  (piano, spatialization system, computer interaction)  
-LaDonna Smith, Susan Alcorn, Anastasia Georgaki (violin, pedal steel, accordion, electronics)  
+LaDonna Smith, Susan Alcorn, (violin, pedal steel, electronics)
 Michael Young  (piano, piano-prosthesis system)  
 Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
 
