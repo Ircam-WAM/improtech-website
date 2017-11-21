@@ -146,9 +146,9 @@ What are some good ways, when making music that is shared among humans (and, in 
 Adrien Mamou-Mani (HyVibe)  
 Smart acoustic instruments are acoustic instruments with programmable sounds. I will present the research at the origin of this concept and examples of prototypes that have been used by artists. The emphasis will be put on the HyVibe Guitar, designed to be the future of electro-acoustic guitars, using digital technology and vibration control. Finally, I will share first ideas on its potential use for improvisation. 
 
-####Piano Prosthesis, Live Algorithms for Music	
-Michael Young (U. of Sunderland)
-Can computers be creative? How would we know? The Live Algorithms for Music network explores such questions in the context of live improvisation
+####Live Algorithms for Music	
+Michael Young (U. of Sunderland)  
+Computational systems able to collaborate with human improvisers are live algorithms: able to cooperate proactively, on an equal basis, with musicians in performance. This is an ideal that raises fundamental questions about creativity and group interaction, how these might be computationally modelled. Can musicians and computers relate to one another, just as human musicians do? Can an audience recognize and appraise this relationship? Live algorithms offer the prospect of a new understanding of real-time creative practice that differs from the established paradigms in live electronic music: computer as instrument and computer as proxy. Drawing upon ideas from social psychology, collective music-making can be viewed as a special case of social cooperation, evidenced primarily through sound.  To attempt a functional description of live algorithms is to model modes of cooperation and causal attribution that occur between proactive agents in a shared sonic environment. The challenge of live algorithms is to find genuinely original ways for humans and computers to work together - an original way to make music. The ideal live algorithm paradigm is computer as partner.
 
 ####Drexel MET Lab overview	
 Yougmoo Kim, Jeff Gregorio (Drexel University)  
