@@ -28,7 +28,8 @@ is a composer and multi-instrumentalist hailing from St. Petersburg, Florida. He
 <br>
 [www.barganiermusic.com](http://www.barganiermusic.com)
 <br><br><br>
-
+<br>
+<br>
 ---
 
 <img src="../images/Bio_GBloch.jpg" width="320" style="float:left" hspace="10">
