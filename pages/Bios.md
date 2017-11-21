@@ -141,6 +141,13 @@ is a violinist/composer and a leading figure in the field of interactive compute
 
 ---
 
+<img src="../images/kubbara.jpg" width="320" style="float:left" hspace="10">
+####Mohamed Kubbara
+is a composer, musician and researcher based in New York City. His specialization lies at the intersection of group improvisation and computer music, investigating what role technology can play in addressing classic paradigms and paradoxes of free music. During his studies in sound engineering and music production at Birmingham City University in the UK, he became heavily involved with the free improvisation and experimental music scene. Currently pursuing a masters in music technology at New York University, Kubbara has studied with Joel Chadabe, Esther Lamneck, Dafna Naphtali and Tae Hong Park among others and performed works by composers such as Eric Lyon, Douglas Geers, Judith Shatin & Jorge Sosa as the percussionist for the NYU New Music Ensemble. In the spring of 2016, Kubbara founded the performance sect of the NYU Computer Music Group; a collective of performers, composers, engineers and other creative practitioners that focus on the use of technology for music creation.
+<br>
+
+---
+
 <img src="../images/Bio_GyorgyKurtag.jpg" width="320" style="float:left" hspace="10">
 ####György Kurtag Jr
 Arts&Sciences Coordinator in SCRIME at Université de Bordeaux, György KURTAG Jr is Composer, Performer. Researcher in innovative teaching methods of digital musical instruments. Fascinated by the musical behavior, the motivation of his works is inspired by the Collective Intelligence theory. His research include both analysis and capture of performer’s new musical gestures. He is taking part in developing the Méta-Mallette (Puce-Muse - Paris), the Continuator Project (Sony C.S.L - Paris), Dolabip (SCRIME-Bordeaux), Midi controller for Guitar by Shadow (Germany).<br>
