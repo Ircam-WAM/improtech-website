@@ -216,6 +216,15 @@ has been an icon and leader in jazz music and contemporary music for over 40 yea
 
 ---
 
+<img src="../images/naphtali.jpg" width="320" style="float:left" hspace="10">
+####Dafna Naphtali
+is a sound-artist, vocalist, electronic musician and guitarist. As performer and composer of experimental, contemporary classical and improvised music since the mid-90’s, she creates custom Max/MSP programming for live sound-processing of voice and other instruments, music for robots, audio augmented reality sound walks and “Audio Chandelier” multi-channel sound projects presented in festivals and venues in the U.S. and internationally. She received fellowships from New York Foundation for the Arts (Computer Arts 2001, Music Composition 2013), and commissions/support from NYSCA, Franklin Furnace, and American Composers Forum (for vocal sextet and electronics, and to write for pianist Kathleen Supové on Yamaha Disklavier). Her newest release "Pulsing Dot" (CLANG label, 2017) is of her duo with pianist Gordon Beeferman (she processes both her voice and the piano). "luminary” (Time Out) “extraordinary experimental vocalist” (Bruce Gallanter, Downtown Music Gallery. “Brilliant and dangerous” All Music Guide.  //// //////////    Dafna is adjunct faculty for many years at New York University (and other colleges), teaching Max/MSP, Electronic Music Performance and related classes. She worked as engineer/programmer for the artist-in- residence programs at Harvestworks since 1995 and in the 2000’s at Engine 27 multi-channel sound gallery. More recently she has written and taught about her aesthetics of live sound processing in a workshop at Harvestworks in NY (2012), at a week-long course in Helsinki at Uniarts/Sibelius Summer Sound Art Academy (2014), and in a book chapters included in "Musical Instruments in the 21st Century" (Springer 2016). In October (2017) she wrote four blog posts on Live Processing and Improvisation for NewMusicBox.org, she hopes the subject of a future book.
+<br>
+[dafna.info](http://dafna.info)
+<br><br>
+
+---
+
 <img src="../images/Bio_JeromeNika.png" width="320" style="float:left" hspace="10">
 ####Jérôme Nika
 is a postdoctoral researcher in the Music Representations team at Ircam (UMR STMS 9912 CNRS). He graduated from the “Grandes Écoles” Télécom ParisTech and ENSTA ParisTech. In addition, he studied acoustics, signal processing and computer science applied to music (multidisciplinary Master’s degree ATIAM in sciences and technologies for music, UPMC Paris 6, Télécom ParisTech, Ircam). His PhD work “Guiding human-computer music improvisation“ (“Young Researcher Prize in Science and Music" in 2015; “Young Researcher Prize" awarded by the French Association of Computer Music in 2016) focused on the introduction of authoring, composition, and control in human-computer music co-improvisation. Through the development of the software ImproteK and within the DYCI2 project, his research focuses on the integration of scenarios in music generation processes, and on the dialectic between reactivity and planning in interactive human-computer music improvisation.  
