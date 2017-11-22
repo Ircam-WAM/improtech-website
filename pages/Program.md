@@ -21,8 +21,7 @@ Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
 <br>
 
 # Evening Concert, Dec. 13th, 8pm
-
-## The Rotunda (dec. 13th, 8pm)
+**The Rotunda**
 *4014 Walnut Street, Philadelphia, PA 19104*  
   
 Moor Mother (voice, electronics)  
@@ -36,28 +35,28 @@ Adam Vidiksis (percussion, electronics)
   
 [*Program Notes*](ProgramNotes13)  
 
----
+<br>
 
 # Workshop : Dec. 11-13th (9:30am - 6pm)
 *U. Penn, Lerner Center, Rm 101, 201 S 34th St*  
 *U. Penn, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*  
 
-###Keynotes
+##Keynotes
 
-####Bob Ostertag (Keynote speaker)
-No Idea
+###Bob Ostertag (Keynote speaker)
+" No Idea " 
 
-####David Rosenboom (Keynote speaker)
-Deviant Resonances — Listening to Evolution  
+###David Rosenboom (Keynote speaker)
+Deviant Resonances — Listening to Evolution   
 What happens when two forms of musical intelligence—either having emerged naturally from cosmological dynamics or been volitionally constructed by purposeful beings—attempt to initiate improvised co-communication with each other, while neither possess an a priori model describing the range and scope of manners in which either intelligence or music can be manifested? Will they even recognize each other? What predictive models can they use to search for something for which neither has a clear pre-definition? This is both a challenging and inspiring space to explore.  
 [*Read more ...*]({filename}/pages/DetailedAbstracts.md#keynotes-speaker-david-rosenboom)
 
-### Round Table : Hommage to David Wessel
-Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg)...
+## Round Table : Hommage to David Wessel
+Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg)
 
-### Presentations, demos, performances
+## Presentations, demos, performances
 
-####Intelligent Music Agents capable of joint intuitive and rational thinking
+###Intelligent Music Agents capable of joint intuitive and rational thinking
 Jonas Braasch (RPI)  
 This talk describes an intelligent music system approach that utilizes a joint bottom-up/top-down structure. The bottom-up structure is purely signal driven and calculates pitch, loudness, and information rate among other parameters using auditory models that simulate the functions of different parts of the brain. The top-down structure builds on a logic-based reasoning system and an ontology that was developed to reflect rules in jazz practice. Two instances of the agent have been developed to perform traditional and free jazz, and it is shown that the same general structure can be used to improvise different styles of jazz.
 
