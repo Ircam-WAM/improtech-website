@@ -20,6 +20,8 @@ Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
 [*Program Note*]({filename}/pages/ProgramNote11.md)
   
   
+## Evening Concert, Dec. 13th, 8pm
+
 ### The Rotunda (dec. 13th, 8pm)
 *4014 Walnut Street, Philadelphia, PA 19104*  
 
