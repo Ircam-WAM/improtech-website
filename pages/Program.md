@@ -75,9 +75,6 @@ With Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georg
 
 ===
 
-<font color="grey"> 
-## Presentations, demos, performances
-</font>
 
 ===
 
