@@ -18,8 +18,9 @@ Michael Young  (piano, piano-prosthesis system)
 Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
   
 [*Program Note*]({filename}/pages/ProgramNote11.md)
-  
-  
+
+<br>
+
 ## Evening Concert, Dec. 13th, 8pm
 
 ### The Rotunda (dec. 13th, 8pm)
