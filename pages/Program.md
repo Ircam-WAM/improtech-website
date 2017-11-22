@@ -44,10 +44,11 @@ Adam Vidiksis (percussion, electronics)
 <br>
 
 ---
-
+<p align="center">
 <font color="blue"> 
 ## Keynotes Speakers
 </font>
+</p>
 
 ---
 
