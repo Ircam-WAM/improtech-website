@@ -1,11 +1,5 @@
 title: Program
 
----
-
-[TOC]
-
----
-
 <br>
 
 ## Evening concerts on dec. 11th and 13h
