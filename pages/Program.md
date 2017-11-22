@@ -6,19 +6,19 @@ title: Program
 
 ### Prince Theater, Annenberg Center for the Performing arts
 *3680 Walnut St, Philadelphia, PA 19104*  
-
-Marie Kimura, Gyorgy Kurtag, Pierre Couprie (violin,synths,computer interaction)  
-Steve Lehman + Hprizm  (sax, voice, electronics)  
-Bernard Lubat + Marc Chemillier & Gérard Assayag (piano, voice, Omax/ImproteK system)  
+  
 Roscoe Mitchell (reeds)  
+Steve Lehman + Hprizm  (sax, voice, electronics)  
 Bob Ostertag (keyboards)  
 David Rosenboom  (piano, spatialization system, computer interaction)  
+Bernard Lubat + Marc Chemillier & Gérard Assayag (piano, voice, Omax/ImproteK system)  
+Marie Kimura, Gyorgy Kurtag, Pierre Couprie (violin,synths,computer interaction)  
 LaDonna Smith, Susan Alcorn, (violin, pedal steel, electronics)  
 Michael Young  (piano, piano-prosthesis system)  
 Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
-
-
+  
 [*Program Note*]({filename}/pages/ProgramNote11.md)
+  
   
 ### The Rotunda (dec. 13th, 8pm)
 *4014 Walnut Street, Philadelphia, PA 19104*  
