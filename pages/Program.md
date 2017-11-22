@@ -68,6 +68,7 @@ Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bl
 
 ---
 
+
 ## Presentations, demos, performances
 <br>
 
