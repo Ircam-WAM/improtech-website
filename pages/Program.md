@@ -62,6 +62,9 @@ What happens when two forms of musical intelligence—either having emerged natu
 ---
 
 ## Round Table : Hommage to David Wessel
+
+---
+
 Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg)  
 <br>
 
