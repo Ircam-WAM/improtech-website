@@ -2,9 +2,9 @@ title: Program
 
 <br>
 
-## Evening concerts on dec. 11th and 13h
+## Evening Concert, Dec. 11th, 8pm
 
-### Prince Theater, Annenberg Center for the Performing arts (dec. 11th, 8pm)
+### Prince Theater, Annenberg Center for the Performing arts
 *3680 Walnut St, Philadelphia, PA 19104*  
 
 Marie Kimura, Gyorgy Kurtag, Pierre Couprie (violin,synths,computer interaction)  
