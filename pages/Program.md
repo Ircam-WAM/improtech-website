@@ -167,29 +167,20 @@ Youngmoo Kim (Drexel)<br>
 We present a system for augmentation of acoustic drums using electromagnetic actuation of the resonant membrane, driven with continuous audio signals. Use of combinations of synthesized tones and feedback taken from the batter membrane extends the timbral and functional range of the drum. The system is designed to run on an embedded, WiFi-enabled platform, allowing multiple augmented drums to serve as voices of a spatially-distributed polyphonic synthesizer. Semi-autonomous behavior is also explored, with individual drums configured as nodes in a directed graph. EM actuation and wireless connectivity enables a network of augmented drums to function in traditionally percussive roles, as well as harmonic, melodic, and textural roles. This work is developed by an engineer in close collaboration with an artist in residence for use in live performance and interactive sound installation.
 
 
-###Matmos presentation	
-Matmos  
-Matmos presentation
+###Soundscapes as interfaces for data-driven musical possibilities
+Tae Hong Park (NYU)
+
+###NYU Music and Audio Research Laboratory presentations
+Tae Hong Park, Leo Chang, Dafna Naphtali, Erich Barganier, Toshi Tsuruoka (NYU)
+
+###Matmos	
 
 ###Density Function
 Adam Vidiksis + BEEP (Temple U.)  
-Presentation and perfromance by percussionist & student laptop ensemble
 
-###Ableton Presentation
-Ben Casey (Ableton)  
+###Ableton
 Ableton tech update for improvisers
 
-###Soundscapes as interfaces for data-driven musical possibilities
-Tae Hong Park (NYU)  
-Hands-on, people can bring laptop running their favorite music app - e.g. Max, supercollider, etc.
-
-###NYU MARL activity Overview	
-Tae Hong Park (NYU)  
-MARL: Music and Audio Research Laboratory / DEPARTMENT OF MUSIC AND PERFORMING ARTS PROFESSIONS / Computer Music & Interactive Performance group
-
-###NYU Students Works
-NYU Music Students	
-NYU	 Students Works
 
 ###Experimental electronics of the American Midwest
 Max Eilbacher  
@@ -200,12 +191,10 @@ Marc Chemillier	(EHESS)
 Jazz machines and anthropology
 
 ###Math and improvisation
-Dmitri Tymoczko, Rudresh Mahantappa (Princeton University)  
-Talk and Performance with Rudresh Mahantappa (Saxophone)
+Dmitri Tymoczko
 
-###Generative patches for Modular and Semi-Modular Synthesizers, to be continued		
+###Generative patches for Modular and Semi-Modular Synthesizers		
 Sandy James (Temple U.)<br>
-
 
 
 <br><br>
