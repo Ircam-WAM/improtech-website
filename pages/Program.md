@@ -60,17 +60,20 @@ What happens when two forms of musical intelligence—either having emerged natu
 ## Round Table : Hommage to David Wessel
 Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg)
 
+<br>
+
 ## Presentations, demos, performances
+<br>
 
 ###Intelligent Music Agents capable of joint intuitive and rational thinking
 Jonas Braasch (RPI)  
 This talk describes an intelligent music system approach that utilizes a joint bottom-up/top-down structure. The bottom-up structure is purely signal driven and calculates pitch, loudness, and information rate among other parameters using auditory models that simulate the functions of different parts of the brain. The top-down structure builds on a logic-based reasoning system and an ontology that was developed to reflect rules in jazz practice. Two instances of the agent have been developed to perform traditional and free jazz, and it is shown that the same general structure can be used to improvise different styles of jazz.
 
-####Live Scoring for Computer Assisted Composition
+###Live Scoring for Computer Assisted Composition
 Justin Yang	(RPI)  
 This talk explores the use of networked computer animation as a front end for composition and scoring for live performers. An assortment of computer animated graphic tools can be used to develop interactions between algorithms and AI, and live performers. These tools help open the door for possibilities such as real-time scoring, structured improvisation, multi-nodal composition, real-time orchestration, and performer-computer interactions.
 
-####Reembodied Sound and Algorithmic Environments for Improvisation
+###Reembodied Sound and Algorithmic Environments for Improvisation
 Matthew Goodheart (RPI)  
 Reembodied sound is a form of electroacoustics that uses transducer-driven resonant objects to create acoustic realizations of sample and analysis derived mixed synthesis. This talk will focus on the use of reembodied sound as a generative basis to create large-scale, algorithmically driven sonic environments for improvisers, discussing both technical implementation and aesthetic orientation. Directions for future research involving digital listening agents and interactivity will also be addressed.
 
