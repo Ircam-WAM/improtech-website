@@ -45,7 +45,9 @@ Adam Vidiksis (percussion, electronics)
 
 ---
 
-##Keynotes Speakers
+## Keynotes Speakers
+
+---
 
 <br>
 
@@ -71,6 +73,9 @@ Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bl
 ---
 
 ## Presentations, demos, performances
+
+---
+
 <br>
 
 ###Intelligent Music Agents capable of joint intuitive and rational thinking
