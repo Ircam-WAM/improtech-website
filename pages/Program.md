@@ -2,9 +2,9 @@ title: Program
 
 <br>
 
-## Evening Concert, Dec. 11th, 8pm
+# Evening Concert, Dec. 11th, 8pm
 
-### Prince Theater, Annenberg Center for the Performing arts
+## Prince Theater, Annenberg Center for the Performing arts
 *3680 Walnut St, Philadelphia, PA 19104*  
   
 Roscoe Mitchell (reeds)  
@@ -21,9 +21,9 @@ Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
 
 <br>
 
-## Evening Concert, Dec. 13th, 8pm
+# Evening Concert, Dec. 13th, 8pm
 
-### The Rotunda (dec. 13th, 8pm)
+## The Rotunda (dec. 13th, 8pm)
 *4014 Walnut Street, Philadelphia, PA 19104*  
   
 Moor Mother (voice, electronics)  
@@ -39,9 +39,9 @@ Adam Vidiksis (percussion, electronics)
 
 ---
 
-## Workshop on dec 11-13th (9:30am - 6pm)
+# Workshop : Dec. 11-13th (9:30am - 6pm)
 *U. Penn, Lerner Center, Rm 101, 201 S 34th St*  
-*U. Penn, Fisher-Bennett Hall	419 Rose Hall, 3340 Walnut St*  
+*U. Penn, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*  
 
 ###Keynotes
 
