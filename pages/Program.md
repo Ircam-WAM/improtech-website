@@ -45,7 +45,7 @@ Adam Vidiksis (percussion, electronics)
 
 ---
 <p align="center">
-<font color="blue"> 
+<font color="grey"> 
 ## Keynotes Speakers
 </font>
 </p>
