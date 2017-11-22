@@ -35,7 +35,7 @@ Adam Vidiksis (percussion, electronics)
   
 [*Program Notes*](ProgramNotes13)  
 
-<br>
+<br><br>
 
 # Workshop : Dec. 11-13th (9:30am - 6pm)
 *U. Penn, Lerner Center, Rm 101, 201 S 34th St*  
@@ -55,7 +55,7 @@ Adam Vidiksis (percussion, electronics)
 ###David Rosenboom
 Deviant Resonances — Listening to Evolution   
 What happens when two forms of musical intelligence—either having emerged naturally from cosmological dynamics or been volitionally constructed by purposeful beings—attempt to initiate improvised co-communication with each other, while neither possess an a priori model describing the range and scope of manners in which either intelligence or music can be manifested? Will they even recognize each other? What predictive models can they use to search for something for which neither has a clear pre-definition? This is both a challenging and inspiring space to explore.  
-[*Read more ...*]({filename}/pages/DetailedAbstracts.md#keynotes-speaker-david-rosenboom) <br><br>
+[*Read more ...*]({filename}/pages/DetailedAbstracts.md#keynotes-speaker-david-rosenboom) <br><br><br>
 
 ---
 
@@ -63,7 +63,7 @@ What happens when two forms of musical intelligence—either having emerged natu
 
 ---
 
-With Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg) <br><br>
+With Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg) <br><br><br>
 
 ---
 
