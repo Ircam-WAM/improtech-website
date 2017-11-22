@@ -74,13 +74,11 @@ What happens when two forms of musical intelligence—either having emerged natu
 With Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg) <br><br>
 
 ---
-
 <font color="grey"> 
 ## Presentations, demos, performances
 </font>
 
 ---
-
 <br>
 
 ####Intelligent Music Agents capable of joint intuitive and rational thinking
