@@ -41,6 +41,8 @@ Adam Vidiksis (percussion, electronics)
 *U. Penn, Lerner Center, Rm 101, 201 S 34th St*  
 *U. Penn, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*  
 
+<br>
+
 ##Keynotes
 
 ###Bob Ostertag (Keynote speaker)
