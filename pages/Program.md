@@ -74,9 +74,16 @@ What happens when two forms of musical intelligence—either having emerged natu
 With Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg)
 
 ---
+
 <font color="grey"> 
 ## Presentations, demos, performances
 </font>
+
+---
+
+---
+
+---
 
 ---
 
