@@ -181,7 +181,6 @@ Adam Vidiksis + BEEP (Temple U.)
 ###Ableton
 Ableton tech update for improvisers
 
-
 ###Experimental electronics of the American Midwest
 Max Eilbacher  
 experimental electronics of the American Midwest (Sonic Arts Union aka Robert Ashley, Alvin Lucier, Gordon Mumma, etc)
@@ -196,6 +195,10 @@ Dmitri Tymoczko
 ###Generative patches for Modular and Semi-Modular Synthesizers		
 Sandy James (Temple U.)<br>
 
+### CCRMA 
+Matt Wright
+
+
 
 <br><br>
 
@@ -206,4 +209,4 @@ Sandy James (Temple U.)<br>
   <img src="../images/IKPoster_frag10.png" width="300">
    <br><br>
 </p>
- 
+
