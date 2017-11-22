@@ -25,13 +25,12 @@ Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
 
 ### The Rotunda (dec. 13th, 8pm)
 *4014 Walnut Street, Philadelphia, PA 19104*  
-
-Denis Beuret, Sarah Belle Reid  (trombone, Trumpet, live electronics)  
+  
+Moor Mother (voice, electronics)  
+Dana Naphtali (electronics)  Denis Beuret, Sarah Belle Reid  (trombone, Trumpet, live electronics)  
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
 Max Eilbacher (electronics)  
 Charles Kely, Marc Chemillier (guitar, djazz system)  
-Moor Mother (voice, electronics)  
-Dana Naphtali (electronics)  
 Bhob Rainey  (electronics)
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Adam Vidiksis (percussion, electronics)  
