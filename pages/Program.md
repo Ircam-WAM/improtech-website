@@ -76,6 +76,9 @@ With Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georg
 ---
 
 ---
+flksjfslkjdgh
+
+---
 
 ####Intelligent Music Agents capable of joint intuitive and rational thinking
 Jonas Braasch (RPI)  
