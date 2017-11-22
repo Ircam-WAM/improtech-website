@@ -44,11 +44,10 @@ Adam Vidiksis (percussion, electronics)
 <br>
 
 ---
-<p align="center">
+
 <font color="grey"> 
 ## Keynotes Speakers
 </font>
-</p>
 
 ---
 
@@ -62,7 +61,9 @@ What happens when two forms of musical intelligence—either having emerged natu
 
 ---
 
+<font color="grey"> 
 ## Round Table : Hommage to David Wessel
+</font>
 
 ---
 
@@ -70,7 +71,9 @@ With Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georg
 
 ---
 
+<font color="grey"> 
 ## Presentations, demos, performances
+</font>
 
 ---
 
