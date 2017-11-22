@@ -49,8 +49,6 @@ Adam Vidiksis (percussion, electronics)
 
 ---
 
-<br>
-
 ###Bob Ostertag
 " No Idea " 
 
@@ -67,7 +65,8 @@ What happens when two forms of musical intelligence—either having emerged natu
 
 ---
 
-Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg)  
+With Roscoe Mitchell, Marc Chemillier (EHESS), Matt Wright (CCRMA, CNMAT), Georges Bloch (U. Strasbourg)  
+
 <br>
 
 ---
