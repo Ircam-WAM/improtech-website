@@ -186,7 +186,8 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 
 ---
 
-{% comment %}
+<!--
+
 
 <img src="../images/Bio_Rudresh_Mahanthappa.jpg" width="320" style="float:left" hspace="10">
 ####Rudresh Mahanthappa
@@ -198,7 +199,7 @@ His newest album “Agrima” is considered to be one of the top jazz releases o
 [http://rudreshm.com](http://rudreshm.com)
 <br><br><br><br><br><br>
 
-{% endcomment %}
+  -->
 
 ---
 
