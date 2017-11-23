@@ -8,7 +8,11 @@ ImproTech Paris-Philly Art Work
 ---
 
 <p align="center">
+   <img src="../images/IKPoster.005.jpeg" width="600" hspace="20">
+  <br><br>
   <img src="../images/Flyer.png" width="600" hspace="20">
+  <br><br>
+   <img src="../images/Logos_Prod.png" width="600" hspace="20">
   <br><br>
    <img src="../images/IKPoster.001.jpeg" width="600" hspace="20">
   <br><br>
@@ -18,8 +22,7 @@ ImproTech Paris-Philly Art Work
   <br><br>
   <img src="../images/IKPoster.004.jpeg" width="600" hspace="20">
   <br><br>
-  <img src="../images/IKPoster.005.jpeg" width="600" hspace="20">
-  <br><br>
+ 
 </p>
 
 
