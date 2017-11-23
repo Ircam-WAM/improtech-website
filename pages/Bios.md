@@ -377,6 +377,12 @@ Watford has worked closely with such leading composers as Salvatore Sciarrino, P
 
 ---
 
+<img src="../images/Bio_MattWright.jpg" width="320" style="float:left" hspace="10">
+####Matt Wright
+Dr. Matthew Wright is a media systems designer, improvising composer/musician, computer music researcher, and the Technical Director of Stanford's Center for Computer Research in Music and Acoustics (CCRMA).  He was the Musical Systems Designer at U.C. Berkeley's Center for New Music and Audio Technology (CNMAT) from 1993-2008, where he became known for his promotion of the Sound Description Interchange Format (SDIF) and Open Sound Control (OSC) standards, as well as his work with real-time mapping of musical gestures to sound synthesis.  His dissertation at CCRMA concerned computer modeling of the perception of musical rhythm: "The Shape of an Instant: Measuring and Modeling Perceptual Attack Time with Probability Density Functions."   He was the Research Director of UCSB's Center for Research in Electronic Arts and Technology (CREATE) for eight years, where he taught classes, advised students, founded and directed the CREATE Ensemble dedicated to research and musical creation with technology in a live performance context (which he still directs remotely), as well as being Principal Development Engineer for the AlloSphere, a 3-story full-surround immersive audiovisual instrument for scientific and artistic research.   As a musician, he plays a variety of traditional plucked lutes, Afro-Brazilian percussion, and computer-based instruments of his own design, in both traditional music contexts and experimental new works.
+
+---
+
 <img src="../images/Bio_MichaelYoung.png" width="320" style="float:left" hspace="10">
 ####Michael Young
 is composer and currently Deputy Vice-Chancellor at the University of Sunderland in the North East of England, previously Head of Music at Goldsmiths. He is co-founder of the EPSRC-funded Live Algorithms for Music network. He studied at the Universities of Oxford and Durham. His work has focused on interactive music systems, art collaborations and generative audiovisual installation. Chris Redgate’s CD (Electrifying Oboe, Métier) includes two versions of oboe_prosthesis.
