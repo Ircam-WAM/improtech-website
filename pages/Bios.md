@@ -158,8 +158,8 @@ is a composer, musician and researcher based in New York City. His specializatio
 ---
 
 <img src="../images/Bio_GyorgyKurtag.jpg" width="320" style="float:left" hspace="10">
-####György Kurtag Jr
-Gyorgy KURTAG Jr is a composer, performer and researcher specialized in the design of innovative methods for teaching digital instruments. Fascinated by the study of musical behavior(s), his work relies principally on the Collective Intelligence Theory. His research works notably include the capture and analysis of musical gestures. <br>
+####György Kurtág Jr
+György Kurtág Jr is a composer, performer and researcher specialized in the design of innovative methods for teaching digital instruments. Fascinated by the study of musical behavior(s), his work relies principally on the Collective Intelligence Theory. His research works notably include the capture and analysis of musical gestures. <br>
 He also co-developed the Méta-Mallette (Puce-Muse-Paris), the Continuator Project (Sony C.S.L-Paris), Dolabip (SCRIME-Bordeaux), Midi controller for Guitar by Shadow, (Germany). Nowadays, he is the main Arts&Sciences Coordinator of the SCRIME studio, at the University of Bordeaux.<br>
 In the 1980s, Gyorgy KURTAG Jr  collaborated with some of the most influential American researchers-composers in the computer music such as John Chowning, Tod Machover, George E. Lewis and David Wessel at IRCAM, the wold renowned musical research institute of Paris.<br>
 All these expériences inspired him to create his own musical and digital universe.
