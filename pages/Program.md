@@ -11,7 +11,7 @@ Steve Lehman + Hprizm  (sax, voice, electronics)
 Bob Ostertag (keyboards)  
 David Rosenboom  (piano, spatialization system, computer interaction)  
 Bernard Lubat + Marc Chemillier & Gérard Assayag (piano, voice, Omax/ImproteK system)  
-Marie Kimura, Gyorgy Kurtag, Pierre Couprie (violin,synths,computer interaction)  
+Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
 LaDonna Smith, Susan Alcorn, (violin, pedal steel, electronics)  
 Michael Young  (piano, piano-prosthesis system)  
 Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
@@ -121,7 +121,7 @@ The “Philosopher’s Stone” is a mental symbol about the prima materia, the 
 [*Read more ...*]({filename}/pages/DetailedAbstracts.md#portable-gold-and-philosophers-stones-deviant-resonances)
 
 ####ONE and John: Oriented Improvisation
-Pierre Couprie (Sorbonne University), Gyorgy Kurtag (SCRIME, Bordeaux University)  
+Pierre Couprie (Sorbonne University), György Kurtág Jr (SCRIME, Bordeaux University)  
 During this talk, we will present a French improvisation group in electroacoustic music: [ONE](http://www.pucemuse.com/odyssee-hyperphonique/) (Orchestre National Electroacoustique). In this group, we have developed our instrument and/or the digital part of our devices. We also use a digital conductor called 'John' which propose an improvisation score for each musician from a list of words, nuances and variation of intensity. We also discuss the analysis of performance through representation technic to study John's influence on musical improvisation.
 
 ####Recent Trends in Pulse-Based Improvisation, Rhythm Cognition, and some Potential Applications for Interactive Design
