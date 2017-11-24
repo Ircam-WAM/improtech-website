@@ -159,12 +159,12 @@ is a composer, musician and researcher based in New York City. His specializatio
 
 <img src="../images/Bio_GyorgyKurtag.jpg" width="320" style="float:left" hspace="10">
 ####György Kurtag Jr
-Arts&Sciences Coordinator in SCRIME at Université de Bordeaux, György KURTAG Jr is Composer, Performer. Researcher in innovative teaching methods of digital musical instruments. Fascinated by the musical behavior, the motivation of his works is inspired by the Collective Intelligence theory. His research include both analysis and capture of performer’s new musical gestures. He is taking part in developing the Méta-Mallette (Puce-Muse - Paris), the Continuator Project (Sony C.S.L - Paris), Dolabip (SCRIME-Bordeaux), Midi controller for Guitar by Shadow (Germany).<br>
-In the 1980s, he followed his mentor, Peter Eötvös to IRCAM (Paris), where he has collaborated with some of the most influential American researchers-composers in the computer music such as John Chowning, Tod Machover, George E. Lewis and David Wessel.<br> 
+Gyorgy KURTAG Jr is a composer, performer and researcher specialized in the design of innovative methods for teaching digital instruments. Fascinated by the study of musical behavior(s), his work relies principally on the Collective Intelligence Theory. His research works notably include the capture and analysis of musical gestures. <br>
+He also co-developed the Méta-Mallette (Puce-Muse-Paris), the Continuator Project (Sony C.S.L-Paris), Dolabip (SCRIME-Bordeaux), Midi controller for Guitar by Shadow, (Germany). Nowadays, he is the main Arts&Sciences Coordinator of the SCRIME studio, at the University of Bordeaux.<br>
+In the 1980s, Gyorgy KURTAG Jr  collaborated with some of the most influential American researchers-composers in the computer music such as John Chowning, Tod Machover, George E. Lewis and David Wessel at IRCAM, the wold renowned musical research institute of Paris.<br>
 All these expériences inspired him to create his own musical and digital universe.
 <br>
 [www.dailymotion.com/video/x1vrmwd](http://www.dailymotion.com/video/x1vrmwd) / [www.youtube.com/watch?v=MJ8Z5skovLw](https://www.youtube.com/watch?v=MJ8Z5skovLw) / [www.youtube.com/watch?v=M3Tr8mSDYl8](https://www.youtube.com/watch?v=M3Tr8mSDYl8)
-
 ---
 
 <img src="../images/Bio_SteveLehman.jpeg" width="320" style="float:left" hspace="10">
