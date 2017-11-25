@@ -9,7 +9,7 @@ Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musician
 #### Workshop - Festival, December 11th - 13th, 2017 at the University of Pennsylvania
 <br>
 <br>
-**11th - 13th**, **Workshop** keynotes, presentations, demos and performances at U.Penn from 9:30 - 18:00  
+**11th - 13th**, **Workshop** keynotes, presentations, demos and performances at U.Penn, Drexel U. and ICA,  from 9:30 - 18:00  
 **11th**, **Evening concert** at the Annenberg Center for the Performing Arts  
 **13th**, **Evening concert** at The Rotunda  
 <br>
