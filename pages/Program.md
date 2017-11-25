@@ -25,7 +25,8 @@ Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
 *4014 Walnut Street, Philadelphia, PA 19104*  
   
 Moor Mother (voice, electronics)  
-Dana Naphtali (electronics)  Denis Beuret, Sarah Belle Reid  (trombone, Trumpet, live electronics)  
+Dana Naphtali (electronics)  
+Denis Beuret, Sarah Belle Reid  (trombone, Trumpet, live electronics)  
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
 Max Eilbacher (electronics)  
 Charles Kely, Marc Chemillier (guitar, djazz system)  
