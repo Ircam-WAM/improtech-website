@@ -28,6 +28,8 @@ Scholars, students, musicians, makers will come from many places in europe and t
 
 ##Highlights
 <br>
+###on participants
+<br>
 «  A legend in the field of avant-garde jazz and contemporary music, Mr. **Roscoe Mitchell** is a founding member of the world renowned **Art Ensemble of Chicago**, the Association for the Advancement of Creative Musicians (**AACM**), and many music ensembles. » 
 
 «  Described as “**a state-of-the-art musical thinker**” and a "dazzling saxophonist,” by The **New York Times**, **Steve Lehman** (b. New York City, 1978) is a composer, performer, educator, and scholar who works across a broad spectrum of experimental musical idioms. Lehman’s pieces for large orchestra and chamber ensembles have been performed by the International Contemporary Ensemble (ICE), So Percussion, Kammerensemble Neue Musik Berlin, the JACK Quartet, the PRISM Saxophone Quartet, and the Talea Ensemble. His recent recording, Mise en Abîme (Pi, 2014) was called the **#1 Jazz Album of the year** by NPR Music and The Los Angeles Times. And his previous recording, Travail, Transformation & Flow (Pi, 2009), was chosen as the **#1 Jazz Album of the year** by The New York Times.
