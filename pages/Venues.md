@@ -2,10 +2,11 @@ title: Venues
 
 ---
 
- - [Music Department, University of Pennsylvania, Philadelphia](https://www.sas.upenn.edu/music/)
+ - [University of Pennsylvania, Philadelphia](https://www.sas.upenn.edu/music/)
+ - [ICA - Institute of Contemporary Art, Philadelphia](http://icaphila.org/)
+ - [ExCITe Center, Drexel Univesity](www.drexel.edu)
  - [Harold Prince Theater, Annenberg Center for the Performing Arts, Philadelphia](https://www.annenbergcenter.org)
  - [The Rotunda, Philadelphia](http://www.therotunda.org/)
- - [ICA - Institute of Contemporary Art, Philadelphia](http://icaphila.org/)
 
  <br><br>
  
