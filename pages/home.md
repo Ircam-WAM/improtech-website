@@ -27,7 +27,6 @@ Scholars, students, musicians, makers will come from many places in europe and t
 ---
 
 ##Highlights
-<br>
 ###on participants
 <br>
 «  A legend in the field of avant-garde jazz and contemporary music, Mr. **Roscoe Mitchell** is a founding member of the world renowned **Art Ensemble of Chicago**, the Association for the Advancement of Creative Musicians (**AACM**), and many music ensembles. » 
