@@ -193,10 +193,6 @@ Adam Vidiksis + BEEP (Temple U.)
 ####Ableton
 Ableton tech update for improvisers
 
-####Experimental electronics of the American Midwest
-Max Eilbacher  
-experimental electronics of the American Midwest (Sonic Arts Union aka Robert Ashley, Alvin Lucier, Gordon Mumma, etc)
-
 ####The djazz project
 Marc Chemillier	(EHESS)  
 Jazz machines and anthropology
