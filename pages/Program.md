@@ -6,15 +6,15 @@ title: Program
 **Prince Theater, Annenberg Center for the Performing arts**
 *3680 Walnut St, Philadelphia, PA 19104*  
   
-Roscoe Mitchell (reeds)  
-Steve Lehman + Hprizm  (sax, voice, electronics)  
-Bob Ostertag (keyboards)  
-David Rosenboom  (piano, spatialization system, computer interaction)  
-Bernard Lubat + Marc Chemillier & Gérard Assayag (piano, voice, Omax/ImproteK system)  
-Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
 LaDonna Smith, Susan Alcorn, Miya Masaoka (violin, pedal steel, monocord, electronics)  
-Michael Young  (piano, piano-prosthesis system)  
-Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)
+Roscoe Mitchell (reeds)  
+David Rosenboom (piano, spatialization system, computer interaction)  
+Steve Lehman + Hprizm (sax, voice, electronics)  
+Bernard Lubat + Marc Chemillier & Gérard Assayag (piano, voice, Omax/ImproteK system)  
+Bob Ostertag (keyboards)  
+Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
+Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)  
+Michael Young (piano, piano-prosthesis system)  
   
 [*Program Note*]({filename}/pages/ProgramNote11.md)
 
