@@ -137,7 +137,16 @@ is a PhD candidate at Drexel University, studying Electrical and Computer Engine
 [sendhelp.org/Embarker](http://sendhelp.org/Embarker)
 
 ---
+<img src="../images/hickman.png" width="320" style="float:left" hspace="10">
+####Oliver Hickman
+is a composer currently residing in Brooklyn, New York. He holds a Bachelor of Music degree in composition from Columbia College Chicago and is currently pursuing a Master of Music degree from NYU Steinhardt. Oliver has written works for soloists to large ensembles including Dal Niente, the JACK Quartet, Chicago Composers Orchestra, the NYU Composers’ Ensemble, and Mocrep. His works have been performed throughout the United States and Europe and he has presented research at the International Computer Music Confrence. His current interests include texture, timbre, economy of means as it pertains to music, and the relationship between composer control and player freedom.
+<br>
+[www.oliverhickmanmusic.com](http://www.oliverhickmanmusic.com)
+<br>
+<br>
+<br>
 
+---
 
 <img src="../images/sandyjam.jpg" width="320" style="float:left" hspace="10">
 ####Sandy James
