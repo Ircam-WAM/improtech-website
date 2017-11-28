@@ -1,5 +1,8 @@
 title: Program2
 status: hidden
+<br>
+
+---
 
 #Workshop, Dec. 11th Morning
 ##Theme : Instruments, spaces, bodies
@@ -43,6 +46,8 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 ###12:45 Lunch Break
 <br>
 
+---
+
 #Workshop, Dec. 11th Afternoon
 ##Theme : Instruments, spaces, bodies
 <br>
@@ -56,7 +61,7 @@ Performer-composer-technologist Sarah Reid will introduce the Minimally Invasive
 ###Denis Beuret
 (to be completed)  
 
-###Body/Environment couplings through sound and light
+###Body/Environment couplings through sound and light  
 Mina Zarfsaz  
 
 This talk/demo is about an interactive audio/video piece that is consisted of a system of sensors, speakers, and projectors measuring the impact of movement and human organization as it reconstructs the dismantled fragments of pieces of music with any given group of people. Like an orchestra of instruments, it is the body of the spectator that co-composes the rhythmic content by co-ordinating movements with others as they trigger the sensors. The “notes” in this project are struck at the interface of body and machine. While in the space, each person is either an active “ON” (within a sensor range) or a passive “OFF” (out of a sensor range.) This piece forces one’s perceptual system to search the space for triggered sounds and lit surfaces; to track changes, estimate distances and corporeal relationship with others. The piece never repeats itself exactly, has no beginning, middle or end.
@@ -74,6 +79,18 @@ Bhob Rainey
 
 What are some good ways, when making music that is shared among humans (and, in terms of appreciation, likely only among humans), to “get outside yourself” and connect to non-human patterns, entities, signals, etc., without pretending to be objective? Can you not only point to or represent the “great outdoors” but also bring yourself and maybe your audience "outside”? Are computers and computational thinking at all helpful in answering these questions? Let’s talk sonification and data streams and generative patterns, but let’s also ask how they function aesthetically, what ends they might serve when sounds reach ears and that communal event we call music happens.
 
-####18:00
-### End of Dec. 11 sessions
+<br>
+###18:00 End of Dec. 11 sessions
+
+---
+
+#Workshop, Dec. 11th Morning
+##Theme : Instruments, spaces, bodies
+<br>
+
+####09:30
+
+
+
+
 
