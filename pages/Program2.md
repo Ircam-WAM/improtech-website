@@ -169,12 +169,20 @@ Katarina Miljkovic and Chris Watford
 
 Fabric of the electronic and instrumental part in the composition is derived from the structure of an automaton. Resulting sound events are of a modular nature and provide a field of possibilities for performers. During the performance, both performers traverse through the automaton by freely selecting sound modules while using the automaton data as time brackets. Live sound processing is happening through plugins. As a result, CA generates the structure, dictates the overall process but also embraces indeterminacy coming from a human response to a deterministic nature of the automaton, and an attempt to communicate with it. The piece is 12' long (there is also a version 24’ long). Sonic material is based on a field recording of a lament song from Balkans. The field recording is filtered through CA to create sound modules, which are treated in the way previously described.
 
+---
+
+<font color="grey"> 
+#Events at the Institute of Contemporary Art, Dec 12. aft. and evening
+</font>
+
+---
+
 <br>
-###16:30 ROUND TABLE at ICA : David Wessel Legacy, the researcher / musician
+##16:30 ROUND TABLE at ICA : David Wessel Legacy, the researcher / musician
 With Roscoe Mitchell, Matt Wright, Marc Chemillier, George Bloch
 
 <br>
-###17:45 Performances at ICA
+##17:45 Performances at ICA
 <br>
 ###Coughing is a Form of Love	
 Joseph Pfender & Melanie Farley 	
