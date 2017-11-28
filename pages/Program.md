@@ -8,13 +8,13 @@ title: Program
   
 LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, monocord, electronics)  
 Roscoe Mitchell + Bob Ostertag (reeds, gamepad / Aalto)  
-David Rosenboom (piano, spatialization system, computer interaction)  
+David Rosenboom (piano, spatialization system, computer interaction) : *The Right Measure of Opposites*
 Steve Lehman + Hprizm (saxophone, voice, electronics)  
 Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK agents)  
 Bob Ostertag (Gamepad and Aalto)  
 Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
 Hatchers aka Michael Barker, Brian Osborne (electronics, drums)  
-Michael Young (piano, piano-prosthesis system)  
+Michael Young (piano, piano-prosthesis system) *Piano-prosthesis*  
   
 [*Program Note*]({filename}/pages/ProgramNote11.md)
 
