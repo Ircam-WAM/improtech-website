@@ -364,6 +364,13 @@ was born in Tokyo, Japan in 1994. After having studied classical trumpet for sev
 
 ---
 
+<img src="../images/vidiksis.gif" width="320" style="float:left" hspace="10">
+####Adam Vidiksis
+is a composer, conductor, percussionist, improviser, and technologist based in Philadelphia whose music often explores sound, science, and the intersection of humankind with the machines we build. Critics have called his music “mesmerizing”, “dramatic”, “striking” (Philadelphia Weekly), “notable”, “catchy” (WQHS), “magical” (Local Arts Live), and “special” (Percussive Notes), and have noted that Vidiksis provides “an electronically produced frame giving each sound such a deep-colored radiance you could miss the piece's shape for being caught up in each moment” (Philadelphia Inquirer). His work is frequently commissioned and performed throughout North America, Europe, and China in r¬¬ecitals, festivals, and major academic conferences. Vidiksis’s music has won numerous awards, including recognition from the Society of Composers, Incorporated, the American Composers Forum, and ASCAP. His works are available through HoneyRock Publishing, EMPiRE, PARMA, and SEAMUS Records¬¬¬. Vidiksis currently serves as composer in residence for the Chamber Orchestra of Philadelphia for its 2017-2018 season. Vidiksis is Assistant Professor of music technology and composition at Temple University, and a performance and composition faculty at the SPLICE Institute. He is conductor of the Temple Composers Orchestra and Ensemble N_JP, and director of the Boyer Electroacoustic Ensemble Project (BEEP). [www.vidiksis.com](http://www.vidiksis.com)
+<br>
+
+---
+
 <img src="../images/watford.gif" width="320" style="float:left" hspace="10">
 ####Chris Watford
 is a Boston/New York based bassoonist concerned with the expansion of the instrument's capabilities. Praised for giving "smooth varnish" (Boston Globe) to his performances with a "clear consistent tone," Watford works to advance the instrument's relevance within diverse contexts. As a specialist in contemporary music, his performances transcend traditional practice to explore the limits of microtonality, extended techniques, improvisation and electroacoustics. His work with composers often investigates unfamiliar sounds and extreme sonic identities, with a specific dedication to the exploitation of the bassoon's acoustic peculiarities.  
