@@ -169,23 +169,26 @@ Katarina Miljkovic and Chris Watford
 
 Fabric of the electronic and instrumental part in the composition is derived from the structure of an automaton. Resulting sound events are of a modular nature and provide a field of possibilities for performers. During the performance, both performers traverse through the automaton by freely selecting sound modules while using the automaton data as time brackets. Live sound processing is happening through plugins. As a result, CA generates the structure, dictates the overall process but also embraces indeterminacy coming from a human response to a deterministic nature of the automaton, and an attempt to communicate with it. The piece is 12' long (there is also a version 24’ long). Sonic material is based on a field recording of a lament song from Balkans. The field recording is filtered through CA to create sound modules, which are treated in the way previously described.
 
+<br>
+
 ---
 
 <font color="grey"> 
-#Events at the Institute of Contemporary Art, Dec 12. aft. and evening
+#Events at ICA
 </font>
 
 ---
 
 <br>
-##16:30 ROUND TABLE at ICA : David Wessel Legacy, the researcher / musician
-With Roscoe Mitchell, Matt Wright, Marc Chemillier, George Bloch
+##16:30 Round Table : David Wessel Legacy
+"the Figure of the Researcher / Musician" with Roscoe Mitchell, Matt Wright, Marc Chemillier, George Bloch
 
 <br>
-##17:45 Performances at ICA
+##17:45 Performances
 <br>
 ###Coughing is a Form of Love	
 Joseph Pfender & Melanie Farley 	
+
 This performance was born out of a shared interest in creating new expressive resources at the seam of the human and the algorithmic. The vocal experiment embodies the vulnerability of vocal expression, and attempts to disrupt that vulnerability by introducing chance robotic interventions, creating a kind of cyborg poetry. Drawing on the energy of groups like Pere Ubu and Patti Smith, the poetry also takes substantive inspiration from Yoko Onoâ€™s instruction poems. The patch itself responds to historical avant-garde methods of recursive feedback, using sound synthesis and convolution procedures that have a topological affinity to David Tudorâ€™s Toneburst. Taking a cue from earlier forays into instrumental belligerence and productive obstruction at NIME, we attempt to work into vocalic expressivity a logic of resistance and effervescence.
 
 ###Generative patches for Modular and Semi-Modular Synthesizers
@@ -197,7 +200,7 @@ Adam Vidiksis + BEEP (Temple U.)
 (to be completed)
 
 <br>
-###18:30 - 20:30 Cocktail at ICA
+##18:30 - 20:30 Cocktail at ICA
 <br>
 
 ---
