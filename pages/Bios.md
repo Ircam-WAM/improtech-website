@@ -103,6 +103,9 @@ is a Ph.D. student in computer music, co-supervised by  Emmanuel Vincent (Inria)
 is a multimedia poet living in Philadelphia. She is the author of things we have in writing *POEMS for (Z)* (dancing girl press, 2016), and you can find her work in a few online magazines like *ENTROPY* and *NAIL V.* In 2015 she conceptualized and founded *SOUND:POETREE:: Fanzine*, an online zine that released 4 issues of cross-genre work by experimental artists from around the world. Her recent work includes a self released EP called *Sound/Voice* that marries poetry and various digital and acoustic tools to better understand what it means to be embodied or human, to wonder whether a cyborg can cry. She has an MFA in Writing from California College of the Arts. [poetforsale.com](http://poetforsale.com)
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ---
 
