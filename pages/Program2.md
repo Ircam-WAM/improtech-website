@@ -4,7 +4,7 @@ status: hidden
 #Workshop, Dec. 11th
 ##Theme : Instruments, spaces, bodies
 
-09:30
+####*09:30*
 ###Presentation of the ExCITe Center and the MET-lab
 Yougmoo Kim (Drexel University)	
 
@@ -16,27 +16,27 @@ Jeff Gregorio (Drexel University)
 We present a system for augmentation of acoustic drums using electromagnetic actuation of the resonant membrane, driven with continuous audio signals. Use of combinations of synthesized tones and feedback taken from the batter membrane extends the timbral and functional range of the drum. The system is designed to run on an embedded, WiFi-enabled platform, allowing multiple augmented drums to serve as voices of a spatially-distributed polyphonic synthesizer. Semi-autonomous behavior is also explored, with individual drums configured as nodes in a directed graph. EM actuation and wireless connectivity enables a network of augmented drums to function in traditionally percussive roles, as well as harmonic, melodic, and textural roles. This work is developed by an engineer in close collaboration with an artist in residence for use in live performance and interactive sound installation.
 
 10:15
-##ONE and John: Oriented Improvisation
+###ONE and John: Oriented Improvisation
 Pierre Couprie (Sorbonne University), Gyorgy Kurtag Jr (SCRIME, Bordeaux University)	
 
 During this talk, we will present a French improvisation group in electroacoustic music: ONE (Orchestre National Electroacoustique). In this group, we have developed our instrument and/or the digital part of our devices. We also use a digital conductor called 'John' which propose an improvisation score for each musician from a list of words, nuances and variation of intensity. We also discuss the analysis of performance through representation technic to study John's influence on musical improvisation.
 
-##The Djazz project: Jazz machines and Anthropology
+###The Djazz project: Jazz machines and Anthropology
 Marc Chemillier (EHESS)  
 
 Djazz belongs to the family of improvisation softwares called OMax/ImproteK/Djazz designed by IRCAM and EHESS. Its distinctiveness is that it is adapted to the interaction with jazz and world musicians in real social contexts, and as such is the subject of an anthropological survey dealing with rhythm and the way people synchronize themselves to the music during particular social events (dance rituals, concerts). We’ll show how rhythm is handled in Djazz and make a demo with Malagasy guitarist Charles Kely Zana-Rotsy.  
 
-##Smart Acoustic Instruments: From Early Research to HyVibe
+###Smart Acoustic Instruments: From Early Research to HyVibe
 Adrien Mamou-Mani (HyVibe)  
 
 Smart acoustic instruments are acoustic instruments with programmable sounds. I will present the research at the origin of this concept and examples of prototypes that have been used by artists. The emphasis will be put on the HyVibe Guitar, designed to be the future of electro-acoustic guitars, using digital technology and vibration control. Finally, I will share first ideas on its potential use for improvisation.
 
-##Revolutionizing the Tradition: Extracting Human Expression using Motion Sensor for Music
+###Revolutionizing the Tradition: Extracting Human Expression using Motion Sensor for Music
 Mari Kimura (UC Irvine)  
 
 Violinist and composer Mari Kimura will discuss creating performances and compositions that integrate interactive computer, and the use of a motion sensor she has been developing. The lecture includes demonstrations including musical performances with her current prototype model “Mugic”, and her work with students at her summer program “Future Music Lab” she directs at the Atlantic Music Festival in collaboration with IRCAM, and in her classroom at her new ‘home’, “Integrated Composition, Improvisation and Technology” (ICIT) program at the Music Department of University of California, Irvine.
 
-##Lunch Break
+###Lunch Break
 
 						
 14:30	Session : Instruments, Bodies, Spaces
