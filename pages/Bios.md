@@ -396,10 +396,6 @@ Jeremy Stewart is a multimedia artist and performer whose work addresses agency,
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 ---
 
