@@ -386,6 +386,23 @@ is an American violinist, violist, vocalist, teacher, and musical impresario. A 
 
 ---
 
+<img src="../images/stewart.jpg" width="320" style="float:left" hspace="10">
+####Jeremy Stewart
+Jeremy Stewart is a multimedia artist and performer whose work addresses agency, autonomy and perception through the development of interactive software systems, wearable hardware, and improvisational performances. Stewart is currently pursuing his PhD at Rensselaer Polytechnic Institute in Troy, NY, where he previously completed his MFA in Electronic Arts in 2016.
+<br>
+[blindelephants.co](http://blindelephants.co)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+---
+
 <img src="../images/tsuruoka.jpg" width="320" style="float:left" hspace="10">
 ####Toshihisa Tsuruoka
 was born in Tokyo, Japan in 1994. After having studied classical trumpet for several years and curating an annual art symposium (the Art de Art Concert) in Tokyo, Toshi ventured off to NYC to study jazz guitar and earn a BA in Philosophy with a minor in Art History. Along the way, Toshi earned an Ableton Live Producer Certificate from Dubspot.  He is currently earning an MM in Theory & Composition at NYU, striving to “perfect human imperfection in music”. 
