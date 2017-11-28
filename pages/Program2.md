@@ -2,7 +2,7 @@ title: Program2
 status: hidden
 
 #Workshop, Dec. 11th
-Theme : Instruments, spaces, bodies
+##Theme : Instruments, spaces, bodies
 
 09:30
 ###Presentation of the ExCITe Center and the MET-lab
