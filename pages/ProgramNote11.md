@@ -13,7 +13,7 @@ Full Program (dec. 11th - dec.13th) at ikparisphilly.ircam.fr
 
 In **ImproTech Paris-Philly :: Concert #1**, a staggering sample of such creative alloys will be displayed by unique performers, featuring legendary figures of free improvisation Roscoe Mitchell, Bob Ostertag, and Bernard Lubat ; experimental music icons David Rosenboom and Michael Young ; renowned favourites  of the new scene,  Steve Lehman, LaDonna Smith, Susan Alcorn, Miya Masaoka, Mari Kimura, Hatchers, György Kurtág Jr, Pierre Couprie, all these  interacting with classical live-electronics, analog (or virtual) synths, mathematical / musical algorithmics,  artificial intelligence agents, spatialization systems, or hybrid instruments.
 <br>
-
+<br>
 ####David Rosenboom  
 The Right Measure of Opposites (1998 and 2017 update)  
   
