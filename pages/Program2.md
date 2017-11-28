@@ -185,7 +185,6 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 
 <br>
 ##17:45 Performances
-<br>
 ###Coughing is a Form of Love	
 Joseph Pfender & Melanie Farley 	
 
@@ -200,7 +199,7 @@ Adam Vidiksis + BEEP (Temple U.)
 (to be completed)
 
 <br>
-##18:30 - 20:30 Cocktail at ICA
+##18:30 - 20:30 Cocktail
 <br>
 
 ---
