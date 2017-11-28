@@ -106,6 +106,16 @@ is a multimedia poet living in Philadelphia. She is the author of things we have
 
 ---
 
+<img src="../images/goodheart.jpg" width="320" style="float:left" hspace="10">
+####Matthew Goodheart
+is a composer, improviser, and sound artist. Following an early career as a free-jazz pianist in the fertile San Francisco Bay Area, he has developed a wide body of work that explores the relationships between performer, instrument, and listener. His diverse creations range from large-scale microtonal compositions to open improvisations to immersive sound installations – all unified by the analytic techniques and performative methodologies he has developed to bring forth the unique and subtle acoustic properties of individual musical instruments. Goodheart’s approach results in a “generative foundation” for exploring issues of perception, technology, cultural ritual, and the psycho-physical impact of acoustic phenomena. His work has been featured across the US and Europe, and has won numerous awards and honors, including the 2014 Berlin Prize in Music Composition and a 2013 Fulbright Grant to the Czech Republic where he worked with the historic quartertone pianos designed by Alois Hába. He is currently faculty member in the Department of the Arts at Rensselaer Polytechnic Institute.
+<br>
+[www.matthewgoodheart.com](http://www.matthewgoodheart.com)
+<br>
+<br>
+
+---
+
 <img src="../images/gregorio.jpg" width="320" style="float:left" hspace="10">
 ####Jeff Gregorio
 is a PhD candidate at Drexel University, studying Electrical and Computer Engineering under Dr. Youngmoo Kim in the Expressive and Creative Interaction Technologies (ExCITe) Center and the Music & Entertainment Technology lab (MET-lab). His research focuses on various facets of musical expression—how it can be defined, recognized, and quantified for applications in next generation musical instruments and music recommendation systems. He is also an avid musician and multi-instrumentalist. In 2016-17 he was supported by a grant from the John S. and James L. Knight Foundation for tech enhanced music performance, which resulted in collaborative development of a system of wirelessly-communicating, electromagnetically-actuated acoustic drums with ExCITe artist in residence Peter English. In 2017 he was awarded a Philadelphia Geek Award for ”Maker of the Year” for this work. He was also a recipient of the National Science Foundation Graduate STEM Fellowship in K-12 Education (GK-12). <br>
