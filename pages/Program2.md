@@ -174,7 +174,7 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 ---
 
 <font color="grey"> 
-#Events at ICA
+#Events at ICA, dec. 12th
 </font>
 
 ---
