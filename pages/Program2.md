@@ -51,10 +51,9 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 <br>
 
 ---
-
 <font color="grey"> 
-# Workshop, Dec. 11th Afternoon
-## Theme : Instruments, spaces, bodies
+#Workshop, Dec. 11th Afternoon
+##Theme : Instruments, spaces, bodies
 </font>
 
 ---
