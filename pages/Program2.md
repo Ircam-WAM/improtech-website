@@ -94,7 +94,7 @@ What are some good ways, when making music that is shared among humans (and, in 
 
 <br>
 ####10:15
-Recent Trends in Pulse-Based Improvisation, Rhythm Cognition, and some Potential Applications for Interactive Design
+###Recent Trends in Pulse-Based Improvisation, Rhythm Cognition, and some Potential Applications for Interactive Design
 Steve Lehman (CalArts)	
 
 Recent work in the domain of computer-driven improvisation has privileged modes of interactivity that eschew tempo-based hierarchies of musical time. This talk will seek to interrogate some of these recent tendencies, and provide a brief overview of the speaker's recent work integrating improvisation with contemporary research in the field of rhythmic cognition. Some potential applications to tempo-based musical models for human-computer interaction will also be discussed.
