@@ -161,14 +161,12 @@ This performance was born out of a shared interest in creating new expressive re
 Sandy James (Temple U.)
 (to be completed)
 
-	Performance Adam Vidiksis + BEEP (Temple U.)	Group impro	Live	13	Density Function	tablet + percussion
-
-
-
-
+###Density Function
+Adam Vidiksis + BEEP (Temple U.)  
+(to be completed)
 
 <br>
-###18:00 End of Dec. 11 sessions
+###18:30 Cocktail
 <br>
 
 ---
