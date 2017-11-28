@@ -366,6 +366,18 @@ Born in Madagascar, Jean-Charles Razanakoto aka Charles Kely Zana-Rotsy began to
 
 ---
 
+<img src="../images/simoni.jpg" width="320" style="float:left" hspace="10">
+####Mary Simoni
+Simoni is a composer, author, teacher, pianist, consultant, arts administrator, and Steinway Artist. She is currently the Dean of Humanities, Arts & Sciences at Rensselaer Polytechnic Institute and Professor Emerita, Performing Arts Technology at the University of Michigan. Her music and multimedia works have been performed in Asia, Europe, and throughout the United States and have been recorded by Centaur Records, the Leonardo Music Journal published by the MIT Press, and the International Computer Music Association. She is the recipient of the Prize in Composition by the ArtNET Virtual Museum and named semi-finalist for the American Prize in Composition-Chamber Music. She has authored several books, “Algorithmic Composition: A Guide to Composing Music with Nyquist”co-authored with Roger Dannenberg and published by the University of Michigan; and “Analytical Methods of Electroacoustic Music” published by Routledge. She is a Medal Laureate of the Computer World Honors Award for her research in digital music information retrieval
+<br>
+[www.marysimoni.com](http://www.marysimoni.com)
+<br>
+<br>
+<br>
+<br>
+
+---
+
 <img src="../images/Bio_Ladonna.jpg" width="320" style="float:left" hspace="10">
 ####LaDonna Smith
 is an American violinist, violist, vocalist, teacher, and musical impresario. A veteran of the Alabama’s legendary Surrealist scene, she has spent four decades pioneering and promoting the field of free improvisation as an art-form capable of ecstatic and explosive emotions, clarity, lyricism and raw human expression. With her highly personal solo style of instant composition and extended techniques, Smith has enjoyed collaborations with fellow improvisers in hundreds of concerts across North America, Europe (including Russia and Siberia), China, Japan and India. Likewise, she has produced many festivals and concerts in her home territory of Birmingham, Alabama, serving as a local outpost for improvised music in the deep South. Co-founded with her longtime duo partner Davey Williams, her TransMuseq record label and The Improviser (an international journal of free improvisation) produced trailblazing documentation and discussion of the emerging free improv idiom. She has performed with Anthony Braxton, Peter Brotzmann, Derek Bailey, Evan Parker, Peter Kowald, Henry Kaiser, John Zorn, Andrea Centazzo, Dave Liebman, Anne LeBaron, Misha Feigin, Shaking Ray Levis, Rova Saxophone Quartet, and Susan Alcorn. Her discography includes recordings on Ictus, Tzadik, Table of the Elements, Leo Records, Meniscus, and Ishtar.
