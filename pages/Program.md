@@ -25,7 +25,7 @@ Michael Young (piano, piano-prosthesis system)
 *4014 Walnut Street, Philadelphia, PA 19104*  
   
 Moor Mother (voice, electronics)  
-Dana Naphtali (electronics)  
+Dafna Naphtali (electronics)  
 Denis Beuret, Sarah Belle Reid  (trombone, Trumpet, live electronics)  
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
 Max Eilbacher (electronics)  
