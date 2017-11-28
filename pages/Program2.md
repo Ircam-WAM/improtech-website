@@ -81,14 +81,73 @@ What are some good ways, when making music that is shared among humans (and, in 
 
 <br>
 ###18:00 End of Dec. 11 sessions
+<br>
 
 ---
 
-#Workshop, Dec. 11th Morning
+# Workshop, Dec. 12th Morning
+## Theme : Composition, Notation, Synthesis, Form
+<br>
+
+####09:30
+### Keynote presentation by Bob Ostertag
+
+<br>
+####10:15
+Recent Trends in Pulse-Based Improvisation, Rhythm Cognition, and some Potential Applications for Interactive Design
+Steve Lehman (CalArts)	
+
+Recent work in the domain of computer-driven improvisation has privileged modes of interactivity that eschew tempo-based hierarchies of musical time. This talk will seek to interrogate some of these recent tendencies, and provide a brief overview of the speaker's recent work integrating improvisation with contemporary research in the field of rhythmic cognition. Some potential applications to tempo-based musical models for human-computer interaction will also be discussed.
+10:45	Joo Won Park (Wayne State U.)	composition strategies	compo		100 Strange Sounds: Practice on Electroacoustic Improvisation	100 Strange Sounds consists of one hundred video recordings of solo improvisations using live electronics http://www.100strangesounds.com. The purpose of this project was to improve the creator's technical and improvisational abilities while examining the documentation and promotional possibilities of an online video platform. The author will present the technical and aesthetic findings in completing the project by demonstrating the software and hardware setup as well as sharing the viewer data from Youtube and Google Analytics.
+
+###Portable Gold and Philosophers' Stones (Deviant Resonances)
+David Rosenboom (CalArts)	
+
+The “Philosopher’s Stone” is a mental symbol about the prima materia, the original substance and ultimate principle of the universe. It has been said that by returning from the qualities of sensation and thought, which we perceive through differentiation and specialization, to the undifferentiated purity of the prima materia, we might learn truths about creative power and the fundamental mutability of all phenomena. Combining this with the symbol, Portable Gold, was my way of emphasizing the timelessness and spacelessness of this idea, which we can carry with us anywhere. To manifest these symbols in music, I’ve made pieces that work with resonant coincidences detected among the physical brainwaves of performers and apply them inside the circuits of custom-built, live electronic music devices, to grow spontaneous musical forms. This version is realized with portable brainwave detectors, computer music software, and an auxiliary acoustic instrument.
+Portable Gold and Philosophers' Stones (1972 & 2015), Computer-electronics with BCMI (Brain-Computer Music Interface), auxiliary instrument, and two active imaginative listening brainwave performers (volunteers).
+
+###Live Scoring for Computer Assisted Composition	
+Justin Yang (RPI)
+
+This talk explores the use of networked computer animation as a front end for composition and scoring for live performers. An assortment of computer animated graphic tools can be used to develop interactions between algorithms and AI, and live performers. These tools help open the door for possibilities such as real-time scoring, structured improvisation, multi-nodal composition, real-time orchestration, and performer-computer interactions.
+
+###Constructing new Improvisation Instruments with Geometrical Configuration Space
+Dmitri Tymoczko	with Rudresh Mahantappa  
+
+We will show how how geometry can be used to construct new musical instruments based on the idea of a configuration space.  we will provide some examples of these indigenous electronic instruments and explain how they might be used in performance.
+
+<br>
+###13:00 Lunch Break
+<br>
+
+---
+
+# Workshop, Dec. 12th Afternoon
+## Theme : Composition, Notation, Synthesis, Form
+<br>
+
+####14:30
+
+
+
+
+
+
+<br>
+###18:00 End of Dec. 11 sessions
+<br>
+
+---
+
+#Workshop, Dec. 13th Morning
 ##Theme : Instruments, spaces, bodies
 <br>
 
 ####09:30
+
+
+
+
 
 
 
