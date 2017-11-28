@@ -32,6 +32,17 @@ is a composer and multi-instrumentalist hailing from St. Petersburg, Florida. He
 <br>
 ---
 
+<img src="../images/BEEP.jpg" width="320" style="float:left" hspace="10">
+####BEEP
+The Boyer College Electroacoustic Ensemble Project—BEEP—is a group for electroacoustic music creation in a collaborative environment. Founded in 2013 by Dr. Adam Vidiksis at Temple University, BEEP embraces a variety of aesthetics, from EDM to the avant garde. We function in varied modalities: from a laptop orchestra, to fusion of computers and traditional instruments, to an electronic music band. Our main goal as an ensemble is to explore new musical paths and new technologies by uniting people of varying and complimentary skill sets in the discovery of new possibilities of creating sound. BEEP also aims to promote expressive music making and musical vocabulary, increase technological literacy among its participants and audience, to encourage a culture of code literacy and computer competency hand-in-hand with critical and independent thinking, and to perform the ever-expanding repertory of electronic music. We believe that the integration of electronics in traditional music is one of many pathways forward for new music in our future. BEEP’s programming carries wide appeal, enjoyable for everyone from the seasoned electronics aficionado to the casual radio listener. We seek any audience with open ears and open minds.
+<br>
+[www.beep.band](http://www.beep.band)
+<br><br>
+<br>
+<br>
+
+---
+
 <img src="../images/Bio_GBloch.jpg" width="320" style="float:left" hspace="10">
 ####Georges Bloch
 composer and researcher, got an engineering degree before studying composition in U. C. San Diego (PH. D. in 1988). His compositions revolve around three centers of interest: music and space, interaction and collaboration with other artists. He is Associate professor at Strasbourg University and was instrumental in developing Tonmeister cursus in France, in Strasbourg and in Paris Conservatoire. Because of his interest for opera, he has been linked to music-theater productions as well as studies in film music. As researcher associated to Ircam in Paris, he actually works on the OMax/Somax/DYCI2 family of computer–assisted improvisation systems.
