@@ -186,9 +186,6 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 
 ---
 
-<!--
-
-
 <img src="../images/Bio_Rudresh_Mahanthappa.jpg" width="320" style="float:left" hspace="10">
 ####Rudresh Mahanthappa
 Hailed by Pitchfork as “jaw-dropping… one of the finest saxophonists going,” alto saxophonist, composer and educator Rudresh Mahanthappa is widely known as one of the premier voices in jazz of the 21st century.  
@@ -198,8 +195,6 @@ His newest album “Agrima” is considered to be one of the top jazz releases o
 <br>
 [http://rudreshm.com](http://rudreshm.com)
 <br><br><br><br><br><br>
-
-  -->
 
 ---
 
