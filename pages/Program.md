@@ -13,7 +13,7 @@ Steve Lehman + Hprizm (sax, voice, electronics)
 Bernard Lubat + Marc Chemillier & Gérard Assayag (piano, voice, Omax/ImproteK system)  
 Bob Ostertag (Gamepad and Aalto)  
 Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
-Hatchers aka Michael Barker, Brian Osbourne (electronics, drums)  
+Hatchers aka Michael Barker, Brian Osborne (electronics, drums)  
 Michael Young (piano, piano-prosthesis system)  
   
 [*Program Note*]({filename}/pages/ProgramNote11.md)
