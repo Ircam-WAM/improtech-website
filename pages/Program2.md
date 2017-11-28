@@ -4,8 +4,8 @@ status: hidden
 
 ---
 
-#Workshop, Dec. 11th Morning
-##Theme : Instruments, spaces, bodies
+# Workshop, Dec. 11th Morning
+## Theme : Instruments, spaces, bodies
 <br>
 
 ####09:30
@@ -43,13 +43,13 @@ Mari Kimura (UC Irvine)
 Violinist and composer Mari Kimura will discuss creating performances and compositions that integrate interactive computer, and the use of a motion sensor she has been developing. The lecture includes demonstrations including musical performances with her current prototype model “Mugic”, and her work with students at her summer program “Future Music Lab” she directs at the Atlantic Music Festival in collaboration with IRCAM, and in her classroom at her new ‘home’, “Integrated Composition, Improvisation and Technology” (ICIT) program at the Music Department of University of California, Irvine.
 
 <br>
-###12:45 Lunch Break
+### 12:45 Lunch Break
 <br>
 
 ---
 
-#Workshop, Dec. 11th Afternoon
-##Theme : Instruments, spaces, bodies
+# Workshop, Dec. 11th Afternoon
+## Theme : Instruments, spaces, bodies
 <br>
 
 ####14:30
@@ -126,8 +126,42 @@ We will show how how geometry can be used to construct new musical instruments b
 ## Theme : Composition, Notation, Synthesis, Form
 <br>
 
-####14:30
+####14:00
+###Spatial constructs and concepts, rituals	
+John Malia and Scott Deal (NEC studio)	
 
+John Mallia lives and works in Boston, where he is a member of the Composition Faculty, and directs the Electronic Music Studio, at the New England Conservatory of Music. His compositional process is informed by spatial constructs and concepts, and a fascination with presence, ritual, and the thresholds standing between states of existence or awareness. In addition to composing chamber music and works combining acoustic instruments with electronics, he creates fixed media compositions, and collaborates with visual artists on multimedia works, including installation.
+
+###Jeff Snyder
+(to be completed)
+
+###Improvising with Ensemble Feedback Instruments and First-order Cybernetic Followers
+Matt Wright (CCRMA, Stanford University)  
+
+Ensemble Feedback Instruments (first presented at NIME 2015) show that even extremely simple individual musical "instruments", if they each have an audio input as well as an audio output, can give rise to rich and varied musical behaviors when patched together in various feedback topologies. As long as there is just a little system delay, on the order of trained musicians' reaction times, then even unstable "exploding" systems can safely generate glorious crescendos when one or more careful listeners have low-latency gain controls in the loop allowing them to attenuate when things begin to get out of control. Taking this a step further, we can automate this "turn down when it gets too loud" behavior; we reframe the behavior of a side-chained compressor-limiter in terms of a first-order cybernetic feedback system like a thermostat.  Each sound element inside the feedback network can have a "goal" volume (analogous to a thermostat's temperature setting) and limited (i.e., time-slewed) ability to adjust its own output volume (analogous to turning the heater on or off) according to the volume it detects in its input or output signals and/or the ensemble's overall level (analogous to the thermometer). Again the simplest of elements can give rise to rich behaviors when placed in proper recursive context. Automating this guarantee that the potentially unstable ensemble feedback network will never blow up allows a shift from a model where a human performer directly controls each individual instrument to a model where a human performer might indirectly control multiple instruments at the same time and/or improvise in real-time collaboration with goal-seeking, if not "intelligent," software agents. 
+
+###Drop for bassoon and electronics	
+Katarina Miljkovic and Chris Watford		
+
+Fabric of the electronic and instrumental part in the composition is derived from the structure of an automaton. Resulting sound events are of a modular nature and provide a field of possibilities for performers. During the performance, both performers traverse through the automaton by freely selecting sound modules while using the automaton data as time brackets. Live sound processing is happening through plugins. As a result, CA generates the structure, dictates the overall process but also embraces indeterminacy coming from a human response to a deterministic nature of the automaton, and an attempt to communicate with it. The piece is 12' long (there is also a version 24’ long). Sonic material is based on a field recording of a lament song from Balkans. The field recording is filtered through CA to create sound modules, which are treated in the way previously described.
+
+<br>
+####16:00	BREAK			
+
+####16:30	
+###ROUND TABLE : David Wessel Legacy, the researcher / musician
+With Roscoe Mitchell, Matt Wright, Marc Chemillier, George Bloch
+
+####17:45
+###Coughing is a Form of Love	
+Joseph Pfender & Melanie Farley 	
+This performance was born out of a shared interest in creating new expressive resources at the seam of the human and the algorithmic. The vocal experiment embodies the vulnerability of vocal expression, and attempts to disrupt that vulnerability by introducing chance robotic interventions, creating a kind of cyborg poetry. Drawing on the energy of groups like Pere Ubu and Patti Smith, the poetry also takes substantive inspiration from Yoko Onoâ€™s instruction poems. The patch itself responds to historical avant-garde methods of recursive feedback, using sound synthesis and convolution procedures that have a topological affinity to David Tudorâ€™s Toneburst. Taking a cue from earlier forays into instrumental belligerence and productive obstruction at NIME, we attempt to work into vocalic expressivity a logic of resistance and effervescence.
+
+###Generative patches for Modular and Semi-Modular Synthesizers
+Sandy James (Temple U.)
+(to be completed)
+
+	Performance Adam Vidiksis + BEEP (Temple U.)	Group impro	Live	13	Density Function	tablet + percussion
 
 
 
