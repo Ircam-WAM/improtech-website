@@ -1,7 +1,7 @@
 title: Program2
 status: hidden
 
-#Workshop, Dec. 11th
+#Workshop, Dec. 11th Morning
 ##Theme : Instruments, spaces, bodies
 <br>
 
@@ -16,7 +16,7 @@ Jeff Gregorio (Drexel University)
 
 We present a system for augmentation of acoustic drums using electromagnetic actuation of the resonant membrane, driven with continuous audio signals. Use of combinations of synthesized tones and feedback taken from the batter membrane extends the timbral and functional range of the drum. The system is designed to run on an embedded, WiFi-enabled platform, allowing multiple augmented drums to serve as voices of a spatially-distributed polyphonic synthesizer. Semi-autonomous behavior is also explored, with individual drums configured as nodes in a directed graph. EM actuation and wireless connectivity enables a network of augmented drums to function in traditionally percussive roles, as well as harmonic, melodic, and textural roles. This work is developed by an engineer in close collaboration with an artist in residence for use in live performance and interactive sound installation.
 
-10:15
+####10:15
 ###ONE and John: Oriented Improvisation
 Pierre Couprie (Sorbonne University), Gyorgy Kurtag Jr (SCRIME, Bordeaux University)	
 
@@ -37,44 +37,40 @@ Mari Kimura (UC Irvine)
 
 Violinist and composer Mari Kimura will discuss creating performances and compositions that integrate interactive computer, and the use of a motion sensor she has been developing. The lecture includes demonstrations including musical performances with her current prototype model “Mugic”, and her work with students at her summer program “Future Music Lab” she directs at the Atlantic Music Festival in collaboration with IRCAM, and in her classroom at her new ‘home’, “Integrated Composition, Improvisation and Technology” (ICIT) program at the Music Department of University of California, Irvine.
 
+####12:45
 ###Lunch Break
 
-						
-14:30	Session : Instruments, Bodies, Spaces
+#Workshop, Dec. 11th Afternoon
+##Theme : Instruments, spaces, bodies
+<br>
 
-Sarah Reid (CalArts)	
-
-MIGSI: The Minimally Invasive Gesture Sensing Interface for Trumpet
+####14:30
+###MIGSI: The Minimally Invasive Gesture Sensing Interface for Trumpet
+Sarah Reid (CalArts)  
 
 Performer-composer-technologist Sarah Reid will introduce the Minimally Invasive Gesture Sensing Interface (MIGSI) for trumpet. MIGSI uses sensor technology to capture gestural data such as valve displacement, hand tension, and instrument position, to offer extended control and expressivity to trumpet players. In addition to addressing technical and design-based considerations of MIGSI, this presentation will discuss various strategies for performing and composing with this new instrument, and will delve into a larger discussion on integrating new musical interfaces, micro-controllers, and electronic instruments into an improvisational practice.
 
-Denis Beuret
+###Denis Beuret
+(to be completed)  
 
-(to be completed)
-
-Mina Zarfsaz
-
-Body/Environment couplings through sound and light
+###Body/Environment couplings through sound and light
+Mina Zarfsaz  
 
 This talk/demo is about an interactive audio/video piece that is consisted of a system of sensors, speakers, and projectors measuring the impact of movement and human organization as it reconstructs the dismantled fragments of pieces of music with any given group of people. Like an orchestra of instruments, it is the body of the spectator that co-composes the rhythmic content by co-ordinating movements with others as they trigger the sensors. The “notes” in this project are struck at the interface of body and machine. While in the space, each person is either an active “ON” (within a sensor range) or a passive “OFF” (out of a sensor range.) This piece forces one’s perceptual system to search the space for triggered sounds and lit surfaces; to track changes, estimate distances and corporeal relationship with others. The piece never repeats itself exactly, has no beginning, middle or end.
 
-Ableton Presentation
+###Ableton Presentation
+(to be completed)  
 
-(to be completed)
-
-Matthew Goodheart (Rensselaer Poly. Inst.)	
-
-Sound and Algorithmic Environments for Improvisation
+###Sound and Algorithmic Environments for Improvisation
+Matthew Goodheart (Rensselaer Poly. Inst.)  
 
 Reembodied sound is a form of electroacoustics that uses transducer-driven resonant objects to create acoustic realizations of sample and analysis derived mixed synthesis. This talk will focus on the use of reembodied sound as a generative basis to create large-scale, algorithmically driven sonic environments for improvisers, discussing both technical implementation and aesthetic orientation. Directions for future research involving digital listening agents and interactivity will also be addressed.
 
-Bhob Rainey
-
-
-Canopy of Catastrophes
+###Canopy of Catastrophes
+Bhob Rainey  
 
 What are some good ways, when making music that is shared among humans (and, in terms of appreciation, likely only among humans), to “get outside yourself” and connect to non-human patterns, entities, signals, etc., without pretending to be objective? Can you not only point to or represent the “great outdoors” but also bring yourself and maybe your audience "outside”? Are computers and computational thinking at all helpful in answering these questions? Let’s talk sonification and data streams and generative patterns, but let’s also ask how they function aesthetically, what ends they might serve when sounds reach ears and that communal event we call music happens.
 
-18:00	
+####18:00
+### End of Dec. 11 sessions
 
-END					
