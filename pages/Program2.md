@@ -8,9 +8,9 @@ status: hidden
 # Workshop, Dec. 11th Morning
 ## Theme : Instruments, spaces, bodies
 </font>
-<br>
 
 ---
+<br>
 
 ####09:30
 ###Presentation of the ExCITe Center and the MET-lab
