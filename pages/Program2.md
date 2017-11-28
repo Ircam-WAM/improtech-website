@@ -4,9 +4,13 @@ status: hidden
 
 ---
 
+<font color="grey"> 
 # Workshop, Dec. 11th Morning
 ## Theme : Instruments, spaces, bodies
+</font>
 <br>
+
+---
 
 ####09:30
 ###Presentation of the ExCITe Center and the MET-lab
@@ -48,8 +52,13 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 
 ---
 
+<font color="grey"> 
 # Workshop, Dec. 11th Afternoon
 ## Theme : Instruments, spaces, bodies
+</font>
+
+---
+
 <br>
 
 ####14:30
@@ -85,8 +94,13 @@ What are some good ways, when making music that is shared among humans (and, in 
 
 ---
 
+<font color="grey"> 
 # Workshop, Dec. 12th Morning
 ## Theme : Composition, Notation, Synthesis, Form
+</font>
+
+---
+
 <br>
 
 ####09:30
@@ -122,8 +136,13 @@ We will show how how geometry can be used to construct new musical instruments b
 
 ---
 
+<font color="grey"> 
 # Workshop, Dec. 12th Afternoon
 ## Theme : Composition, Notation, Synthesis, Form
+</font>
+
+---
+
 <br>
 
 ####14:00
@@ -170,8 +189,13 @@ Adam Vidiksis + BEEP (Temple U.)
 
 ---
 
+<font color="grey"> 
 #Workshop, Dec. 13th Morning
 ##Theme : Instruments, spaces, bodies
+</font>
+
+---
+
 <br>
 
 ####09:30
