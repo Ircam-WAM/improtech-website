@@ -97,6 +97,8 @@ What are some good ways, when making music that is shared among humans (and, in 
 
 ---
 
+---
+
 <font color="grey"> 
 # Workshop, Dec. 12th Morning
 ## Theme : Composition, Notation, Synthesis, Form
