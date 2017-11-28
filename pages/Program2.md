@@ -5,7 +5,7 @@ status: hidden
 ##Theme : Instruments, spaces, bodies
 <br>
 
-####09:30
+####---09:30---
 ###Presentation of the ExCITe Center and the MET-lab
 Yougmoo Kim (Drexel University)	
 
