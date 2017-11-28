@@ -3,6 +3,7 @@ status: hidden
 
 #Workshop, Dec. 11th
 ##Theme : Instruments, spaces, bodies
+<br>
 
 ####09:30
 ###Presentation of the ExCITe Center and the MET-lab
