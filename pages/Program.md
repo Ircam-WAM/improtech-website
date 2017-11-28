@@ -111,7 +111,7 @@ Jérôme Nika (Ircam) with Rémi Fox (Musician)
 The collaborative research and development project DYCI2, Creative Dynamics of Improvised Interaction, focuses on conceiving, adapting, and bringing into play efficient models of artificial listening, learning, interaction, and generation of musical contents. It aims at developing creative and autonomous digital musical agents able to take part in various human projects in an interactive and artistically credible way. The concerned areas are live performance, production, pedagogy, and active listening. 
 This presentation will give an overview of the project focusing on the design of multi-agent architectures and models of knowledge and decision (OMax, SoMax, ImproteK, DYCI2) in order to explore scenarios of music co-improvisation involving human and digital agents. The objective is to merge the usually exclusive "free", "reactive", and "scenario-based" paradigms in interactive music generation to adapt to a wide range of musical contexts involving hybrid temporality and multimodal interactions. The DYCI2 project is led in close and continuous interaction with expert musicians, and these interactions are an integral part of the iterative development of the models and of the software prototypes.  Therefore, the presentation will be illustrated by material coming from past, present, and future associated artistic projects.
 
-#### DYCI2 project : Multi-dimensional and Multi-scale learning of music structure for machine improvisation
+####DYCI2 project: Multi-dimensional and Multi-scale learning of music structure for machine improvisation
 Ken Deguernel (Inria Nancy)  
 Current musical improvisation systems are able to generate unidimensional musical sequences by recombining their musical contents. However, considering several dimensions (melody, harmony...) and several temporal levels are difficult issues. We propose to combine probabilistic approaches with formal language theory in order to better assess the complexity of a musical discourse, both from a multidimensional and multi-level point of view in the context of improvisation where the amount of data is limited. The methods proposed have been evaluated by professional musicians and improvisers during listening sessions.  
 
@@ -203,10 +203,9 @@ Dmitri Tymoczko
 ####Generative patches for Modular and Semi-Modular Synthesizers		
 Sandy James (Temple U.)<br>
 
-#### CCRMA 
-Matt Wright
-
-
+####Improvising with Ensemble Feedback Instruments and First-order Cybernetic Followers
+Matt Wright (CCRMA)<br>
+Ensemble Feedback Instruments (first presented at NIME 2015) show that even extremely simple individual musical "instruments", if they each have an audio input as well as an audio output, can give rise to rich and varied musical behaviors when patched together in various feedback topologies. As long as there is just a little system delay, on the order of trained musicians' reaction times, then even unstable "exploding" systems can safely generate glorious crescendos when one or more careful listeners have low-latency gain controls in the loop allowing them to attenuate when things begin to get out of control. Taking this a step further, we can automate this "turn down when it gets too loud" behavior; we reframe the behavior of a side-chained compressor-limiter in terms of a first-order cybernetic feedback system like a thermostat.  Each sound element inside the feedback network can have a "goal" volume (analogous to a thermostat's temperature setting) and limited (i.e., time-slewed) ability to adjust its own output volume (analogous to turning the heater on or off) according to the volume it detects in its input or output signals and/or the ensemble's overall level (analogous to the thermometer). Again the simplest of elements can give rise to rich behaviors when placed in proper recursive context. Automating this guarantee that the potentially unstable ensemble feedback network will never blow up allows a shift from a model where a human performer directly controls each individual instrument to a model where a human performer might indirectly control multiple instruments at the same time and/or improvise in real-time collaboration with goal-seeking, if not "intelligent," software agents. 
 
 <br><br>
 
