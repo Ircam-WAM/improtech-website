@@ -6,11 +6,11 @@ title: Program
 **Prince Theater, Annenberg Center for the Performing arts**
 *3680 Walnut St, Philadelphia, PA 19104*  
   
-LaDonna Smith, Susan Alcorn, Miya Masaoka (violin, pedal steel, monocord, electronics)  
-Roscoe Mitchell (reeds)  
+LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, monocord, electronics)  
+Roscoe Mitchell + Bob Ostertag (reeds, gamepad / Aalto)  
 David Rosenboom (piano, spatialization system, computer interaction)  
-Steve Lehman + Hprizm (sax, voice, electronics)  
-Bernard Lubat + Marc Chemillier & Gérard Assayag (piano, voice, Omax/ImproteK system)  
+Steve Lehman + Hprizm (saxophone, voice, electronics)  
+Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK agents)  
 Bob Ostertag (Gamepad and Aalto)  
 Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
 Hatchers aka Michael Barker, Brian Osborne (electronics, drums)  
