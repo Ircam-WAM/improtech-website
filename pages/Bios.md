@@ -232,7 +232,7 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 
 ---
 
-<img src="../images/Bio_Rudresh_Mahanthappa.jpg" width="320" style="float:left" hspace="10">
+<img src="../images/Bio_Mahanthappa.jpg" width="320" style="float:left" hspace="10">
 ####Rudresh Mahanthappa
 Hailed by Pitchfork as “jaw-dropping… one of the finest saxophonists going,” alto saxophonist, composer and educator Rudresh Mahanthappa is widely known as one of the premier voices in jazz of the 21st century.  
 He has over a dozen albums to his credit, including the acclaimed Bird Calls, which topped many critics’ best-of-year lists for 2015 and was hailed by PopMatters as “complex, rhythmically vital, free in spirit while still criss-crossed with mutating structures.”   
