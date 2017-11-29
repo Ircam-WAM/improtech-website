@@ -48,6 +48,16 @@ composer and researcher, got an engineering degree before studying composition i
 <br><br><br><br>
 
 ---
+
+<img src="../images/braasch.jpg" width="320" style="float:left" hspace="10">
+####Jonas Braasch
+is an Associate Professor at the School of Architecture at Rensselaer Polytechnic Institute, where he directs the Center for Cognition, Communication, and Culture and teaches in the Graduate Program in Architectural Acoustics. His research interests span collaborative virtual reality systems, binaural hearing, auditory modeling, multimodal integration, sensory substitution devices, aural architecture and creative processes in music improvisation. For his work, he has received funding from the National Science Foundation, Natural Sciences and Engineering Research Council of Canada, DFG (German Science Foundation), the European Research Council, New York State Council on the Arts, the Christopher and Dana Reeve and Craig H. Neilsen Foundations. He obtained a master’s degree from Dortmund University (Germany, 1998) in Physics and two Ph.D. degrees from Ruhr-University Bochum, Germany (2001, 2004) in Electrical Engineering/Information Science and Musicology. As a soprano saxophonist, he has worked with Curtis Bahn, Chris Chafe, Stuart Dempster, Mark Dresser, Zach Layton, Francisco Lopez, Pauline Oliveros, and Doug van Nort – among others. Within his saxophone practice, Jonas Braasch developed his horn of sounds concept, which is the first method for wind instruments to use different sound generators to create a palette of sounds and styles using one main instrument to achieve an enhanced awareness of internal diversity.
+<br>
+[jonasbraasch.com](http://jonasbraasch.com)
+<br><br><br><br>
+
+---
+
 <img src="../images/chang.jpg" width="320" style="float:left" hspace="10">
 ####Leo Chang
 is a composer of electroacoustic and acoustic new music. Lately, he has been focused on how listening practices may influence musical composition. He is currently pursuing his Master's degree in Music Composition at New York University where he studies with Joan La Barbara and Tae Hong Park. He holds a Bachelor’s degree from Washington University in St. Louis, where he studied with Christopher Stark and Juri Seo. Leo has presented his music at various festivals: notably the Society of Electro-Acoustic Music in the United States (SEAMUS) National Conference, and the New York City Electroacoustic Music Festival (NYCEMF) at National Sawdust. He has written for musicians with disparate backgrounds: from professional ensembles such as the JACK quartet and Musica Intima, to students from the Manhattan School of Music, Northwestern University, NYU, and any close friends who are willing to humor him and work with him in a creative capacity.
