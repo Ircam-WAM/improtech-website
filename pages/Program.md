@@ -74,7 +74,7 @@ Pierre Couprie (Sorbonne University), Gyorgy Kurtag Jr (SCRIME, Bordeaux Univers
 During this talk, we will present a French improvisation group in electroacoustic music: ONE (Orchestre National Electroacoustique). In this group, we have developed our instrument and/or the digital part of our devices. We also use a digital conductor called 'John' which propose an improvisation score for each musician from a list of words, nuances and variation of intensity. We also discuss the analysis of performance through representation technic to study John's influence on musical improvisation.
 
 <br>
-###10:45Break
+###10:45 Break
 
 <br>
 ####11:15
@@ -147,6 +147,8 @@ What are some good ways, when making music that is shared among humans (and, in 
 <br>
 ###18:00 End of Dec. 11 sessions
 <br>
+
+---
 
 ---
 
@@ -225,6 +227,7 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 
 <br>
 ###16:00 Break, Venue Change
+<br>
 
 ---
 
@@ -323,6 +326,7 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 
 <br>
 ###12:45 Lunch Break
+<br>
 
 ---
 
