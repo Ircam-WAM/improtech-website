@@ -24,9 +24,9 @@ Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*
 **The Rotunda**
 *4014 Walnut Street, Philadelphia, PA 19104*  
   
-Moor Mother (voice, electronics)  
-Dafna Naphtali (electronics)  
-Denis Beuret, Sarah Belle Reid  (trombone, Trumpet, live electronics)  
+Moor Mother (voice & electronics)  
+Dafna Naphtali (voice & live-processing)  
+Denis Beuret, Sarah Belle Reid  (trombone, trumpet, live electronics)  
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
 Max Eilbacher (electronics)  
 Charles Kely, Marc Chemillier (guitar, djazz system)  
