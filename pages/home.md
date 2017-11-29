@@ -6,7 +6,7 @@ Tags: ircam, improvisation, performance, human machine interaction, improtech, o
 Authors: Gerard Assayag
 Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### Workshop - Festival, December 11th - 13th, 2017 at the University of Pennsylvania
+#### Workshop - Festival, December 11th - 13th, 2017 at the University of Pennsylvania 
 <br>
 <br>
 **11th - 13th**, **Workshop** keynotes, presentations, demos and performances at U.Penn, Drexel U. and ICA,  from 9:30 - 18:00  
