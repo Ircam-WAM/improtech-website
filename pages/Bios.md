@@ -253,6 +253,18 @@ is the CEO and co-Founder of HyVibe. Prior to creating HyVibe, he was the lead r
 
 ---
 
+<img src="../images/masaoka.jpg" width="320" style="float:left" hspace="10">
+####Miya Masaoka
+works at the intersections of sound, composition, improvisation, spatialized perception and social interaction. Her work encompasses notated compositions, instrument building, creating computing wear-ables and sonifying the behavior of plants, brain activity, and insect movement. Her work has been exhibited nationally and internationally, including the Venice Biennale, Park Avenue Armory, Institute of Contemporary Art Philadelphia, Museum of Contemporary Art Chicago, and MoMA PS1 (2018). She was the keynote speaker at NIME 2016 in Brisbane, Australia, and a Fulbright Fellow to Japan in 2016, and has been the recipient of the Doris Duke Artist Award, the Alpert Award in the Arts, Gerbode Foundation Special Award in the Arts, the MAP Fund, and others. Masaoka has taught composition at New York University and in the Music/Sound program at the Milton Avery School of the Arts at Bard College since 2002, and is currently the director of the Sound Art MFA program at Columbia University. In 2017, her installation “Vaginated Ears” was shown as the Kunstmuseum Bonn, and in 2018 she will premiere a work for the BBC Scottish Symphony Orchestra.
+<br>
+[www.miyamasaoka.com](http://www.miyamasaoka.com)
+<br>
+<br>
+<br>
+
+---
+
+
 <img src="../images/Bio_Matmos_ by Josh Sisk.jpg" width="320" style="float:left" hspace="10">
 ####Matmos
 is **M.C. Schmidt and Drew Daniel**, aided and abetted by many others. Currently based in Baltimore, the duo formed in San Francisco in the mid 1990s. Marrying the conceptual tactics and noisy textures of object-based musique concrete to a rhythmic matrix rooted in electronic pop music, the two are known for their highly unusual sound sources: amplified crayfish nerve tissue, the pages of bibles turning, liposuction surgery, rat cages, a cow uterus, snails, cigarettes, laser eye surgery, latex fetish clothing, life support systems, a five gallon bucket of oatmeal, and a washing machine. Matmos’ work presents a model of electronic composition as a relational network that connects sources and outcomes together; information about the process of creation activates the listening experience, providing the listener with entry points into sometimes densely allusive, baroque recordings. Matmos have released over ten albums on labels such as Matador and Thrill Jockey. They also have a history of rich collaborations with artists like Bjork, Antony, So Percussion, Terry Riley, The Kronos Quartet, David Tibet, Rachel’s, Zeena Parkins, and the Princeton Laptop Orchestra, Daria Martin, Young Jean Lee, and Ayman Harper. Outside Matmos, Schmidt and Daniel have also performed in Baltimore’s High Zero festival and engaged countless collaborators across the American underground and beyond for more than 20 years.
