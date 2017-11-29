@@ -206,7 +206,7 @@ Adam Vidiksis + BEEP (Temple U.)
 
 <font color="grey"> 
 #Workshop, Dec. 13th Morning
-##Theme : (Artififial) Creative Intelligences
+##Theme : (Artificial) Creative Intelligences
 </font>
 
 ---
@@ -236,7 +236,7 @@ NYU collective presentation
 
 <font color="grey"> 
 #Workshop, Dec. 13th Afternoon
-##Theme : (Artififial) Creative Intelligences
+##Theme : (Artificial) Creative Intelligences
 </font>
 
 ---
