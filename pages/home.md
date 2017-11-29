@@ -28,7 +28,7 @@ Scholars, students, musicians, makers will come from many places in europe and t
 
 ---
 
-Check detailed Program [here](/Pages/Program.md), and participants bios [here](Bios.md).
+Check detailed Program [here]({filename}/Pages/Program.md), and participants bios [here]({filename}/Pages/Bios.md).
 
 Improtech Paris-Philly workshop is open to all and free.
 Concert #1 is free for students, Concert #2 is free.
