@@ -38,10 +38,8 @@ Adam Vidiksis (percussion, electronics)
 
 <br><br>
 
-# Workshop : Dec. 11-13th (9:30am - 6pm)
-*U. Penn, Lerner Center, Rm 101, 201 S 34th St*  
-*U. Penn, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*  
-
+# Workshop : Dec. 11-13th (9:30am - 6pm), Drexel University, U. Penn
+<br>
 
 ---
 
