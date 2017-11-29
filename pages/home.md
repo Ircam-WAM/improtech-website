@@ -10,8 +10,8 @@ Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musician
 <br>
 <br>
 **11th - 13th**, **Workshop** keynotes, presentations, demos and performances at U.Penn, Drexel U. and ICA,  from 9:30 - 18:00  
-**11th**, **Evening concert** at the Annenberg Center for the Performing Arts  
-**13th**, **Evening concert** at The Rotunda  
+**11th**, **Evening concert #1** at the Annenberg Center for the Performing Arts  
+**13th**, **Evening concert #2** at The Rotunda  
 <br>
 <br>
 
@@ -25,6 +25,14 @@ The **ImproTech Paris - Philly workshop** will take place at the University of P
  
 Scholars, students, musicians, makers will come from many places in europe and the US to talk about their work, demo, teach and perform. **ikPP** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz and contemporary music, and the young avant-garde / underground scene of Philadelphia and surroundings.
 <br><br>
+
+---
+
+Check detailed Program [here](Program.md), and participants bios [here](Bios.md).
+
+Improtech Paris-Philly workshop is open to all and free.
+Concert #1 is free for students, Concert #2 is free.
+It's better to RSVP here if you intend to come to any of these events.
 
 ---
 
