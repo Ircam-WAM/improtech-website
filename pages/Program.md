@@ -38,7 +38,7 @@ Adam Vidiksis (percussion, electronics)
 
 <br><br>
 
-# Workshop : Dec. 11-13th (9:30am - 6pm), Drexel University, U. Penn
+# Workshop : Dec. 11-13th, 9:30am - 6pm
 <br>
 
 ---
