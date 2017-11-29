@@ -79,6 +79,11 @@ Flannery Cunningham (UPenn)
 *Talkback* for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system during composition or rehearsal, in Talkback the machine learning system is trained live during the performance. An initial semi-random musical “seed” is used as an opening output by the computer. The player improvises in response to this, and the piece evolves through an alternation of “training” and “running” the computer’s learned model. The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material (allowing the human player to layer new musical material on top of an existing texture) and when it will generate a new seed (as when an improviser decides that the music has become too static and introduces a new idea). In this workshop, composer Flannery Cunningham will perform a version of Talkback for hammered dulcimer and laptop, introduce the technology and process of creating the work, and invite participants to experiment with the piece’s structure with their own instruments or voice.
 
 
+###Improvising with Ensemble Feedback Instruments and First-order Cybernetic Followers
+Matt Wright (CCRMA, Stanford University)  
+
+Ensemble Feedback Instruments (first presented at NIME 2015) show that even extremely simple individual musical "instruments", if they each have an audio input as well as an audio output, can give rise to rich and varied musical behaviors when patched together in various feedback topologies. As long as there is just a little system delay, on the order of trained musicians' reaction times, then even unstable "exploding" systems can safely generate glorious crescendos when one or more careful listeners have low-latency gain controls in the loop allowing them to attenuate when things begin to get out of control. Taking this a step further, we can automate this "turn down when it gets too loud" behavior; we reframe the behavior of a side-chained compressor-limiter in terms of a first-order cybernetic feedback system like a thermostat.  Each sound element inside the feedback network can have a "goal" volume (analogous to a thermostat's temperature setting) and limited (i.e., time-slewed) ability to adjust its own output volume (analogous to turning the heater on or off) according to the volume it detects in its input or output signals and/or the ensemble's overall level (analogous to the thermometer). Again the simplest of elements can give rise to rich behaviors when placed in proper recursive context. Automating this guarantee that the potentially unstable ensemble feedback network will never blow up allows a shift from a model where a human performer directly controls each individual instrument to a model where a human performer might indirectly control multiple instruments at the same time and/or improvise in real-time collaboration with goal-seeking, if not "intelligent," software agents. 
+
 ###Ableton Presentation
 (to be completed)  
 
@@ -145,13 +150,14 @@ We will show how how geometry can be used to construct new musical instruments b
 
 ####14:30
 
+###Live Algorithms for Music
+Michael Young (U. of Sunderland)  
+
+Computational systems able to collaborate with human improvisers are live algorithms: able to cooperate proactively, on an equal basis, with musicians in performance. This is an ideal that raises fundamental questions about creativity and group interaction, how these might be computationally modelled. Can musicians and computers relate to one another, just as human musicians do? Can an audience recognize and appraise this relationship? Live algorithms offer the prospect of a new understanding of real-time creative practice that differs from the established paradigms in live electronic music: computer as instrument and computer as proxy. Drawing upon ideas from social psychology, collective music-making can be viewed as a special case of social cooperation, evidenced primarily through sound. To attempt a functional description of live algorithms is to model modes of cooperation and causal attribution that occur between proactive agents in a shared sonic environment. The challenge of live algorithms is to find genuinely original ways for humans and computers to work together - an original way to make music. The ideal live algorithm paradigm is computer as partner.		
+
 ###Jeff Snyder
 (to be completed)
 
-###Improvising with Ensemble Feedback Instruments and First-order Cybernetic Followers
-Matt Wright (CCRMA, Stanford University)  
-
-Ensemble Feedback Instruments (first presented at NIME 2015) show that even extremely simple individual musical "instruments", if they each have an audio input as well as an audio output, can give rise to rich and varied musical behaviors when patched together in various feedback topologies. As long as there is just a little system delay, on the order of trained musicians' reaction times, then even unstable "exploding" systems can safely generate glorious crescendos when one or more careful listeners have low-latency gain controls in the loop allowing them to attenuate when things begin to get out of control. Taking this a step further, we can automate this "turn down when it gets too loud" behavior; we reframe the behavior of a side-chained compressor-limiter in terms of a first-order cybernetic feedback system like a thermostat.  Each sound element inside the feedback network can have a "goal" volume (analogous to a thermostat's temperature setting) and limited (i.e., time-slewed) ability to adjust its own output volume (analogous to turning the heater on or off) according to the volume it detects in its input or output signals and/or the ensemble's overall level (analogous to the thermometer). Again the simplest of elements can give rise to rich behaviors when placed in proper recursive context. Automating this guarantee that the potentially unstable ensemble feedback network will never blow up allows a shift from a model where a human performer directly controls each individual instrument to a model where a human performer might indirectly control multiple instruments at the same time and/or improvise in real-time collaboration with goal-seeking, if not "intelligent," software agents. 
 
 ###Drop for bassoon and electronics	
 Katarina Miljkovic and Chris Watford		
@@ -216,14 +222,9 @@ Matmos
 
 Matmos is M.C. Schmidt and Drew Daniel, aided and abetted by many others. Currently based in Baltimore, the duo formed in San Francisco in the mid 1990s. Marrying the conceptual tactics and noisy textures of object-based musique concrete to a rhythmic matrix rooted in electronic pop music, the two are known for their highly unusual sound sources: amplified crayfish nerve tissue, the pages of bibles turning, liposuction surgery, rat cages, a cow uterus, snails, cigarettes, laser eye surgery, latex fetish clothing, life support systems, a five gallon bucket of oatmeal, and a washing machine. Matmos’ work presents a model of electronic composition as a relational network that connects sources and outcomes together; information about the process of creation activates the listening experience, providing the listener with entry points into sometimes densely allusive, baroque recordings. Matmos will talk about their practice and it’s relationship with improvisation and technologies from 1997 to the present.
 
-###Live Algorithms for Music
-Michael Young (U. of Sunderland)  
+###NYU Music Technology Group presentation
 
-Computational systems able to collaborate with human improvisers are live algorithms: able to cooperate proactively, on an equal basis, with musicians in performance. This is an ideal that raises fundamental questions about creativity and group interaction, how these might be computationally modelled. Can musicians and computers relate to one another, just as human musicians do? Can an audience recognize and appraise this relationship? Live algorithms offer the prospect of a new understanding of real-time creative practice that differs from the established paradigms in live electronic music: computer as instrument and computer as proxy. Drawing upon ideas from social psychology, collective music-making can be viewed as a special case of social cooperation, evidenced primarily through sound. To attempt a functional description of live algorithms is to model modes of cooperation and causal attribution that occur between proactive agents in a shared sonic environment. The challenge of live algorithms is to find genuinely original ways for humans and computers to work together - an original way to make music. The ideal live algorithm paradigm is computer as partner.		
-
-###The NYU Music Technology Group (collective presentation)
-
-####The NYU Music Technology and Composition programs
+####The NYU Music Technology and Composition Programs
 Tae Hong Park	
 
 ####Introduction to Citygram
@@ -266,8 +267,7 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 
 
 ####14:00
-###The Renseelaer Polytechnic Institute Research Group
-RPI Collective Presentation
+###Renseelaer Polytechnic Institute Research, group presentation
 
 ####Sound and Algorithmic Environments for Improvisation
 Matthew Goodheart (Rensselaer Poly. Inst.)  
