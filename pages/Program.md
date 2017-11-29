@@ -99,6 +99,7 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 
 <font color="grey"> 
 #Workshop, Dec. 11th Afternoon
+***U. Penn**, Lerner Center, Rm 101, 201 S 34th St
 ##Theme : Instruments, spaces, bodies
 </font>
 
@@ -145,6 +146,7 @@ What are some good ways, when making music that is shared among humans (and, in 
 
 <font color="grey"> 
 # Workshop, Dec. 12th Morning
+**U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ## Theme : Composition, Notation, Synthesis, Form
 </font>
 
@@ -183,6 +185,7 @@ We will show how how geometry can be used to construct new musical instruments b
 
 <font color="grey"> 
 # Workshop, Dec. 12th Afternoon
+**U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ## Theme : Composition, Notation, Synthesis, Form
 </font>
 
@@ -212,6 +215,7 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 
 <font color="grey"> 
 #Events at ICA, dec. 12th
+**ICA** 18 S 36th St
 </font>
 
 ---
@@ -243,6 +247,7 @@ Adam Vidiksis + BEEP (Temple U.)
 
 <font color="grey"> 
 #Workshop, Dec. 13th Morning
+**U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ##Theme : (Artificial) Creative Intelligences
 </font>
 
@@ -300,6 +305,7 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 
 <font color="grey"> 
 #Workshop, Dec. 13th Afternoon
+**U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ##Theme : (Artificial) Creative Intelligences
 </font>
 
@@ -356,7 +362,6 @@ KEROAÄN is a collaborative research project between IAN M FRASER and REED EVAN 
 Mina Zarfsaz  
 
 This talk/demo is about an interactive audio/video piece that is consisted of a system of sensors, speakers, and projectors measuring the impact of movement and human organization as it reconstructs the dismantled fragments of pieces of music with any given group of people. Like an orchestra of instruments, it is the body of the spectator that co-composes the rhythmic content by co-ordinating movements with others as they trigger the sensors. The “notes” in this project are struck at the interface of body and machine. While in the space, each person is either an active “ON” (within a sensor range) or a passive “OFF” (out of a sensor range.) This piece forces one’s perceptual system to search the space for triggered sounds and lit surfaces; to track changes, estimate distances and corporeal relationship with others. The piece never repeats itself exactly, has no beginning, middle or end.
-
 
 
 <br>
