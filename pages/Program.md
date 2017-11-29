@@ -56,7 +56,7 @@ Adam Vidiksis (percussion, electronics)
 <br>
 
 ####09:30
-###Presentation of the ExCITe Center and the MET-lab
+###Presentation of the ExCITe Center and the MET-lab at Drexel University
 Yougmoo Kim (Drexel University)	
 
 The ExCITe Center is Drexel University’s home for research and discovery connecting technology and creative expression, bringing together faculty and students from across the University to pursue transdisciplinary, collaborative projects. As part of the Center, the Music & Entertainment Technology Laboratory (MET-lab) focuses on the machine understanding of audio, human-machine interfaces and robotics for expressive interaction, real-time analysis, synthesis, and visualization of sound, and K-12 outreach for STEAM (Science, Technology, Engineering, Arts & Design, and Mathematics) education. This presentation will highlight recent MET-lab/ExCITe projects with external collaborators, including Sophia’s Forrest (a chamber opera with electroacoustic sound sculptures by composer Lembit Beecher) and a dance work involving autonomous drones, created with Parsons Dance.
@@ -68,12 +68,16 @@ We present a system for augmentation of acoustic drums using electromagnetic act
 
 <br>
 ####10:15
-
 ###ONE and John: Oriented Improvisation
 Pierre Couprie (Sorbonne University), Gyorgy Kurtag Jr (SCRIME, Bordeaux University)	
 
 During this talk, we will present a French improvisation group in electroacoustic music: ONE (Orchestre National Electroacoustique). In this group, we have developed our instrument and/or the digital part of our devices. We also use a digital conductor called 'John' which propose an improvisation score for each musician from a list of words, nuances and variation of intensity. We also discuss the analysis of performance through representation technic to study John's influence on musical improvisation.
 
+<br>
+###10:45Break
+
+<br>
+####11:15
 ###The Djazz project: Jazz machines and Anthropology
 Marc Chemillier (EHESS)  
 
@@ -121,7 +125,11 @@ Flannery Cunningham (UPenn)
 
 *Talkback* for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system during composition or rehearsal, in Talkback the machine learning system is trained live during the performance. An initial semi-random musical “seed” is used as an opening output by the computer. The player improvises in response to this, and the piece evolves through an alternation of “training” and “running” the computer’s learned model. The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material (allowing the human player to layer new musical material on top of an existing texture) and when it will generate a new seed (as when an improviser decides that the music has become too static and introduces a new idea). In this workshop, composer Flannery Cunningham will perform a version of Talkback for hammered dulcimer and laptop, introduce the technology and process of creating the work, and invite participants to experiment with the piece’s structure with their own instruments or voice.
 
+<br>
+###16:00 Break
 
+<br>
+####16:30
 ###Improvising with Ensemble Feedback Instruments and First-order Cybernetic Followers
 Matt Wright (CCRMA, Stanford University)  
 
@@ -168,7 +176,7 @@ Joo Won Park (Wayne State U.)
 100 Strange Sounds consists of one hundred video recordings of solo improvisations using live electronics http://www.100strangesounds.com. The purpose of this project was to improve the creator's technical and improvisational abilities while examining the documentation and promotional possibilities of an online video platform. The author will present the technical and aesthetic findings in completing the project by demonstrating the software and hardware setup as well as sharing the viewer data from Youtube and Google Analytics.
 
 <br>
-###11:15 BREAK
+###11:15 Break
 
 <br>
 ####11:45
@@ -216,6 +224,7 @@ Katarina Miljkovic and Chris Watford
 Fabric of the electronic and instrumental part in the composition is derived from the structure of an automaton. Resulting sound events are of a modular nature and provide a field of possibilities for performers. During the performance, both performers traverse through the automaton by freely selecting sound modules while using the automaton data as time brackets. Live sound processing is happening through plugins. As a result, CA generates the structure, dictates the overall process but also embraces indeterminacy coming from a human response to a deterministic nature of the automaton, and an attempt to communicate with it. The piece is 12' long (there is also a version 24’ long). Sonic material is based on a field recording of a lament song from Balkans. The field recording is filtered through CA to create sound modules, which are treated in the way previously described.
 
 <br>
+###16:00 Break, Venue Change
 
 ---
 
@@ -278,7 +287,7 @@ Matmos
 Matmos is M.C. Schmidt and Drew Daniel, aided and abetted by many others. Currently based in Baltimore, the duo formed in San Francisco in the mid 1990s. Marrying the conceptual tactics and noisy textures of object-based musique concrete to a rhythmic matrix rooted in electronic pop music, the two are known for their highly unusual sound sources: amplified crayfish nerve tissue, the pages of bibles turning, liposuction surgery, rat cages, a cow uterus, snails, cigarettes, laser eye surgery, latex fetish clothing, life support systems, a five gallon bucket of oatmeal, and a washing machine. Matmos’ work presents a model of electronic composition as a relational network that connects sources and outcomes together; information about the process of creation activates the listening experience, providing the listener with entry points into sometimes densely allusive, baroque recordings. Matmos will talk about their practice and it’s relationship with improvisation and technologies from 1997 to the present.
 
 <br>
-####10:45 BREAK
+####10:45 Break
 
 <br>
 ####11:15
@@ -313,6 +322,7 @@ Erich Barganier
 The concept of a laptop orchestra has become entrenched in academia and is not necessarily accessible to those with limited technological abilities. This talk deals with how we can democratize laptop orchestras, strategies for how to organize any group of people with access to a laptop and Supercollider into a laptop orchestra, and strategies to connect participants remotely. This talk will also address the laptop orchestra as an effective pedagogical tool as a STEM project in Hackerspaces and Makerspaces.   
 
 <br>
+###12:45 Lunch Break
 
 ---
 
@@ -353,7 +363,7 @@ Justin Yang (RPI)
 This talk explores the use of networked computer animation as a front end for composition and scoring for live performers. An assortment of computer animated graphic tools can be used to develop interactions between algorithms and AI, and live performers. These tools help open the door for possibilities such as real-time scoring, structured improvisation, multi-nodal composition, real-time orchestration, and performer-computer interactions.
 
 <br>
-###15:30 BREAK
+###15:30 Break
 
 <br>
 ####16:00
