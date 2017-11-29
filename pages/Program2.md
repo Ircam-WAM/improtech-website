@@ -130,7 +130,7 @@ Justin Yang (RPI)
 
 This talk explores the use of networked computer animation as a front end for composition and scoring for live performers. An assortment of computer animated graphic tools can be used to develop interactions between algorithms and AI, and live performers. These tools help open the door for possibilities such as real-time scoring, structured improvisation, multi-nodal composition, real-time orchestration, and performer-computer interactions.
 
-###Constructing new Improvisation Instruments with Geometrical Configuration Space
+###Improvising in Imaginary Spaces
 Dmitri Tymoczko	with Rudresh Mahantappa  
 
 We will show how how geometry can be used to construct new musical instruments based on the idea of a configuration space.  we will provide some examples of these indigenous electronic instruments and explain how they might be used in performance.
@@ -206,7 +206,7 @@ Adam Vidiksis + BEEP (Temple U.)
 
 <font color="grey"> 
 #Workshop, Dec. 13th Morning
-##Theme : Instruments, spaces, bodies
+##Theme : (Artififial) Creative Intelligences
 </font>
 
 ---
@@ -214,7 +214,80 @@ Adam Vidiksis + BEEP (Temple U.)
 <br>
 
 ####09:30
+### Keynote presentation by David Rosenboom (CalArts)
+Deviant Resonances — Listening to Evolution  
 
+What happens when two forms of musical intelligence—either having emerged naturally from cosmological dynamics or been volitionally constructed by purposeful beings—attempt to initiate improvised co-communication with each other, while neither possess an a priori model describing the range and scope of manners in which either intelligence or music can be manifested? Will they even recognize each other? What predictive models can they use to search for something for which neither has a clear pre-definition? This is both a challenging and inspiring space to explore.
+
+
+<br>
+####10:15
+###Matmos, improvisation and tehcnologies from  1997 to the present
+Matmos	
+
+Matmos is M.C. Schmidt and Drew Daniel, aided and abetted by many others. Currently based in Baltimore, the duo formed in San Francisco in the mid 1990s. Marrying the conceptual tactics and noisy textures of object-based musique concrete to a rhythmic matrix rooted in electronic pop music, the two are known for their highly unusual sound sources: amplified crayfish nerve tissue, the pages of bibles turning, liposuction surgery, rat cages, a cow uterus, snails, cigarettes, laser eye surgery, latex fetish clothing, life support systems, a five gallon bucket of oatmeal, and a washing machine. Matmos’ work presents a model of electronic composition as a relational network that connects sources and outcomes together; information about the process of creation activates the listening experience, providing the listener with entry points into sometimes densely allusive, baroque recordings. Matmos will talk about their practice and it’s relationship with improvisation and technologies from 1997 to the present.
+
+###The NYU music research group
+NYU collective presentation
+(to be completed)
+<br>
+
+---
+
+<font color="grey"> 
+#Workshop, Dec. 13th Afternoon
+##Theme : (Artififial) Creative Intelligences
+</font>
+
+---
+
+<br>
+
+
+####14:00
+###From OMax to DYCI2 : merging free, reactive, and scenario-based features in human-computer co-improvisation
+Jérôme Nika (Ircam) with Rémi Fox (Saxophone)
+
+The collaborative research and development project DYCI2, Creative Dynamics of Improvised Interaction, focuses on conceiving, adapting, and bringing into play efficient models of artificial listening, learning, interaction, and generation of musical contents. It aims at developing creative and autonomous digital musical agents able to take part in various human projects in an interactive and artistically credible way. The concerned areas are live performance, production, pedagogy, and active listening. This presentation will give an overview of the project focusing on the design of multi-agent architectures and models of knowledge and decision (OMax, SoMax, ImproteK, DYCI2) in order to explore scenarios of music co-improvisation involving human and digital agents. The objective is to merge the usually exclusive "free", "reactive", and "scenario-based" paradigms in interactive music generation to adapt to a wide range of musical contexts involving hybrid temporality and multimodal interactions. The DYCI2 project is led in close and continuous interaction with expert musicians, and these interactions are an integral part of the iterative development of the models and of the software prototypes. Therefore, the presentation will be illustrated by material coming from past, present, and future associated artistic projects.		
+
+
+###Multi-dimensional and Multi-scale learning of music structure for machine improvisation in the DYCI2 project		
+Ken Deguernel (Inria Nancy)  
+
+Current musical improvisation systems are able to generate unidimensional musical sequences by recombining their musical contents. However, considering several dimensions (melody, harmony...) and several temporal levels are difficult issues. We propose to combine probabilistic approaches with formal language theory in order to better assess the complexity of a musical discourse, both from a multidimensional and multi-level point of view in the context of improvisation where the amount of data is limited. The methods proposed have been evaluated by professional musicians and improvisers during listening sessions.
+
+
+###Intelligent Music Agents capable of joint intuitive and rational thinking	
+Jonas Braasch (RPI)  
+
+This talk describes an intelligent music system approach that utilizes a joint bottom-up/top-down structure. The bottom-up structure is purely signal driven and calculates pitch, loudness, and information rate among other parameters using auditory models that simulate the functions of different parts of the brain. The top-down structure builds on a logic-based reasoning system and an ontology that was developed to reflect rules in jazz practice. Two instances of the agent have been developed to perform traditional and free jazz, and it is shown that the same general structure can be used to improvise different styles of jazz.		
+
+###Mediation between Musicians and Code with Neural Networks	
+Jeremy Stewart (RPI)  
+
+For this talk, we will discuss design and implementation of a neural network system for performance between acoustic musicians and live coding performers. Starting with simple classification systems and experimenting with data for training deep neural networks, while also considering novel integrations into existing performance systems, we will outline our current work while also discussing potential steps forward.
+
+###Talkback: Human and Computer Improvisation through a Live-Trained Machine Learning Model	
+Flannery Cunningham (UPenn)  
+
+*Talkback* for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system during composition or rehearsal, in Talkback the machine learning system is trained live during the performance. An initial semi-random musical “seed” is used as an opening output by the computer. The player improvises in response to this, and the piece evolves through an alternation of “training” and “running” the computer’s learned model. The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material (allowing the human player to layer new musical material on top of an existing texture) and when it will generate a new seed (as when an improviser decides that the music has become too static and introduces a new idea). In this workshop, composer Flannery Cunningham will perform a version of Talkback for hammered dulcimer and laptop, introduce the technology and process of creating the work, and invite participants to experiment with the piece’s structure with their own instruments or voice.
+
+
+###The KEROAÄN collaborative research project
+IAN M FRASER and REED EVAN ROSENBERG  
+
+KEROAÄN is a collaborative research project between IAN M FRASER and REED EVAN ROSENBERG exploring composition of electronic music by an artificial intelligence. Pieces are diffused in real time with no human intervention whatsoever as the machine agent manipulates the qualities of chosen non-standard synthesis and microsound techniques. In live diffusions, the machine agent additionally controls laser apertures and an array of strobe lighting which collectively act as a visual projection of the agent's internal state as it structures the performance. A distinctly non-human logic pervades the resultant arrangements of chaotic sounds and high-intensity lighting, presenting an immersive, alien environment.
+
+
+###Live Algorithms for Music
+Michael Young (U. of Sunderland)  
+
+Computational systems able to collaborate with human improvisers are live algorithms: able to cooperate proactively, on an equal basis, with musicians in performance. This is an ideal that raises fundamental questions about creativity and group interaction, how these might be computationally modelled. Can musicians and computers relate to one another, just as human musicians do? Can an audience recognize and appraise this relationship? Live algorithms offer the prospect of a new understanding of real-time creative practice that differs from the established paradigms in live electronic music: computer as instrument and computer as proxy. Drawing upon ideas from social psychology, collective music-making can be viewed as a special case of social cooperation, evidenced primarily through sound. To attempt a functional description of live algorithms is to model modes of cooperation and causal attribution that occur between proactive agents in a shared sonic environment. The challenge of live algorithms is to find genuinely original ways for humans and computers to work together - an original way to make music. The ideal live algorithm paradigm is computer as partner.		
+
+
+<br>
+###18:00 End of Dec. 13 sessions
+<br>
 
 
 
