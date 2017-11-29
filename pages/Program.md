@@ -161,14 +161,22 @@ What are some good ways, when making music that is shared among humans (and, in 
 Steve Lehman (CalArts)	
 
 Recent work in the domain of computer-driven improvisation has privileged modes of interactivity that eschew tempo-based hierarchies of musical time. This talk will seek to interrogate some of these recent tendencies, and provide a brief overview of the speaker's recent work integrating improvisation with contemporary research in the field of rhythmic cognition. Some potential applications to tempo-based musical models for human-computer interaction will also be discussed.
-10:45	Joo Won Park (Wayne State U.)	composition strategies	compo		100 Strange Sounds: Practice on Electroacoustic Improvisation	100 Strange Sounds consists of one hundred video recordings of solo improvisations using live electronics http://www.100strangesounds.com. The purpose of this project was to improve the creator's technical and improvisational abilities while examining the documentation and promotional possibilities of an online video platform. The author will present the technical and aesthetic findings in completing the project by demonstrating the software and hardware setup as well as sharing the viewer data from Youtube and Google Analytics.
 
+###100 Strange Sounds: Practice on Electroacoustic Improvisation
+Joo Won Park (Wayne State U.)
+
+100 Strange Sounds consists of one hundred video recordings of solo improvisations using live electronics http://www.100strangesounds.com. The purpose of this project was to improve the creator's technical and improvisational abilities while examining the documentation and promotional possibilities of an online video platform. The author will present the technical and aesthetic findings in completing the project by demonstrating the software and hardware setup as well as sharing the viewer data from Youtube and Google Analytics.
+
+<br>
+###11:15 BREAK
+
+<br>
+####11:45
 ###Portable Gold and Philosophers' Stones (Deviant Resonances)
 David Rosenboom (CalArts)	
 
 The “Philosopher’s Stone” is a mental symbol about the prima materia, the original substance and ultimate principle of the universe. It has been said that by returning from the qualities of sensation and thought, which we perceive through differentiation and specialization, to the undifferentiated purity of the prima materia, we might learn truths about creative power and the fundamental mutability of all phenomena. Combining this with the symbol, Portable Gold, was my way of emphasizing the timelessness and spacelessness of this idea, which we can carry with us anywhere. To manifest these symbols in music, I’ve made pieces that work with resonant coincidences detected among the physical brainwaves of performers and apply them inside the circuits of custom-built, live electronic music devices, to grow spontaneous musical forms. This version is realized with portable brainwave detectors, computer music software, and an auxiliary acoustic instrument.
 Portable Gold and Philosophers' Stones (1972 & 2015), Computer-electronics with BCMI (Brain-Computer Music Interface), auxiliary instrument, and two active imaginative listening brainwave performers (volunteers).
-
 
 ###Improvising in Imaginary Spaces
 Dmitri Tymoczko	with Rudresh Mahantappa  
@@ -176,7 +184,7 @@ Dmitri Tymoczko	with Rudresh Mahantappa
 We will show how how geometry can be used to construct new musical instruments based on the idea of a configuration space.  we will provide some examples of these indigenous electronic instruments and explain how they might be used in performance.
 
 <br>
-###13:00 Lunch Break
+###12:45 Lunch Break
 <br>
 
 ---
@@ -269,6 +277,11 @@ Matmos
 
 Matmos is M.C. Schmidt and Drew Daniel, aided and abetted by many others. Currently based in Baltimore, the duo formed in San Francisco in the mid 1990s. Marrying the conceptual tactics and noisy textures of object-based musique concrete to a rhythmic matrix rooted in electronic pop music, the two are known for their highly unusual sound sources: amplified crayfish nerve tissue, the pages of bibles turning, liposuction surgery, rat cages, a cow uterus, snails, cigarettes, laser eye surgery, latex fetish clothing, life support systems, a five gallon bucket of oatmeal, and a washing machine. Matmos’ work presents a model of electronic composition as a relational network that connects sources and outcomes together; information about the process of creation activates the listening experience, providing the listener with entry points into sometimes densely allusive, baroque recordings. Matmos will talk about their practice and it’s relationship with improvisation and technologies from 1997 to the present.
 
+<br>
+####10:45 BREAK
+
+<br>
+####11:15
 ###NYU Music Technology Group presentation
 
 ####The NYU Music Technology and Composition Programs
@@ -339,6 +352,8 @@ Justin Yang (RPI)
 
 This talk explores the use of networked computer animation as a front end for composition and scoring for live performers. An assortment of computer animated graphic tools can be used to develop interactions between algorithms and AI, and live performers. These tools help open the door for possibilities such as real-time scoring, structured improvisation, multi-nodal composition, real-time orchestration, and performer-computer interactions.
 
+<br>
+###15:30 BREAK
 
 <br>
 ####16:00
@@ -352,8 +367,6 @@ The collaborative research and development project DYCI2, Creative Dynamics of I
 Ken Deguernel (Inria Nancy)  
 
 Current musical improvisation systems are able to generate unidimensional musical sequences by recombining their musical contents. However, considering several dimensions (melody, harmony...) and several temporal levels are difficult issues. We propose to combine probabilistic approaches with formal language theory in order to better assess the complexity of a musical discourse, both from a multidimensional and multi-level point of view in the context of improvisation where the amount of data is limited. The methods proposed have been evaluated by professional musicians and improvisers during listening sessions.
-
-
 
 ###The KEROAÄN collaborative research project
 IAN M FRASER and REED EVAN ROSENBERG  
