@@ -256,7 +256,7 @@ is the CEO and co-Founder of HyVibe. Prior to creating HyVibe, he was the lead r
 <img src="../images/masaoka.jpg" width="320" style="float:left" hspace="10">
 ####Miya Masaoka
 works at the intersections of sound, composition, improvisation, spatialized perception and social interaction. Her work encompasses notated compositions, instrument building, creating computing wear-ables and sonifying the behavior of plants, brain activity, and insect movement. Her work has been exhibited nationally and internationally, including the Venice Biennale, Park Avenue Armory, Institute of Contemporary Art Philadelphia, Museum of Contemporary Art Chicago, and MoMA PS1 (2018). She was the keynote speaker at NIME 2016 in Brisbane, Australia, and a Fulbright Fellow to Japan in 2016, and has been the recipient of the Doris Duke Artist Award, the Alpert Award in the Arts, Gerbode Foundation Special Award in the Arts, the MAP Fund, and others. Masaoka has taught composition at New York University and in the Music/Sound program at the Milton Avery School of the Arts at Bard College since 2002, and is currently the director of the Sound Art MFA program at Columbia University. In 2017, her installation “Vaginated Ears” was shown as the Kunstmuseum Bonn, and in 2018 she will premiere a work for the BBC Scottish Symphony Orchestra.
-<br>
+<br> 
 [www.miyamasaoka.com](http://www.miyamasaoka.com)
 <br>
 <br>
