@@ -108,8 +108,6 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 
 ---
 
----
-
 <br>
 
 ####14:30
@@ -149,8 +147,6 @@ What are some good ways, when making music that is shared among humans (and, in 
 <br>
 ###18:00 End of Dec. 11 sessions
 <br>
-
----
 
 ---
 
