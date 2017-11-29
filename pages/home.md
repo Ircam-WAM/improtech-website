@@ -14,6 +14,12 @@ Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musician
 **13th**, **Evening concert** at The Rotunda  
 <br>
 <br>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeD6HtBNSEHhIzYYHe8DMmt5xq5NGxBUVQzV0RBrdddB9-P8A/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+<br>
+<br>
+
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">Improtech Paris - Philly (ikPP) gathers scholars, technologists, musicians, makers, around the idea of **musical improvisation with digital intelligence** (IDI), taking notice of the emergence and development of this new creative field.
 ikPP creates a **link between the european and american research and creation scenes** through the symbolic matching of two of their more eminent emblems, Paris and Philadelphia, just as it did a few years ago with Paris and New York.
 
