@@ -13,7 +13,7 @@ Steve Lehman + Hprizm (saxophone, voice, electronics)
 Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK agents)  
 Bob Ostertag (Gamepad and Aalto)  
 Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
-Hatchers aka Michael Barker, Brian Osborne (electronics, drums)  
+Hatchers aka Michael Barker, Brian Osborne (electronics, drums
 Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
   
 [*Program Note*]({filename}/pages/ProgramNote11.md)
@@ -195,8 +195,6 @@ We will show how how geometry can be used to construct new musical instruments b
 <br>
 ###12:45 Lunch Break
 <br>
-
----
 
 ---
 
