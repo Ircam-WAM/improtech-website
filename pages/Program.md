@@ -332,13 +332,13 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 
 ---
 
+---
+
 <font color="grey"> 
 #Workshop, Dec. 13th Afternoon
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ##Theme : (Artificial) Creative Intelligences
 </font>
-
----
 
 ---
 
