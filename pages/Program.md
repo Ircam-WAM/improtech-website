@@ -142,8 +142,6 @@ What are some good ways, when making music that is shared among humans (and, in 
 
 ---
 
----
-
 <font color="grey"> 
 # Workshop, Dec. 12th Morning
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
@@ -253,6 +251,8 @@ Adam Vidiksis + BEEP (Temple U.)
 
 ---
 
+---
+
 <br>
 
 ####09:30
@@ -311,6 +311,8 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 
 ---
 
+---
+
 <br>
 
 
@@ -332,7 +334,7 @@ Jeremy Stewart (RPI)
 
 For this talk, we will discuss design and implementation of a neural network system for performance between acoustic musicians and live coding performers. Starting with simple classification systems and experimenting with data for training deep neural networks, while also considering novel integrations into existing performance systems, we will outline our current work while also discussing potential steps forward.
 
-###Live Scoring for Computer Assisted Composition	
+####Live Scoring for Computer Assisted Composition	
 Justin Yang (RPI)
 
 This talk explores the use of networked computer animation as a front end for composition and scoring for live performers. An assortment of computer animated graphic tools can be used to develop interactions between algorithms and AI, and live performers. These tools help open the door for possibilities such as real-time scoring, structured improvisation, multi-nodal composition, real-time orchestration, and performer-computer interactions.
