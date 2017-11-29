@@ -6,7 +6,7 @@ title: Program
 **Prince Theater, Annenberg Center for the Performing arts**
 *3680 Walnut St, Philadelphia, PA 19104*  
   
-LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, monocord, electronics)  
+LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, one-string koto, electronics)  
 Roscoe Mitchell + Bob Ostertag (reeds, gamepad / Aalto)  
 David Rosenboom (piano, spatialization system, computer interaction) : *The Right Measure of Opposites*  
 Steve Lehman + Hprizm (saxophone, voice, electronics)  
