@@ -127,7 +127,7 @@ Flannery Cunningham (UPenn)
 *Talkback* for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system during composition or rehearsal, in Talkback the machine learning system is trained live during the performance. An initial semi-random musical “seed” is used as an opening output by the computer. The player improvises in response to this, and the piece evolves through an alternation of “training” and “running” the computer’s learned model. The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material (allowing the human player to layer new musical material on top of an existing texture) and when it will generate a new seed (as when an improviser decides that the music has become too static and introduces a new idea). In this workshop, composer Flannery Cunningham will perform a version of Talkback for hammered dulcimer and laptop, introduce the technology and process of creating the work, and invite participants to experiment with the piece’s structure with their own instruments or voice.
 
 <br>
-###16:00 
+####16:00 
 ###Coffee Break
 
 <br>
@@ -180,7 +180,7 @@ Joo Won Park (Wayne State U.)
 100 Strange Sounds consists of one hundred video recordings of solo improvisations using live electronics http://www.100strangesounds.com. The purpose of this project was to improve the creator's technical and improvisational abilities while examining the documentation and promotional possibilities of an online video platform. The author will present the technical and aesthetic findings in completing the project by demonstrating the software and hardware setup as well as sharing the viewer data from Youtube and Google Analytics.
 
 <br>
-###11:15 
+####11:15 
 ###Coffee Break
 
 <br>
@@ -373,7 +373,7 @@ Justin Yang (RPI)
 This talk explores the use of networked computer animation as a front end for composition and scoring for live performers. An assortment of computer animated graphic tools can be used to develop interactions between algorithms and AI, and live performers. These tools help open the door for possibilities such as real-time scoring, structured improvisation, multi-nodal composition, real-time orchestration, and performer-computer interactions.
 
 <br>
-###15:30 
+####15:30 
 ###Coffee Break
 
 <br>
