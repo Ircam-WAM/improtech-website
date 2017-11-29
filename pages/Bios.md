@@ -81,7 +81,7 @@ was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pie
 was born in 1970, he studied instrumental composition, electroacoustic music, musical analysis, and free improvisation at Bordeaux Conservatory. He is an associate professor in digital pedagogy/computer music and a researcher at Sorbonne University (Research Institute in Musicology Lab). His research fields are the musical analysis and the representation of electroacoustic music. He also develops tools for research (iAnalyse, EAnalysis) or musical performance. In 2015, he won the Qwartz Max Mathews Price of technological innovation for his musical analysis software. As an improviser, he is a member of The Phonogénistes and The National Electroacoustic Orchestra (ONE).
 <br>
 [www.pierrecouprie.fr](http://www.pierrecouprie.fr)  / [logiciels.pierrecouprie.fr](http://logiciels.pierrecouprie.fr)
-<br><br>
+<br><br><br><br>
 
 ---
 
@@ -90,7 +90,6 @@ was born in 1970, he studied instrumental composition, electroacoustic music, mu
 is an intermedia artist who works primarily with sound, video, and performance. His sound practice draws upon European traditions of electroacoustic and musique concréte composition. With his sound and performance work, he utilizes the computer as an instrument, instigator, and collaborator to create process intensive music and compositions. This relationship with technology is a mix of conceptual and intuitive practices employed with the aim of creating systems that produce complex patterns, interesting timbres, and bewildering performances. He has created work at EMS in Stockholm and the INA GRM in Paris. His music has been released by Northern Spy, NNA Tapes, Spectrum Spools(Editions Mego), and Anomia. He has toured extensively performing and showing in venues, clubs, museums, galleries, and basements all over North America and Europe.His video work focuses around structural dialogues, damaged narratives and psychedelic animations. More recently, Eilbacher has collaborated with electronic musicians, Matmos to create a reinterpretation of John Sanborn and Robert Ashley's Opera for Television “Perfect Lives” which Premiered at Issue Project Room (NYC) and was performed at the Barbican, The Pompidou and The Unsound Festival in Krakow Poland . Other recent projects include playing bass and electron   ics Horse Lords, an instrumental quartet have been featured in New York Times and National Public Radio. His solo music focuses on the abstract side of electronic music and composition. 
 <br>
 [www.maxeilbacher.com](http://www.maxeilbacher.com) / [www.horselords.info/strobe.html](http://www.horselords.info/strobe.html)
-<br>
 <br>
 <br>
 <br>
