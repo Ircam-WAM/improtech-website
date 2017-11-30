@@ -120,8 +120,6 @@ Sarah Reid (CalArts)
 
 Performer-composer-technologist Sarah Reid will introduce the Minimally Invasive Gesture Sensing Interface (MIGSI) for trumpet. MIGSI uses sensor technology to capture gestural data such as valve displacement, hand tension, and instrument position, to offer extended control and expressivity to trumpet players. In addition to addressing technical and design-based considerations of MIGSI, this presentation will discuss various strategies for performing and composing with this new instrument, and will delve into a larger discussion on integrating new musical interfaces, micro-controllers, and electronic instruments into an improvisational practice.
 
-<br>
-####16:00
 ###Improvising with Ensemble Feedback Instruments and First-order Cybernetic Followers
 Matt Wright (CCRMA, Stanford University)  
 
@@ -139,7 +137,8 @@ Bhob Rainey
 What are some good ways, when making music that is shared among humans (and, in terms of appreciation, likely only among humans), to “get outside yourself” and connect to non-human patterns, entities, signals, etc., without pretending to be objective? Can you not only point to or represent the “great outdoors” but also bring yourself and maybe your audience "outside”? Are computers and computational thinking at all helpful in answering these questions? Let’s talk sonification and data streams and generative patterns, but let’s also ask how they function aesthetically, what ends they might serve when sounds reach ears and that communal event we call music happens.
 
 <br>
-###17:30 End of Dec. 11 sessions
+####18:00
+###End of Dec. 11 sessions
 <br>
 
 ---
