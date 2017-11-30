@@ -53,7 +53,7 @@ Concert #1 is **free for students**, Concert #2 is **free**.
 
 «**Camae Ayewa** is an interdisciplinary artist based in Philadelphia. **Moor Mother** (Goddess) is her low fi/dark rap/chill step/ blk girl blues/witch rap/coffee shop riot gurl songs/southern girl dittys/black ghost songs/love chants/african warrior spells/kongo hoodoo/holly hill Mississippi root jams/project housing bop/baptism jazz/quantum futurism/anthropology of conscience/superdefstar gospel/Lima dream music/slaveship punk/soultronic beats/death poems project, with which she has toured worldwide and performed at numerous festivals» 
 
-
+<br>
 **[Read more highlights...]({filename}/pages/Highlights.md)**  
 
 ---
