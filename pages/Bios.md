@@ -427,6 +427,19 @@ Born in Madagascar, Jean-Charles Razanakoto aka Charles Kely Zana-Rotsy began to
 
 ---
 
+<img src="../images/lance.jpg" width="320" style="float:left" hspace="10">
+####Lance Simmons
+North Industrial American Intuitionist and Decomposer Lance H. Simmons practices music primarily under the moniker *Unguent*. The music tends to take form through a constant evolution of abstracted violent events produced by various means of synthesis and sound processing. Simmons has no formal training in music, synthesis, or sound design.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
 <img src="../images/Bio_Ladonna.jpg" width="320" style="float:left" hspace="10">
 ####LaDonna Smith
 is an American violinist, violist, vocalist, teacher, and musical impresario. A veteran of the Alabama’s legendary Surrealist scene, she has spent four decades pioneering and promoting the field of free improvisation as an art-form capable of ecstatic and explosive emotions, clarity, lyricism and raw human expression. With her highly personal solo style of instant composition and extended techniques, Smith has enjoyed collaborations with fellow improvisers in hundreds of concerts across North America, Europe (including Russia and Siberia), China, Japan and India. Likewise, she has produced many festivals and concerts in her home territory of Birmingham, Alabama, serving as a local outpost for improvised music in the deep South. Co-founded with her longtime duo partner Davey Williams, her TransMuseq record label and The Improviser (an international journal of free improvisation) produced trailblazing documentation and discussion of the emerging free improv idiom. She has performed with Anthony Braxton, Peter Brotzmann, Derek Bailey, Evan Parker, Peter Kowald, Henry Kaiser, John Zorn, Andrea Centazzo, Dave Liebman, Anne LeBaron, Misha Feigin, Shaking Ray Levis, Rova Saxophone Quartet, and Susan Alcorn. Her discography includes recordings on Ictus, Tzadik, Table of the Elements, Leo Records, Meniscus, and Ishtar.
