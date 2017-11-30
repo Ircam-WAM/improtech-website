@@ -30,7 +30,7 @@ Tickets available from the [Annenberg Center Live box office](https://www.annenb
   
 Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)  
 Dafna Naphtali (voice & live-processing)  
-Denis Beuret, Sarah Belle Reid  (trombone, trumpet, live electronics)  
+Sarah Belle Reid  (trumpet, live electronics)  
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
 Max Eilbacher (electronics)  
 Charles Kely, Marc Chemillier (guitar, djazz system)  
@@ -114,23 +114,14 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 
 <br>
 
-####14:30
+####15:30
 ###MIGSI: The Minimally Invasive Gesture Sensing Interface for Trumpet
 Sarah Reid (CalArts)  
 
 Performer-composer-technologist Sarah Reid will introduce the Minimally Invasive Gesture Sensing Interface (MIGSI) for trumpet. MIGSI uses sensor technology to capture gestural data such as valve displacement, hand tension, and instrument position, to offer extended control and expressivity to trumpet players. In addition to addressing technical and design-based considerations of MIGSI, this presentation will discuss various strategies for performing and composing with this new instrument, and will delve into a larger discussion on integrating new musical interfaces, micro-controllers, and electronic instruments into an improvisational practice.
 
-###Talkback: Human and Computer Improvisation through a Live-Trained Machine Learning Model	
-Flannery Cunningham (UPenn)  
-
-*Talkback* for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system during composition or rehearsal, in Talkback the machine learning system is trained live during the performance. An initial semi-random musical “seed” is used as an opening output by the computer. The player improvises in response to this, and the piece evolves through an alternation of “training” and “running” the computer’s learned model. The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material (allowing the human player to layer new musical material on top of an existing texture) and when it will generate a new seed (as when an improviser decides that the music has become too static and introduces a new idea). In this workshop, composer Flannery Cunningham will perform a version of Talkback for hammered dulcimer and laptop, introduce the technology and process of creating the work, and invite participants to experiment with the piece’s structure with their own instruments or voice.
-
 <br>
-####16:00 
-###Coffee Break
-
-<br>
-####16:30
+####16:00
 ###Improvising with Ensemble Feedback Instruments and First-order Cybernetic Followers
 Matt Wright (CCRMA, Stanford University)  
 
@@ -139,6 +130,8 @@ Ensemble Feedback Instruments (first presented at NIME 2015) show that even extr
 ###Ableton Presentation
 (to be completed)  
 
+###Jeff Snyder
+(to be completed)  
 
 ###Canopy of Catastrophes
 Bhob Rainey  
@@ -146,7 +139,7 @@ Bhob Rainey
 What are some good ways, when making music that is shared among humans (and, in terms of appreciation, likely only among humans), to “get outside yourself” and connect to non-human patterns, entities, signals, etc., without pretending to be objective? Can you not only point to or represent the “great outdoors” but also bring yourself and maybe your audience "outside”? Are computers and computational thinking at all helpful in answering these questions? Let’s talk sonification and data streams and generative patterns, but let’s also ask how they function aesthetically, what ends they might serve when sounds reach ears and that communal event we call music happens.
 
 <br>
-###18:00 End of Dec. 11 sessions
+###17:30 End of Dec. 11 sessions
 <br>
 
 ---
@@ -217,6 +210,11 @@ We will show how how geometry can be used to construct new musical instruments b
 Michael Young (U. of Sunderland)  
 
 Computational systems able to collaborate with human improvisers are live algorithms: able to cooperate proactively, on an equal basis, with musicians in performance. This is an ideal that raises fundamental questions about creativity and group interaction, how these might be computationally modelled. Can musicians and computers relate to one another, just as human musicians do? Can an audience recognize and appraise this relationship? Live algorithms offer the prospect of a new understanding of real-time creative practice that differs from the established paradigms in live electronic music: computer as instrument and computer as proxy. Drawing upon ideas from social psychology, collective music-making can be viewed as a special case of social cooperation, evidenced primarily through sound. To attempt a functional description of live algorithms is to model modes of cooperation and causal attribution that occur between proactive agents in a shared sonic environment. The challenge of live algorithms is to find genuinely original ways for humans and computers to work together - an original way to make music. The ideal live algorithm paradigm is computer as partner.		
+
+###Talkback: Human and Computer Improvisation through a Live-Trained Machine Learning Model	
+Flannery Cunningham (UPenn)  
+
+*Talkback* for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system during composition or rehearsal, in Talkback the machine learning system is trained live during the performance. An initial semi-random musical “seed” is used as an opening output by the computer. The player improvises in response to this, and the piece evolves through an alternation of “training” and “running” the computer’s learned model. The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material (allowing the human player to layer new musical material on top of an existing texture) and when it will generate a new seed (as when an improviser decides that the music has become too static and introduces a new idea). In this workshop, composer Flannery Cunningham will perform a version of Talkback for hammered dulcimer and laptop, introduce the technology and process of creating the work, and invite participants to experiment with the piece’s structure with their own instruments or voice.
 
 
 ###Drop for bassoon and electronics	
