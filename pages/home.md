@@ -52,6 +52,10 @@ The recipient of a 2015 Guggenheim Fellowship and a 2014 Doris Duke Artist Award
 
 « Composer, performer, historian, instrument builder, journalist, activist, kayak instructor, **Bob Ostertag**'s work cannot easily be summarized or pigeon-holed. He has published more than twenty CDs of music, two DVDs, and five books. His writings on **contemporary politics** have been published on every continent and in many languages. **Electronic instruments of his own design** are at the cutting edge of both music and video performance technology. He has performed at music, film, and multi-media festivals around the globe. His radically diverse collaborators include the **Kronos Quartet, postmodernist John Zorn, heavy metal star Mike Patton, transgender cabaret start Justin Vivian Bond, British guitar innovator Fred Frith, Quebecois film maker Pierre Hébert, EDM star Rrose, jazz legend Anthony Braxton** and many others. He is rumored to have connections to the shadowy **media guerrilla group The Yes Men**… » 
 
+**[Read more highlights...]({filename}/pages/Highlights.md)**  
+
+
+
 «  **Mari Kimura** is a violinist/composer and a leading figure in the field of interactive computer music. As a violinist, Mari is renowned for her mastery of subharmonics—the production of pitches that sound up to an octave below the violin’s lowest string—as well as for her dynamic performances as an improviser and her premieres of many notable compositions by today’s composers, including **Luciano Berio and Salvadore Sciarrino**, as well as a soloist with such major orchestras including the **Tokyo Symphony and the Hamburg Symphony**. She has received numerous awards and grants including a Guggenheim Fellowship, a Fromm Commission Award, a residency at IRCAM, and at the Rockefeller Brothers Fund. » 
 
 «  **Matmos** have released over ten albums on labels such as Matador and Thrill Jockey. They also have a history of rich collaborations with artists like **Bjork, Antony, So Percussion, Terry Riley, The Kronos Quartet** » 
