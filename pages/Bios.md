@@ -289,6 +289,18 @@ is **M.C. Schmidt and Drew Daniel**, aided and abetted by many others. Currently
 
 ---
 
+<img src="../images/mental.jpg" width="320" style="float:left" hspace="10">
+####Mental Jewelry
+Originally from the Jersey shore area, Steven Montenegro moved to Philadelphia in 2002 to attend University of the Arts to study jazz and composition. Inspired by both drum 'n bass music and free improvisation, he began working with computers to compose music. After a few stints playing bass in rock and punk bands he focused mainly on computers and sampling, producing tracks for Abdu Ali, Joe Kusy and Gina Ferrera. Around 2014, he started making music under the name Mental Jewelry and teamed up with Camae Ayewa (Moor Mother) to make an album called 'Crime Wave' on Don Giovanni Records.
+[soundcloud.com/mental-jewelry](https://soundcloud.com/mental-jewelry)
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
 <img src="../images/miljkovic.jpg" width="320" style="float:left" hspace="10">
 ####Katarina Miljkovic
 Composer Katarina Miljkovic investigates interaction between science, music and nature through collaborative musical performance. This interest led her to the mathematician Benoit Mandelbrot’s essay *The Fractal Geometry of Nature* and self-similar complex structures resulting in the cycle, *Forest*, “…a dreamy piece, along the lines of Feldman or Brown…entirely captivating” *(Signal to Noise)*.  
