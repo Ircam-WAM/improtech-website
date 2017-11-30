@@ -235,16 +235,11 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 <img src="../images/madamdata.jpg" width="320" style="float:left" hspace="10">
 ####Madam Data
 [a. adhiyatma] is a clarinetist, electronic composer, computer theorist and improviser. They are currently based in Philadelphia but long for the sunny shores and ambiguous morals of their homeland, Singapore. They think about space a lot, as in outer space, but also as in psychic, geographical, cosmological, historical and bio-social distance. They are also really into buildings.
-
-Methods – clarinet – laptop – field recorder – handmade electronics – guitar sometimes
-
-Here is a genre salad:
-noise – beats – techno – poetry – improvisation – psychoacoustics – mysticism – algorithms – collage – witchcraft – pessimism – experimental music
-
-madam data is a member of [smth savant](https://www.smthsavant.com), an artist collective and record label based in Philadelphia.
 <br>
 [madamdata.com](https://madamdata.com)
 <br><br><br><br><br>
+<br>
+<br>
 
 ---
 <img src="../images/Bio_Mahanthappa.jpg" width="320" style="float:left" hspace="10">
