@@ -16,7 +16,7 @@ Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interac
 Hatchers aka Michael Barker, Brian Osborne (electronics, drums
 Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
   
-[*Program Note*]({filename}/pages/ProgramNote11.md)
+[*Program Notes*]({filename}/pages/ProgramNote11.md)
 <br>
 <br>
 Tickets available from the [Annenberg Center Live box office](https://www.annenbergcenter.org/event/improtech-paris-philly-concert-1)
