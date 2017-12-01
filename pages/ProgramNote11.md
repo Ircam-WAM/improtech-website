@@ -20,7 +20,7 @@ Michael Young : *Piano-prosthesis* (piano, piano-prosthesis system)
 <br>
 
 <p align="center">
-<img src="../images/IKPoster_frag22.png" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag20.png" width="125" >
 </p>
 
 <br>
