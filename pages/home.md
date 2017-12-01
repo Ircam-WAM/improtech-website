@@ -38,7 +38,7 @@ The Improtech Paris-Philly workshop is **open to all and free**.
 <br>
 Concert #1 is **free for students**, Concert #2 is **free**.  
 <br>
-**Please [RSVP here]({filename}/pages/RSVP.md)** if you intend to come to any of these events.
+**Please [RSVP here]({filename}/pages/RSVP.md)** if you intend to come to any of these events.  
 <br>
 **Concert #1 tickets available** from the [Annenberg Center Live box office](https://www.annenbergcenter.org/event/improtech-paris-philly-concert-1)
 <br>
