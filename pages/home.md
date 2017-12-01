@@ -38,7 +38,7 @@ Concert #1 is **free for students**, Concert #2 is **free**.
 <br>
 <br>
 
-<img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_Frag14.png" width="125" style="float:left" hspace="10">
 ##Highlights
 ### Concerts
 ImproTech brings together artists, musicians, composers and researchers from several continents, all motivated by the possibilities offered by creative improvised interactions between humans and machines of all sorts.  
