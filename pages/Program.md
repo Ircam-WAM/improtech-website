@@ -99,13 +99,12 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 <br>
 <br>
 
-<hr>
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 #Workshop, Dec. 11th Afternoon
 **U. Penn**, Lerner Center, Rm 101, 201 S 34th St
 ##Theme : Instruments, spaces, bodies
 </font>
-<hr>
 
 <br>
 
@@ -137,13 +136,12 @@ What are some good ways, when making music that is shared among humans (and, in 
 <br>
 <br>
 
-<hr>
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 # Workshop, Dec. 12th Morning
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ## Theme : Composition, Notation, Synthesis, Form
 </font>
-<hr>
 
 <br>
 
@@ -184,13 +182,12 @@ We will show how how geometry can be used to construct new musical instruments b
 <br>
 <br>
 
-<hr>
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 # Workshop, Dec. 12th Afternoon
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ## Theme : Composition, Notation, Synthesis, Form
 </font>
-<hr>
 
 <br>
 
@@ -216,12 +213,11 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 ###16:00 Break, Venue Change
 <br>
 
-<hr>
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 #Events at ICA, dec. 12th
 **ICA** 18 S 36th St
 </font>
-<hr>
 
 <br>
 ##16:30 Round Table : David Wessel Legacy
@@ -247,13 +243,12 @@ Adam Vidiksis + BEEP (Temple U.)
 <br>
 <br>
 
-<hr>
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 #Workshop, Dec. 13th Morning
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ##Theme : (Artificial) Creative Intelligences
 </font>
-<hr>
 
 <br>
 
@@ -312,13 +307,12 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 <br>
 <br>
 
-<hr>
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 #Workshop, Dec. 13th Afternoon
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ##Theme : (Artificial) Creative Intelligences
 </font>
-<hr>
 
 <br>
 
