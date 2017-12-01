@@ -8,7 +8,7 @@ Status: Hidden
 <br>
 
 ####LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, one-string koto, electronics)  
-####Roscoe Mitchell + Bob Ostertag (reeds, gamepad / Aalto)  
+####Roscoe Mitchell + Bob Ostertag (reeds, sampler)  
 ####David Rosenboom : *The Right Measure of Opposites* (piano, spatialization system, computer interaction) 
 ####Steve Lehman + Hprizm (saxophone, voice, electronics)  
 ####Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK agents)  
