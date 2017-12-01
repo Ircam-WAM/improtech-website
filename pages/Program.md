@@ -46,10 +46,10 @@ Adam Vidiksis (percussion, electronics)
 <br>
 <br>
 
-<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="0">
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 # Workshop, Dec. 11th Morning
-**Drexel University** ExCITe Center, 3401 Market St
+***Drexel University** ExCITe Center, 3401 Market St*
 ## Theme : Instruments, spaces, bodies
 </font>
 
