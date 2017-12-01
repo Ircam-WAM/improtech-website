@@ -76,6 +76,18 @@ was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pie
 
 ---
 
+<img src="../images/clemente.jpg" width="320" style="float:left" hspace="10">
+####Adriano Clemente
+is a multidisciplinary artist who works with technology to improve the relation between humans and their creative process. 
+A trained composer and sound designer, Clemente has worked on exploring the possibilities of interface, interactivity and design within electronic music.
+Adriano's research focused on exploring the multiple ways in which sound can interact with all facets of the body itself using motion sensors, wearable technologies and has a strong interest in investigating the relation between sound and other senses. He has recently worked using Microsoft HoloLens in the context of Mixed Reality and 3D sound research.
+Adriano has graduated in Clinical Psychology from La Sapienza University of Rome which helped him to blend his passion for music/sound with scientific interest for human interaction and perception. Clemente has been merging Psychoacoustic and Sound Synthesis studies and has worked with educating hundreds of students in Sound Design and music production while teaching at Dubspot NY and lecturing for prestigious universities such as School of Visual Art NY, Columbia University, Stony Brooks University, NYU, Brooklyn College, Drexel and American University.
+<br>
+[www.adrianoclemente.com](https://www.adrianoclemente.com)
+<br><br><br><br>
+
+---
+
 <img src="../images/Bio_PierreCouprie.jpg" width="320" style="float:left" hspace="10">
 ####Pierre Couprie 
 was born in 1970, he studied instrumental composition, electroacoustic music, musical analysis, and free improvisation at Bordeaux Conservatory. He is an associate professor in digital pedagogy/computer music and a researcher at Sorbonne University (Research Institute in Musicology Lab). His research fields are the musical analysis and the representation of electroacoustic music. He also develops tools for research (iAnalyse, EAnalysis) or musical performance. In 2015, he won the Qwartz Max Mathews Price of technological innovation for his musical analysis software. As an improviser, he is a member of The Phonogénistes and The National Electroacoustic Orchestra (ONE).
