@@ -29,11 +29,10 @@ IK-PP gets a variety of support or sponsoring  from :
 - California Institute of Arts (CalArts), Pr. David Rosenboom  
 - Drexel University (ExCITe Center), Pr. Youngmoo Kim
 - Princeton University, Pr. Dmitri Tymoczko
-- Harvard - Radcliffe institute Pr. Michelle Agnes Magalhaes, RI Fellow
+- Stanford University CNMAT, Pr. Matthew Wright
 - University of California at Irvine, Pr. Mari Kimura
 - University of California at San Diego (UCSD), Pr. Shlomo Dubnov
 - HyVibe, Adrien Mamou Mani, CEO
-- Concordia University of Montreal, Pr. Sandeep Baghwati
 - ICA - Institute of Contemporary Art, Philadelphia,
 - Annenberg Center for the Performing Arts, Philadelphia
 - The Rotunda, Philadelphia
@@ -45,7 +44,6 @@ IK-PP gets a variety of support or sponsoring  from :
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Scrime.jpg" width="200"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Calarts.png" width="90"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/harvardlogo.png" height="180"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/drexel.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/HYVibe.png" width="200"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/arsnovalogo.png" width="180"> </a>
