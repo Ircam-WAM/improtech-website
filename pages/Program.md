@@ -10,7 +10,7 @@ title: Program
 *3680 Walnut St, Philadelphia, PA 19104*  
   
 LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, one-string koto, electronics)  
-Roscoe Mitchell + Bob Ostertag (reeds, gamepad / Aalto)  
+Roscoe Mitchell + Bob Ostertag (reeds, sampler)  
 David Rosenboom (piano, spatialization system, computer interaction) : *The Right Measure of Opposites*  
 Steve Lehman + Hprizm (saxophone, voice, electronics)  
 Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK agents)  
