@@ -104,7 +104,7 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 
 ---
 
-<font color="grey"> 
+<font color="DarkBlue"> 
 #Workshop, Dec. 11th Afternoon
 **U. Penn**, Lerner Center, Rm 101, 201 S 34th St
 ##Theme : Instruments, spaces, bodies
