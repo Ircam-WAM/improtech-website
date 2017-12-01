@@ -3,19 +3,19 @@ Status: Hidden
 
 <br>
 
-###ImproTech Paris-Philly ::  Concert  #1
+##ImproTech Paris-Philly ::  Concert  #1
 **Dec. 11th, 8pm, Prince Theater, Annenberg Center for the Performing arts** *3680 Walnut St, Philadelphia, PA 19104*  
 <br>
 
-#####LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, one-string koto, electronics)  
+####LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, one-string koto, electronics)  
 ####Roscoe Mitchell + Bob Ostertag (reeds, gamepad / Aalto)  
-David Rosenboom : *The Right Measure of Opposites* (piano, spatialization system, computer interaction) 
-Steve Lehman + Hprizm (saxophone, voice, electronics)  
-Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK agents)  
-Bob Ostertag (Gamepad and Aalto)  
-Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
-Hatchers aka Michael Barker, Brian Osborne (electronics, drums)  
-Michael Young : *Piano-prosthesis* (piano, piano-prosthesis system)  
+####David Rosenboom : *The Right Measure of Opposites* (piano, spatialization system, computer interaction) 
+####Steve Lehman + Hprizm (saxophone, voice, electronics)  
+####Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK agents)  
+####Bob Ostertag (Gamepad and Aalto)  
+####Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
+####Hatchers aka Michael Barker, Brian Osborne (electronics, drums)  
+####Michael Young : *Piano-prosthesis* (piano, piano-prosthesis system)  
 <br>
 <br>
 
