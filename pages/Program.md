@@ -233,12 +233,17 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 
 ---
 
+---
+
 <font color="DarkBlue"> 
 #Events at ICA, dec. 12th
 **ICA** 18 S 36th St
 </font>
 
 ---
+
+---
+
 
 <br>
 ##16:30 Round Table : David Wessel Legacy
