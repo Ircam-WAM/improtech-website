@@ -146,9 +146,6 @@ What are some good ways, when making music that is shared among humans (and, in 
 <br>
 <br>
 
-
----
-
 ---
 
 <font color="DarkBlue"> 
