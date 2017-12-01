@@ -40,9 +40,9 @@ IK-PP gets a variety of support or sponsoring  from :
 <br><br>
 <p align="center">
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Logo_FrenchAmbassy.png" width="150"> </a>
-    <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="175"> </a>
-    <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Scrime.jpg" width="220"> </a>
-    <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
+        <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="175"> </a>
+        <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Scrime.jpg" width="220"> </a>
+        <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
 <br>
     <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Logo_Stanford.png" width="200"> </a>
     <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Calarts.png" width="90"> </a>
