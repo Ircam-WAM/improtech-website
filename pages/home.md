@@ -16,7 +16,9 @@ Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musician
 <br>
 
 
-<img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">Improtech Paris - Philly (ikPP) gathers scholars, technologists, musicians, makers, around the idea of **musical improvisation with digital intelligence** (IDI), taking notice of the emergence and development of this new creative field.
+<img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
+##Improtech Paris - Philly (ikPP)
+gathers scholars, technologists, musicians, makers, around the idea of **musical improvisation with digital intelligence** (IDI), taking notice of the emergence and development of this new creative field.
 ikPP creates a **link between the european and american research and creation scenes** through the symbolic matching of two of their more eminent emblems, Paris and Philadelphia, just as it did a few years ago with Paris and New York.
 
 Five years after its [first iteration in New-York](http://repmus.ircam.fr/improtechpny) the **ImproTech workshop - festival** formula is back again to see the technological, aesthetical, and sociological evolutions that happened since the last gathering.  The meeting place in Philadelphia seems a natural destination, for its unique improvised music scene and history, and its perpetual enchantment with so many ever floating historical musical figures.
