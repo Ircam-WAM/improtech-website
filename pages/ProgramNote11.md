@@ -4,7 +4,7 @@ Status: Hidden
 <br>
 
 ##ImproTech Paris-Philly ::  Concert  #1
-**Dec. 11th, 8pm, Prince Theater, Annenberg Center for the Performing arts** *3680 Walnut St, Philadelphia, PA 19104*  
+**Dec. 11th, 8pm** *Prince Theater, Annenberg Center for the Performing arts : 3680 Walnut St, Philadelphia, PA 19104*  
 <br>
 
 ####LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, one-string koto, electronics)  
