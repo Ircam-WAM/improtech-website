@@ -102,7 +102,7 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 #Workshop, Dec. 11th Afternoon
-**U. Penn**, Lerner Center, Rm 101, 201 S 34th St
+***U. Penn**, Lerner Center, Rm 101, 201 S 34th St*
 ##Theme : Instruments, spaces, bodies
 </font>
 
@@ -131,15 +131,14 @@ Bhob Rainey
 What are some good ways, when making music that is shared among humans (and, in terms of appreciation, likely only among humans), to “get outside yourself” and connect to non-human patterns, entities, signals, etc., without pretending to be objective? Can you not only point to or represent the “great outdoors” but also bring yourself and maybe your audience "outside”? Are computers and computational thinking at all helpful in answering these questions? Let’s talk sonification and data streams and generative patterns, but let’s also ask how they function aesthetically, what ends they might serve when sounds reach ears and that communal event we call music happens.
 
 <br>
-####18:00
-###End of Dec. 11 sessions
+###18:00 End of Dec. 11 sessions
 <br>
 <br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 # Workshop, Dec. 12th Morning
-**U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
+***U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*
 ## Theme : Composition, Notation, Synthesis, Form
 </font>
 
@@ -185,7 +184,7 @@ We will show how how geometry can be used to construct new musical instruments b
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 # Workshop, Dec. 12th Afternoon
-**U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
+***U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*
 ## Theme : Composition, Notation, Synthesis, Form
 </font>
 
@@ -217,8 +216,8 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 #Events at ICA, dec. 12th
-**ICA** 18 S 36th St
-##ROund table, performances, cocktail
+***ICA** 18 S 36th St*
+##Round table, performances, cocktail
 </font>
 
 <br>
@@ -244,15 +243,14 @@ Adam Vidiksis + BEEP (Temple U.)
 (to be completed)
 
 <br>
-####18:30 - 20:30 
-##Cocktail
+###18:30 - 20:30  Cocktail
 <br>
 <br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 #Workshop, Dec. 13th Morning
-**U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
+***U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*
 ##Theme : (Artificial) Creative Intelligences
 </font>
 
@@ -316,7 +314,7 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 #Workshop, Dec. 13th Afternoon
-**U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
+***U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*
 ##Theme : (Artificial) Creative Intelligences
 </font>
 
