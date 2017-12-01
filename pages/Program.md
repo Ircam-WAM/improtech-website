@@ -44,6 +44,7 @@ Adam Vidiksis (percussion, electronics)
 
 # Workshop : Dec. 11-13th, 9:30am - 6pm
 <br>
+<br>
 
 ---
 
@@ -101,6 +102,7 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 <br>
 ### 12:45 Lunch Break
 <br>
+<br>
 
 ---
 
@@ -144,6 +146,8 @@ What are some good ways, when making music that is shared among humans (and, in 
 <br>
 <br>
 
+
+---
 
 ---
 
@@ -191,6 +195,7 @@ We will show how how geometry can be used to construct new musical instruments b
 
 <br>
 ###12:45 Lunch Break
+<br>
 <br>
 
 ---
@@ -260,6 +265,7 @@ Adam Vidiksis + BEEP (Temple U.)
 <br>
 ##18:30 - 20:30 Cocktail
 <br>
+<br>
 
 ---
 
@@ -327,6 +333,7 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 
 <br>
 ###12:45 Lunch Break
+<br>
 <br>
 
 ---
