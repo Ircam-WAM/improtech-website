@@ -35,9 +35,10 @@ Scholars, students, musicians, makers will come from many places in europe and t
 Check **detailed program** [here]({filename}/pages/Program.md), **participants** [here]({filename}/pages/Bios.md), and **venues**  [here]({filename}/pages/Venues.md)  
 <br>
 The Improtech Paris-Philly workshop is **open to all and free**.  
+<br>
 Concert #1 is **free for students**, Concert #2 is **free**.  
 <br>
-- **Please [RSVP here]({filename}/pages/RSVP.md)** if you intend to come to any of these events.
+**Please [RSVP here]({filename}/pages/RSVP.md)** if you intend to come to any of these events.
 <br>
 <br>
 <br>
