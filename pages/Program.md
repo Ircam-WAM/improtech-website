@@ -222,7 +222,8 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 </font>
 
 <br>
-##16:30 Round Table : David Wessel Legacy
+####16:30
+###Round Table : David Wessel Legacy
 "The Figure of the Researcher / Musician" with Roscoe Mitchell, Matt Wright, Marc Chemillier, George Bloch
 
 <br>
@@ -244,7 +245,7 @@ Adam Vidiksis + BEEP (Temple U.)
 
 <br>
 ####18:30 - 20:30 
-###Cocktail
+##Cocktail
 <br>
 <br>
 
