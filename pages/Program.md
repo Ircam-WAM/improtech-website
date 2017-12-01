@@ -53,7 +53,7 @@ Adam Vidiksis (percussion, electronics)
 **Drexel University** ExCITe Center, 3401 Market St
 ## Theme : Instruments, spaces, bodies
 </font>
-
+<hr>
 
 <br>
 
