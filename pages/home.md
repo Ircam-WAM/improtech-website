@@ -61,13 +61,15 @@ ImproTech brings together artists, musicians, composers and researchers from sev
 
 
 ###Participants
-«  A legend in the field of avant-garde jazz and contemporary music, Mr. **Roscoe Mitchell** is a founding member of the world renowned **Art Ensemble of Chicago**, the Association for the Advancement of Creative Musicians (**AACM**), and many music ensembles. » 
+«  A legend of avant-garde jazz and contemporary music, Mr. **Roscoe Mitchell** is a founding member of the world renowned **Art Ensemble of Chicago**, the Association for the Advancement of Creative Musicians (**AACM**), and many music ensembles. » 
 
 «  Described as “**a state-of-the-art musical thinker**” and a "dazzling saxophonist,” by The **New York Times**, **Steve Lehman** (b. New York City, 1978) is a composer, performer, educator, and scholar who works across a broad spectrum of experimental musical idioms...His recent recording, Mise en Abîme (Pi, 2014) was called the **#1 Jazz Album of the year** by NPR Music and The Los Angeles Times. And his previous recording, Travail, Transformation & Flow (Pi, 2009), was chosen as the **#1 Jazz Album of the year** by The New York Times...» 
 
 « Composer, performer, historian, instrument builder, journalist, activist, kayak instructor, **Bob Ostertag**'s work cannot easily be summarized or pigeon-holed. He has published more than twenty CDs of music, two DVDs, and five books. His writings on **contemporary politics** have been published on every continent and in many languages. **Electronic instruments of his own design** are at the cutting edge of both music and video performance technology. ... He is rumored to have connections to the shadowy **media guerrilla group The Yes Men**… » 
 <br>
 <br>
+" As the founding member of the critically acclaimed **Antipop Consortium**, **HPrizm** aka High Priest (beats, composer, futurist, mc, producer) has consistently challenged all artistic boundaries. In the course of his career, Prizm has shared stages with a wide array of artists, ranging from The Roots to **Radiohead, Mos Def, Vijay Iyer, Public Enemy, Beastie Boys**, (...) . As a composer, his pieces have been installed in the **Whitne Biennial** (NYC) as well as the Mazzoli Gallery (Berlin). Most recently, along with the Antipop Consortium, Prizm has collaborated with legendary film director **David Lynch** (...).
+
 **[Read more...]({filename}/pages/Highlights.md)**  
 
 
