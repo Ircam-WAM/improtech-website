@@ -49,8 +49,8 @@ IK-PP gets a variety of support or sponsoring  from :
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/drexel.png" width="100"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/HYVibe.png" width="200"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/arsnovalogo.png" width="180"> </a>
-<a target="_blank" href="https://www.annenbergcenter.org"> <img  src="../images/AnnenbergLogo.png" width="150"> </a>
-<a target="_blank" href="http://www.therotunda.org/"> <img  src="../images/RotundaLogo.png" width="150"> </a>
+<a target="_blank" href="https://www.annenbergcenter.org"> <img  src="../images/AnnenbergLogo.png" width="130"> </a>
+<a target="_blank" href="http://www.therotunda.org/"> <img  src="../images/RotundaLogo.png" width="140"> </a>
 
 
 </p>
