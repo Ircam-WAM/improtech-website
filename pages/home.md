@@ -24,7 +24,9 @@ Five years after its [first iteration in New-York](http://repmus.ircam.fr/improt
 The **ImproTech Paris - Philly workshop** will take place at the University of Pennsylvania from **Dec. 11 to Dec. 13** 2017, with **two evening concerts** at the Annenberg Center for the Performing Arts (**dec. 11th**) and The Rotunda (**dec. 13th**), and social events at the Institute of Contemporary Art (ICA).
  
 Scholars, students, musicians, makers will come from many places in europe and the US to talk about their work, demo, teach and perform. **ikPP** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz and contemporary music, and the young avant-garde / underground scene of Philadelphia and surroundings.
-<br><br>
+<br>
+<br>
+<br>
 
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
 ## Practical
@@ -34,10 +36,10 @@ Concert #1 is **free for students**, Concert #2 is **free**.
 **Please [RSVP]({filename}/pages/RSVP.md) if you intend to come to any of these events.**  
 <br>
 <br>
+<br>
 
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
 ##Highlights
-
 <br>
 ### Concerts
 
