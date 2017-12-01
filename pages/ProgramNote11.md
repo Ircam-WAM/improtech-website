@@ -20,7 +20,7 @@ Michael Young : *Piano-prosthesis* (piano, piano-prosthesis system)
 <br>
 
 <p align="center">
-<img src="../images/IKPoster_frag20.png" width="125" >
+<img src="../images/IKPoster_frag19.png" width="125" >
 </p>
 
 <br>
@@ -41,7 +41,7 @@ The Right Measure of Opposites originated in a twelve-part, concert-length work 
 
 ####Michael Young
 
-piano_prosthesis 
+Piano-prosthesis 
   
 The aspiration is to create a computational system able to collaborate with human improvisers in performance, i.e. able to cooperate proactively, on an equal basis.  This is the agenda of the Live Algorithms for Music Network, created over ten years ago at Goldsmiths, University of London  
 
