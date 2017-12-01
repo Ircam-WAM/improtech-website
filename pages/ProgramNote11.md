@@ -50,8 +50,14 @@ This system is one of a series that bring together a specific instrument with a 
 The player's improvisation is encoded by the computer through a statistical analysis of extracted features and by cataloguing these in real-time. The system assigns each of its observations to a specific set of materials and stochastic behaviours for audio output. Recurring aspects of the player’s performance are then recognised by the computer, and this recognition is ‘expressed’ by recalling the relevant set of output materials. As the improvisation develops, more behaviours are catalogued, leading to more variety in output. So, the machine expresses its recognition and creative response to the player by developing, and modifying, its own musical output, just as another player might. Both ‘musicians’ adapt to each other through mutual listening and response as the performance develops.  
 
 The metaphor of prosthetic – rather than conversation – has a currency in debates about user-computer interaction; in this performance there is mutually prosthetic relationship between both collaborators, in both sound material and quasi-intentional behaviour. Coding is in Max/MSP.  
+<br>
+<br>
+<br>
 
----
+<p align="center">
+<img src="../images/IKPoster_frag20.png" width="125" >
+</p>
+
 
 
 
