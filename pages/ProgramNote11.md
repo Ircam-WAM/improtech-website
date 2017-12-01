@@ -19,9 +19,14 @@ Michael Young : *Piano-prosthesis* (piano, piano-prosthesis system)
 <br>
 <br>
 
-Program Notes 
+<p align="center">
+<img src="../images/IKPoster_frag22.png" width="125" style="float:left" hspace="10">
+</p>
 
-**ImproTech** is an international event bringing together,  across several continents , artists and researchers motivated by the question of creative improvised interactions between human and machines of all sorts, from DIY analog devices to digital intelligence softwares.
+<br>
+<br>
+
+**ImproTech** is an international event bringing together,  across several continents , artists and researchers motivated by the question of creative improvised interactions between human and machines of all sorts, from DIY analog devices to digital intelligence softwares.  
 In **ImproTech Paris-Philly :: Concert #1**, a staggering sample of such creative alloys will be displayed by unique performers, featuring legendary figures of free improvisation Roscoe Mitchell, Bob Ostertag, and Bernard Lubat ; experimental music icons David Rosenboom and Michael Young ; renowned favourites  of the new scene,  Steve Lehman, LaDonna Smith, Susan Alcorn, Miya Masaoka, Mari Kimura, Hatchers, György Kurtág Jr, Pierre Couprie, all these  interacting with classical live-electronics, analog (or virtual) synths, mathematical / musical algorithmics,  artificial intelligence agents, spatialization systems, or hybrid instruments.
 <br>
 <br>
