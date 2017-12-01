@@ -19,9 +19,9 @@ Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*
 [*Program Notes*]({filename}/pages/ProgramNote11.md)
 <br>
 <br>
-Tickets available from the [Annenberg Center Live box office](https://www.annenbergcenter.org/event/improtech-paris-philly-concert-1)
+**Tickets available** from the [Annenberg Center Live box office](https://www.annenbergcenter.org/event/improtech-paris-philly-concert-1)
 <br>
-*free admission for students with ID*
+***free** admission for students with ID*
 <br>
 
 # Evening Concert, Dec. 13th, 8pm
@@ -39,8 +39,10 @@ Lance Simmons, Ada Babar (electronics, prepared guitar)
 Adam Vidiksis (percussion, electronics)  
   
 [*Program Notes*](ProgramNotes13)  
+<br>
+<br>
+***free** admission for all*
 
-<br><br>
 
 # Workshop : Dec. 11-13th, 9:30am - 6pm
 <br>
