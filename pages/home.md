@@ -35,7 +35,7 @@ Scholars, students, musicians, makers will come from many places in europe and t
 Check **detailed program** [here]({filename}/pages/Program.md), **participants** [here]({filename}/pages/Bios.md), and **venues**  [here]({filename}/pages/Venues.md)  
 The Improtech Paris-Philly workshop is **open to all and free**.  
 Concert #1 is **free for students**, Concert #2 is **free**.  
-**Please [RSVP]({filename}/pages/RSVP.md) if you intend to come to any of these events.**  
+**Please [RSVP here]({filename}/pages/RSVP.md)** if you intend to come to any of these events.
 <br>
 <br>
 <br>
@@ -50,7 +50,7 @@ ImproTech brings together artists, musicians, composers and researchers from sev
 
 **Keynote** Speakers : **David Rosenboom** (CalArts), **Bob Ostertag** (UC Davis)
 
-**Round Table** : The Figure of the Musician / Researcher, David Wessel Legacy
+**Round Table** : The Figure of the Musician / Researcher, David Wessel Legacy, with **Roscoe Mitchell** and **Matt Wright** (CCRMA), 
 
 **36 presentations** including talks, demos, performances
 
