@@ -23,6 +23,7 @@ Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*
 <br>
 ***free** admission for students with ID*
 <br>
+<br>
 
 # Evening Concert, Dec. 13th, 8pm
 **The Rotunda**
@@ -38,10 +39,11 @@ Bhob Rainey  (electronics)
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Adam Vidiksis (percussion, electronics)  
   
-[*Program Notes*](ProgramNotes13)  
+[*Program Notes*](ProgramNotes13)
 <br>
 <br>
 ***free** admission for all*
+<br>
 
 
 # Workshop : Dec. 11-13th, 9:30am - 6pm
