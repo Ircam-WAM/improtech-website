@@ -217,11 +217,12 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 <font color="DarkBlue"> 
 #Events at ICA, dec. 12th
 **ICA** 18 S 36th St
+##ROund table, performances, cocktail
 </font>
 
 <br>
 ##16:30 Round Table : David Wessel Legacy
-"the Figure of the Researcher / Musician" with Roscoe Mitchell, Matt Wright, Marc Chemillier, George Bloch
+"The Figure of the Researcher / Musician" with Roscoe Mitchell, Matt Wright, Marc Chemillier, George Bloch
 
 <br>
 ##17:45 Performances
