@@ -26,17 +26,12 @@ The **ImproTech Paris - Philly workshop** will take place at the University of P
 Scholars, students, musicians, makers will come from many places in europe and the US to talk about their work, demo, teach and perform. **ikPP** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz and contemporary music, and the young avant-garde / underground scene of Philadelphia and surroundings.
 <br><br>
 
----
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
 ##Practical
 Check **detailed program** [here]({filename}/pages/Program.md), **participants** [here]({filename}/pages/Bios.md), and **venues**  [here]({filename}/pages/Venues.md)  
 The Improtech Paris-Philly workshop is **open to all and free**.  
 Concert #1 is **free for students**, Concert #2 is **free**.  
 **Please [RSVP]({filename}/pages/RSVP.md) if you intend to come to any of these events.**  
-
----
-
----
 
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
 ##Highlights
