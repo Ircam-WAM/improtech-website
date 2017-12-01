@@ -7,7 +7,7 @@ Status: Hidden
 **Dec. 11th, 8pm, Prince Theater, Annenberg Center for the Performing arts** *3680 Walnut St, Philadelphia, PA 19104*  
 <br>
 
-####LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, one-string koto, electronics)  
+#####LaDonna Smith, Susan Alcorn, Miya Masaoka (violin / viola, pedal steel, one-string koto, electronics)  
 ####Roscoe Mitchell + Bob Ostertag (reeds, gamepad / Aalto)  
 David Rosenboom : *The Right Measure of Opposites* (piano, spatialization system, computer interaction) 
 Steve Lehman + Hprizm (saxophone, voice, electronics)  
