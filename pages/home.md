@@ -49,11 +49,11 @@ ImproTech brings together artists, musicians, composers and researchers from sev
 
 ### Workshop
 
-#### Keynote Speakers : David Rosenboom (CalArts), Bob Ostertag (UC Davis)
+**Keynote** Speakers : **David Rosenboom** (CalArts), **Bob Ostertag** (UC Davis)
 
-#### Round Table : The Figure of the Musician / Researcher, David Wessel Legacy
+**Round Table** : The Figure of the Musician / Researcher, David Wessel Legacy
 
-#### 36 presenttions including talks, demos, performances
+**36 presentations** including talks, demos, performances
 
 
 ###Participants
