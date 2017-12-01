@@ -180,7 +180,12 @@ is a composer, improviser, and rapper widely celebrated for is ability to simult
 challenged the boundaries of traditional hip-hop, winning the praise of taste makers
 across the globe. In the course of his career, spanning nearly two decades, HPrizm has shared
 the stage with a wide array of artists including The Roots, Radiohead, Vijay Iyer, Mos Def, Wadada Leo Smtih, Beastie Boys
-and others. As a composer, his pieces have been installed in the Whitney Biennial (NYC) as well as the Mazzoli Gallery (Berlin). Most recently, along with the Antipop Consortium, Prizm has collaborated with legendary film director David Lynch »
+and others. As a composer, his pieces have been installed in the Whitney Biennial (NYC) as well as the Mazzoli Gallery (Berlin). Most recently, along with the Antipop Consortium, Prizm has collaborated with legendary film director David Lynch.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
