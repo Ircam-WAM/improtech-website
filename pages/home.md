@@ -41,7 +41,22 @@ Concert #1 is **free for students**, Concert #2 is **free**.
 ---
 
 ##Highlights
-###on participants
+
+### Concerts
+
+ImproTech brings together artists, musicians, composers and researchers from several continents, all motivated by the possibilities offered by creative improvised interactions between humans and machines of all sorts.  
+**ImproTech Paris-Philly :: Concert #1** offers a staggering sampling of such creative alliances, featuring legendary figures of free improvisation, **Roscoe Mitchell, Bob Ostertag and Bernard Lubat**; experimental music icons David Rosenboom and Michael Young; and renowned favorites of the new scene, Steve Lehman, LaDonna Smith, Susan Alcorn, Miya Masaoka, Mari Kimura, Hatchers, György Kurtág Jr and Pierre Couprie. These artists will interact/interface with electronics, synthesis in many forms, mathematical/algorithmic music systems, artificial intelligence agents, spatialization systems and hybrid instruments.
+
+### Workshop
+
+#### Keynote Speakers : David Rosenboom (CalArts), Bob Ostertag (UC Davis)
+
+#### Round Table : The Figure of the Musician / Researcher, David Wessel Legacy
+
+#### 36 presenttions including talks, demos, performances
+
+
+###Participants
 <br>
 «  A legend in the field of avant-garde jazz and contemporary music, Mr. **Roscoe Mitchell** is a founding member of the world renowned **Art Ensemble of Chicago**, the Association for the Advancement of Creative Musicians (**AACM**), and many music ensembles. » 
 
@@ -52,9 +67,8 @@ Concert #1 is **free for students**, Concert #2 is **free**.
 « Composer, performer, historian, instrument builder, journalist, activist, kayak instructor, **Bob Ostertag**'s work cannot easily be summarized or pigeon-holed. He has published more than twenty CDs of music, two DVDs, and five books. His writings on **contemporary politics** have been published on every continent and in many languages. **Electronic instruments of his own design** are at the cutting edge of both music and video performance technology. ... He is rumored to have connections to the shadowy **media guerrilla group The Yes Men**… » 
 
 «**Camae Ayewa** is an interdisciplinary artist based in Philadelphia. **Moor Mother** (Goddess) is her low fi/dark rap/chill step/ blk girl blues/witch rap/coffee shop riot gurl songs/southern girl dittys/black ghost songs/love chants/african warrior spells/kongo hoodoo/holly hill Mississippi root jams/project housing bop/baptism jazz/quantum futurism/anthropology of conscience/superdefstar gospel/Lima dream music/slaveship punk/soultronic beats/death poems project, with which she has toured worldwide and performed at numerous festivals» 
-
 <br>
-**[Read more highlights...]({filename}/pages/Highlights.md)**  
+**[Read more...]({filename}/pages/Highlights.md)**  
 
 ---
 
