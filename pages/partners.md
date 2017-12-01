@@ -49,9 +49,9 @@ IK-PP gets a variety of support or sponsoring  from :
 &nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/drexel.png" width="100"> </a>
 &nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/HYVibe.png" width="200"> </a>
 <br>
-    <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/arsnovalogo.png" width="180"> </a>
-    <a target="_blank" href="https://www.annenbergcenter.org"> <img  src="../images/AnnenbergLogo.png" width="110"> </a>
-    <a target="_blank" href="http://www.therotunda.org/"> <img  src="../images/RotundaLogo.png" width="140"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/arsnovalogo.png" width="180"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://www.annenbergcenter.org"> <img  src="../images/AnnenbergLogo.png" width="110"> </a>
+&nbsp; &nbsp; <a target="_blank" href="http://www.therotunda.org/"> <img  src="../images/RotundaLogo.png" width="140"> </a>
 
 
 
@@ -67,12 +67,12 @@ SCRIME is a joint creation studio operated by Conservatoire National de Région 
 <br><br>
 <p align="center">
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-ehess.gif" width="80"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/mcc.png" width="75"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/cnrsfr-grand.jpg" width="75"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/upmc.gif" width="150"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/inria.png" width="150"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CieLubatLogo.png" width="185"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/UzesteLogo.png" width="150"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/mcc.png" width="75"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/cnrsfr-grand.jpg" width="75"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/upmc.gif" width="150"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/inria.png" width="150"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CieLubatLogo.png" width="185"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/UzesteLogo.png" width="150"> </a>
 </p>
 <br><br>
 
