@@ -60,6 +60,7 @@ ImproTech brings together artists, musicians, composers and researchers from sev
 
 « Composer, performer, historian, instrument builder, journalist, activist, kayak instructor, **Bob Ostertag**'s work cannot easily be summarized or pigeon-holed. He has published more than twenty CDs of music, two DVDs, and five books. His writings on **contemporary politics** have been published on every continent and in many languages. **Electronic instruments of his own design** are at the cutting edge of both music and video performance technology. ... He is rumored to have connections to the shadowy **media guerrilla group The Yes Men**… » 
 <br>
+<br>
 **[Read more...]({filename}/pages/Highlights.md)**  
 
 
