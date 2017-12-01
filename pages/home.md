@@ -40,9 +40,7 @@ Concert #1 is **free for students**, Concert #2 is **free**.
 
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
 ##Highlights
-<br>
 ### Concerts
-
 ImproTech brings together artists, musicians, composers and researchers from several continents, all motivated by the possibilities offered by creative improvised interactions between humans and machines of all sorts.  
 **ImproTech Paris-Philly :: Concert #1** offers a staggering sampling of such creative alliances, featuring legendary figures of free improvisation, **Roscoe Mitchell, Bob Ostertag and Bernard Lubat**; experimental music icons David Rosenboom and Michael Young; and renowned favorites of the new scene, Steve Lehman, LaDonna Smith, Susan Alcorn, Miya Masaoka, Mari Kimura, Hatchers, György Kurtág Jr and Pierre Couprie. These artists will interact/interface with electronics, synthesis in many forms, mathematical/algorithmic music systems, artificial intelligence agents, spatialization systems and hybrid instruments.
 
