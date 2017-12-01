@@ -111,6 +111,7 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 </font>
 
 ---
+---
 
 <br>
 
@@ -143,7 +144,7 @@ What are some good ways, when making music that is shared among humans (and, in 
 
 ---
 
-<font color="grey"> 
+<font color="DarkBlue"> 
 # Workshop, Dec. 12th Morning
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ## Theme : Composition, Notation, Synthesis, Form
@@ -191,7 +192,7 @@ We will show how how geometry can be used to construct new musical instruments b
 
 ---
 
-<font color="grey"> 
+<font color="DarkBlue"> 
 # Workshop, Dec. 12th Afternoon
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ## Theme : Composition, Notation, Synthesis, Form
@@ -227,7 +228,7 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 
 ---
 
-<font color="grey"> 
+<font color="DarkBlue"> 
 #Events at ICA, dec. 12th
 **ICA** 18 S 36th St
 </font>
@@ -259,7 +260,7 @@ Adam Vidiksis + BEEP (Temple U.)
 
 ---
 
-<font color="grey"> 
+<font color="DarkBlue"> 
 #Workshop, Dec. 13th Morning
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ##Theme : (Artificial) Creative Intelligences
@@ -329,7 +330,7 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 
 ---
 
-<font color="grey"> 
+<font color="DarkBlue"> 
 #Workshop, Dec. 13th Afternoon
 **U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St
 ##Theme : (Artificial) Creative Intelligences
