@@ -34,13 +34,14 @@ Scholars, students, musicians, makers will come from many places in europe and t
 ## Practical
 Check **detailed program** [here]({filename}/pages/Program.md), **participants** [here]({filename}/pages/Bios.md), and **venues**  [here]({filename}/pages/Venues.md)  
 The Improtech Paris-Philly workshop is **open to all and free**.  
-Concert #1 is **free for students**, Concert #2 is **free**.  
+Concert #1 is **free for students**, Concert #2 is **free**.
+<br>
 **Please [RSVP here]({filename}/pages/RSVP.md)** if you intend to come to any of these events.
 <br>
 <br>
 <br>
 
-<img src="../images/IKPoster_frag8.png" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag18.png" width="125" style="float:left" hspace="10">
 ##Highlights
 ### Concerts
 ImproTech brings together artists, musicians, composers and researchers from several continents, all motivated by the possibilities offered by creative improvised interactions between humans and machines of all sorts.  
