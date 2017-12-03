@@ -135,14 +135,8 @@ Artist-Sound Designer-Technologist Adriano Clemente will discuss some of the key
 Live is a software used globally by artists, performers, producers and DJs that offers a great variety of tools, flexible performance workflows and a strong integration with MAX
 Clemente will preview Ableton Live 10 and some of its features including Capture, a tool to support spontaneity and preserve musicality when working with MIDI recordings
 
-
-###Canopy of Catastrophes
-Bhob Rainey  
-
-What are some good ways, when making music that is shared among humans (and, in terms of appreciation, likely only among humans), to “get outside yourself” and connect to non-human patterns, entities, signals, etc., without pretending to be objective? Can you not only point to or represent the “great outdoors” but also bring yourself and maybe your audience "outside”? Are computers and computational thinking at all helpful in answering these questions? Let’s talk sonification and data streams and generative patterns, but let’s also ask how they function aesthetically, what ends they might serve when sounds reach ears and that communal event we call music happens.
-
 <br>
-###18:00 End of Dec. 11 sessions
+###17:00 End of Dec. 11 sessions
 <br>
 <br>
 
