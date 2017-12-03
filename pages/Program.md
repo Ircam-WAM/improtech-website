@@ -16,8 +16,8 @@ Steve Lehman + Hprizm (saxophone, voice, electronics)
 Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK agents)  
 Bob Ostertag (Gamepad and Aalto)  
 Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
-Hatchers aka Michael Barker, Brian Osborne (electronics, drums
-Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
+Hatchers aka Michael Barker, Brian Osborne (electronics, drum)  
+Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
   
 [*Program Notes*]({filename}/pages/ProgramNote11.md)
 <br>
@@ -38,8 +38,8 @@ Sarah Belle Reid  (trumpet, live electronics)
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
 Max Eilbacher (electronics)  
 Charles Kely, Marc Chemillier (guitar, djazz system)  
-Bhob Rainey  (electronics)
-Lance Simmons, Ada Babar (electronics, prepared guitar)  
+Bhob Rainey  (electronics)  
+Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Adam Vidiksis (percussion, electronics)  
   
 [*Program Notes*](ProgramNotes13)
