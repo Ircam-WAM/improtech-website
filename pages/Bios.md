@@ -135,7 +135,7 @@ is a multimedia poet living in Philadelphia. She is the author of things we have
 
 ---
 
-<img src="../images/farley" width="320" style="float:left" hspace="10">
+<img src="../images/Bio_RemiFox.jpg" width="320" style="float:left" hspace="10">
 ####Rémi Fox 
 Saxophonist, improviser and composer, Rémi Fox is part of this new generation of artist who wishes to make the jazz a resolutely contemporary music. He graduated from the Department Jazz and improvised music from the CNSMD of PARIS where he had the opportunity to build a strong musical experience, along with great musicians (being of his generation or more experienced one). All these encounters gave him the opportunity to take part in a great variety of projects, and develop a rich and open musical universe, while strengthening his own personality. During his studies, he entered the Department of Improvisation Generative of CNSMDP (directed by Vincent Lê Quang and Alexandros Markeas) to discover new ways of playing, and to begin with sound textures experimentation. During those years, he always seeked to confront his music to other forms of Art such as dance, video or Visual arts, leading to enriching collaborations with IRCAM, CNC (National Film and the moving image Centre) or Theatres. The “nOx project” (nOx.3, nOx.6, nOx.8), started in 2013, embodies Remi’s wish to now create its own path and musical personality. Through this innovative series, the young artist offers a smart mix between improvisation, contemporary electronic music, and genuine “nOxian” melodies.  
 [www.nox3.net](www.nox3.net) / [www.collectifloo.com](www.collectifloo.com)
