@@ -37,7 +37,7 @@ Dafna Naphtali (voice & live-processing)
 Sarah Belle Reid  (trumpet, live electronics)  
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
 Max Eilbacher (electronics)  
-Charles Kely, Marc Chemillier (guitar, djazz system)  
+Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system)  
 Bhob Rainey  (electronics)  
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Adam Vidiksis (percussion, electronics)  
@@ -89,7 +89,7 @@ During this talk, we will present a French improvisation group in electroacousti
 <br>
 ####11:15
 ###The Djazz project: Jazz machines and Anthropology
-Marc Chemillier (EHESS)  
+Marc Chemillier (EHESS) with  Charles Kely Zana-Rotsy (guitar)
 
 Djazz belongs to the family of improvisation softwares called OMax/ImproteK/Djazz designed by IRCAM and EHESS. Its distinctiveness is that it is adapted to the interaction with jazz and world musicians in real social contexts, and as such is the subject of an anthropological survey dealing with rhythm and the way people synchronize themselves to the music during particular social events (dance rituals, concerts). We’ll show how rhythm is handled in Djazz and make a demo with Malagasy guitarist Charles Kely Zana-Rotsy.  
 
