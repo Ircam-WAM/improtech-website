@@ -451,7 +451,7 @@ Recently lauded in The New York Times as an “avatar of experimental music,” 
 ---
 
 <img src="../images/Bio_CharlesKelyZana-Rotsy.jpg" width="320" style="float:left" hspace="10">
-####Charles Kely
+####Charles Kely Zana-Rotsy
 Born in Madagascar, Jean-Charles Razanakoto aka Charles Kely Zana-Rotsy began to sing at age 5 and to play the guitar at age 8 in the family band. He started to play on stage at age 11. He received attention because of his open tuning playing and his first hit was the song "Ifarakely" that he composed in a rock/folk style. His international career began when he joined the group of Malagasy zither player Rajery, and followed up with his collaboration with female singer from Tchad Mounira Mitchala. He has been twice the recipient of the RFI Award (Radio France International) in 2003 with Rajery and in 2009 with Mounira. His first solo album "Anilanao" was published in 2003, and his second "Zoma Zoma" in 2011. He has toured in USA and Canada and played many times in France at the Festival Musiques Métisses and in Europe. Graduate from the jazz school ARPEJ in Paris, he has collaborated with musicians such as the late Régis Gizavo and the Hot Club Madagascar with Erick Manana. He has been involved for two years in the Djazz project with EHESS and IRCAM.
 <br>
 [youtube](https://www.youtube.com/channel/UCE84sS_mHBOPmjN31V7BfRw)
