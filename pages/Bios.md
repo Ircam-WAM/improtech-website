@@ -135,6 +135,14 @@ is a multimedia poet living in Philadelphia. She is the author of things we have
 
 ---
 
+<img src="../images/farley" width="320" style="float:left" hspace="10">
+####Rémi Fox 
+Saxophonist, improviser and composer, Rémi Fox is part of this new generation of artist who wishes to make the jazz a resolutely contemporary music. He graduated from the Department Jazz and improvised music from the CNSMD of PARIS where he had the opportunity to build a strong musical experience, along with great musicians (being of his generation or more experienced one). All these encounters gave him the opportunity to take part in a great variety of projects, and develop a rich and open musical universe, while strengthening his own personality. During his studies, he entered the Department of Improvisation Generative of CNSMDP (directed by Vincent Lê Quang and Alexandros Markeas) to discover new ways of playing, and to begin with sound textures experimentation. During those years, he always seeked to confront his music to other forms of Art such as dance, video or Visual arts, leading to enriching collaborations with IRCAM, CNC (National Film and the moving image Centre) or Theatres. The “nOx project” (nOx.3, nOx.6, nOx.8), started in 2013, embodies Remi’s wish to now create its own path and musical personality. Through this innovative series, the young artist offers a smart mix between improvisation, contemporary electronic music, and genuine “nOxian” melodies.  
+[www.nox3.net](www.nox3.net) / [www.collectifloo.com](www.collectifloo.com)
+<br>
+
+---
+
 <img src="../images/goodheart.jpg" width="320" style="float:left" hspace="10">
 ####Matthew Goodheart
 is a composer, improviser, and sound artist. Following an early career as a free-jazz pianist in the fertile San Francisco Bay Area, he has developed a wide body of work that explores the relationships between performer, instrument, and listener. His diverse creations range from large-scale microtonal compositions to open improvisations to immersive sound installations – all unified by the analytic techniques and performative methodologies he has developed to bring forth the unique and subtle acoustic properties of individual musical instruments. Goodheart’s approach results in a “generative foundation” for exploring issues of perception, technology, cultural ritual, and the psycho-physical impact of acoustic phenomena. His work has been featured across the US and Europe, and has won numerous awards and honors, including the 2014 Berlin Prize in Music Composition and a 2013 Fulbright Grant to the Czech Republic where he worked with the historic quartertone pianos designed by Alois Hába. He is currently faculty member in the Department of the Arts at Rensselaer Polytechnic Institute.
