@@ -128,19 +128,15 @@ Matt Wright (CCRMA, Stanford University)
 
 Ensemble Feedback Instruments (first presented at NIME 2015) show that even extremely simple individual musical "instruments", if they each have an audio input as well as an audio output, can give rise to rich and varied musical behaviors when patched together in various feedback topologies. As long as there is just a little system delay, on the order of trained musicians' reaction times, then even unstable "exploding" systems can safely generate glorious crescendos when one or more careful listeners have low-latency gain controls in the loop allowing them to attenuate when things begin to get out of control. Taking this a step further, we can automate this "turn down when it gets too loud" behavior; we reframe the behavior of a side-chained compressor-limiter in terms of a first-order cybernetic feedback system like a thermostat.  Each sound element inside the feedback network can have a "goal" volume (analogous to a thermostat's temperature setting) and limited (i.e., time-slewed) ability to adjust its own output volume (analogous to turning the heater on or off) according to the volume it detects in its input or output signals and/or the ensemble's overall level (analogous to the thermometer). Again the simplest of elements can give rise to rich behaviors when placed in proper recursive context. Automating this guarantee that the potentially unstable ensemble feedback network will never blow up allows a shift from a model where a human performer directly controls each individual instrument to a model where a human performer might indirectly control multiple instruments at the same time and/or improvise in real-time collaboration with goal-seeking, if not "intelligent," software agents. 
 
-###Ableton Presentation
-(to be completed)  
+###Ableton Live, Machine + Intelligence for Music Production and Performance
+Adriano Clemente
 
-###Jeff Snyder
-(to be completed)  
-
-###Canopy of Catastrophes
-Bhob Rainey  
-
-What are some good ways, when making music that is shared among humans (and, in terms of appreciation, likely only among humans), to “get outside yourself” and connect to non-human patterns, entities, signals, etc., without pretending to be objective? Can you not only point to or represent the “great outdoors” but also bring yourself and maybe your audience "outside”? Are computers and computational thinking at all helpful in answering these questions? Let’s talk sonification and data streams and generative patterns, but let’s also ask how they function aesthetically, what ends they might serve when sounds reach ears and that communal event we call music happens.
+Artist-Sound Designer-Technologist Adriano Clemente will discuss some of the key features of Ableton Live.
+Live is a software used globally by artists, performers, producers and DJs that offers a great variety of tools, flexible performance workflows and a strong integration with MAX
+Clemente will preview Ableton Live 10 and some of its features including Capture, a tool to support spontaneity and preserve musicality when working with MIDI recordings
 
 <br>
-###18:00 End of Dec. 11 sessions
+###17:00 End of Dec. 11 sessions
 <br>
 <br>
 
