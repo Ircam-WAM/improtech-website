@@ -37,15 +37,11 @@ Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)
 Dafna Naphtali (voice & live-processing)
 <br>
 Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)  
-<br>
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
-<br>
 Max Eilbacher (electronics)  
-<br>
 Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system) 
 <br>
 Bhob Rainey  (electronics)  
-<br>
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 <br>
 Adam Vidiksis (floor tom, computer processing)*Hyperdyne*
