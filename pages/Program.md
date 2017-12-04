@@ -34,10 +34,10 @@ Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
   
 Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)  
 Dafna Naphtali (voice & live-processing)  
-Sarah Belle Reid  (trumpet, live electronics)  
+Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)  
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
 Max Eilbacher (electronics)  
-Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system)  
+Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system) 
 Bhob Rainey  (electronics)  
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Adam Vidiksis (percussion, electronics)<br>
