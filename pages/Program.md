@@ -40,9 +40,9 @@ Max Eilbacher (electronics)
 Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system)  
 Bhob Rainey  (electronics)  
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
-Adam Vidiksis (percussion, electronics)
-John Mallia (percussion & electronics)
-Scott Deal (vibraphone & electronics)
+Adam Vidiksis (percussion, electronics)<br>
+John Mallia (percussion & electronics)<br>
+Scott Deal (vibraphone & electronics)<br>
   
 [*Program Notes*](ProgramNotes13)
 <br>
