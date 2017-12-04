@@ -44,11 +44,11 @@ Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system)
 Bhob Rainey  (electronics)  
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 <br>
-Adam Vidiksis (floor tom, computer processing)*Hyperdyne*
+Adam Vidiksis (floor tom, computer processing): *Hyperdyne*
 <br>
 John Mallia (percussion & electronics): *Husk, with Aura*
 <br>
-Scott Deal (vibraphone & electronics)*Goldstream Variations*
+Scott Deal (vibraphone & electronics): *Goldstream Variations*
 <br>
   
 [*Program Notes*](ProgramNotes13)
