@@ -494,6 +494,20 @@ Jeremy Stewart is a multimedia artist and performer whose work addresses agency,
 
 ---
 
+<img src="../images/ashley.jpg" width="320" style="float:left" hspace="10">
+####Ashley Tini is a percussionist, hair-stylist and former graffiti artist born and currently based in South Philadelphia. Her work seeks to create altered states by challenging concepts of ritual and their relation to time and place. Equally versed in 20th and 21st century concert music, free improvisation, Ghanaian Ewe, and Central African Pygmy music. Tini is invested in music that refracts folkloric concepts through contemporary contexts.
+As a percussionist, she has recorded and performed the works of George Crumb, Pauline Oliveros,  Mauricio Kagel, Phillip Glass, So Percussion, Mohammad Fairouz, Stuart Saunders Smith, Milford Graves, Susie Ibarra, Matthew Welch, Dave Molk and Sarah Hennies. Tini has also been a featured guest on concerts and recordings by Broken Social Scene, Do Make Say Think, and Feist. 
+Duomo, her chamber duo with percussionist Emily Strachan, specializes in commissioning works by living women composers who offer new presentations for percussion.
+Tini has devoted extensive research to Exotica, a genre that spawned its own set of cultural rites by taking ritualistic music completely out of context. In summer 2016, she began an ongoing residency at the estate of famed Exotica composer Elisabeth Waldo, who studied under Jascha Heifetz and worked closely with Les Baxter, Yma Sumac, and Billy May. Together, they will continue to premiere concerts of chamber music for indigenous Pre-Columbian American instruments.
+Ashley holds a Bachelors of Music in Performance from The University of Kansas, where she studied with renown percussionist Ji Hye Jung. Tini appears on the Naxos, Ecstatic, Constellation, High Two Labels and is a featured artist on VicFirth.com
+<br>
+[www.ashleytini.com](http://www.ashleytini.com)
+<br>
+<br>
+
+
+---
+
 <img src="../images/tsuruoka.jpg" width="320" style="float:left" hspace="10">
 ####Toshihisa Tsuruoka
 was born in Tokyo, Japan in 1994. After having studied classical trumpet for several years and curating an annual art symposium (the Art de Art Concert) in Tokyo, Toshi ventured off to NYC to study jazz guitar and earn a BA in Philosophy with a minor in Art History. Along the way, Toshi earned an Ableton Live Producer Certificate from Dubspot.  He is currently earning an MM in Theory & Composition at NYU, striving to “perfect human imperfection in music”. 
