@@ -249,7 +249,8 @@ This performance was born out of a shared interest in creating new expressive re
 
 ###Generative patches for Modular and Semi-Modular Synthesizers
 Sandy James (Temple U.)
-(to be completed)
+Analog modular and semi-modular synthesizers can be useful tools for creating generative music. A sample and hold circuit fed with noise, or combined with a slew limiter and VCO (voltage controlled oscillator) is at the heart of most random voltage sources. The MakeNoise WoggleBug is a Eurorack module that includes three outputs for control voltage: stepped, smooth and woggle. Having only stepped random output, the MakeNoise 0-Coast semi-modular synthesizer is a scaled back version of the WoggleBug. The Moog Mother-32’s assignable output can be programmed with a step random source. Output from all three random sources can be used to generate streams of stochastic pitches, changes in loudness, duration, modulation depth, and any other controllable parameter. This talk will demonstrate several generative patches created with the MakeNoise and Moog synthesizers.
+<br>
 
 ###Density Function
 Adam Vidiksis + BEEP (Temple U.)  
