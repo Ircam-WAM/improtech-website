@@ -15,7 +15,7 @@ David Rosenboom (piano, spatialization system, computer interaction) : *The Righ
 Steve Lehman + Hprizm (saxophone, voice, electronics)  
 Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK agents)  
 Bob Ostertag (Gamepad and Aalto)  
-Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
+Mari Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
 Hatchers aka Michael Barker, Brian Osborne (electronics, drum)  
 Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
   
