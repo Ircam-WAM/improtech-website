@@ -50,6 +50,8 @@ John Mallia (percussion & electronics): *Husk, with Aura*
 <br>
 Scott Deal (vibraphone & electronics): *Goldstream Variations*
 <br>
+KEROAÄN (machine agents)
+<br>
   
 [*Program Notes*](ProgramNotes13)
 <br>
