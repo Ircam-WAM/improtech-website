@@ -227,7 +227,7 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 <font color="DarkBlue"> 
 #Events at ICA, dec. 12th
 ***ICA** 18 S 36th St*
-##Round table, performances, cocktail
+##Round table, presentations, performances
 </font>
 
 <br>
@@ -237,7 +237,7 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 
 <br>
 ####17:45 
-##Performances
+##Presentations/performances
 
 ###Coughing is a Form of Love	
 Joseph Pfender & Melanie Farley 	
