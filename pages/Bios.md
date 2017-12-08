@@ -76,7 +76,7 @@ was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pie
 
 ---
 
-<img src="../images/clayton" width="320" style="float:left" hspace="10">
+<img src="../images/clayton.jpg" width="320" style="float:left" hspace="10">
 ####Matthew Clayton
 is a Philadelphia area native,a saxophonist, educator, scholar and composer. Initially drawn to the saxophone by the music of Charlie Parker, Dr. Clayton has been dedicated to the performance and teaching of music for more than 20 years and it has remained central to his life ever since he first touched the saxophone at age 10.  Becoming serious about music in high school, Dr. Clayton was a member of the National Grammy High School Jazz Band, where he had the opportunity to play at famed New York City jazz venues such as the Village Vanguard and Birdland. Also while in high school, he played at Carnegie Hall, met and performed for saxophonist Grover Washington, Jr., and gigged with former Count Basie trombonist Al Grey. In addition to playing jazz, Dr. Clayton has a strong musical foundation in gospel music; he grew up in the AME church and played frequently for worship services during his high school years.  At age 18, it was clear that music was his passion and calling.
 
