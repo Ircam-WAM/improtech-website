@@ -76,6 +76,18 @@ was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pie
 
 ---
 
+<img src="../images/clayton" width="320" style="float:left" hspace="10">
+####Matthew Clayton
+is a Philadelphia area native,a saxophonist, educator, scholar and composer. Initially drawn to the saxophone by the music of Charlie Parker, Dr. Clayton has been dedicated to the performance and teaching of music for more than 20 years and it has remained central to his life ever since he first touched the saxophone at age 10.  Becoming serious about music in high school, Dr. Clayton was a member of the National Grammy High School Jazz Band, where he had the opportunity to play at famed New York City jazz venues such as the Village Vanguard and Birdland. Also while in high school, he played at Carnegie Hall, met and performed for saxophonist Grover Washington, Jr., and gigged with former Count Basie trombonist Al Grey. In addition to playing jazz, Dr. Clayton has a strong musical foundation in gospel music; he grew up in the AME church and played frequently for worship services during his high school years.  At age 18, it was clear that music was his passion and calling.
+
+Dr. Clayton enrolled at Yale University, where he earned his B.A. in Music.  While at Yale, he was a visible presence on the music scene, forming Jazz Dialect, his own jazz quartet.  He was also a featured performer at Yale’s Tercentennial Celebration in 2001.  While at Yale, Dr. Clayton played at the Yale School of Music alongside Duke Ellington Fellowship leader and Yale professor Willie Ruff.  After graduating from Yale, Dr. Clayton enrolled at Harvard University, where he earned his Masters and Ph.D. in Music, specializing in ethnomusicology.  After completing his studies at Harvard, Dr. Clayton returned to the Philadelphia area to pursue his love of teaching and performing music.  He is currently the Director of Jazz Combos at the University of Pennsylvania, a faculty member at the prestigious Nelly Berman School of Music, and performs widely as an in demand saxophonist. 
+<br>
+[matthewclaytonmusic.com](http://www.matthewclaytonmusic.com)
+<br><br><br>
+
+
+---
+
 <img src="../images/clemente.jpg" width="320" style="float:left" hspace="10">
 ####Adriano Clemente
 is a multidisciplinary artist who works with technology to improve the relation between humans and their creative process. 
