@@ -34,7 +34,7 @@ Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
   
 Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)
 <br>
-Dafna Naphtali (voice & live-processing)
+Dafna Naphtali, Matthew Clayton (voice & live-processing, saxophone)
 <br>
 Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)  
 Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
