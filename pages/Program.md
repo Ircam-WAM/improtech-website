@@ -50,7 +50,6 @@ Scott Deal (vibraphone & electronics): *Goldstream Variations*
 -->
 
 <br>
-<br>
 ***free** admission for all*
 <br>
 <br>
