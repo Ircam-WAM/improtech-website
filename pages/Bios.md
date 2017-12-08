@@ -40,11 +40,7 @@ Philadelphia-based Atlanta transplant with a focus on combining analog and digit
 <br>
 <br>
 <br><br><br>
-<br>
-<br>
-<br><br><br>
-<br>
-<br>
+
 
 ---
 
