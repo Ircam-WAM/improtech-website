@@ -312,6 +312,18 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 <br>
 
 ---
+
+<img src="../images/mallia.jpg" width="320" style="float:left" hspace="10">
+####John Mallia
+lives and works in Boston, where he is a member of the Composition Faculty, and directs the Electronic Music Studio, at the New England Conservatory of Music. He is also on faculty at the Vermont College of Fine Arts in Montpelier. His compositional process is informed by spatial constructs and concepts, and a fascination with presence, ritual, and the thresholds standing between states of existence or awareness. In addition to composing chamber music and works combining acoustic instruments with electronics, he creates multichannel fixed media compositions, and collaborates with visual artists on multimedia works, including installation.
+Recent performances of his music have taken place at MediaMix in Monterrey, Mexico; New York City’s Lincoln Center; the International Computer Music Conference at Huddersfield, England; the RAMA Festival in Aarhus, Denmark; and Musicacoustica in Beijing, China.
+<br>
+[necmusic.edu/faculty/john-mallia](https://necmusic.edu/faculty/john-mallia)
+<br><br><br>
+<br>
+<br>
+
+---
 <img src="../images/Bio_Mahanthappa.jpg" width="320" style="float:left" hspace="10">
 ####Rudresh Mahanthappa
 Hailed by Pitchfork as “jaw-dropping… one of the finest saxophonists going,” alto saxophonist, composer and educator Rudresh Mahanthappa is widely known as one of the premier voices in jazz of the 21st century.  
