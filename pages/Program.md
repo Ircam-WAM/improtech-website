@@ -32,28 +32,23 @@ Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
 **The Rotunda**
 *4014 Walnut Street, Philadelphia, PA 19104*  
   
-Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)
-<br>
-Dafna Naphtali, Matthew Clayton (voice & live-processing, saxophone)
-<br>
+KEROAÄN (machine agents)  
+Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)  
+Dafna Naphtali, Matthew Clayton (voice & live-processing, saxophone)  
 Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)  
-Georges Bloch, Rémi Fox (ImproteK system, Saxophone)  
+Rémi Fox, Georges Bloch, Jérôme Nika (Saxophone, ImproteK system)
 Max Eilbacher (electronics)  
 Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system) 
-<br>
 Bhob Rainey  (electronics)  
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
-<br>
-Adam Vidiksis (floor tom, computer processing): *Hyperdyne*
-<br>
-John Mallia (percussion & electronics): *Husk, with Aura*
-<br>
-Scott Deal (vibraphone & electronics): *Goldstream Variations*
-<br>
-KEROAÄN (machine agents)
-<br>
-  
+Adam Vidiksis (floor tom, computer processing): *Hyperdyne*  
+John Mallia (percussion & electronics): *Husk, with Aura*  
+Scott Deal (vibraphone & electronics): *Goldstream Variations*  
+
+<!--
 [*Program Notes*](ProgramNotes13)
+-->
+
 <br>
 <br>
 ***free** admission for all*
