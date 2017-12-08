@@ -22,6 +22,20 @@ is an interdisciplinary artist based in Philadelphia. Moor Mother (Goddess) is h
 
 ---
 
+<img src="../images/ada.jpg" width="320" style="float:left" hspace="10">
+####Ada Babar
+Philadelphia-based Atlanta transplant with a focus on combining analog and digital music.
+<br>
+[adababar.bandcamp.com](https://adababar.bandcamp.com)
+<br><br><br>
+<br>
+<br>
+<br><br><br>
+<br>
+<br>
+
+---
+
 <img src="../images/erich.jpg" width="320" style="float:left" hspace="10">
 ####Erich Barganier
 is a composer and multi-instrumentalist hailing from St. Petersburg, Florida. He focuses on writing modern classical works and experimental electronic music that explores microtonality, extended techniques, melodic interplay, generative processes, and algorithmic phrasing. His compositions have been performed live or as installations across the world in cities as diverse as New York City, London, Minsk, Sydney, and Kuala Lumpur and have been recorded on ​Nebularosa Records and Janus Music and Sound.
