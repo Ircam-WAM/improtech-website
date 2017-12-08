@@ -359,13 +359,22 @@ This talk explores the use of networked computer animation as a front end for co
 
 <br>
 ####16:00
-###From OMax to DYCI2 : merging free, reactive, and scenario-based features in human-computer co-improvisation
-Jérôme Nika (Ircam) with Rémi Fox (Saxophone)
+###The DYCI2 project: Creative Dynamics of Improvised Interaction
 
-The collaborative research and development project DYCI2, Creative Dynamics of Improvised Interaction, focuses on conceiving, adapting, and bringing into play efficient models of artificial listening, learning, interaction, and generation of musical contents. It aims at developing creative and autonomous digital musical agents able to take part in various human projects in an interactive and artistically credible way. The concerned areas are live performance, production, pedagogy, and active listening. This presentation will give an overview of the project focusing on the design of multi-agent architectures and models of knowledge and decision (OMax, SoMax, ImproteK, DYCI2) in order to explore scenarios of music co-improvisation involving human and digital agents. The objective is to merge the usually exclusive "free", "reactive", and "scenario-based" paradigms in interactive music generation to adapt to a wide range of musical contexts involving hybrid temporality and multimodal interactions. The DYCI2 project is led in close and continuous interaction with expert musicians, and these interactions are an integral part of the iterative development of the models and of the software prototypes. Therefore, the presentation will be illustrated by material coming from past, present, and future associated artistic projects.		
+The collaborative research and development project DYCI2 led by Ircam, Inria Nancy, and La Rochelle University (http://repmus.ircam.fr/dyci2/home) focuses on conceiving, adapting, and bringing into play efficient models of artificial listening, learning, interaction, and generation of musical contents. It aims at developing creative and autonomous digital musical agents able to take part in various human projects in an interactive and artistically credible way. The concerned areas are live performance, production, pedagogy, and active listening.
 
+<br>
+####Performance: human-computer co-improvisation 
+Rémi Fox (Saxophone), Jérôme Nika (Ircam)
 
-###Multi-dimensional and Multi-scale learning of music structure for machine improvisation in the DYCI2 project		
+<br>
+####Merging free, reactive, and scenario-based features in human-computer co-improvisation.
+Jérôme Nika (Ircam)
+
+This presentation will give an overview of the project focusing on the design of multi-agent architectures and models of knowledge and decision (OMax, SoMax, ImproteK, DYCI2) in order to explore scenarios of music co-improvisation involving human and digital agents. The objective is to merge the usually exclusive "free", "reactive", and "scenario-based" paradigms in interactive music generation to adapt to a wide range of musical contexts involving hybrid temporality and multimodal interactions. The DYCI2 project is led in close and continuous interaction with expert musicians, and these interactions are an integral part of the iterative development of the models and of the software prototypes. Therefore, the presentation will be illustrated by material coming from past, present, and future associated artistic projects.
+
+<br>
+####Multi-dimensional and Multi-scale learning of music structure for machine improvisation in the DYCI2 project		
 Ken Deguernel (Inria Nancy)  
 
 Current musical improvisation systems are able to generate unidimensional musical sequences by recombining their musical contents. However, considering several dimensions (melody, harmony...) and several temporal levels are difficult issues. We propose to combine probabilistic approaches with formal language theory in order to better assess the complexity of a musical discourse, both from a multidimensional and multi-level point of view in the context of improvisation where the amount of data is limited. The methods proposed have been evaluated by professional musicians and improvisers during listening sessions.
