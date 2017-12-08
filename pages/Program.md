@@ -35,13 +35,13 @@ Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
 KEROAÄN (machine agents)  
 Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)<br> 
 Dafna Naphtali, Matthew Clayton (voice & live-processing, saxophone)<br> 
-Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)<br>  
+Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)<br>
 Rémi Fox, Georges Bloch, Jérôme Nika (Saxophone, ImproteK system)<br>
 Max Eilbacher (electronics)<br>
 Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system)<br>
 Bhob Rainey (electronics)<br>
 Lance Simmons, Ada Babar (electronics, prepared guitar)<br>
-Adam Vidiksis (floor tom, computer processing): *Hyperdyne*<br>  
+Adam Vidiksis (floor tom, computer processing): *Hyperdyne*<br>
 John Mallia (percussion & electronics): *Husk, with Aura*<br>
 Scott Deal (vibraphone & electronics): *Goldstream Variations*<br> 
 
