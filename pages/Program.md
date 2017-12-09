@@ -170,6 +170,8 @@ Steve Lehman (CalArts)
 
 Recent work in the domain of computer-driven improvisation has privileged modes of interactivity that eschew tempo-based hierarchies of musical time. This talk will seek to interrogate some of these recent tendencies, and provide a brief overview of the speaker's recent work integrating improvisation with contemporary research in the field of rhythmic cognition. Some potential applications to tempo-based musical models for human-computer interaction will also be discussed.
 
+<br>
+####10:45
 ###100 Strange Sounds: Practice on Electroacoustic Improvisation
 Joo Won Park (Wayne State U.)
 
@@ -187,6 +189,8 @@ David Rosenboom (CalArts)
 The “Philosopher’s Stone” is a mental symbol about the prima materia, the original substance and ultimate principle of the universe. It has been said that by returning from the qualities of sensation and thought, which we perceive through differentiation and specialization, to the undifferentiated purity of the prima materia, we might learn truths about creative power and the fundamental mutability of all phenomena. Combining this with the symbol, Portable Gold, was my way of emphasizing the timelessness and spacelessness of this idea, which we can carry with us anywhere. To manifest these symbols in music, I’ve made pieces that work with resonant coincidences detected among the physical brainwaves of performers and apply them inside the circuits of custom-built, live electronic music devices, to grow spontaneous musical forms. This version is realized with portable brainwave detectors, computer music software, and an auxiliary acoustic instrument.
 Portable Gold and Philosophers' Stones (1972 & 2015), Computer-electronics with BCMI (Brain-Computer Music Interface), auxiliary instrument, and two active imaginative listening brainwave performers (volunteers).
 
+<br>
+####12:15
 ###Improvising in Imaginary Spaces
 Dmitri Tymoczko	with Rudresh Mahantappa  
 
@@ -205,20 +209,22 @@ We will show how how geometry can be used to construct new musical instruments b
 </font>
 
 <br>
-
 ####14:30
-
 ###Live Algorithms for Music
 Michael Young (U. of Sunderland)  
 
 Computational systems able to collaborate with human improvisers are live algorithms: able to cooperate proactively, on an equal basis, with musicians in performance. This is an ideal that raises fundamental questions about creativity and group interaction, how these might be computationally modelled. Can musicians and computers relate to one another, just as human musicians do? Can an audience recognize and appraise this relationship? Live algorithms offer the prospect of a new understanding of real-time creative practice that differs from the established paradigms in live electronic music: computer as instrument and computer as proxy. Drawing upon ideas from social psychology, collective music-making can be viewed as a special case of social cooperation, evidenced primarily through sound. To attempt a functional description of live algorithms is to model modes of cooperation and causal attribution that occur between proactive agents in a shared sonic environment. The challenge of live algorithms is to find genuinely original ways for humans and computers to work together - an original way to make music. The ideal live algorithm paradigm is computer as partner.		
 
+<br>
+####15:00
 ###Talkback: Human and Computer Improvisation through a Live-Trained Machine Learning Model	
 Flannery Cunningham (UPenn)  
 
 *Talkback* for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system during composition or rehearsal, in Talkback the machine learning system is trained live during the performance. An initial semi-random musical “seed” is used as an opening output by the computer. The player improvises in response to this, and the piece evolves through an alternation of “training” and “running” the computer’s learned model. The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material (allowing the human player to layer new musical material on top of an existing texture) and when it will generate a new seed (as when an improviser decides that the music has become too static and introduces a new idea). In this workshop, composer Flannery Cunningham will perform a version of Talkback for hammered dulcimer and laptop, introduce the technology and process of creating the work, and invite participants to experiment with the piece’s structure with their own instruments or voice.
 
 
+<br>
+####15:30
 ###Drop for bassoon and electronics	
 Katarina Miljkovic and Chris Watford		
 
@@ -335,7 +341,6 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 </font>
 
 <br>
-
 ####14:00
 ###Renseelaer Polytechnic Institute Research, group presentation
 
@@ -389,6 +394,8 @@ IAN M FRASER and REED EVAN ROSENBERG
 
 KEROAÄN is a collaborative research project between IAN M FRASER and REED EVAN ROSENBERG exploring composition of electronic music by an artificial intelligence. Pieces are diffused in real time with no human intervention whatsoever as the machine agent manipulates the qualities of chosen non-standard synthesis and microsound techniques. In live diffusions, the machine agent additionally controls laser apertures and an array of strobe lighting which collectively act as a visual projection of the agent's internal state as it structures the performance. A distinctly non-human logic pervades the resultant arrangements of chaotic sounds and high-intensity lighting, presenting an immersive, alien environment.
 
+<br>
+####17:30
 ###Body/Environment couplings through sound and light  
 Mina Zarfsaz  
 
