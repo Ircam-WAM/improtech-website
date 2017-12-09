@@ -288,7 +288,7 @@ Adam Vidiksis + BEEP (Temple U.)
 </font>
 
 <br>
-####Session chair : Matt Wrighgt
+####Session chair : Matt Wright
 
 <br>
 ####09:30
