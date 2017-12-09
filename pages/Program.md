@@ -68,7 +68,6 @@ Scott Deal (vibraphone & electronics): *Goldstream Variations*<br>
 </font>
 
 <br>
-
 ####09:30
 ###Presentation of the ExCITe Center and the MET-lab at Drexel University
 Yougmoo Kim (Drexel University)	
@@ -98,11 +97,15 @@ Marc Chemillier (EHESS) with  Charles Kely Zana-Rotsy (guitar)
 
 Djazz belongs to the family of improvisation softwares called OMax/ImproteK/Djazz designed by IRCAM and EHESS. Its distinctiveness is that it is adapted to the interaction with jazz and world musicians in real social contexts, and as such is the subject of an anthropological survey dealing with rhythm and the way people synchronize themselves to the music during particular social events (dance rituals, concerts). We’ll show how rhythm is handled in Djazz and make a demo with Malagasy guitarist Charles Kely Zana-Rotsy.  
 
+<br>
+####11:45
 ###Smart Acoustic Instruments: From Early Research to HyVibe
 Adrien Mamou-Mani (HyVibe)  
 
 Smart acoustic instruments are acoustic instruments with programmable sounds. I will present the research at the origin of this concept and examples of prototypes that have been used by artists. The emphasis will be put on the HyVibe Guitar, designed to be the future of electro-acoustic guitars, using digital technology and vibration control. Finally, I will share first ideas on its potential use for improvisation.
 
+<br>
+####12:15
 ###Revolutionizing the Tradition: Extracting Human Expression using Motion Sensor for Music
 Mari Kimura (UC Irvine)  
 
