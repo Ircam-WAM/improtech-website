@@ -360,10 +360,10 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 ####14:00
 ###Renseelaer Polytechnic Institute Research, group presentation
 
-####Sound and Algorithmic Environments for Improvisation
+####Reembodied Sound and Algorithmic Environments for Improvisation
 Matthew Goodheart (Rensselaer Poly. Inst.)  
 
-Reembodied sound is a form of electroacoustics that uses transducer-driven resonant objects to create acoustic realizations of sample and analysis derived mixed synthesis. This talk will focus on the use of reembodied sound as a generative basis to create large-scale, algorithmically driven sonic environments for improvisers, discussing both technical implementation and aesthetic orientation. Directions for future research involving digital listening agents and interactivity will also be addressed.
+Reembodied Sound and Algorithmic Environments for Improvisation uses transducer-driven resonant objects to create acoustic realizations of sample and analysis derived mixed synthesis. This talk will focus on the use of reembodied sound as a generative basis to create large-scale, algorithmically driven sonic environments for improvisers, discussing both technical implementation and aesthetic orientation. Directions for future research involving digital listening agents and interactivity will also be addressed.
 
 ####Intelligent Music Agents capable of joint intuitive and rational thinking	
 Jonas Braasch (RPI)  
