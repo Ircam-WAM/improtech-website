@@ -33,17 +33,17 @@ Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
 *4014 Walnut Street, Philadelphia, PA 19104*  
   
 KEROAÄN (machine agents)  
-Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)<br> 
-Dafna Naphtali, Matthew Clayton (voice & live-processing, saxophone)<br> 
-Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)<br>
-Rémi Fox, Georges Bloch, Jérôme Nika (Saxophone, ImproteK system)<br>
-Max Eilbacher (electronics)<br>
-Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system)<br>
-Bhob Rainey (electronics)<br>
-Lance Simmons, Ada Babar (electronics, prepared guitar)<br>
-Adam Vidiksis (floor tom, computer processing): *Hyperdyne*<br>
-John Mallia (percussion & electronics): *Husk, with Aura*<br>
-Scott Deal (vibraphone & electronics): *Goldstream Variations*<br> 
+John Mallia (percussion & electronics): Husk, with Aura     
+Dafna Naphtali, Matthew Clayton (voice & live-processing, saxophone)  
+Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system)  
+Lance Simmons, Ada Babar (electronics, prepared guitar)  
+Bhob Rainey (electronics)  
+Scott Deal (vibraphone & electronics): Goldstream Variations  
+Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)  
+Max Eilbacher (electronics)  
+Rémi Fox, Georges Bloch, Jérôme Nika (Saxophone, ImproteK system)  
+Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)  
+Adam Vidiksis (floor tom, computer processing): Hyperfine  
 
 <!--
 [*Program Notes*](ProgramNotes13)
