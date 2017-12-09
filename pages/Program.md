@@ -127,6 +127,9 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 </font>
 
 <br>
+####Session chair : Georges Bloch
+
+<br>
 ####15:30
 ###MIGSI: The Minimally Invasive Gesture Sensing Interface for Trumpet
 Sarah Reid (CalArts)  
@@ -162,7 +165,9 @@ Clemente will preview Ableton Live 10 and some of its features including Capture
 </font>
 
 <br>
+####Session chair : Pierre Couprie
 
+<br>
 ####09:30
 ### Keynote presentation by Bob Ostertag
 
@@ -210,6 +215,9 @@ We will show how how geometry can be used to construct new musical instruments b
 ***U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*
 ## Theme : Composition, Notation, Synthesis, Form
 </font>
+
+<br>
+####Session chair : Ken Deguernel
 
 <br>
 ####14:30
@@ -280,7 +288,9 @@ Adam Vidiksis + BEEP (Temple U.)
 </font>
 
 <br>
+####Session chair : Matt Wrighgt
 
+<br>
 ####09:30
 ### Keynote presentation by David Rosenboom (CalArts)
 Deviant Resonances — Listening to Evolution  
@@ -342,6 +352,9 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 ***U. Penn**, Fisher-Bennett Hall, 419 Rose Hall, 3340 Walnut St*
 ##Theme : (Artificial) Creative Intelligences
 </font>
+
+<br>
+####Session chair : Michael Young
 
 <br>
 ####14:00
