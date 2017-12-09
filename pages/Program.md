@@ -67,6 +67,8 @@ Scott Deal (vibraphone & electronics): *Goldstream Variations*<br>
 ## Theme : Instruments, spaces, bodies
 </font>
 
+<br>Session chair : Jérôme Nika
+
 <br>
 ####09:30
 ###Presentation of the ExCITe Center and the MET-lab at Drexel University
