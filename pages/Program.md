@@ -124,18 +124,21 @@ Violinist and composer Mari Kimura will discuss creating performances and compos
 </font>
 
 <br>
-
 ####15:30
 ###MIGSI: The Minimally Invasive Gesture Sensing Interface for Trumpet
 Sarah Reid (CalArts)  
 
 Performer-composer-technologist Sarah Reid will introduce the Minimally Invasive Gesture Sensing Interface (MIGSI) for trumpet. MIGSI uses sensor technology to capture gestural data such as valve displacement, hand tension, and instrument position, to offer extended control and expressivity to trumpet players. In addition to addressing technical and design-based considerations of MIGSI, this presentation will discuss various strategies for performing and composing with this new instrument, and will delve into a larger discussion on integrating new musical interfaces, micro-controllers, and electronic instruments into an improvisational practice.
 
+<br>
+####16:00
 ###Improvising with Ensemble Feedback Instruments and First-order Cybernetic Followers
 Matt Wright (CCRMA, Stanford University)  
 
 Ensemble Feedback Instruments (first presented at NIME 2015) show that even extremely simple individual musical "instruments", if they each have an audio input as well as an audio output, can give rise to rich and varied musical behaviors when patched together in various feedback topologies. As long as there is just a little system delay, on the order of trained musicians' reaction times, then even unstable "exploding" systems can safely generate glorious crescendos when one or more careful listeners have low-latency gain controls in the loop allowing them to attenuate when things begin to get out of control. Taking this a step further, we can automate this "turn down when it gets too loud" behavior; we reframe the behavior of a side-chained compressor-limiter in terms of a first-order cybernetic feedback system like a thermostat.  Each sound element inside the feedback network can have a "goal" volume (analogous to a thermostat's temperature setting) and limited (i.e., time-slewed) ability to adjust its own output volume (analogous to turning the heater on or off) according to the volume it detects in its input or output signals and/or the ensemble's overall level (analogous to the thermometer). Again the simplest of elements can give rise to rich behaviors when placed in proper recursive context. Automating this guarantee that the potentially unstable ensemble feedback network will never blow up allows a shift from a model where a human performer directly controls each individual instrument to a model where a human performer might indirectly control multiple instruments at the same time and/or improvise in real-time collaboration with goal-seeking, if not "intelligent," software agents. 
 
+<br>
+####16:30
 ###Ableton Live, Machine + Intelligence for Music Production and Performance
 Adriano Clemente
 
