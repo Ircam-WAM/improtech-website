@@ -4,7 +4,7 @@ title: Program
 **Please [RSVP]({filename}/pages/RSVP.md) if you intend to come to any of these events.**
 <br>
 <br>
-[Synthetic PDF version of the program]({filename}/doc/IkPP_Program.pdf)
+[PDF PROGRAM SUMMARY]({filename}/doc/IkPP_Program.pdf)
 <br>
 <br>
 
