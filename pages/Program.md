@@ -249,14 +249,15 @@ Fabric of the electronic and instrumental part in the composition is derived fro
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue"> 
 #Events at ICA, dec. 12th
-***ICA** 18 S 36th St*
+***Institute of Contemporary Art** 118 S. 36th Street*
+
 ##Round table, presentations, performances
 </font>
 
 <br>
 ####16:30
 ##Round Table : David Wessel Legacy
-"The Figure of the Researcher / Musician" with Roscoe Mitchell, Matt Wright, Marc Chemillier, George Bloch
+"The Figure of the Researcher / Musician" with Roscoe Mitchell, Matt Wright, Marc Chemillier, George Bloch, Gérard Assayag
 
 <br>
 ####17:45 
