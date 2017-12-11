@@ -77,7 +77,7 @@ Adam Vidiksis (floor tom, computer processing): Hyperdyne
 <br>
 ####09:30
 ###Presentation of the ExCITe Center and the MET-lab at Drexel University
-Yougmoo Kim (Drexel University)	
+Youngmoo Kim (Drexel University)	
 
 The ExCITe Center is Drexel University’s home for research and discovery connecting technology and creative expression, bringing together faculty and students from across the University to pursue transdisciplinary, collaborative projects. As part of the Center, the Music & Entertainment Technology Laboratory (MET-lab) focuses on the machine understanding of audio, human-machine interfaces and robotics for expressive interaction, real-time analysis, synthesis, and visualization of sound, and K-12 outreach for STEAM (Science, Technology, Engineering, Arts & Design, and Mathematics) education. This presentation will highlight recent MET-lab/ExCITe projects with external collaborators, including Sophia’s Forrest (a chamber opera with electroacoustic sound sculptures by composer Lembit Beecher) and a dance work involving autonomous drones, created with Parsons Dance.
 
@@ -100,7 +100,7 @@ During this talk, we will present a French improvisation group in electroacousti
 <br>
 ####11:15
 ###The Djazz project: Jazz machines and Anthropology
-Marc Chemillier (EHESS) with  Charles Kely Zana-Rotsy (guitar)
+Marc Chemillier (EHESS)
 
 Djazz belongs to the family of improvisation softwares called OMax/ImproteK/Djazz designed by IRCAM and EHESS. Its distinctiveness is that it is adapted to the interaction with jazz and world musicians in real social contexts, and as such is the subject of an anthropological survey dealing with rhythm and the way people synchronize themselves to the music during particular social events (dance rituals, concerts). We’ll show how rhythm is handled in Djazz and make a demo with Malagasy guitarist Charles Kely Zana-Rotsy.  
 
@@ -222,13 +222,6 @@ We will show how how geometry can be used to construct new musical instruments b
 
 <br>
 ####Session chair : Ken Deguernel
-
-<br>
-####14:30
-###Live Algorithms for Music
-Michael Young (U. of Sunderland)  
-
-Computational systems able to collaborate with human improvisers are live algorithms: able to cooperate proactively, on an equal basis, with musicians in performance. This is an ideal that raises fundamental questions about creativity and group interaction, how these might be computationally modelled. Can musicians and computers relate to one another, just as human musicians do? Can an audience recognize and appraise this relationship? Live algorithms offer the prospect of a new understanding of real-time creative practice that differs from the established paradigms in live electronic music: computer as instrument and computer as proxy. Drawing upon ideas from social psychology, collective music-making can be viewed as a special case of social cooperation, evidenced primarily through sound. To attempt a functional description of live algorithms is to model modes of cooperation and causal attribution that occur between proactive agents in a shared sonic environment. The challenge of live algorithms is to find genuinely original ways for humans and computers to work together - an original way to make music. The ideal live algorithm paradigm is computer as partner.		
 
 <br>
 ####15:00
