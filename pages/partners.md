@@ -39,17 +39,17 @@ IK-PP gets a variety of support or sponsoring  from :
 - Ars Nova Workshop, Philadelphia
 <br><br>
 <p align="center">
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Logo_FrenchAmbassy.png" width="150"> </a>
-&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/NYU.png" width="175"> </a>
-&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Scrime.jpg" width="220"> </a>
-&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/princetonlogo.png" width="180"> </a>
+<a target="_blank" href="http://frenchhighereducation.org"> <img  src="../images/Logo_FrenchAmbassy.png" width="150"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://steinhardt.nyu.edu"> <img  src="../images/NYU.png" width="175"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://scrime.labri.fr"> <img  src="../images/Scrime.jpg" width="220"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://music.princeton.edu"> <img  src="../images/princetonlogo.png" width="180"> </a>
 <br>
-&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Logo_Stanford.png" width="200"> </a>
-&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Calarts.png" width="90"> </a>
-&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/drexel.png" width="100"> </a>
-&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/HYVibe.png" width="200"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://ccrma.stanford.edu"> <img  src="../images/Logo_Stanford.png" width="200"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://music.calarts.edu"> <img  src="../images/Calarts.png" width="90"> </a>
+&nbsp; &nbsp; <a target="_blank" href="http://drexel.edu/excite/"> <img  src="../images/drexel.png" width="100"> </a>
+&nbsp; &nbsp; <a target="_blank" href="http://hyvibe.audio"> <img  src="../images/HYVibe.png" width="200"> </a>
 <br>
-&nbsp; &nbsp; <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/arsnovalogo.png" width="180"> </a>
+&nbsp; &nbsp; <a target="_blank" href="http://www.arsnovaworkshop.org"> <img  src="../images/arsnovalogo.png" width="180"> </a>
 &nbsp; &nbsp; <a target="_blank" href="https://www.annenbergcenter.org"> <img  src="../images/AnnenbergLogo.png" width="110"> </a>
 &nbsp; &nbsp; <a target="_blank" href="http://www.therotunda.org/"> <img  src="../images/RotundaLogo.png" width="140"> </a>
 
