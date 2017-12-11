@@ -401,6 +401,18 @@ Originally from the Jersey shore area, Steven Montenegro moved to Philadelphia i
 
 ---
 
+<img src="../images/hotep.jpg" width="320" style="float:left" hspace="10">
+####Dave Middleton
+From North America's west coast to the east, across Western and Eastern Europe, thru the Tuvan steppes of Siberian Mongolia to the Fuji Mountains of Japan, D.mHotep has traveled across the northern hemisphere [and into Brazil] for the past two decades: observing, hearing, performing, and learning music of the human earth.
+After leaving behind a career in architectural design, intense self-initiative and excellent private teachers such as Curtis Harmon Sr., Steve Giordano, Myrtle Young, Robert Kenyatta, Marshall Allen, and [Dennis Sandole students] Glenn Wallace and Pat Martino have helped to hone his jazz/music theory and guitar performance skills.
+His first professional experience was as an integral member of the legendary DJ Tat Money's Halfro Productions team – playing both bass and guitar, contracting musicians, and even appearing in an MTV/BET broadcasted video with the hip-hop group EBS — one of the acts produced by the company.
+In the early 1990s, he co-founded the music ensemble JazGuardian with Philadelphia drummer Kimpedro. JazGuardian performed at innumerable public, private, corporate, and political events in and around the Philadelphia/tri- state area for nearly 20 years. Also during the 1990s, he was a participating artist in the Pennsylvania Council of the Arts' workshops, retreats, and Artists in Residence Program, alongside Rogi Kenyatta; and has performed many concerts for Artreach, Inc. He has performed and taught with the Philadelphia Jazz Composers' Forum, which was organized and led by Philadelphia vibraphonists Khan Jamal and the late Barry Schuck. For the PJCF, he organized and ran the Program of Jazz for Seniors in conjunction with the Mayor's Commission on Services to the Aging. He has both performed with and written big band arrangements for the Community College of Phila. Big Band, as directed by Dr. George Allen.
+Since 2000, he has been musically trained and mentored within the school of master musicians of the Sun Ra Arkestra — Marshall Allen, Charles Davis, Knoel Scott, Michael Ray, Tyrone Hill & others. During that time, he has internationally toured and recorded as a member of the Sun Ra Arkestra, under the direction of Marshall Allen. <br>
+[All About Jazz page](https://musicians.allaboutjazz.com/index_new.php?url=dhotep)
+<br>
+
+---
+
 <img src="../images/miljkovic.jpg" width="320" style="float:left" hspace="10">
 ####Katarina Miljkovic
 Composer Katarina Miljkovic investigates interaction between science, music and nature through collaborative musical performance. This interest led her to the mathematician Benoit Mandelbrot’s essay *The Fractal Geometry of Nature* and self-similar complex structures resulting in the cycle, *Forest*, “…a dreamy piece, along the lines of Feldman or Brown…entirely captivating” *(Signal to Noise)*.  
