@@ -21,7 +21,7 @@ Bernard Lubat + Marc Chemillier & Gérard Assayag (piano / voice, Omax/ImproteK 
 Bob Ostertag (Gamepad and Aalto)  
 Mari Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
 Hatchers aka Michael Barker, Brian Osborne (electronics, drumset)  
-Michael Young (piano, piano-prosthesis system) :  *Piano-prosthesis*  
+Farid Barron (piano)
   
 [*Program Notes*]({filename}/pages/ProgramNote11.md)
 <br>
@@ -47,7 +47,7 @@ Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)
 Max Eilbacher (electronics)  
 Rémi Fox, Georges Bloch, Jérôme Nika (Saxophone, ImproteK system)  
 Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)  
-Adam Vidiksis (floor tom, computer processing): Hyperfine  
+Adam Vidiksis (floor tom, computer processing): Hyperdyne  
 
 <!--
 [*Program Notes*](ProgramNotes13)
