@@ -59,6 +59,7 @@ IK-PP gets a variety of support or sponsoring  from :
 &nbsp; &nbsp; <a target="_blank" href="http://www.disklavier.com"> <img  src="../images/yamaha-logo.png" width="275"> </a>
 &nbsp; &nbsp; <a target="_blank" href="https://pricelab.sas.upenn.edu"> <img  src="../images/pricelab-logo.png" width="130"> </a>
 &nbsp; &nbsp; <a target="_blank" href="http://www.clarkvillephilly.com"> <img  src="../images/clarkville-logo.jpg" width="140"> </a>
+&nbsp; &nbsp; <a target="_blank" href="http://icaphila.org"> <img  src="../images/ica.jpg" width="140"> </a>
 
 
 
