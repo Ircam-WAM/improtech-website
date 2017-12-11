@@ -15,10 +15,10 @@ ImproTech Paris - Philly 2017 (IK-PP) is brought by **Ircam** (DYCI2 project), *
 IK-PP is directly supported financially by **Sorbonne Universités** (Action financée par Sorbonne Universités), **Agence Nationale de la Recherche** (Grant ANR-14-CE24-0002-01) and **Région Nouvelle Aquitaine - Cultures connectées**.
 <br><br>
 <p align="center">
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/sorbonne.png" width="150"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ANR.png" width="100"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/Aquitaine.png" width="100"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CultCon.jpg" height="80"> </a>
+<a target="_blank" href="http://www.sorbonne-universites.fr"> <img  src="../images/sorbonne.png" width="150"> </a>
+<a target="_blank" href="http://www.agence-nationale-recherche.fr"> <img  src="../images/ANR.png" width="100"> </a>
+<a target="_blank" href="https://www.nouvelle-aquitaine.fr"> <img  src="../images/Aquitaine.png" width="100"> </a>
+<a target="_blank" href="http://www.culturesconnectees.fr"> <img  src="../images/CultCon.jpg" height="80"> </a>
 </p>
 <br><br>
 IK-PP gets a variety of support or sponsoring  from :
