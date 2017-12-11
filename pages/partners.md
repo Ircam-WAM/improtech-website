@@ -37,6 +37,9 @@ IK-PP gets a variety of support or sponsoring  from :
 - Annenberg Center for the Performing Arts, Philadelphia
 - The Rotunda, Philadelphia
 - Ars Nova Workshop, Philadelphia
+- Yamaha Artist Services, New York
+- Price Lab for Digital Humanities, UPenn
+
 <br><br>
 <p align="center">
 <a target="_blank" href="http://frenchhighereducation.org"> <img  src="../images/Logo_FrenchAmbassy.png" width="150"> </a>
@@ -52,7 +55,9 @@ IK-PP gets a variety of support or sponsoring  from :
 &nbsp; &nbsp; <a target="_blank" href="http://www.arsnovaworkshop.org"> <img  src="../images/arsnovalogo.png" width="180"> </a>
 &nbsp; &nbsp; <a target="_blank" href="https://www.annenbergcenter.org"> <img  src="../images/AnnenbergLogo.png" width="110"> </a>
 &nbsp; &nbsp; <a target="_blank" href="http://www.therotunda.org/"> <img  src="../images/RotundaLogo.png" width="140"> </a>
-
+&nbsp; &nbsp; <a target="_blank" href="http://www.disklavier.com"> <img  src="../images/yamaha-logo.png" width="140"> </a>
+&nbsp; &nbsp; <a target="_blank" href="https://pricelab.sas.upenn.edu"> <img  src="../images/pricelab-logo.png" width="140"> </a>
+&nbsp; &nbsp; <a target="_blank" href="http://www.clarkvillephilly.com"> <img  src="../images/clarkville-logo.jpg" width="140"> </a>
 
 
 
