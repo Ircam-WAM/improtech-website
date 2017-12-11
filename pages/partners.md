@@ -7,9 +7,9 @@ ImproTech Paris - Philly 2017 (IK-PP) is brought by **Ircam** (DYCI2 project), *
 <p align="center">
 <a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="130"> </a>
 <a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/collegium-logo.png" width="90"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/DjazzLOGO.png" width="140"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/logo-iremus.png" width="100"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>
+<a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="140"> </a>
+<a target="_blank" href="http://www.iremus.cnrs.fr"> <img  src="../images/logo-iremus.png" width="100"> </a>
+<a target="_blank" href="http://www.sas.upenn.edu/music"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>
 </p>
 <br><br>
 IK-PP is directly supported financially by **Sorbonne Universités** (Action financée par Sorbonne Universités), **Agence Nationale de la Recherche** (Grant ANR-14-CE24-0002-01) and **Région Nouvelle Aquitaine - Cultures connectées**.
