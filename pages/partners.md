@@ -38,7 +38,8 @@ IK-PP gets a variety of support or sponsoring  from :
 - The Rotunda, Philadelphia
 - Ars Nova Workshop, Philadelphia
 - Yamaha Artist Services, New York
-- Price Lab for Digital Humanities, UPenn
+- Price Lab for Digital Humanities - UPenn, Philadelphia
+- Clarkville, West Philly
 
 <br><br>
 <p align="center">
