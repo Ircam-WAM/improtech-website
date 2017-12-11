@@ -356,8 +356,7 @@ The concept of a laptop orchestra has become entrenched in academia and is not n
 
 <br>
 ####14:00
-###Renseelaer Polytechnic Institute Research, group presentation
-& tribute performance to Pauline Oliveros using her EIS and CAIRA systems
+###Rensselaer Polytechnic Institute Research, group presentation & tribute performance to Pauline Oliveros using her EIS and CAIRA systems
 
 ####Reembodied Sound and Algorithmic Environments for Improvisation
 Matthew Goodheart (Rensselaer Poly. Inst.)  
