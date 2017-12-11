@@ -15,7 +15,7 @@ Status: Hidden
 ####Bob Ostertag (Gamepad and Aalto)  
 ####Marie Kimura, György Kurtág Jr, Pierre Couprie (violin,synths,computer interaction)  
 ####Hatchers aka Michael Barker, Brian Osborne (electronics, drums)  
-####Michael Young : *Piano-prosthesis* (piano, piano-prosthesis system)  
+####Farid Barron (piano) 
 <br>
 <br>
 
