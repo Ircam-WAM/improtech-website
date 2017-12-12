@@ -43,7 +43,7 @@ Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system)
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Bhob Rainey (electronics)  
 Scott Deal (vibraphone & electronics): Goldstream Variations  
-Sarah Belle Reid, Ashley Tini (trumpet & live electronics, vibraphone)  
+Sarah Belle Reid, Ashley Tini, D Hotep (trumpet & live electronics, vibraphone, guitar)  
 Max Eilbacher (electronics)  
 Rémi Fox, Georges Bloch, Jérôme Nika (Saxophone, ImproteK system)  
 Moor Mother, Madam Data, Mental Jewelry (voice, clarinet & electronics)  
