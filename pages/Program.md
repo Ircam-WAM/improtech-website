@@ -226,17 +226,17 @@ We will show how how geometry can be used to construct new musical instruments b
 <br>
 ####15:00
 
+###Drop for bassoon and electronics	
+Katarina Miljkovic and Chris Watford		
+
+Fabric of the electronic and instrumental part in the composition is derived from the structure of an automaton. Resulting sound events are of a modular nature and provide a field of possibilities for performers. During the performance, both performers traverse through the automaton by freely selecting sound modules while using the automaton data as time brackets. Live sound processing is happening through plugins. As a result, CA generates the structure, dictates the overall process but also embraces indeterminacy coming from a human response to a deterministic nature of the automaton, and an attempt to communicate with it. The piece is 12' long (there is also a version 24’ long). Sonic material is based on a field recording of a lament song from Balkans. The field recording is filtered through CA to create sound modules, which are treated in the way previously described.
+<br>
+
 ###Talkback: Human and Computer Improvisation through a Live-Trained Machine Learning Model	
 Flannery Cunningham (UPenn)
 *CANCELLED DUE TO ILLNESS*
 
 *Talkback* for instrument and computer consists of an ongoing process of improvisation and musical evolution shared between a human player and a computer. The piece uses Max/MSP with Rebecca Fiebrink’s open source Wekinator machine learning software; however, contrary to the usual practice of training a machine learning system during composition or rehearsal, in Talkback the machine learning system is trained live during the performance. An initial semi-random musical “seed” is used as an opening output by the computer. The player improvises in response to this, and the piece evolves through an alternation of “training” and “running” the computer’s learned model. The non-human half of the partnership is also endowed with creative agency, as an “activity meter” allows the computer system to decide when it will freeze on current material (allowing the human player to layer new musical material on top of an existing texture) and when it will generate a new seed (as when an improviser decides that the music has become too static and introduces a new idea). In this workshop, composer Flannery Cunningham will perform a version of Talkback for hammered dulcimer and laptop, introduce the technology and process of creating the work, and invite participants to experiment with the piece’s structure with their own instruments or voice.
-
-<br>
-###Drop for bassoon and electronics	
-Katarina Miljkovic and Chris Watford		
-
-Fabric of the electronic and instrumental part in the composition is derived from the structure of an automaton. Resulting sound events are of a modular nature and provide a field of possibilities for performers. During the performance, both performers traverse through the automaton by freely selecting sound modules while using the automaton data as time brackets. Live sound processing is happening through plugins. As a result, CA generates the structure, dictates the overall process but also embraces indeterminacy coming from a human response to a deterministic nature of the automaton, and an attempt to communicate with it. The piece is 12' long (there is also a version 24’ long). Sonic material is based on a field recording of a lament song from Balkans. The field recording is filtered through CA to create sound modules, which are treated in the way previously described.
 
 <br>
 ####16:00
