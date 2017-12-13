@@ -38,7 +38,7 @@ Farid Barron (piano)
   
 KEROAÄN (machine agents)  
 John Mallia (percussion & electronics): Husk, with Aura     
-Dafna Naphtali, Matthew Clayton (voice & live-processing, saxophone)  
+Dafna Naphtali, Matthew Clayton, Mohamed Kubbara (voice & live-processing, saxophone, drumset)  
 Charles Kely Zana-Rotsy, Marc Chemillier (guitar, djazz system)  
 Lance Simmons, Ada Babar (electronics, prepared guitar)  
 Bhob Rainey (electronics)  
