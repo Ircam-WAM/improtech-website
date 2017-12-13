@@ -401,15 +401,17 @@ Ken Deguernel (Inria Nancy)
 
 Current musical improvisation systems are able to generate unidimensional musical sequences by recombining their musical contents. However, considering several dimensions (melody, harmony...) and several temporal levels are difficult issues. We propose to combine probabilistic approaches with formal language theory in order to better assess the complexity of a musical discourse, both from a multidimensional and multi-level point of view in the context of improvisation where the amount of data is limited. The methods proposed have been evaluated by professional musicians and improvisers during listening sessions.
 
+<!--
 <br>
 ####17:00
 ###The KEROAÄN collaborative research project
 IAN M FRASER and REED EVAN ROSENBERG  
 
 KEROAÄN is a collaborative research project between IAN M FRASER and REED EVAN ROSENBERG exploring composition of electronic music by an artificial intelligence. Pieces are diffused in real time with no human intervention whatsoever as the machine agent manipulates the qualities of chosen non-standard synthesis and microsound techniques. In live diffusions, the machine agent additionally controls laser apertures and an array of strobe lighting which collectively act as a visual projection of the agent's internal state as it structures the performance. A distinctly non-human logic pervades the resultant arrangements of chaotic sounds and high-intensity lighting, presenting an immersive, alien environment.
+-->
 
 <br>
-####17:30
+####17:00
 ###Body/Environment couplings through sound and light  
 Mina Zarfsaz  
 
@@ -417,7 +419,7 @@ This talk/demo is about an interactive audio/video piece that is consisted of a 
 
 
 <br>
-###18:00 End of Dec. 13 sessions
+###17:30 End of Dec. 13 sessions
 <br>
 
 
