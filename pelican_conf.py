@@ -128,7 +128,7 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_SUBSITES = {
     'fr': {
-        'SITENAME': 'Improtech 2017',
+        'SITENAME': 'Improtech 2019',
         }
     }
 
