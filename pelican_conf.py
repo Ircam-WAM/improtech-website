@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals 
+from __future__ import unicode_literals
 
-SITENAME = "Improtech 2017"
-SITEURL = 'http://ikparisphilly.ircam.fr'
+SITENAME = "Improtech 2019"
+SITEURL = 'http://ikparisathina.ircam.fr'
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -116,7 +116,7 @@ MARKDOWN = {
         },
         'markdown.extensions.extra': {},
         'markdown.extensions.toc': {},
-              
+
         # optionally, more extensions,
         # e.g. markdown.extensions.meta
     },
@@ -150,6 +150,3 @@ LOAD_CONTENT_CACHE = False
 
 ABOUT_ME = ''
 AVATAR = ''
-
-
-
