@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 SITENAME = "Improtech 2019"
-SITEURL = 'http://ikparisathina.ircam.fr'
+SITEURL = 'http://ikparisathina.ircam.fr' 
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
