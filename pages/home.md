@@ -6,7 +6,7 @@ Tags: ircam, improvisation, performance, human machine interaction, improtech, o
 Authors: Gerard Assayag
 Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence 
 
-#### Workshop - Festival, December 11th - 13th, 2017 at the University of Pennsylvania 
+#### Workshop - Festival, December 11th - 13th, 2017 at the University of Pennsylvania
 <br>
 <br>
 **11th - 13th**, **Workshop** keynotes, presentations, demos and performances at U.Penn, Drexel U. and ICA,  from 9:30 - 18:00  
@@ -71,6 +71,8 @@ ImproTech brings together artists, musicians, composers and researchers from sev
 " As the founding member of the critically acclaimed **Antipop Consortium**, **HPrizm** aka High Priest (beats, composer, futurist, mc, producer) has consistently challenged all artistic boundaries. In the course of his career, Prizm has shared stages with a wide array of artists, ranging from The Roots to **Radiohead, Mos Def, Vijay Iyer, Public Enemy, Beastie Boys**, (...) . As a composer, his pieces have been installed in the **Whitney Biennial** (NYC) as well as the Mazzoli Gallery (Berlin). Most recently, along with the Antipop Consortium, Prizm has collaborated with legendary film director **David Lynch** (...). "
 
 **[Read more...]({filename}/pages/Highlights.md)**  
+
+...
 
 
 ---
