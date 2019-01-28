@@ -1,23 +1,22 @@
-Title: Improtech Paris - Philly 2017 
+Title: Improtech Paris - Athina 2019
 Status: hidden 
 save_as: index.html
-Date: 2017-10-23 10:20
+Date: 2019-01-28 10:20
 Tags: ircam, improvisation, performance, human machine interaction, improtech, omax, artificial intelligence, digital intelligence, machine musicianship
 Authors: Gerard Assayag
-Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence 
+Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence 
 
-#### Workshop - Festival, December 11th - 13th, 2017 at the University of Pennsylvania 
+#### Workshop - Festival, September 26th - 29th, 2019 at the Onassis Cultural Center and the University of Athens 
 <br>
 <br>
-**11th - 13th**, **Workshop** keynotes, presentations, demos and performances at U.Penn, Drexel U. and ICA,  from 9:30 - 18:00  
-**11th**, **Evening concert #1** at the Annenberg Center for the Performing Arts  
-**13th**, **Evening concert #2** at The Rotunda  
+**27th - 29th**, **Workshop** keynotes, presentations, demos and performances at the OCC and the UOA,  from 9:30 - 19:30
+**26th**, **27th**,**28th**,**Evening concert at the OCC 
 <br>
 <br>
 
 
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
-##Improtech Paris - Philly (ikPP)
+##Improtech Paris - Athina (ikPA)
 gathers scholars, technologists, musicians, makers, around the idea of **musical improvisation with digital intelligence** (IDI), taking notice of the emergence and development of this new creative field.
 ikPP creates a **link between the european and american research and creation scenes** through the symbolic matching of two of their more eminent emblems, Paris and Philadelphia, just as it did a few years ago with Paris and New York.
 
