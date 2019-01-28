@@ -6,7 +6,7 @@ Tags: ircam, improvisation, performance, human machine interaction, improtech, o
 Authors: Gerard Assayag
 Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### Workshop - Festival, September 26th - 29th, 2019 at the Onassis Cultural Center and the University of Athens
+#### Workshop - Festival, September 26th - 29th, 2019 at the Onassis Cultural Center and the University of Athens 
 <br>
 <br>
 **27th - 29th**, **Workshop** keynotes, presentations, demos and performances at the OCC and the UOA,  from 9:30 - 19:30
