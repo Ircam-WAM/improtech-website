@@ -10,7 +10,8 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 <br>
 <br>
 **27th - 29th**, **Workshop** keynotes, presentations, demos and performances at the OCC and the UOA,  from 9:30 - 19:30
-**26th**, **27th**,**28th**,**Evening concert at the OCC
+
+**26th**, **27th**, **28th**,**Evening concert at the OCC
 <br>
 <br>
 
