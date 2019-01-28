@@ -9,9 +9,9 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 #### Workshop - Festival, September 26th - 29th, 2019 at the Onassis Cultural Center and the University of Athens 
 <br>
 <br>
-**27th - 29th**, **Workshop** keynotes, presentations, demos and performances at the OCC and the UOA,  from 9:30 - 19:30
+**27th - 29th**, keynotes, lectures, demos and workshops at the OCC and the UOA
 
-**26th**, **27th**, **28th**,**Evening concert at the OCC
+**26th**, **27th**, **28th**, Evening concerts at the OCC
 <br>
 <br>
 
