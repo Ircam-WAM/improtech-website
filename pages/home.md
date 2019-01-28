@@ -72,8 +72,6 @@ ImproTech brings together artists, musicians, composers and researchers from sev
 
 **[Read more...]({filename}/pages/Highlights.md)**  
 
-...
-
 
 ---
 
