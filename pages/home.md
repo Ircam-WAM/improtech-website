@@ -1,4 +1,4 @@
-Title: Improtech Paris - Athina 2019
+Title: Improtech Paris - &Alpha;&theta;&eta;&nu;&alpha; 2019
 Status: hidden
 save_as: index.html
 Date: 2019-01-28 10:20
@@ -8,10 +8,11 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 
 #### Workshop - Festival, September 26th - 29th, 2019 at the Onassis Cultural Center and the University of Athens 
 <br>
-<br>
+
 **Sept 27th - 29th**, keynotes, lectures, demos and workshops at the OCC and the UOA
 
 **Sept 26th**, **27th**, **28th**, Evening concerts at the OCC
+
 <br>
 <br>
 
