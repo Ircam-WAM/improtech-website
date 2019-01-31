@@ -1,6 +1,6 @@
 title: Program
 
-## IMPROTECH Paris - Athina 2019
+## IMPROTECH Paris - Athina 2019 &alpha;&alpha;&alpha;
 
 
 <br><br>
