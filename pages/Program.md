@@ -5,7 +5,7 @@ title: Program
 
 <br><br>
 
-## Thursday sept 26 
+## _Thursday sept 26_
  
 **Opening Words :** A. Georgaki, C. Carras, G. Assayag, M. Chemillier(18.00)
 
@@ -159,13 +159,11 @@ Danae Stefanou
 
 <br>
 
-### 13.00. Round table & closing address
+### Round table & closing address (13.30)
 
 <br>
 
-#### 14.00: Lunch
-
-
+#### 14.30: Lunch
 
 
 
