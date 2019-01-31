@@ -1,4 +1,4 @@
-Title: Improtech Paris - &Alpha;&theta;&eta;&nu;&alpha; 2019
+Title: Improtech Paris - &Alpha;&theta;&eta;&nu;&alpha; 2019 (ikPA'19)
 Status: hidden
 save_as: index.html
 Date: 2019-01-28 10:20
@@ -17,18 +17,18 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 <br>
 
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
-##Improtech Paris - &Alpha;&theta;&eta;&nu;&alpha; (ikPA)
+##Improtech 
 gathers scholars, researchers, musicians, makers, around the idea of **musical improvisation in interaction with digital intelligence**, taking note of the important development of this new creative field.
-ikPA creates a link between the european and worlwide research and creation scenes through the symbolic matching of  Paris, where the event [originated at Ircam](http://recherche.ircam.fr/equipes/repmus/SMC04/), and an other emblematic city. **This year Paris will connect with Athens**, in a powerful arc between science and the art of improvisation, after the  [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr) last year, and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny) a few years ago.
+ikPA'19 creates a link between the european and worlwide research and creation scenes through the symbolic matching of  Paris, where the event [originated at Ircam](http://recherche.ircam.fr/equipes/repmus/SMC04/), and an other emblematic city. **This year Paris will connect with Athens**, in a powerful arc between science and the art of improvisation, after the  [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr) last year, and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny) a few years ago.
 
 It is thus a unique opportunity for intercultural and interdisciplinary encounters among international research and creation communities.
 
 ImproTech is being held in 2019 with the support of the [Onassis Cultural Center](http://http://www.sgt.gr)(OCC) and the [University of Athens](https://en.uoa.gr/) (UOA), in addition to the workshop's founding organisms, to allow the public to observe the aesthetic, technological and sociological developments that have taken place since previous editions. 
 This meeting point in the heart of the  Hellenic capital is a stimulating destination because of the city's young and lively improvisation scene, the many men and women who promote research in music science and technology in the Greek universities, and of course the central position of Greek culture in the history of improvised music, from its practice to its theory. 
 
-Scholars, students, musicians, will come from many places in world to talk about their work, demo, teach and perform. **ikPA 2019** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz, contemporary music, traditional music from the mediterranean area, and the  avant-garde scene of Greece .
+Scholars, students, musicians, will come from many places in world to talk about their work, demo, teach and perform. **iikPA'19** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz, contemporary music, traditional music from the mediterranean area, and the  avant-garde scene of Greece .
 
-**ikPA 2019** will combine, around the central theme of improvisation, a great diversity of aesthetic approaches while convening artists and experts covering many knowledge fields, including computer music, artificial intelligence, robotics, musicology / ethno-musicology, philosophy / anthropology, critical studies, acoustics and signal processing.
+**ikPA'19** will combine, around the central theme of improvisation, a great diversity of aesthetic approaches while convening artists and experts covering many knowledge fields, including computer music, artificial intelligence, robotics, musicology / ethno-musicology, philosophy / anthropology, critical studies, acoustics and signal processing.
 <br>
 <br>
 <br>
@@ -36,7 +36,7 @@ Scholars, students, musicians, will come from many places in world to talk about
 <img src="../images/IKPoster_frag22.png" width="125" style="float:left" hspace="10">
 ##Highlights
 ### Lectures and Concerts
-**ikPA 2019** brings together artists, musicians, composers and researchers from several continents, all motivated by the possibilities offered by creative improvised interactions between humans, machines and algorithms of all sorts. **ikPA 2019** will take place from 26 to 29 September 2019, at the OCC (Onassis Cultural Center) and the UOA (University of Athens) with concerts, demos, workshops, conferences and **prestigious keynotes speakers** (George Lewis, Xavier Serra, George Tzanetakis, Gary L. Hagberg). **World-class improvisers** are expected, including George Lewis, Evan Parker, Ikue Mori, Peter Evans, Mark Nauseef, Bernard Lubat, Sylvain Luc, Jaap Blonk, Camel Zekri, Steve Lehman, Mari Kimura, Orestis Karamanlis, Dimitri Vassilakis, Areti Andreopoulou, Panagiotis Tsagarakis.
+**ikPA'19** brings together artists, musicians, composers and researchers from several continents, all motivated by the possibilities offered by creative improvised interactions between humans, machines and algorithms of all sorts. **iikPA'19** will take place from 26 to 29 September 2019, at the OCC (Onassis Cultural Center) and the UOA (University of Athens) with concerts, demos, workshops, conferences and **prestigious keynotes speakers** (George Lewis, Xavier Serra, George Tzanetakis, Gary L. Hagberg). **World-class improvisers** are expected, including George Lewis, Evan Parker, Ikue Mori, Peter Evans, Mark Nauseef, Bernard Lubat, Sylvain Luc, Jaap Blonk, Camel Zekri, Steve Lehman, Mari Kimura, Orestis Karamanlis, Dimitri Vassilakis, Areti Andreopoulou, Panagiotis Tsagarakis.
 
 ###Participants
 
