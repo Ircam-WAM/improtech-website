@@ -6,59 +6,75 @@ title: Program
 <br>
 
 
-IMPROTECH Paris - Athènes 2019 
+# IMPROTECH Paris - Athènes 2019 
 
 26.9.2019 – 29.9.2019  
 
 
 
-Thursday 26.9.2019 
+## Thursday 26.9.2019 
  
 Opening Words : A. Georgaki, C. Carras, G. Assayag, M. Chemillier(18.00)
 
-Keynote:   (19.00) 
+Keynote:   (19.00) George Lewis
 
-Concert (20.30-22.30) (SGT)
+### Concert (20.30-22.30) (SGT)
 
 Evan Parker, Ikue Mori, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
+
 Pierre Couprie & Gyorgy Kurtag & Mari Kimura  (live Electronics, Gesture interface, violin)
+
 Georg Hajdu 
+
 Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax, traditional instruments, omax)
 
 
-Friday 27.9.2019
+## Friday 27.9.2019
 
-Lectures (9.00-14.00)-UOA
+### Lectures (9.00-14.00)-UOA
+
 Algorithms, AI and Improvisation  
 
 Keynote: George Tzanetakis 
 
 Eric Lewis :  AI & Impro
+
 Christophe d’alessandro : Cantor digitalis
+
 J. Nika, the DYC2 project
+
 Emilios Cambouropoulos
+
 Maximos Kaliakatsos 
+
 Christina Anagnostopoulou, Antonis Alexakis
 
-Lunch at UOA Cultural buliding, Kostis Palamas (14.30-16.30)
+### Lunch at UOA Cultural buliding, Kostis Palamas (14.30-16.30)
 
-Workshops / demos (17.00-19.30)-SGT
+### Workshops / demos (17.00-19.30)-SGT
 
 Julie & Mark Bokowiec (University of Huddersfield, UK)BODYCODER 
+
 Claude Cadoz (ACROE) Haptic Feed-back Improvisation System 
+
 Emilie Zawadzki & Camille Dianoux Session Hacking & collective improvisation 
+
 George Petras, Panos Tsagkarakis, Anastasia Georgaki: Prosodic Drama tools and improvisation
 
-Concerts: 20.30-22.30 (SGT)
+### Concerts: 20.30-22.30 (SGT)
 
 Jaap Blonk, Hervé Sellin, Georges Bloc : Cine-concert, (voice, piano, DYCI2 system)
+
 Steve Lehman, J. Nika (saxs, DYCI2 system)
+
 Lara Morciano, (composition, Piano, gesture interface, sound transducers)
+
 Michelle-Agnes Magalhaes, (composition, piano)
+
 Students of UOA, Dimitri Vassilakis, Georgaki, Nika, Assayag: omax & co (Jazz ensemble, omax, dyci2)
 
 
-Saturday 28.9.2019 
+## Saturday 28.9.2019 
 
 Lectures (9.00-14.00)- UOA
 Improvisation, Digital Intelligence and Cultural Heritage
