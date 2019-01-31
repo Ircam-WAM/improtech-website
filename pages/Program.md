@@ -84,10 +84,8 @@ Students of UOA, Dimitri Vassilakis, Georgaki, Nika, Assayag: omax & co (Jazz en
 <br>
 
 ---
-
 ## Saturday 28.9.2019 
-
-<br>
+---
 
 ### Lectures (9.00-1400)- UOA
 #### Improvisation, Digital Intelligence and Cultural Heritage
@@ -140,8 +138,8 @@ Marc Chemillier & Camel Zekri : machines and Gnaoua tradition
 <br>
 
 ---
-
-## Sunday 29.9.2019 
+## Sunday 29.9.2019
+---
 
 <br>
 
