@@ -5,7 +5,7 @@ title: Program
 
 <br><br>
 
-<hr>
+---
 
 ## Thursday sept 26
  
@@ -26,6 +26,8 @@ Georg Hajdu
 Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax, traditional instruments, omax)
 
 <br>
+
+---
 
 ## Friday 27.9.2019 
 
@@ -83,6 +85,8 @@ Students of UOA, Dimitri Vassilakis, Georgaki, Nika, Assayag: omax & co (Jazz en
 
 <br>
 
+---
+
 ## Saturday 28.9.2019 
 
 <br>
@@ -136,6 +140,8 @@ Julie and Marc Bokowiec (bodycoder) : digital shamanism
 Marc Chemillier & Camel Zekri : machines and Gnaoua tradition
 
 <br>
+
+---
 
 ## Sunday 29.9.2019 
 
