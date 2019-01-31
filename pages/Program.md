@@ -1,9 +1,10 @@
 title: Program
 
-## IMPROTECH Paris - Athina 2019 PROGRAM
+## IMPROTECH Paris - Athina 2019
 
 
 <br><br>
+
 ## Thursday sept 26 
  
 **Opening Words :** A. Georgaki, C. Carras, G. Assayag, M. Chemillier(18.00)
@@ -11,6 +12,7 @@ title: Program
 **Keynote:**   (19.00) George Lewis
 
 <br>
+
 ### Concert (20.30-22.30) (SGT)
 
 Evan Parker, Ikue Mori, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
@@ -28,7 +30,6 @@ Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax,
 <br>
 
 ### Lectures (9.00-14.00)-UOA
-
 #### Algorithms, AI and Improvisation 
 
 <br>
@@ -48,7 +49,9 @@ Maximos Kaliakatsos
 Christina Anagnostopoulou, Antonis Alexakis
 
 <br>
+
 #### Lunch at UOA Cultural buliding, Kostis Palamas (14.30-16.30)
+
 <br>
 
 ### Workshops / demos (17.00-19.30)-SGT
@@ -62,6 +65,7 @@ Emilie Zawadzki & Camille Dianoux Session Hacking & collective improvisation
 George Petras, Panos Tsagkarakis, Anastasia Georgaki: Prosodic Drama tools and improvisation
 
 <br>
+
 ### Concerts: 20.30-22.30 (SGT)
 
 Jaap Blonk, Hervé Sellin, Georges Bloch : Cine-concert, (voice, piano, DYCI2 system)
@@ -76,11 +80,15 @@ Students of UOA, Dimitri Vassilakis, Georgaki, Nika, Assayag: omax & co (Jazz en
 
 
 <br>
+
 ## Saturday 28.9.2019 
+
+<br>
 
 ### Lectures (9.00-1400)- UOA
 #### Improvisation, Digital Intelligence and Cultural Heritage
 
+<br>
 
 **Keynote :** Xavier Serra
 
@@ -96,7 +104,11 @@ Sami Amiris, Antonis Ladopoulos
 
 Pavlos Antoniadis
 
+<br>
+
 #### Lunch at UOA Cultural buliding, Kostis Palamas (14.30-16.30)
+
+<br>
 
 ### Workshops / demos (17.00-19.30)-SGT
 
@@ -109,6 +121,7 @@ Lara Morciano and Jose-Miguel Fernandez (Fr/Chil.):  Composition / improvisation
 
 Iannis Zannos: Interactive dance and improvisation
 
+<br>
 
 ### Concerts: 20.30-22.30 (SGT)
 
@@ -120,11 +133,16 @@ Julie and Marc Bokowiec (bodycoder) : digital shamanism
 
 Marc Chemillier & Camel Zekri : machines and Gnaoua tradition
 
+<br>
 
 ## Sunday 29.9.2019 
 
+<br>
+
 ### Lectures (9.00-14.00)- SGT
 #### Aesthetics and Ethics of Improvisation in the digital era
+
+<br>
 
 **Keynote :** Gary L. Hagberg (Bard College)
 
@@ -139,7 +157,11 @@ Jacobos Steinhauer
 Danae Stefanou 
 
 
+<br>
+
 ### 13.00. Round table & closing address
+
+<br>
 
 #### 14.00: Lunch
 
