@@ -1,18 +1,7 @@
-title: Program
-
-<br>
-[PDF PROGRAM SUMMARY]({filename}/doc/IkPP_Program.pdf)
-<br>
-<br>
+title: IMPROTECH Paris - Athina 2019 PROGRAM
 
 
-# IMPROTECH Paris - Athènes 2019 
-
-26.9.2019 – 29.9.2019  
-
-
-
-## Thursday 26.9.2019 
+## Thursday sept 26 
  
 **Opening Words :** A. Georgaki, C. Carras, G. Assayag, M. Chemillier(18.00)
 
@@ -28,12 +17,18 @@ Georg Hajdu
 
 Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax, traditional instruments, omax)
 
+<br><br>
 
 ## Friday 27.9.2019
 
+<br><br>
+
+
 ### Lectures (9.00-14.00)-UOA
 
-#### Algorithms, AI and Improvisation  
+#### Algorithms, AI and Improvisation 
+
+<br><br> 
 
 **Keynote :** George Tzanetakis 
 
@@ -49,7 +44,9 @@ Maximos Kaliakatsos
 
 Christina Anagnostopoulou, Antonis Alexakis
 
+<br><br>
 #### Lunch at UOA Cultural buliding, Kostis Palamas (14.30-16.30)
+<br><br>
 
 ### Workshops / demos (17.00-19.30)-SGT
 
