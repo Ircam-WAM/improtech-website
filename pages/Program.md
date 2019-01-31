@@ -1,12 +1,16 @@
-title: IMPROTECH Paris - Athina 2019 PROGRAM
+title: Program
+
+## IMPROTECH Paris - Athina 2019 PROGRAM
 
 
+<br><br>
 ## Thursday sept 26 
  
 **Opening Words :** A. Georgaki, C. Carras, G. Assayag, M. Chemillier(18.00)
 
 **Keynote:**   (19.00) George Lewis
 
+<br>
 ### Concert (20.30-22.30) (SGT)
 
 Evan Parker, Ikue Mori, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
@@ -17,18 +21,17 @@ Georg Hajdu
 
 Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax, traditional instruments, omax)
 
-<br><br>
+<br>
 
 ## Friday 27.9.2019 
 
-<br><br>
-
+<br>
 
 ### Lectures (9.00-14.00)-UOA
 
 #### Algorithms, AI and Improvisation 
 
-<br><br> 
+<br>
 
 **Keynote :** George Tzanetakis 
 
@@ -44,9 +47,9 @@ Maximos Kaliakatsos
 
 Christina Anagnostopoulou, Antonis Alexakis
 
-<br><br>
+<br>
 #### Lunch at UOA Cultural buliding, Kostis Palamas (14.30-16.30)
-<br><br>
+<br>
 
 ### Workshops / demos (17.00-19.30)-SGT
 
@@ -58,6 +61,7 @@ Emilie Zawadzki & Camille Dianoux Session Hacking & collective improvisation
 
 George Petras, Panos Tsagkarakis, Anastasia Georgaki: Prosodic Drama tools and improvisation
 
+<br>
 ### Concerts: 20.30-22.30 (SGT)
 
 Jaap Blonk, Hervé Sellin, Georges Bloch : Cine-concert, (voice, piano, DYCI2 system)
@@ -71,6 +75,7 @@ Michelle-Agnes Magalhaes, (composition, piano)
 Students of UOA, Dimitri Vassilakis, Georgaki, Nika, Assayag: omax & co (Jazz ensemble, omax, dyci2)
 
 
+<br>
 ## Saturday 28.9.2019 
 
 ### Lectures (9.00-1400)- UOA
