@@ -5,7 +5,9 @@ title: Program
 
 <br><br>
 
-## _Thursday sept 26_
+<hr>
+
+## Thursday sept 26
  
 **Opening Words :** A. Georgaki, C. Carras, G. Assayag, M. Chemillier(18.00)
 
