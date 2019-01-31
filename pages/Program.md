@@ -6,8 +6,8 @@ title: Program
 <br><br>
 
 ---
-
 ## Thursday sept 26
+---
  
 **Opening Words :** A. Georgaki, C. Carras, G. Assayag, M. Chemillier(18.00)
 
@@ -28,10 +28,8 @@ Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax,
 <br>
 
 ---
-
-## Friday 27.9.2019 
-
-<br>
+## Friday 27.9.2019
+---
 
 ### Lectures (9.00-14.00)-UOA
 #### Algorithms, AI and Improvisation 
