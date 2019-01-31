@@ -2,30 +2,31 @@ Title: Improtech Paris - Athina 2019
 Status: hidden
 save_as: index.html
 Date: 2019-01-28 10:20
-Tags: ircam, improvisation, performance, human machine interaction, improtech, omax, artificial intelligence, digital intelligence, machine musicianship
+Tags: ircam, improvisation, performance, human machine interaction, improtech, omax, artificial intelligence, digital intelligence, machine musicianship, artificial intelligence, computztional creativity, cybe human systems
 Authors: Gerard Assayag
 Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
 #### Workshop - Festival, September 26th - 29th, 2019 at the Onassis Cultural Center and the University of Athens 
 <br>
 <br>
-**27th - 29th**, keynotes, lectures, demos and workshops at the OCC and the UOA
+**Sept 27th - 29th**, keynotes, lectures, demos and workshops at the OCC and the UOA
 
-**26th**, **27th**, **28th**, Evening concerts at the OCC
+**Sept 26th**, **27th**, **28th**, Evening concerts at the OCC
 <br>
 <br>
 
 
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
 ##Improtech Paris - Athina (ikPA)
-gathers scholars, technologists, musicians, makers, around the idea of **musical improvisation with digital intelligence** (IDI), taking notice of the emergence and development of this new creative field.
-ikPP creates a **link between the european and american research and creation scenes** through the symbolic matching of two of their more eminent emblems, Paris and Philadelphia, just as it did a few years ago with Paris and New York.
+gathers scholars, researchers, musicians, makers, around the idea of **musical improvisation in interaction with digital intelligence**, taking note of the important development of this new creative field.
+ikPA creates a **link between the european and worlwide research and creation scenes** through the symbolic matching of  Paris, where the event [originated at Ircam](http://recherche.ircam.fr/equipes/repmus/SMC04/), and an other emblematic city. This year Paris will connect with Athens, in a powerful arc between science and the art of improvisation, after the  [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr) last year, and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny) one a few years ago.
 
-Five years after its [first iteration in New-York](http://repmus.ircam.fr/improtechpny) the **ImproTech workshop - festival** formula is back again to see the technological, aesthetical, and sociological evolutions that happened since the last gathering.  The meeting place in Philadelphia seems a natural destination, for its unique improvised music scene and history, and its perpetual enchantment with so many ever floating historical musical figures.
+It is thus a unique opportunity for intercultural and interdisciplinary encounters among international research and creation communities.
 
-The **ImproTech Paris - Philly workshop** will take place at the University of Pennsylvania from **Dec. 11 to Dec. 13** 2017, with **two evening concerts** at the Annenberg Center for the Performing Arts (**dec. 11th**) and The Rotunda (**dec. 13th**), and social events at the Institute of Contemporary Art (ICA).
+ImproTech is being held in 2019 with the support of the [Onassis Cultural Center](http://http://www.sgt.gr)(OCC) and the [University of Athens](https://en.uoa.gr/) (UOA), in addition to the workshop's founding organisms, to allow the public to observe the aesthetic, technological and sociological developments that have taken place since previous editions. 
+This meeting point in the heart of the  Hellenic capital is a stimulating destination because of the city's young and lively improvisation scene, the many men and women who promote research in music science and technology in the Greek universities, and of course the central position of Greek culture in the history of improvised music, from its practice to its theory. 
 
-Scholars, students, musicians, makers will come from many places in europe and the US to talk about their work, demo, teach and perform. **ikPP** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz and contemporary music, and the young avant-garde / underground scene of Philadelphia and surroundings.
+Scholars, students, musicians, will come from many places in world to talk about their work, demo, teach and perform. **ikPA** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz, contemporary music, traditional music, and the  avant-garde scene of Greece .
 <br>
 <br>
 <br>
