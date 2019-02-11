@@ -8,8 +8,8 @@ ImproTech Paris - Athina 2019 (IKPA'19) is brought by **Ircam** (DYCI2 project),
 <br><br>
 <p align="center">
 <a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="130"> </a>
-<a target="_blank" href="https://www.onassis.org/initiatives/onassis-stegi/"> <img  src="../images/LOGO.OCC.png" width="130"> </a>
-<a target="_blank" href="https://en.uoa.gr/"> <img  src="../images/LOGO_UOA_GR.svg" width="160"> </a>
+<a target="_blank" href="https://www.onassis.org/initiatives/onassis-stegi/"> <img  src="../images/LOGO.OCC.png" width="200"> </a>
+<a target="_blank" href="https://en.uoa.gr/"> <img  src="../images/LOGO_UOA_GR.svg" width="250"> </a>
 </p>
 <br><br>
 
