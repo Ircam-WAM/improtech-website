@@ -29,7 +29,7 @@ IkPA is under the high patronage of
 <br>
 
 <p align="center">
-<a target="_blank" href="http://www.ircam.fr"> <img  src="../images/LOGO_Tutelles_STMS.png" width="800"> </a>
+<a target="_blank" href="http://www.ircam.fr"> <img  src="../images/LOGO_Tutelles_STMS.png" width="680"> </a>
 </p>
 
 <br>
