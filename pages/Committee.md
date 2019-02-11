@@ -38,6 +38,6 @@ Atau Tanaka, Pr. Goldsmiths University of London
 
 <p align="center">
    <br><br>
-  <img src="../images/IKPoster_frag5.png" width="300">
+   <img src="../images/IKPoster_frag9.png" width="300">
    <br><br>
 </p>
