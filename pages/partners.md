@@ -16,7 +16,7 @@ IKPA'19 is supported by
 
 <br>
 <p align="center">
-<a target="_blank" href="http://www.ircam.fr/recherche"> <img  src="../images/LOGO.Ircam.jpg" width="150"> </a>
+<a target="_blank" href="http://www.ircam.fr/recherche"> <img  src="../images/LOGO_STMS.jpg" width="170"> </a>
 <a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/collegium-logo.png" width="120"> </a>
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="150"> </a>
 <a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="170"> </a>
