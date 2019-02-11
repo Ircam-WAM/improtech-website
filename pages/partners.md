@@ -2,11 +2,23 @@ Title: Credits
 
 ---
 
-ImproTech Paris - Philly 2017 (IK-PP) is brought by **Ircam** (DYCI2 project), **Collegium Musicae** (Public actions 2017-18),  **djazz** (Jazz augmenté project), **IReMus** and **University of Pennsylvania**.
+ImproTech Paris - Athina 2019 (IKPA'19) is brought by **Ircam** (DYCI2 project), Onassis Cultural Center, and University of Athens.
+
+
 <br><br>
 <p align="center">
 <a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="130"> </a>
-<a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/collegium-logo.png" width="90"> </a>
+<a target="_blank" href="https://www.onassis.org/initiatives/onassis-stegi/"> <img  src="../images/LOGO.OCC.png" width="130"> </a>
+<a target="_blank" href="https://en.uoa.gr/"> <img  src="../images/LOGO_UOA_GR.svg" width="160"> </a>
+</p>
+<br><br>
+
+
+**Collegium Musicae** (Public actions 2017-18),  **djazz** (Jazz augmenté project), **IReMus** and **University of Pennsylvania**.
+<br><br>
+<p align="center">
+<a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="130"> </a>
+<a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/collegium-logo.png" width="100"> </a>
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="140"> </a>
 <a target="_blank" href="http://www.iremus.cnrs.fr"> <img  src="../images/logo-iremus.png" width="100"> </a>
 <a target="_blank" href="http://www.sas.upenn.edu/music"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>
@@ -93,9 +105,6 @@ ImproTech Paris Philly 2017 [Art Work]({filename}/pages/Visuals.md) and Graphic 
 
 <p align="center">
    <br><br>
-  <img src="../images/IKPoster_frag9.png" width="300"> 
+  <img src="../images/IKPoster_frag9.png" width="300">
    <br><br>
 </p>
-
-
-
