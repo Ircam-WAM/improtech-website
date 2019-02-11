@@ -2,13 +2,13 @@ Title: Credits
 
 ---
 
-ImproTech Paris - Athina 2019 (IKPA'19) is brought by Ircam, Onassis Cultural Center, and University of Athens.
+ImproTech Paris - Athina 2019 (IKPA'19) is organized and supported by Ircam, Onassis Cultural Center, and University of Athens.
 
 <br>
 <p align="center">
-<a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="130"> </a>
-<a target="_blank" href="https://www.onassis.org/initiatives/onassis-stegi/"> <img  src="../images/LOGO.OCC.png" width="200"> </a>
-<a target="_blank" href="https://en.uoa.gr/"> <img  src="../images/LOGO_UOA_GR.svg" width="250"> </a>
+<a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="150"> </a>
+<a target="_blank" href="https://www.onassis.org/initiatives/onassis-stegi/"> <img  src="../images/LOGO.OCC.png" width="220"> </a>
+<a target="_blank" href="https://en.uoa.gr/"> <img  src="../images/LOGO_UOA_GR.svg" width="270"> </a>
 </p>
 <br>
 
@@ -16,10 +16,10 @@ IKPA'19 is supported by
 
 <br>
 <p align="center">
-<a target="_blank" href="http://www.ircam.fr/recherche"> <img  src="../images/LOGO.Ircam.jpg" width="100"> </a>
-<a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/collegium-logo.png" width="100"> </a>
-<a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="140"> </a>
-<a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="140"> </a>
+<a target="_blank" href="http://www.ircam.fr/recherche"> <img  src="../images/LOGO.Ircam.jpg" width="150"> </a>
+<a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/collegium-logo.png" width="120"> </a>
+<a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="150"> </a>
+<a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="170"> </a>
 
 </p>
 <br>
@@ -29,7 +29,7 @@ IKPA is under the high patronage of
 <br>
 
 <p align="center">
-<a target="_blank" href="http://www.ircam.fr"> <img  src="../images/LOGO_Tutelles_STMS.png" width=">400"> </a>
+<a target="_blank" href="http://www.ircam.fr"> <img  src="../images/LOGO_Tutelles_STMS.png" width=">300"> </a>
 </p>
 
 <br>
