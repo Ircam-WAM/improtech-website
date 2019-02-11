@@ -2,37 +2,38 @@ Title: Credits
 
 ---
 
-ImproTech Paris - Athina 2019 (IKPA'19) is brought by **Ircam** (DYCI2 project), Onassis Cultural Center, and University of Athens.
+ImproTech Paris - Athina 2019 (IKPA'19) is brought by Ircam, Onassis Cultural Center, and University of Athens.
 
-
-<br><br>
+<br>
 <p align="center">
 <a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="130"> </a>
 <a target="_blank" href="https://www.onassis.org/initiatives/onassis-stegi/"> <img  src="../images/LOGO.OCC.png" width="200"> </a>
 <a target="_blank" href="https://en.uoa.gr/"> <img  src="../images/LOGO_UOA_GR.svg" width="250"> </a>
 </p>
-<br><br>
+<br>
 
+IKPA'19 is supported by
 
-**Collegium Musicae** (Public actions 2017-18),  **djazz** (Jazz augmenté project), **IReMus** and **University of Pennsylvania**.
-<br><br>
+<br>
 <p align="center">
-<a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="130"> </a>
+<a target="_blank" href="http://www.ircam.fr/recherche"> <img  src="../images/LOGO.Ircam.jpg" width="100"> </a>
 <a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/collegium-logo.png" width="100"> </a>
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="140"> </a>
-<a target="_blank" href="http://www.iremus.cnrs.fr"> <img  src="../images/logo-iremus.png" width="100"> </a>
-<a target="_blank" href="http://www.sas.upenn.edu/music"> <img  src="../images/penn_fulllogo.gif" width="200"> </a>
+<a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="140"> </a>
+
 </p>
-<br><br>
-IK-PP is directly supported financially by **Sorbonne Universités** (Action financée par Sorbonne Universités), **Agence Nationale de la Recherche** (Grant ANR-14-CE24-0002-01) and **Région Nouvelle Aquitaine - Cultures connectées**.
-<br><br>
+<br>
+
+IKPA is under the high patronage of
+
+<br>
+
 <p align="center">
-<a target="_blank" href="http://www.sorbonne-universites.fr"> <img  src="../images/sorbonne.png" width="150"> </a>
-<a target="_blank" href="http://www.agence-nationale-recherche.fr"> <img  src="../images/ANR.png" width="100"> </a>
-<a target="_blank" href="https://www.nouvelle-aquitaine.fr"> <img  src="../images/Aquitaine.png" width="100"> </a>
-<a target="_blank" href="http://www.culturesconnectees.fr"> <img  src="../images/CultCon.jpg" height="80"> </a>
+<a target="_blank" href="http://www.ircam.fr"> <img  src="../images/LOGO_Tutelles_STMS.png" width=">400"> </a>
 </p>
-<br><br>
+
+<br>
+
 IK-PP gets a variety of support or sponsoring  from :
 
 - Cultural Services of the French Embassy & FACE Foundation
