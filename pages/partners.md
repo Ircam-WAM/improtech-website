@@ -2,7 +2,7 @@ Title: Credits
 
 ---
 
-ImproTech Paris - Athina 2019 (IKPA'19) is organized and supported by Ircam, Onassis Cultural Center, and University of Athens.
+IkPA'19 is brought by
 
 <br>
 <p align="center">
@@ -12,11 +12,11 @@ ImproTech Paris - Athina 2019 (IKPA'19) is organized and supported by Ircam, Ona
 </p>
 <br>
 
-IKPA'19 is supported by
+IkPA'19 is supported by
 
 <br>
 <p align="center">
-<a target="_blank" href="http://www.ircam.fr/recherche"> <img  src="../images/LOGO_STMS.jpg" width="170"> </a>
+<a target="_blank" href="http://www.ircam.fr/recherche"> <img  src="../images/LOGO_STMS.jpg" width="230"> </a>
 <a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/collegium-logo.png" width="120"> </a>
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="150"> </a>
 <a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="170"> </a>
@@ -24,12 +24,12 @@ IKPA'19 is supported by
 </p>
 <br>
 
-IKPA is under the high patronage of
+IkPA is under the high patronage of
 
 <br>
 
 <p align="center">
-<a target="_blank" href="http://www.ircam.fr"> <img  src="../images/LOGO_Tutelles_STMS.png" width=">250"> </a>
+<a target="_blank" href="http://www.ircam.fr"> <img  src="../images/LOGO_Tutelles_STMS.png" width=">200"> </a>
 </p>
 
 <br>
