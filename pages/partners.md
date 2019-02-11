@@ -41,6 +41,6 @@ IkPA is under the high patronage of
 
 <p align="center">
    <br><br>
-  <img src="../images/IKPoster_frag9.png" width="300">
+  <img src="../images/IKPoster_frag9.png" width="200">
    <br><br>
 </p>
