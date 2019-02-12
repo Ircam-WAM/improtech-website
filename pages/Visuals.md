@@ -2,6 +2,9 @@ title: Visuals
 
 ---
 
+# Previous Improtech Art Workshop
+
+
 ImproTech Paris-Philly Art Work
 © Turner Williams 2017  
 
@@ -22,9 +25,4 @@ ImproTech Paris-Philly Art Work
   <br><br>
   <img src="../images/IKPoster.004.jpeg" width="600" hspace="20">
   <br><br>
- 
 </p>
-
-
-
-
