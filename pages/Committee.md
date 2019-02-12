@@ -15,9 +15,9 @@ Marc Chemillier, EHESS
 
 ### Steering Committee
 
-Pierre Couprie, Sorbonne Université
+Pierre Couprie, Sorbonne Université  
 Eugene Lew, University of Pennsylvania  
-Turner Williams, Ars Nova Workshop
+Turner Williams, Ars Nova Workshop  
 
 
 ### Organisation-
