@@ -4,16 +4,16 @@ title: Committee
 
 ###  Chair
 
-Greece
-
-Gérard Assayag, Ircam  
+#### &Alpha;&theta;&eta;&nu;&alpha;
 Christos Carras, Onassis Cultural center  
-Marc Chemillier, EHESS  
 Anastasia Georgakis, University of Athens  
 
-### Organisation
+#### Paris
+Gérard Assayag, Ircam  
+Marc Chemillier, EHESS  
+Pierre Couprie, Sorbonne Université
 
-Pierre Couprie, Sorbonne Université  
+### Organisation-
 
 Sylvie Benoit, Ircam  
 Pasqua Vorgia, OCC  
@@ -22,7 +22,10 @@ Pasqua Vorgia, OCC
 
 ### Science / Art  Board
 
-Brigitte d’Andréa-Novel, Head STMS Lab, Ircam  
+Brigitte d’Andréa-Novel, Head STMS Lab, IRCAM
+Eugene Lew, University of Pennsylvania  
+Christophe d'Alessandro, Sorbonne Université
+Hugues Genevois, Sorbonne Université
 Elaine Chew, Pr. Queen Mary University of London, Director of Music Initiatives, Centre for Digital Music  
 Maxime Crochemore, Pr. King’s College of London  
 Shlomo Dubnov, Pr. University of California at San DIego (UCSD), Director Center for Research in Entertainment and Learning (CREL)  
