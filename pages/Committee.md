@@ -20,7 +20,7 @@ Eugene Lew, University of Pennsylvania
 Turner Williams, Ars Nova Workshop  
 
 
-### Organisation-
+### Organisation
 
 Sylvie Benoit, Ircam  
 Pasqua Vorgia, OCC  
