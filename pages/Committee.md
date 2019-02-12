@@ -11,7 +11,14 @@ Anastasia Georgakis, University of Athens
 #### Paris
 Gérard Assayag, Ircam  
 Marc Chemillier, EHESS  
+
+
+### Steering Committee
+
 Pierre Couprie, Sorbonne Université
+Eugene Lew, University of Pennsylvania  
+Turner Williams, Ars Nova Workshop
+
 
 ### Organisation-
 
@@ -22,22 +29,21 @@ Pasqua Vorgia, OCC
 
 ### Science / Art  Board
 
-Brigitte d’Andréa-Novel, Head STMS Lab, IRCAM
-Eugene Lew, University of Pennsylvania  
-Christophe d'Alessandro, Sorbonne Université
-Hugues Genevois, Sorbonne Université
-Elaine Chew, Pr. Queen Mary University of London, Director of Music Initiatives, Centre for Digital Music  
-Maxime Crochemore, Pr. King’s College of London  
-Shlomo Dubnov, Pr. University of California at San DIego (UCSD), Director Center for Research in Entertainment and Learning (CREL)  
-Andrew Hugill, Pr. Centre for Creative Computing, Bath Spa University  
-György Kurtág, Art/Science coordinator, SCRIME, University of Bordeaux   
-George Lewis, Pr., Area Chair of Composition, Columbia University   
-Bernard Lubat, Dir. Compagnie Lubat,  Uzeste Music Festival - Hestajada de las Arts  
-Peter Nelson, Pr. University of Edinburgh, Personal Chair of Music and Technology  
-Tae Hong Park, Pr. New York University, Director of Composition program  
-Robert Rowe, Pr., New York University, Director of Music Technology  
-Pierre Alexandre Tremblay, Pr. Huddersfield University, composition and improvisation  
-Atau Tanaka, Pr. Goldsmiths University of London  
+Brigitte d’Andréa-Novel, Head STMS Lab, IRCAM  
+Christophe d'Alessandro, Sorbonne Université  
+Hugues Genevois, Sorbonne Université  
+Elaine Chew, Queen Mary University of London  
+Maxime Crochemore, King’s College of London  
+Shlomo Dubnov, University of California at San Diego (UCSD)  
+Andrew Hugill, Bath Spa University  
+György Kurtág, University of Bordeaux   
+George Lewis, Columbia University   
+Bernard Lubat, Compagnie Lubat    
+Peter Nelson, University of Edinburgh    
+Tae Hong Park, New York University    
+Robert Rowe, New York University    
+Pierre Alexandre Tremblay, Huddersfield University    
+Atau Tanaka, Goldsmiths University of London  
 <br>
 
 ---
