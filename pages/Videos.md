@@ -5,12 +5,14 @@ title: Videos
 ## Videos of previous Improtech
 
 
- [Retrieve a video archive of workshops highlights including participant interviews](https://vimeo.com/album/5236593)
+<br>
+
+Retrieve a [complete video archive of IKPP'17 workshops highlights, With participant interviews](https://vimeo.com/album/5236593)
 
  <br>
  Credit : Jeff Joly 2017
 
- <br><br>
+ <br>
 
  <iframe src="https://player.vimeo.com/video/255067410" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/255067410">Presentation Improtech Paris - Philly 2017</a> from <a href="https://vimeo.com/user15042869">RepMus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
