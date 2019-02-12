@@ -2,10 +2,10 @@ title: Visuals
 
 ---
 
-# Previous Improtech Art Workshop
+## Previous Improtech Art Work
 
 
-ImproTech Paris-Philly Art Work
+ImproTech Paris-Philly 2017 Art Work
 © Turner Williams 2017  
 
 ---
