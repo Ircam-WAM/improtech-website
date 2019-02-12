@@ -4,20 +4,23 @@ title: Committee
 
 ###  Chair
 
+Greece
+
 Gérard Assayag, Ircam  
 Christos Carras, Onassis Cultural center  
 Marc Chemillier, EHESS  
 Anastasia Georgakis, University of Athens  
 
-### Organisation Committee
+### Organisation
 
 Pierre Couprie, Sorbonne Université  
+
 Sylvie Benoit, Ircam  
 Pasqua Vorgia, OCC  
 
 ---
 
-### Science / Art Advisory Board
+### Science / Art  Board
 
 Brigitte d’Andréa-Novel, Head STMS Lab, Ircam  
 Elaine Chew, Pr. Queen Mary University of London, Director of Music Initiatives, Centre for Digital Music  
