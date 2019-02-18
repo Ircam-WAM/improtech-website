@@ -27,7 +27,7 @@ Pasqua Vorgia, OCC
 ### Science / Art  Board
 
 Eugene Lew, University of Pennsylvania  
-Turner Williams, Ars Nova Workshop 
+Turner Williams, Ars Nova Workshop  
 Brigitte d’Andréa-Novel, Head STMS Lab, IRCAM  
 Hugues Genevois, Sorbonne Université  
 Elaine Chew, Queen Mary University of London  
