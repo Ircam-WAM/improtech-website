@@ -17,8 +17,8 @@ Marc Chemillier, EHESS
 
 Pierre Couprie, Sorbonne Université  
 Agnes Puisillieux, Sorbonne Université  
-Clément Canonne, Ircam
-Jérôme Nika, Ircam
+Clément Canonne, Ircam  
+Jérôme Nika, Ircam  
 Sylvie Benoit, Ircam  
 Pasqua Vorgia, OCC  
  
@@ -42,7 +42,7 @@ Tae Hong Park, New York University
 Robert Rowe, New York University    
 Pierre Alexandre Tremblay, Huddersfield University    
 Atau Tanaka, Goldsmiths University of London  
-Suguru Goto, Geidai University of the Arts, Tokyo
+Suguru Goto, Geidai University of the Arts, Tokyo  
 <br>
 
 ---
