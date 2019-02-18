@@ -72,13 +72,11 @@ George Petras, Panos Tsagkarakis, Anastasia Georgaki: Prosodic Drama tools and i
 
 Jaap Blonk, Hervé Sellin, Georges Bloch : Cine-concert, (voice, piano, DYCI2 system)
 
-Steve Lehman, J. Nika (saxs, DYCI2 system)
+Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
 
 Lara Morciano, (composition, Piano, gesture interface, sound transducers)
 
 Michelle-Agnes Magalhaes, (composition, piano)
-
-Students of UOA, Dimitri Vassilakis, Georgaki, Nika, Assayag: omax & co (Jazz ensemble, omax, dyci2)
 
 
 <br>
@@ -127,13 +125,17 @@ Iannis Zannos: Interactive dance and improvisation
 
 ### Concerts: 20.30-22.30 (SGT)
 
-Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
+
+Steve Lehman, J. Nika (saxs, DYCI2 system) / Rémy Fox, J. Nika (saxs, DYCI2 system)
 
 UOA/Orestis Karamanlis, Areti Andreopoulou, plus musiciens traditionnels, (Laptop / musicians performance)
 
 Julie and Marc Bokowiec (bodycoder) : digital shamanism
 
 Marc Chemillier & Camel Zekri : machines and Gnaoua tradition
+
+Students of UOA, Dimitri Vassilakis, Georgaki, Nika  : omax & co (Jazz ensemble, omax, dyci2)
+
 
 <br>
 
