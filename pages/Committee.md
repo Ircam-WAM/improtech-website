@@ -2,7 +2,7 @@ title: Committee
 
 ---
 
-###  Chair
+###  General Chair
 
 #### &Alpha;&theta;&eta;&nu;&alpha;
 Christos Carras, Onassis Cultural center  
@@ -13,24 +13,22 @@ Gérard Assayag, Ircam
 Marc Chemillier, EHESS  
 
 
-### Steering Committee
+### Organizing Committee
 
 Pierre Couprie, Sorbonne Université  
-Eugene Lew, University of Pennsylvania  
-Turner Williams, Ars Nova Workshop  
-
-
-### Organisation
-
+Agnes Puisillieux, Sorbonne Université  
+Clément Canonne, Ircam
+Jérôme Nika, Ircam
 Sylvie Benoit, Ircam  
 Pasqua Vorgia, OCC  
-
+ 
 ---
 
 ### Science / Art  Board
 
+Eugene Lew, University of Pennsylvania  
+Turner Williams, Ars Nova Workshop 
 Brigitte d’Andréa-Novel, Head STMS Lab, IRCAM  
-Christophe d'Alessandro, Sorbonne Université  
 Hugues Genevois, Sorbonne Université  
 Elaine Chew, Queen Mary University of London  
 Maxime Crochemore, King’s College of London  
@@ -44,6 +42,7 @@ Tae Hong Park, New York University
 Robert Rowe, New York University    
 Pierre Alexandre Tremblay, Huddersfield University    
 Atau Tanaka, Goldsmiths University of London  
+Suguru Goto, Geidai University of the Arts, Tokyo
 <br>
 
 ---
