@@ -16,12 +16,10 @@ Marc Chemillier, EHESS
 ### Organizing Committee
 
 Pierre Couprie, Sorbonne Université  
-Agnes Puisillieux, Sorbonne Université  
-Clément Canonne, Ircam  
 Jérôme Nika, Ircam  
 Sylvie Benoit, Ircam  
 Pasqua Vorgia, OCC  
- 
+
 ---
 
 ### Science / Art  Board
