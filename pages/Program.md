@@ -17,9 +17,11 @@ title: Program
 
 ### Concert (20.30-22.30) (SGT)
 
-Evan Parker, Ikue Mori, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
+Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
 
-Pierre Couprie & Gyorgy Kurtag & Mari Kimura  (live Electronics, Gesture interface, violin)
+Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
+
+Steve Lehman, J. Nika (saxs, DYCI2 system)
 
 Georg Hajdu 
 
@@ -70,14 +72,16 @@ George Petras, Panos Tsagkarakis, Anastasia Georgaki: Prosodic Drama tools and i
 
 ### Concerts: 20.30-22.30 (SGT)
 
-Jaap Blonk, Hervé Sellin, Georges Bloch : Cine-concert, (voice, piano, DYCI2 system)
 
 Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
 
 Lara Morciano, (composition, Piano, gesture interface, sound transducers)
 
-Michelle-Agnes Magalhaes, (composition, piano)
+George Lewis, Evan Parker, Mari Kimura (Trombone, Sax, Violin, Voyager System)
 
+Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois  (live Electronics, Gesture interface, violin)
+
+Rémy Fox, J. Nika (saxs, DYCI2 system)
 
 <br>
 
@@ -126,15 +130,15 @@ Iannis Zannos: Interactive dance and improvisation
 ### Concerts: 20.30-22.30 (SGT)
 
 
-Steve Lehman, J. Nika (saxs, DYCI2 system) / Rémy Fox, J. Nika (saxs, DYCI2 system)
+Jaap Blonk, Hervé Sellin, Georges Bloch : Cine-concert, (voice, piano, DYCI2 system)
 
-UOA/Orestis Karamanlis, Areti Andreopoulou, plus musiciens traditionnels, (Laptop / musicians performance)
+Julie and Marc Bokowiec : digital shamanism (bodycoder system)
 
-Julie and Marc Bokowiec (bodycoder) : digital shamanism
+Marc Chemillier & Camel Zekri : machines and Gnaoua tradition (strings, dJazz system)
 
-Marc Chemillier & Camel Zekri : machines and Gnaoua tradition
+Orestis Karamanlis, Areti Andreopoulou (UOA), traditional musicians, (Laptop / musicians performance)
 
-Students of UOA, Dimitri Vassilakis, Georgaki, Nika  : omax & co (Jazz ensemble, omax, dyci2)
+Students of UOA, Dimitri Vassilakis, Georgaki,  : omax & co (Jazz ensemble, omax, dyci2)
 
 
 <br>
