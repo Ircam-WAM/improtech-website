@@ -42,7 +42,7 @@ Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax,
 
 Eric Lewis :  AI & Impro
 
-Christophe d’alessandro : Cantor digitalis
+Christophe d’Alessandro : Cantor digitalis
 
 J. Nika, the DYC2 project
 

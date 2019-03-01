@@ -15,22 +15,25 @@ Marc Chemillier, EHESS
 
 ### Organizing Committee
 
-Pierre Couprie, Sorbonne Université  
-Jérôme Nika, Ircam  
+Areti Andreopoulou, University of Athens 
 Sylvie Benoit, Ircam  
+Pierre Couprie, Sorbonne Université
+George Dedousis, University of Athens 
+Jérôme Nika, Ircam 
 Pasqua Vorgia, OCC  
 
 ---
 
 ### Science / Art  Board
 
+Emilios Cambouropulos, Aristotle University of Thessaloniki
 Eugene Lew, University of Pennsylvania  
 Turner Williams, Ars Nova Workshop  
-Brigitte d’Andréa-Novel, Head STMS Lab, IRCAM  
+Brigitte d’Andréa-Novel, Head STMS Lab, IRCAM, CNRS, Sorbonne University
 Hugues Genevois, Sorbonne Université  
 Elaine Chew, Queen Mary University of London  
 Maxime Crochemore, King’s College of London  
-Shlomo Dubnov, University of California at San Diego (UCSD)  
+Shlomo Dubnov, University of California at San Diego 
 Andrew Hugill, Bath Spa University  
 György Kurtág, University of Bordeaux   
 George Lewis, Columbia University   
