@@ -23,7 +23,7 @@ Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural syst
 
 Steve Lehman, J. Nika (saxs, DYCI2 system)
 
-Georg Hajdu 
+Georg Hajdu
 
 Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax, traditional instruments, omax)
 
