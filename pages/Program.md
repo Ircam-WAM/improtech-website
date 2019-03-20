@@ -23,9 +23,10 @@ Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural syst
 
 Steve Lehman, J. Nika (saxs, DYCI2 system)
 
-Georg Hajdu 
+Georg Hajdu: Just Her - Jester - Gesture (for kalimba and electronics)
 
 Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax, traditional instruments, omax)
+
 
 <br>
 
@@ -38,19 +39,20 @@ Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax,
 
 <br>
 
-**Keynote :** George Tzanetakis 
+**Keynote :** George Tzanetakis: Perception, embodiment, and expressivity in human and computer improvisation.
 
-Eric Lewis :  AI & Impro
+Eric Lewis: AI & Impro
 
-Christophe d’Alessandro : Cantor digitalis
+Christophe d’Alessandro: Improvising with augmented organ and singing instruments: gesture, sound, music (Cantor digitalis).
 
 J. Nika, the DYC2 project
 
-Emilios Cambouropoulos
+Emilios Cambouropoulos: Creativity via Learning and Blending: The CHAMELEON melodic harmonization assistant.
 
-Maximos Kaliakatsos 
+Maximos Kaliakatsos: Do the math: Music cognition and creativity under the spectrum of information science.
 
-Christina Anagnostopoulou, Antonis Alexakis
+Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis: Improvisation experiments and computational music analysis of children’s improvisations during the MIROR European Project.
+
 
 <br>
 
@@ -60,13 +62,14 @@ Christina Anagnostopoulou, Antonis Alexakis
 
 ### Workshops / demos (17.00-19.30)-SGT
 
-Julie & Mark Bokowiec (University of Huddersfield, UK) BODYCODER 
+Mark Bokowiec, Julie Wilson - Bokowiec (University of Huddersfield, UK): Kinaesonics: crafting and being trans-dimensional (Bodycoder system).
 
 Claude Cadoz (ACROE) Haptic Feed-back Improvisation System 
 
 Emilie Zawadzki & Camille Dianoux Session Hacking & collective improvisation 
 
-George Petras, Panos Tsagkarakis, Anastasia Georgaki: Prosodic Drama tools and improvisation
+George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki: Prosodic Drama tools and improvisation.
+
 
 <br>
 
@@ -79,7 +82,7 @@ Lara Morciano, (composition, Piano, gesture interface, sound transducers)
 
 George Lewis, Evan Parker, Mari Kimura (Trombone, Sax, Violin, Voyager System)
 
-Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois  (live Electronics, Gesture interface, violin)
+Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin)
 
 Rémy Fox, J. Nika (saxs, DYCI2 system)
 
@@ -94,19 +97,18 @@ Rémy Fox, J. Nika (saxs, DYCI2 system)
 
 <br>
 
-**Keynote :** Xavier Serra
+**Keynote :** Xavier Serra: From digital to human intelligence in music understanding research.
 
-Mondher Ayari, 
+Mondher Ayari
 
 Marc Chemillier
 
-Georg Hajdu 
+Dimitri Vassilakis: "Jazz mapping". An analytical and computational approach to Jazz improvisation (omax & co).
 
-Dimitri Vassilakis,
+Sami Amiris, Antonis Ladopoulos: Metrical Polyrhythms & Polytemporality in live improvisation setting.
 
-Sami Amiris, Antonis Ladopoulos
+Pavlos Antoniadis: GesTCom as an interactive tool for improvisation.
 
-Pavlos Antoniadis
 
 <br>
 
@@ -116,29 +118,30 @@ Pavlos Antoniadis
 
 ### Workshops / demos (17.00-19.30)-SGT
 
-Daniel Brown (USA): Procedural music engine for video games
+Daniel Brown (USA): Procedural music engine for video games.
 
-Fred Bevilacqua (Ircam), Michelle A. Magalhaes, composer. COMO & Cicades  : Movement-based collective 
-improvisation using mobile devices.
+Fred Bevilacqua (Ircam), Michelle A. Magalhaes, composer. COMO & Cicades : Movement-based collective improvisation using mobile devices.
 
-Lara Morciano and Jose-Miguel Fernandez (Fr/Chil.):  Composition / improvisation in “musiques mixtes” with captors and transducers
+Lara Morciano and Jose-Miguel Fernandez (Fr/Chil.): Composition / improvisation in “musiques mixtes” with captors and transducers
 
-Iannis Zannos: Interactive dance and improvisation
+Ioannis Zannos: Improvisation with Motion Sensors and Live coding: Combining Dance and Instrumental Improvisation.
+
 
 <br>
 
 ### Concerts: 20.30-22.30 (SGT)
 
 
-Jaap Blonk, Hervé Sellin, Georges Bloch : Cine-concert, (voice, piano, DYCI2 system)
+Jaap Blonk, Hervé Sellin, Georges Bloch: Cine-concert, (voice, piano, DYCI2 system)
 
-Julie and Marc Bokowiec : digital shamanism (bodycoder system)
+Mark Bokowiec, Julie Wilson - Bokowiec: Digital shamanism (bodycoder system).
 
-Marc Chemillier & Camel Zekri : machines and Gnaoua tradition (strings, dJazz system)
+Marc Chemillier & Camel Zekri: machines and Gnaoua tradition (strings, dJazz system)
 
-Orestis Karamanlis, Areti Andreopoulou (UOA), traditional musicians, (Laptop / musicians performance)
+Orestis Karamanlis, Areti Andreopoulou (UOA): Traditional musicians (Laptop / musicians performance)
 
-Students of UOA, Dimitri Vassilakis, Georgaki,  : omax & co (Jazz ensemble, omax, dyci2)
+Students of UOA, Dimitri Vassilakis, Anastasia Georgaki: Omax & co (Jazz ensemble, omax, dyci2)
+
 
 
 <br>
@@ -156,15 +159,16 @@ Students of UOA, Dimitri Vassilakis, Georgaki,  : omax & co (Jazz ensemble, omax
 
 **Keynote :** Gary L. Hagberg (Bard College)
 
-Clement Canonne & Pierre Saint Germier : The MICA Project : Musical Improvisation and Collective Action
+Clement Canonne & Pierre Saint Germier: The MICA Project : Musical Improvisation and Collective Action
 
-George Kosteletos, Αnastasia Georgaki : Roboethics and improvisation 
+George Kosteletos, Αnastasia Georgaki: Machine ethics and music creativity.
 
-Harry Lehman
+Harry Lehmann: AI-Aesthetics. Artificial Intelligence in Music and Art.
 
-Jacobos Steinhauer
+Iakovos Steinhauer, Anastasia Georgaki: Phenomenological aspects of virtual instruments improvisation.
 
-Danae Stefanou 
+Danae Stefanou: De-machinations: improvising (with) awkwardness.
+
 
 
 <br>
