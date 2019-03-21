@@ -30,6 +30,9 @@ prize at the Margareth Guthman Musical Instrument Competition, Atlanta,
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ---
 <img src="../images/Alexakis.png" width="154" style="float:left" hspace="10">
@@ -39,6 +42,11 @@ an MSc in Knowledge Based Systems from Heriot-Watt University. He has
 an active presence in the IT industry for more than 25 years. In the past he has taken part in several EU projects (FP4 & FP5). Lately, he has taken part in MIROR project as an IT expert. His work entails the computational analyses of the musical data gathered within the framework of the above project. He is
 currently finishing his PhD at the Department of Music Studies,
 University of Athens.   
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -58,6 +66,11 @@ Christina Anagnostopoulou is a musicologist and associate professor in music inf
 <img src="../images/AretiAndreopoulou.jpg" width="320" style="float:left" hspace="10">
 ####Areti Andreopoulou
 Dr. Areti Andreopoulou is an Assistant Professor in the Laboratory of Music Acoustics and Technology (LabMAT) at the University of Athens, Greece. She has a bachelor’s degree in music studies from the University of Athens (2005) and a Master’s (2008) and a Ph.D degree (2014) in music technology from New York University. Her fields of interest include spatial audio, the design and evaluation of immersive environments, auditory displays, acoustics, and data sonification.
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -104,6 +117,11 @@ of research projects. He has published numerous scientific papers in
 scientific journals, books and conference proceedings. Website:
 [http://users.auth.gr/emilios/]().
 <br><br><br><br><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -226,9 +244,7 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 ####Jérôme Nika
 is a postdoctoral researcher in the Music Representations team at Ircam (UMR STMS 9912 CNRS). He graduated from the “Grandes Écoles” Télécom ParisTech and ENSTA ParisTech. In addition, he studied acoustics, signal processing and computer science applied to music (multidisciplinary Master’s degree ATIAM in sciences and technologies for music, UPMC Paris 6, Télécom ParisTech, Ircam). His PhD work “Guiding human-computer music improvisation“ (“Young Researcher Prize in Science and Music" in 2015; “Young Researcher Prize" awarded by the French Association of Computer Music in 2016) focused on the introduction of authoring, composition, and control in human-computer music co-improvisation. Through the development of the software ImproteK and within the DYCI2 project, his research focuses on the integration of scenarios in music generation processes, and on the dialectic between reactivity and planning in interactive human-computer music improvisation.  
 [http://repmus.ircam.fr/nika](http://repmus.ircam.fr/nika) / [http://repmus.ircam.fr/dyci2/](http://repmus.ircam.fr/dyci2/)
-<br><br><br>
-<br>
-<br>
+<br><br>
 
 ---
 
@@ -272,6 +288,11 @@ Quietus*; *Just Outside*).
 George Petras was born in Athens, Greece in 1966. He holds a PhD in musicology, music technology and composition (National & Kapodistrian University of Athens - NKUA). The title of his doctoral dissertation is "Voice and interactive media in ancient drama. Musicological and technological extensions to the environment Max/MSP".  Also, he has two postgraduate diplomas, one in Arts and Technologies of Sound where he specialized in the composition of electroacoustic music (Ionian University) and another in Music Culture and Communication: Anthropological and philosophical extensions of music (NKUA). He studied Composition at the Athenaeum Conservatory and piano at the Orpheus Conservatory of Athens. He graduated from the Political Science Department of the NKUA. He systematically dealt with the composition and his works have been performed in Athens, in Corfu and at the Music Megaron of Thessaloniki.
 
 He works at the Greek National School of Dance. Ηe has been involved in the teaching of music from a variety of posts (worked as a Music professor teaching Music theory, Piano and Music Technology in Conservatories, in public schools and Universities etc.). He was responsible for digitizing, documenting and cataloguing of the Music Archive of the National Theatre of Greece. He has worked as a cultural development consultant for the European Program "Artists in Action" and elsewhere. He has published articles in international conferences and scientific journals.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
