@@ -6,10 +6,70 @@ title: Participants
 
 ---
 
+<img src="../images/OrganistChristophed_Alessandro.jpg" width="320" style="float:left" hspace="10">
+####Christophe d'Alessandro
+Christophe d'Alessandro is a researcher and a musician. Titular organist
+at Sainte-Elisabeth, he is regularly invited as a performer and
+improviser. Directeur de Recherche CNRS, he heads the LAM
+(Lutherie-Acoustique-Musique) team at Institut Jean Le Rond D’Alembert,
+Sorbonne Université, Paris. His research interests include speech and
+singing analysis, synthesis and perception, signal processing for speech
+and music, computed music and musical acoustics.His recent projects
+include research, composition and performances for organ and live
+electronics (CD "The twelve degrees of silence", Hortus edition, “5
+diapasons” award, 2012), and singing instruments: Cantor Digitalis (1st
+prize at the Margareth Guthman Musical Instrument Competition, Atlanta,
+2015), Vokinesis and Voks.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+<img src="../images/Alexakis.png" width="154" style="float:left" hspace="10">
+####Antonis Alexakis
+Antonis Alexakis holds a BSc in Mathematics from University of Patras and 
+an MSc in Knowledge Based Systems from Heriot-Watt University. He has
+an active presence in the IT industry for more than 25 years. In the past he has taken part in several EU projects (FP4 & FP5). Lately, he has taken part in MIROR project as an IT expert. His work entails the computational analyses of the musical data gathered within the framework of the above project. He is
+currently finishing his PhD at the Department of Music Studies,
+University of Athens.   
+<br>
+<br>
+
+---
+
+<img src="../images/Anagnostopoulou.png" width="320" style="float:left" hspace="10">
+####Christina Anagnostopoulou 
+Christina Anagnostopoulou is a musicologist and associate professor in music informatics at the Department of Music Studies, University of Athens. Her PhD (Edinburgh) was on computational and cognitive modeling of music analysis. She has taught at the Universities of Edinburgh, Glasgow, and Queen’s Belfast, where she got tenure. Her research interests include computational music analysis, and music in the community. She is also the director of the Music Cognition, Computation and Community (MCCC) Lab in Athens. 
+
+---
+
+<img src="../images/AretiAndreopoulou.jpg" width="320" style="float:left" hspace="10">
+####Areti Andreopoulou
+Dr. Areti Andreopoulou is an Assistant Professor in the Laboratory of Music Acoustics and Technology (LabMAT) at the University of Athens, Greece. She has a bachelor’s degree in music studies from the University of Athens (2005) and a Master’s (2008) and a Ph.D degree (2014) in music technology from New York University. Her fields of interest include spatial audio, the design and evaluation of immersive environments, auditory displays, acoustics, and data sonification.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
 <img src="../images/Bio_GBloch.jpg" width="320" style="float:left" hspace="10">
 ####Georges Bloch
 composer and researcher, got an engineering degree before studying composition in U. C. San Diego (PH. D. in 1988). His compositions revolve around three centers of interest: music and space, interaction and collaboration with other artists. He is Associate professor at Strasbourg University and was instrumental in developing Tonmeister cursus in France, in Strasbourg and in Paris Conservatoire. Because of his interest for opera, he has been linked to music-theater productions as well as studies in film music. As researcher associated to Ircam in Paris, he actually works on the OMax/Somax/DYCI2 family of computer–assisted improvisation systems.
 <br><br><br><br>
+
+---
+
+<img src="../images/Brown.jpg" width="320" style="float:left" hspace="10">
+####Daniel Brown
+Daniel Brown is the founder of Intelligent Music Systems, a company that develops computer-composed music software for interactive systems. He is also a composer, cellist, and educator. Daniel received a Doctorate of Musical Arts in Composition from the University of California at Santa Cruz in 2012, where he studied under David Cope and Paul Nauert, and a Bachelor of Science in Discrete Mathematics from the Georgia Institute of Technology (USA).  Aside from his training in Western music in the USA, he has studied non-Western musics in India, Korea, and Turkey. His compositions have been performed in the US, Japan, Korea, India, and Central America.
+<br>
+<br>
 
 ---
 
@@ -28,6 +88,12 @@ was born in 1970, he studied instrumental composition, electroacoustic music, mu
 <br>
 [www.pierrecouprie.fr](http://www.pierrecouprie.fr)  / [logiciels.pierrecouprie.fr](http://logiciels.pierrecouprie.fr)
 <br><br><br><br>
+
+---
+
+<img src="../images/Georgaki.png" width="241" style="float:left" hspace="10">
+####Anastasia Georgaki
+Anastasia Georgaki is Associate Professor in Music Technology at the Music Department of the University of Athens and head of the Laboratory of Music Acoustics and Technology of the same Department. Since 2018 she is also head of the Master’s program “Music `technology and contemporary practices”. Background in Physics and Music, DEA and PhD in “Music and Musicology  of the XXth Century” (EHESS/IRCAM, Paris). Research interests: *analysis/synthesis of the singing voice, interactive music systems, electroacoustic music, computational archeomusicology and Byzantine musicology, music technology in education and acoustic ecology technology*.  Editor and reviewer of Proceedings of International  Conferences and Special issues in Music Technology. She has organised many international conferences in Greece and abroad. Publications in musicological journals, books and Music Technology Conference proceedings. She collaborates with international research institutes in Greece and abroad. Visitor Professor in Music Departments in Europe. Professional accordion player.
 
 ---
 
@@ -75,6 +141,42 @@ is a postdoctoral researcher in the Music Representations team at Ircam (UMR STM
 <br><br><br>
 <br>
 <br>
+
+---
+
+<img src="../images/Stefanou.jpg" width="250" style="float:left" hspace="10">
+####Danae Stefanou
+Danae Stefanou makes improvised sounds and texts. She is Associate
+Professor at the Aristotle University of Thessaloniki where she teaches a
+variety of courses on experimental music, critical studies and contemporary
+music historiography, and directs the AUTH Experimental and Improvised
+Music Ensembles. She has previously worked as Visiting Lecturer / Research
+Associate at Royal Holloway, University of London, and as Project Manager
+for the Chopin’s First Editions Online and Online Chopin Variorum Edition
+projects (2003-2007). In her own research, she examines experimental &
+improvised music histories and aesthetics from a variety of ethnographic,
+archival and analytical perspectives, and has published widely in
+peer-reviewed journals (*JRMA*, *JIMS*, *Musicae Scientiae*) and edited
+volumes, including *Contemporary Popular Music Studies *(Springer, 2019),
+*Made in Greece: Studies in Greek Popular Music *(Routledge, 2018) and *Cambridge
+Companion to Film Music *(CUP, 2016). As an improviser, she regularly
+performs solo, in various ad-hoc collaborations, and as one half of the
+electroacoustic duo acte vide (with Yannis Kotsonis).  Her releases include
+*[herewith]* for solo inside piano (Holotype, 2014), *Crease*, a duo with
+guitarist Michalis Moschoutis (Coherent States, 2017), and a contribution
+(as acte vide) to the *Anthology of Greek Experimental Electronic Music*
+1966-2016  (*sub rosa*, 2019). Her visceral, intensely tactile approach to
+the piano has been described as “real-time composition with no safety
+net” ([mic.gr](http://mic.gr)) and compared to the sound of electronic and noise
+musicians such as Russell Haswell, Kevin Drumm & Phill Niblock  (*The
+Quietus*; *Just Outside*).
+
+
+---
+
+<img src="../images/Triantafyllaki.png" width="312" style="float:left" hspace="10">
+####Angeliki Triantafyllaki
+Angeliki Triantafyllaki is a research associate and teaching fellow at the Department of Music Studies, University of Athens, and the MA in Education Programme Leader at Mediterranean College Athens. She holds a PhD and MPhil in Education and Educational Psychology from the University of Cambridge, Faculty of Education. She has taken part in international and European research projects and has been awarded by IKY and the British Academy for postdoctoral research on professional teacher development, music education, creativity in learning and teaching and new technologies, and learning and teaching in tertiary education. Her work has been published in a recent monograph (Routledge, UK), in collective volumes and in international scientific journals. 
 
 ---
 
