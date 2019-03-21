@@ -298,6 +298,7 @@ All these expériences inspired him to create his own musical and digital univer
 <img src="../images/Ladopoulos.png" width="320" style="float:left" hspace="10">
 ####Antonis Ladopoulos
 Antonis Ladopoulos is a Jazz Saxophonist, Composer and Educator.  He holds Degrees in Jazz Studies & Performance as well as in Economics.  
+
 For the past 25 years, he has been performing, recording and teaching jazz improvisation.
 
 He is currently on faculty at the Athens University Graduate School, teaching Jazz Improvisation among other courses.  He also teaches a variety of Jazz courses at The American College of Greece. 
