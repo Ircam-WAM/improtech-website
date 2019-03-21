@@ -73,6 +73,24 @@ Daniel Brown is the founder of Intelligent Music Systems, a company that develop
 
 ---
 
+<img src="../images/Cambouropoulos.jpg" width="320" style="float:left" hspace="10">
+####Emilios Cambouropoulos
+Emilios Cambouropoulos is currently Associate Professor of Musical
+Informatics at the School of Music Studies, Aristotle University of
+Thessaloniki. He studied Physics, Musicand Music Technology, and
+obtained his PhD in 1998 on Artificial Intelligence and Music at the
+University of Edinburgh. As a research associate, he worked at King’s
+College London (1998-1999) and at the Austrian Research Institute for
+Artificial Intelligence in Vienna (1999-2001). He is founder of the
+Cognitive and Computational Musicology Group [http://ccm.web.auth.gr]() at
+the School of Music Studies in the context of which he directs a number
+of research projects. He has published numerous scientific papers in
+scientific journals, books and conference proceedings. Website:
+[http://users.auth.gr/emilios/]().
+<br><br><br><br><br><br>
+
+---
+
 <img src="../images/Bio_MarcChemillier.png" width="320" style="float:left" hspace="10">
 ####Marc Chemillier 
 was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pierre Cornevin at the Schola Cantorum in Paris. Later he received a PhD in Computer Science and also has degrees in Mathematics, Musicology, Philosophy and Anthropology. He has been conducting fieldwork among the Nzakara of Central African Republic to study their harp music, and in Madagascar to work on the ethnomathematics of divination, and the trance music of the zither. Now Director of Studies at the EHESS in Paris (School for Advanced Studies in Social Sciences), his main interests focus on the design of a family of improvisation softwares in collaboration with IRCAM (OMax/ImproteK/Djazz), and their use in real live performances to study the impact of such devices in the social context of jazz concerts or traditional music rituals.
@@ -97,11 +115,57 @@ Anastasia Georgaki is Associate Professor in Music Technology at the Music Depar
 
 ---
 
+<img src="../images/Hajdu-Photo.jpeg" width="241" style="float:left" hspace="10">
+####Georg Hajdu
+Georg Hajdu was born in 1960 to Hungarian parents and grew up in Cologne where
+he obtained diplomas in molecular biology and musical composition from the
+University of Cologne and the Cologne university of music, as well as a
+doctorate from the University of California, Berkeley. His teachers
+include Clarence Barlow and David Wessel. He also audited classes with
+György Ligeti in Hamburg.
+
+In 1996, following residencies at IRCAM and the ZKM, Karlsruhe, he
+co-founded the ensemble WireWorks, a group specializing in the performance
+of electro-acoustic music. In 1999, he produced his full-length opera Der
+Sprung – Beschreibung einer Oper for which renowned author and filmmaker
+Thomas Brasch wrote the libretto. In May 2002, his Internet performance
+environment Quintet.net was employed in a Munich Biennale opera production
+and in the same year Georg Hajdu became professor of multimedia
+composition at the Hamburg University of Music and Drama (HfMT). He
+established Germany’s first master’s program in multimedia composition and
+the Zentrum für Mikrotonale Musik and Multimedia (ZM4). In 2010, he was
+artist in residence with the Goethe Institute in Boston as well as
+visiting professor at Northeastern University. He was also involved in a
+number of large international projects such as CO-ME-DI-A—a European
+Culture 2007 project focussing on networked music performance. In 2016,
+Georg Hajdu was the chair of the 13th Sound and Music Computing
+conference. In 2017, he successfully applied for the highly competitive
+five-year "Innovative Hochschule" grant which will fund projects around
+the notion of Stage 2.0.
+
+Hajdu has published compositions which are characterized by a pluralistic
+attitude and have earned him several international prizes, the IBM-prize
+of the Ensemble Modern among them. He is also the (co-)author of numerous
+articles on topics on the borderline of music, technology and science as
+well as software applications such MaxScore (with Nick Didkovsky),
+Quintet.net, DJster and a real-time version of Stockhausen’s Elektronische
+Studie II.
+
+---
+
 <img src="../images/Bio_MariKimura.jpeg" width="320" style="float:left" hspace="10">
 ####Mari Kimura
 is a violinist/composer and a leading figure in the field of interactive computer music. As a violinist, Mari is renowned for her mastery of subharmonics—the production of pitches that sound up to an octave below the violin’s lowest string—as well as for her dynamic performances as an improviser and her premieres of many notable compositions by today’s composers, including Luciano Berio and Salvadore Sciarrino, as well as a soloist with such major orchestras including the Tokyo Symphony and the Hamburg Symphony. She has received numerous awards and grants including a Guggenheim Fellowship, a Fromm Commission Award, a residency at IRCAM, and at the Rockefeller Brothers Fund. She is active in the development of a prototype motion sensor “Mugic” for interactive computer music performance, and she is the founding chair of Future Music Lab at the Atlantic Music Festival.  Her latest solo album “Voyage Apollonian” (Innova Recordings) includes her recent works for violin and motion sensor “Mugic”.  A graduate faculty at Juilliard since 1998, this year, Mari was appointed as a Full Professor of Music at the “Integrated Composition, Improvisation, and Technology” program (ICIT) at the University of California, Irvine.
 <br>
 [www.marikimura.com](http://www.marikimura.com)  / [www.marikimura.com/videos.html](http://www.marikimura.com/videos.html)
+
+---
+
+<img src="../images/Kosteletos.jpg" width="180" style="float:left" hspace="10">
+####George Kosteletos
+George Kosteletos holds a PhD in Philosophy of Mind and Artificial Intelligence (NKUA), a Master’s Degree in Music Technology (University of York, UK) and a first degree in Physics (NKUA). He currently works as a scientific collaborator of the Medical School (NKUA - 1st Psychiatric Clinic of Aeginition Hospital) and a post-doctoral researcher (NKUA - Sector of Philosophy, Department of Philosophy, Pedagogy and Psychology), studying the cognitive foundations of moral thought and the effect of music on them. He has taught at postgraduate level (NKUA) issues related to Cognitive Science and Philosophy. Moreover, he has participated in international research programs and his research interests are mostly related to the cognitive aspects of morality and music as well as to philosophical issues arising from modern research and practice in the field of Music Technology.
+<br>
+<br>
 
 ---
 
@@ -174,9 +238,51 @@ Quietus*; *Just Outside*).
 
 ---
 
+<img src="../images/Petras.jpg" width="250" style="float:left" hspace="10">
+####George Petras
+George Petras was born in Athens, Greece in 1966. He holds a PhD in musicology, music technology and composition (National & Kapodistrian University of Athens - NKUA). The title of his doctoral dissertation is "Voice and interactive media in ancient drama. Musicological and technological extensions to the environment Max/MSP".  Also, he has two postgraduate diplomas, one in Arts and Technologies of Sound where he specialized in the composition of electroacoustic music (Ionian University) and another in Music Culture and Communication: Anthropological and philosophical extensions of music (NKUA). He studied Composition at the Athenaeum Conservatory and piano at the Orpheus Conservatory of Athens. He graduated from the Political Science Department of the NKUA. He systematically dealt with the composition and his works have been performed in Athens, in Corfu and at the Music Megaron of Thessaloniki.
+
+He works at the Greek National School of Dance. Ηe has been involved in the teaching of music from a variety of posts (worked as a Music professor teaching Music theory, Piano and Music Technology in Conservatories, in public schools and Universities etc.). He was responsible for digitizing, documenting and cataloguing of the Music Archive of the National Theatre of Greece. He has worked as a cultural development consultant for the European Program "Artists in Action" and elsewhere. He has published articles in international conferences and scientific journals.
+
+---
+
 <img src="../images/Triantafyllaki.png" width="312" style="float:left" hspace="10">
 ####Angeliki Triantafyllaki
 Angeliki Triantafyllaki is a research associate and teaching fellow at the Department of Music Studies, University of Athens, and the MA in Education Programme Leader at Mediterranean College Athens. She holds a PhD and MPhil in Education and Educational Psychology from the University of Cambridge, Faculty of Education. She has taken part in international and European research projects and has been awarded by IKY and the British Academy for postdoctoral research on professional teacher development, music education, creativity in learning and teaching and new technologies, and learning and teaching in tertiary education. Her work has been published in a recent monograph (Routledge, UK), in collective volumes and in international scientific journals. 
+
+<br>
+
+---
+
+<img src="../images/Vassilakis.jpg" width="320" style="float:left" hspace="10">
+####Dimitri Vassilakis
+“An internationally acclaimed, award winning Greek saxophonist/vocalist and composer”
+[http://www.dimitriosvassilakis.com](http://www.dimitriosvassilakis.com)
+
+Has recorded 5 albums for historic jazz label Candid Records based in London.
+[http://store.candidrecords.com/index.php?route=product/category&path=61_192](http://store.candidrecords.com/index.php?route=product/category&path=61_192)
+
+Awarded album of the month from BBC Music magazine and 2nd jazz album of the year from the BBC for "Labyrinth". This album has become the subject of study at several universities and has been presented at Yale University and at musicological conferences.
+
+Has played and recorded with jazz greats like: David Liebman, Jeff «Tain» Watts, Abdullah Ibrahim, Ralph Peterson, Marc Johnson, Essiet Essiet, Dave Kikoski, Dan Wall, Ron Affif, Andy Sheppard, Theodosii Spassov, Milcho Leviev, Adam Nussbaum, Benito Gonzalez, Jamie Cullum.
+  
+Has appeared at New York clubs Birdland, Lincoln Center Dizzy' s, Zinc, Smalls, Kitano, Jazz Showcase Chicago and major festivals worldwide such as London Jazz Festival, Ronnie Scott's, Smithsonian Festival DC at the American History Museum. 
+
+Has collaborated for many of his educational and concert projects with the Onassis Foundation at Dizzy' s and Jazz at The Lincoln Center, Niarchos Foundation, Yale, Harvard, The British Council, The American Embassy and the Hellenic Foundation For Culture, Hellenic Ministry Of Culture, Hellenic Ministry Of Foreign Affairs. 
+
+Branding with Bentley:
+[http://www.dimitriosvassilakis.com/en/press-and-media/54-media-photos/88-bentley-sponsorship.html](http://www.dimitriosvassilakis.com/en/press-and-media/54-media-photos/88-bentley-sponsorship.html) / [http://www.dimitriosvassilakis.com/en/discography.html](http://www.dimitriosvassilakis.com/en/discography.html)
+
+Presenting his concept “Jazz Democracy” at the United Nations New York April 30th 2018 invited by the Permanent mission of Greece to the UN for International Jazz Day. [https://www.youtube.com/playlist?list=PLfth9JxqdMQFOb32Pz6920eWWfMmRohsJ](https://www.youtube.com/playlist?list=PLfth9JxqdMQFOb32Pz6920eWWfMmRohsJ)
+
+Since 2015 organizer and artistic director of Mirabello Jazz Festival (Crete) and Rhodes Jazz Festival, plus special researcher at Georgia Institute Of Technology Atlanta USA for jazz and artificial intelligence/robotics.
+Has taught at the Athens, Macedonia, Aristotle Universities and has lectured and presented workshops, residencies and clinics at Yale, Columbia, Queens, Skidmore DePaul, Georgia Tech, Royal Academy, Paris Conservatoire.
+Researcher and lecturer at the Athens Kapodistrian University, teaching at the Master Course in “Jazz and new Technologies” from fall 2017.
+
+Presenting "jazz mapping AI & Robotics" for Singularity Summit Greece November 2018, “On the syntax and semantics of language”.
+[https://www.youtube.com/watch?v=MyEXyn8T3Rs](https://www.youtube.com/watch?v=MyEXyn8T3Rs)
+
+
 
 ---
 
