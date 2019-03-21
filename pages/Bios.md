@@ -55,9 +55,6 @@ prize at the Margareth Guthman Musical Instrument Competition, Atlanta,
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ---
 <img src="../images/Alexakis.png" width="154" style="float:left" hspace="10">
@@ -68,9 +65,6 @@ an active presence in the IT industry for more than 25 years. In the past he has
 currently finishing his PhD at the Department of Music Studies,
 University of Athens.   
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -94,9 +88,6 @@ Christina Anagnostopoulou is a musicologist and associate professor in music inf
 ####Areti Andreopoulou
 Dr. Areti Andreopoulou is an Assistant Professor in the Laboratory of Music Acoustics and Technology (LabMAT) at the University of Athens, Greece. She has a bachelor’s degree in music studies from the University of Athens (2005) and a Master’s (2008) and a Ph.D degree (2014) in music technology from New York University. Her fields of interest include spatial audio, the design and evaluation of immersive environments, auditory displays, acoustics, and data sonification.
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -303,6 +294,7 @@ All these expériences inspired him to create his own musical and digital univer
 
 <br>
 ---
+
 <img src="../images/Ladopoulos.png" width="320" style="float:left" hspace="10">
 ####Antonis Ladopoulos
 Antonis Ladopoulos is a Jazz Saxophonist, Composer and Educator.  He holds Degrees in Jazz Studies & Performance as well as in Economics.  
@@ -314,6 +306,11 @@ Antonis’ main project both as a performer and composer has long been “Phos D
 
 [http://www.phosduo.com]() / [https://soundcloud.com/antonis-ladopoulos/albums]()
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -497,7 +494,11 @@ interaction with the connecting theme of making computers better
 understand music to create more effective interactions with musicians
 and listeners ([www.cs.uvic.ca/~gtzan]()).
 
-<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
