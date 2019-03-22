@@ -7,7 +7,7 @@ title: Participants
 ---
 <img src="../images/Amirisa.png" width="320" style="float:left" hspace="10">
 ####Sami Amiris
-Sami Amiris is a member of Phos Duo, as well as the Musical Director and pianist of the Big Band of Athens and a founding member of the critically acclaimed power jazz trio "NUKeLEUS". 
+is a member of Phos Duo, as well as the Musical Director and pianist of the Big Band of Athens and a founding member of the critically acclaimed power jazz trio "NUKeLEUS". 
 
 He teaches at the American College of Greece. He is also the author of a series of books for M.M.S. Germany, called "Keyboard Quest", now at production stage. 
 He has studied music, mathematics, music technology and computer programming. His interests include mathematical music theory, composition, jazz arranging and orchestrations in general, piano performance of jazz and contemporary music, and most of all, contemporary rhythmic theory and practice, especially in conjunction with semigroup theory and combinatorics on words.
@@ -17,7 +17,7 @@ He has studied music, mathematics, music technology and computer programming. Hi
 ---
 <img src="../images/Antoniadis.jpg" width="320" style="float:left" hspace="10">
 ####Pavlos Antoniadis
-Pavlos Antoniadis (PhD University of Strasbourg-IRCAM, MA University of California, San Diego) is a musicologist, pianist and technologist, based in Berlin and Strasbourg. His practice-oriented research has focused on both historic and systematic aspects of 20th and 21st century music, notably the performance practice of complex contemporary and experimental music, as well as on embodied cognition and on the development of tools for technology-enhanced learning & performance. He is a member of the *Interaction- Son-Musique-Mouvement* team at IRCAM, and previously associate of the Laboratory of Excellence GREAM, Université de Strasbourg, where he also taught seminars on computer music and contemporary performance practice.
+(PhD University of Strasbourg-IRCAM, MA University of California, San Diego) is a musicologist, pianist and technologist, based in Berlin and Strasbourg. His practice-oriented research has focused on both historic and systematic aspects of 20th and 21st century music, notably the performance practice of complex contemporary and experimental music, as well as on embodied cognition and on the development of tools for technology-enhanced learning & performance. He is a member of the *Interaction- Son-Musique-Mouvement* team at IRCAM, and previously associate of the Laboratory of Excellence GREAM, Université de Strasbourg, where he also taught seminars on computer music and contemporary performance practice.
 
 As a researcher, Pavlos has fifteen (15) publications in English, German and French on contemporary piano performance, embodied cognition and interactive systems for technology-enhanced learning based on physical movement. He has given fifty (50) talks, often with a performance and/or technological demo element, either as invited speaker / performer in several institutions in Europe and Asia (HfM Dresden, INMM Darmstadt, IRCAM Paris, Orcim Gent, Goldsmiths London, Trinity Dublin, Aristoteleio Thessaloniki, Cité de la Musique et de la Danse Strasbourg, Hong Kong University, Yamanashi Gakuin University Kofu, Wocmat Taiwan, LEAD Dijon, SARC Belfast, UdK Berlin) or in multiple international and national conferences. He was a Musical Research Residency fellow at IRCAM in 2014, where under the supervision of Frédéric Bevilacqua and Dominique Fober (Grame, Lyon) he developed *GesTCom* (*Gesture Cutting through Textual Complexity*), a sensor-based environment for the gestural control and analysis of complex piano notation, for example of works by Xenakis or Ferneyhough.
 
@@ -32,7 +32,7 @@ Pavlos holds degrees in piano performance (Piano Diploma, Nakas Athens; Koninkli
 
 <img src="../images/OrganistChristophed_Alessandro.jpg" width="320" style="float:left" hspace="10">
 ####Christophe d'Alessandro
-Christophe d'Alessandro is a researcher and a musician. Titular organist
+is a researcher and a musician. Titular organist
 at Sainte-Elisabeth, he is regularly invited as a performer and
 improviser. Directeur de Recherche CNRS, he heads the LAM
 (Lutherie-Acoustique-Musique) team at Institut Jean Le Rond D’Alembert,
@@ -59,7 +59,7 @@ prize at the Margareth Guthman Musical Instrument Competition, Atlanta,
 ---
 <img src="../images/Alexakis.png" width="154" style="float:left" hspace="10">
 ####Antonis Alexakis
-Antonis Alexakis holds a BSc in Mathematics from University of Patras and 
+holds a BSc in Mathematics from University of Patras and 
 an MSc in Knowledge Based Systems from Heriot-Watt University. He has
 an active presence in the IT industry for more than 25 years. In the past he has taken part in several EU projects (FP4 & FP5). Lately, he has taken part in MIROR project as an IT expert. His work entails the computational analyses of the musical data gathered within the framework of the above project. He is
 currently finishing his PhD at the Department of Music Studies,
@@ -74,7 +74,7 @@ University of Athens.
 
 <img src="../images/Anagnostopoulou.png" width="320" style="float:left" hspace="10">
 ####Christina Anagnostopoulou 
-Christina Anagnostopoulou is a musicologist and associate professor in music informatics at the Department of Music Studies, University of Athens. Her PhD (Edinburgh) was on computational and cognitive modeling of music analysis. She has taught at the Universities of Edinburgh, Glasgow, and Queen’s Belfast, where she got tenure. Her research interests include computational music analysis, and music in the community. She is also the director of the Music Cognition, Computation and Community (MCCC) Lab in Athens. 
+is a musicologist and associate professor in music informatics at the Department of Music Studies, University of Athens. Her PhD (Edinburgh) was on computational and cognitive modeling of music analysis. She has taught at the Universities of Edinburgh, Glasgow, and Queen’s Belfast, where she got tenure. Her research interests include computational music analysis, and music in the community. She is also the director of the Music Cognition, Computation and Community (MCCC) Lab in Athens. 
 
 <br>
 <br>
@@ -86,7 +86,7 @@ Christina Anagnostopoulou is a musicologist and associate professor in music inf
 
 <img src="../images/AretiAndreopoulou.jpg" width="320" style="float:left" hspace="10">
 ####Areti Andreopoulou
-Dr. Areti Andreopoulou is an Assistant Professor in the Laboratory of Music Acoustics and Technology (LabMAT) at the University of Athens, Greece. She has a bachelor’s degree in music studies from the University of Athens (2005) and a Master’s (2008) and a Ph.D degree (2014) in music technology from New York University. Her fields of interest include spatial audio, the design and evaluation of immersive environments, auditory displays, acoustics, and data sonification.
+is an Assistant Professor in the Laboratory of Music Acoustics and Technology (LabMAT) at the University of Athens, Greece. She has a bachelor’s degree in music studies from the University of Athens (2005) and a Master’s (2008) and a Ph.D degree (2014) in music technology from New York University. Her fields of interest include spatial audio, the design and evaluation of immersive environments, auditory displays, acoustics, and data sonification.
 
 <br>
 <br>
@@ -120,7 +120,7 @@ Mark is a composer and electronics / interactive systems designer. He is the man
 
 <img src="../images/Brown.jpg" width="320" style="float:left" hspace="10">
 ####Daniel Brown
-Daniel Brown is the founder of Intelligent Music Systems, a company that develops computer-composed music software for interactive systems. He is also a composer, cellist, and educator. Daniel received a Doctorate of Musical Arts in Composition from the University of California at Santa Cruz in 2012, where he studied under David Cope and Paul Nauert, and a Bachelor of Science in Discrete Mathematics from the Georgia Institute of Technology (USA).  Aside from his training in Western music in the USA, he has studied non-Western musics in India, Korea, and Turkey. His compositions have been performed in the US, Japan, Korea, India, and Central America.
+is the founder of Intelligent Music Systems, a company that develops computer-composed music software for interactive systems. He is also a composer, cellist, and educator. Daniel received a Doctorate of Musical Arts in Composition from the University of California at Santa Cruz in 2012, where he studied under David Cope and Paul Nauert, and a Bachelor of Science in Discrete Mathematics from the Georgia Institute of Technology (USA).  Aside from his training in Western music in the USA, he has studied non-Western musics in India, Korea, and Turkey. His compositions have been performed in the US, Japan, Korea, India, and Central America.
 
 <br>
 <br>
@@ -134,7 +134,7 @@ Daniel Brown is the founder of Intelligent Music Systems, a company that develop
 
 <img src="../images/Cambouropoulos.jpg" width="320" style="float:left" hspace="10">
 ####Emilios Cambouropoulos
-Emilios Cambouropoulos is currently Associate Professor of Musical
+is currently Associate Professor of Musical
 Informatics at the School of Music Studies, Aristotle University of
 Thessaloniki. He studied Physics, Musicand Music Technology, and
 obtained his PhD in 1998 on Artificial Intelligence and Music at the
@@ -168,7 +168,7 @@ was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pie
 
 <img src="../images/Bio_PierreCouprie.jpg" width="320" style="float:left" hspace="10">
 ####Pierre Couprie 
-was born in 1970, he studied instrumental composition, electroacoustic music, musical analysis, and free improvisation at Bordeaux Conservatory. He is an associate professor in digital pedagogy/computer music and a researcher at Sorbonne University (Research Institute in Musicology Lab). His research fields are the musical analysis and the representation of electroacoustic music. He also develops tools for research (iAnalyse, EAnalysis) or musical performance. In 2015, he won the Qwartz Max Mathews Price of technological innovation for his musical analysis software. As an improviser, he is a member of The Phonogénistes and The National Electroacoustic Orchestra (ONE).
+was born in 1970, he studied instrumental composition, electroacoustic music, musical analysis, and free improvisation at Bordeaux Conservatory. He is an associate professor in digital pedagogy/computer music and a researcher at Sorbonne University (Research Institute in Musicology Lab). His research fields cover the musical analysis/transcription/representation of electroacoustic music and the digital musicology. He also develops tools for research (iAnalyse, EAnalysis, MotusLab Tools) or musical performance. In 2015, he won the Qwartz Max Mathews Price of technological innovation for his musical analysis software. As an improviser, he is a member of The Phonogénistes and The National Electroacoustic Orchestra (ONE).
 <br>
 [www.pierrecouprie.fr](http://www.pierrecouprie.fr)  / [logiciels.pierrecouprie.fr](http://logiciels.pierrecouprie.fr)
 
@@ -177,7 +177,7 @@ was born in 1970, he studied instrumental composition, electroacoustic music, mu
 ---
 <img src="../images/Dedousis.jpg" width="320" style="float:left" hspace="10">
 ####Giorgos Dedousis
-Giorgos Dedousis has studied piano, contemporary singing, theory of music, harmony, counterpoint, fugue and orchestration at the National Conservatory of Athens. He holds a Master’s of Arts Degree from the City University London, specializing in the field of Composing for Moving Images, and an Integrated Master’s Degree from the Department of Music at the National and Kapodistrian University. He has also completed a Bachelor’s Degree in Informatics and Telecommunications at the National and Kapodistrian University. He has composed music for theatrical plays, teaches at the Municipal Conservatory of Aspropyrgos and performs at various venues in Greece.
+has studied piano, contemporary singing, theory of music, harmony, counterpoint, fugue and orchestration at the National Conservatory of Athens. He holds a Master’s of Arts Degree from the City University London, specializing in the field of Composing for Moving Images, and an Integrated Master’s Degree from the Department of Music at the National and Kapodistrian University. He has also completed a Bachelor’s Degree in Informatics and Telecommunications at the National and Kapodistrian University. He has composed music for theatrical plays, teaches at the Municipal Conservatory of Aspropyrgos and performs at various venues in Greece.
 
 <br><br>
 
@@ -185,17 +185,23 @@ Giorgos Dedousis has studied piano, contemporary singing, theory of music, harmo
 
 <img src="../images/Georgaki.png" width="241" style="float:left" hspace="10">
 ####Anastasia Georgaki
-Anastasia Georgaki is Associate Professor in Music Technology at the Music Department of the University of Athens and head of the Laboratory of Music Acoustics and Technology of the same Department. Since 2018 she is also head of the Master’s program “Music `technology and contemporary practices”. Background in Physics and Music, DEA and PhD in “Music and Musicology  of the XXth Century” (EHESS/IRCAM, Paris). Research interests: *analysis/synthesis of the singing voice, interactive music systems, electroacoustic music, computational archeomusicology and Byzantine musicology, music technology in education and acoustic ecology technology*.  Editor and reviewer of Proceedings of International  Conferences and Special issues in Music Technology. She has organised many international conferences in Greece and abroad. Publications in musicological journals, books and Music Technology Conference proceedings. She collaborates with international research institutes in Greece and abroad. Visitor Professor in Music Departments in Europe. Professional accordion player.
+is Associate Professor in Music Technology at the Music Department of the University of Athens and head of the Laboratory of Music Acoustics and Technology of the same Department. Since 2018 she is also head of the Master’s program “Music `technology and contemporary practices”. Background in Physics and Music, DEA and PhD in “Music and Musicology  of the XXth Century” (EHESS/IRCAM, Paris). Research interests: *analysis/synthesis of the singing voice, interactive music systems, electroacoustic music, computational archeomusicology and Byzantine musicology, music technology in education and acoustic ecology technology*.  Editor and reviewer of Proceedings of International  Conferences and Special issues in Music Technology. She has organised many international conferences in Greece and abroad. Publications in musicological journals, books and Music Technology Conference proceedings. She collaborates with international research institutes in Greece and abroad. Visitor Professor in Music Departments in Europe. Professional accordion player.
 
 <br>
 <br>
 <br>
 
 ---
+####Ian Gold and Eric Lewis
+Improvising machine systems have made remarkable advances in the appropriateness of their contributions to collective improvisations.  It has, however, proven to be intractably difficult to create an improvising system that seems aware, to the same degree that experienced human improvisers are, of when a collective improvisation is coming to an end.  We explore the role that theory of mind plays in collective improvisation, and suggest that machine failures to manifest theory of mind may be behind this failure.  We suggest that a false model of collective improvisation, and a false model of theory of mind, has occluded the importance of theory of mind to collective improvisation. We also survey a number of experiments that we hope to undertake to help establish the connections we hypothesize, and suggest what this may mean for the future of improvising machine system design, and for the role of improvisation in assorted therapeutic contexts.
+
+<br>
+
+---
 
 <img src="../images/Hajdu-Photo.jpeg" width="241" style="float:left" hspace="10">
 ####Georg Hajdu
-Georg Hajdu was born in 1960 to Hungarian parents and grew up in Cologne where
+was born in 1960 to Hungarian parents and grew up in Cologne where
 he obtained diplomas in molecular biology and musical composition from the
 University of Cologne and the Cologne university of music, as well as a
 doctorate from the University of California, Berkeley. His teachers
@@ -234,7 +240,7 @@ Studie II.
 ---
 <img src="../images/Kaliakatsos.jpeg" width="220" style="float:left" hspace="10">
 ####Maximos Kaliakatsos-Papakostas
-Maximos Kaliakatsos-Papakostas is currently an Adjunct Lecturer and the Department of Audio and Visual Arts, Ionian University, a postdoctoral researcher at the Music Department of the Aristotle University of Thessaloniki and a research associate at the Athena Research and Innovation Centre. He holds a PhD in Computational Intelligence methods for music related tasks, an MSc in Computational Intelligence and a Bachelor’s degree in Mathematics, from the Department of Mathematics, University of Patras. Among his research interests are music data analysis (mainly symbolic but also audio), automated music generation, machine learning and cognitive models for music and computational creativity.
+is currently an Adjunct Lecturer and the Department of Audio and Visual Arts, Ionian University, a postdoctoral researcher at the Music Department of the Aristotle University of Thessaloniki and a research associate at the Athena Research and Innovation Centre. He holds a PhD in Computational Intelligence methods for music related tasks, an MSc in Computational Intelligence and a Bachelor’s degree in Mathematics, from the Department of Mathematics, University of Patras. Among his research interests are music data analysis (mainly symbolic but also audio), automated music generation, machine learning and cognitive models for music and computational creativity.
 
 <br>
 <br>
@@ -271,7 +277,7 @@ is a violinist/composer and a leading figure in the field of interactive compute
 
 <img src="../images/Kosteletos.jpg" width="180" style="float:left" hspace="10">
 ####George Kosteletos
-George Kosteletos holds a PhD in Philosophy of Mind and Artificial Intelligence (NKUA), a Master’s Degree in Music Technology (University of York, UK) and a first degree in Physics (NKUA). He currently works as a scientific collaborator of the Medical School (NKUA - 1st Psychiatric Clinic of Aeginition Hospital) and a post-doctoral researcher (NKUA - Sector of Philosophy, Department of Philosophy, Pedagogy and Psychology), studying the cognitive foundations of moral thought and the effect of music on them. He has taught at postgraduate level (NKUA) issues related to Cognitive Science and Philosophy. Moreover, he has participated in international research programs and his research interests are mostly related to the cognitive aspects of morality and music as well as to philosophical issues arising from modern research and practice in the field of Music Technology.
+holds a PhD in Philosophy of Mind and Artificial Intelligence (NKUA), a Master’s Degree in Music Technology (University of York, UK) and a first degree in Physics (NKUA). He currently works as a scientific collaborator of the Medical School (NKUA - 1st Psychiatric Clinic of Aeginition Hospital) and a post-doctoral researcher (NKUA - Sector of Philosophy, Department of Philosophy, Pedagogy and Psychology), studying the cognitive foundations of moral thought and the effect of music on them. He has taught at postgraduate level (NKUA) issues related to Cognitive Science and Philosophy. Moreover, he has participated in international research programs and his research interests are mostly related to the cognitive aspects of morality and music as well as to philosophical issues arising from modern research and practice in the field of Music Technology.
 
 <br>
 <br>
@@ -285,7 +291,7 @@ George Kosteletos holds a PhD in Philosophy of Mind and Artificial Intelligence 
 
 <img src="../images/Bio_GyorgyKurtag.jpg" width="320" style="float:left" hspace="10">
 ####György Kurtág Jr
-György Kurtág Jr is a composer, performer and researcher specialized in the design of innovative methods for teaching digital instruments. Fascinated by the study of musical behavior(s), his work relies principally on the Collective Intelligence Theory. His research works notably include the capture and analysis of musical gestures. <br>
+is a composer, performer and researcher specialized in the design of innovative methods for teaching digital instruments. Fascinated by the study of musical behavior(s), his work relies principally on the Collective Intelligence Theory. His research works notably include the capture and analysis of musical gestures. <br>
 He also co-developed the Méta-Mallette (Puce-Muse-Paris), the Continuator Project (Sony C.S.L-Paris), Dolabip (SCRIME-Bordeaux), Midi controller for Guitar by Shadow, (Germany). Nowadays, he is the main Arts&Sciences Coordinator of the SCRIME studio, at the University of Bordeaux.<br>
 In the 1980s, Gyorgy KURTAG Jr  collaborated with some of the most influential American researchers-composers in the computer music such as John Chowning, Tod Machover, George E. Lewis and David Wessel at IRCAM, the wold renowned musical research institute of Paris.<br>
 All these expériences inspired him to create his own musical and digital universe.
@@ -297,7 +303,7 @@ All these expériences inspired him to create his own musical and digital univer
 
 <img src="../images/Ladopoulos.png" width="320" style="float:left" hspace="10">
 ####Antonis Ladopoulos
-Antonis Ladopoulos is a Jazz Saxophonist, Composer and Educator.  He holds Degrees in Jazz Studies & Performance as well as in Economics.  
+is a Jazz Saxophonist, Composer and Educator.  He holds Degrees in Jazz Studies & Performance as well as in Economics.  
 
 For the past 25 years, he has been performing, recording and teaching jazz improvisation.
 
@@ -368,7 +374,7 @@ is a postdoctoral researcher in the Music Representations team at Ircam (UMR STM
 
 <img src="../images/Petras.jpg" width="250" style="float:left" hspace="10">
 ####George Petras
-George Petras was born in Athens, Greece in 1966. He holds a PhD in musicology, music technology and composition (National & Kapodistrian University of Athens - NKUA). The title of his doctoral dissertation is "Voice and interactive media in ancient drama. Musicological and technological extensions to the environment Max/MSP".  Also, he has two postgraduate diplomas, one in Arts and Technologies of Sound where he specialized in the composition of electroacoustic music (Ionian University) and another in Music Culture and Communication: Anthropological and philosophical extensions of music (NKUA). He studied Composition at the Athenaeum Conservatory and piano at the Orpheus Conservatory of Athens. He graduated from the Political Science Department of the NKUA. He systematically dealt with the composition and his works have been performed in Athens, in Corfu and at the Music Megaron of Thessaloniki.
+was born in Athens, Greece in 1966. He holds a PhD in musicology, music technology and composition (National & Kapodistrian University of Athens - NKUA). The title of his doctoral dissertation is "Voice and interactive media in ancient drama. Musicological and technological extensions to the environment Max/MSP".  Also, he has two postgraduate diplomas, one in Arts and Technologies of Sound where he specialized in the composition of electroacoustic music (Ionian University) and another in Music Culture and Communication: Anthropological and philosophical extensions of music (NKUA). He studied Composition at the Athenaeum Conservatory and piano at the Orpheus Conservatory of Athens. He graduated from the Political Science Department of the NKUA. He systematically dealt with the composition and his works have been performed in Athens, in Corfu and at the Music Megaron of Thessaloniki.
 
 He works at the Greek National School of Dance. Ηe has been involved in the teaching of music from a variety of posts (worked as a Music professor teaching Music theory, Piano and Music Technology in Conservatories, in public schools and Universities etc.). He was responsible for digitizing, documenting and cataloguing of the Music Archive of the National Theatre of Greece. He has worked as a cultural development consultant for the European Program "Artists in Action" and elsewhere. He has published articles in international conferences and scientific journals.
 
@@ -381,7 +387,7 @@ He works at the Greek National School of Dance. Ηe has been involved in the tea
 ---
 <img src="../images/Serra.jpg" width="250" style="float:left" hspace="10">
 ####Xavier Serra
-Xavier Serra is a Professor of the Department of Information and
+is a Professor of the Department of Information and
 Communication Technologies and Director of the Music Technology Group at
 the Universitat Pompeu Fabra in Barcelona. After a multidisciplinary
 academic education, he obtained a PhD in Computer Music from Stanford
@@ -405,7 +411,7 @@ multicultural approaches in music information research.
 
 <img src="../images/Stefanou.jpg" width="250" style="float:left" hspace="10">
 ####Danae Stefanou
-Danae Stefanou makes improvised sounds and texts. She is Associate
+makes improvised sounds and texts. She is Associate
 Professor at the Aristotle University of Thessaloniki where she teaches a
 variety of courses on experimental music, critical studies and contemporary
 music historiography, and directs the AUTH Experimental and Improvised
@@ -449,7 +455,7 @@ Studies of Music Sciences and Art History at the J. W. Goethe-University in Fran
 
 <img src="../images/Triantafyllaki.png" width="312" style="float:left" hspace="10">
 ####Angeliki Triantafyllaki
-Angeliki Triantafyllaki is a research associate and teaching fellow at the Department of Music Studies, University of Athens, and the MA in Education Programme Leader at Mediterranean College Athens. She holds a PhD and MPhil in Education and Educational Psychology from the University of Cambridge, Faculty of Education. She has taken part in international and European research projects and has been awarded by IKY and the British Academy for postdoctoral research on professional teacher development, music education, creativity in learning and teaching and new technologies, and learning and teaching in tertiary education. Her work has been published in a recent monograph (Routledge, UK), in collective volumes and in international scientific journals. 
+is a research associate and teaching fellow at the Department of Music Studies, University of Athens, and the MA in Education Programme Leader at Mediterranean College Athens. She holds a PhD and MPhil in Education and Educational Psychology from the University of Cambridge, Faculty of Education. She has taken part in international and European research projects and has been awarded by IKY and the British Academy for postdoctoral research on professional teacher development, music education, creativity in learning and teaching and new technologies, and learning and teaching in tertiary education. Her work has been published in a recent monograph (Routledge, UK), in collective volumes and in international scientific journals. 
 
 <br>
 <br>
@@ -468,7 +474,7 @@ Born in Athens, 1975. He studied in the field Audio technology BSc in Salford Un
 ---
 <img src="../images/Tzanetakis.jpg" width="320" style="float:left" hspace="10">
 ####George Tzanetakis
-George Tzanetakis is a Professor in the Department of Computer Science
+is a Professor in the Department of Computer Science
 with cross-listed appointments in ECE and Music at the University of
 Victoria, Canada. He is Canada Research Chair (Tier II) in the
 Computer Analysis and Audio and Music since 2010 and received the
@@ -536,7 +542,7 @@ Presenting "jazz mapping AI & Robotics" for Singularity Summit Greece November 2
 ---
 <img src="../images/Wilson-Bokowiec.jpg" width="280" style="float:left" hspace="10">
 ####Julie Wilson-Bokowiec
-Julie is a performer, writer and media artist. She is an accomplished physical performer and musician and has worked with such luminaries as Lindsey Kemp, the Austrian artist Hermann Nitsch and Genesis P-Orridge among others. She has created new works in opera, contemporary dance, performance art and theatre including: *The Red Room* (Canal Café Theatre) nominated for the Whitbread London Fringe Theatre Prize (best production), *Dorian Grey* (LBT/Opera North) and *The Last Cuckoo* nominated for the 20th Mayer-Whitworth Award (Royal National Theatre). Julie is the sole performer of an extensive repertoire of works for the Bodycoder System that range from large theatrical works such as *Spiral Fiction* commissioned by Digital Summer as part of the cultural programme of the Commonwealth Games, Manchester and shorter concert pieces including *Cyborg Dreaming* commissioned by the Science Museum, London, *Lifting Bodies* (The Trafo Theatre, Budapest) and *Zeitgeist* for KlangArt, Osnabruek. Works for voice and Bodycoder system including *Vox Circuit Trilogy *and most recently *V’Oct*(Ritual) and *Pythia:Delphine21* created in residency in Athens and premiered at the International Animart Festival in Delphi Greece 2016. Julie is a regular guest practitioner at the University of Manchester and Manchester MMU.
+is a performer, writer and media artist. She is an accomplished physical performer and musician and has worked with such luminaries as Lindsey Kemp, the Austrian artist Hermann Nitsch and Genesis P-Orridge among others. She has created new works in opera, contemporary dance, performance art and theatre including: *The Red Room* (Canal Café Theatre) nominated for the Whitbread London Fringe Theatre Prize (best production), *Dorian Grey* (LBT/Opera North) and *The Last Cuckoo* nominated for the 20th Mayer-Whitworth Award (Royal National Theatre). Julie is the sole performer of an extensive repertoire of works for the Bodycoder System that range from large theatrical works such as *Spiral Fiction* commissioned by Digital Summer as part of the cultural programme of the Commonwealth Games, Manchester and shorter concert pieces including *Cyborg Dreaming* commissioned by the Science Museum, London, *Lifting Bodies* (The Trafo Theatre, Budapest) and *Zeitgeist* for KlangArt, Osnabruek. Works for voice and Bodycoder system including *Vox Circuit Trilogy *and most recently *V’Oct*(Ritual) and *Pythia:Delphine21* created in residency in Athens and premiered at the International Animart Festival in Delphi Greece 2016. Julie is a regular guest practitioner at the University of Manchester and Manchester MMU.
 
 <br>
 
@@ -544,7 +550,7 @@ Julie is a performer, writer and media artist. She is an accomplished physical p
 ---
 <img src="../images/Zannos.png" width="220" style="float:left" hspace="10">
 ####Iannis Zannos
-Iannis Zannos has a background in music composition,
+has a background in music composition,
 ethnomusicology and interactive performance. He has worked as Director
 of the Music Technology and Documentation section at the Federal
 Institute for Music Research (S.I.M.) in Berlin, Germany, and Research
