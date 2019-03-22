@@ -198,8 +198,8 @@ is Associate Professor in Music Technology at the Music Department of the Univer
 
 ---
 
-####Ian Gold and Eric Lewis
-Improvising machine systems have made remarkable advances in the appropriateness of their contributions to collective improvisations.  It has, however, proven to be intractably difficult to create an improvising system that seems aware, to the same degree that experienced human improvisers are, of when a collective improvisation is coming to an end.  We explore the role that theory of mind plays in collective improvisation, and suggest that machine failures to manifest theory of mind may be behind this failure.  We suggest that a false model of collective improvisation, and a false model of theory of mind, has occluded the importance of theory of mind to collective improvisation. We also survey a number of experiments that we hope to undertake to help establish the connections we hypothesize, and suggest what this may mean for the future of improvising machine system design, and for the role of improvisation in assorted therapeutic contexts.
+####Ian Gold
+Ian Gold is Associate Professor of Philosophy & Psychiatry at McGill University in Montreal. He completed a Ph.D. in Philosophy at Princeton University and did postdoctoral training at the Australian National University in Canberra. From 2000 to 2006 he was on the faculty of the School of Philosophy & Bioethics at Monash University in Melbourne and came to McGill in 2006. His research focuses on the study of delusions, theory of mind, and on reductionism in psychiatry and neuroscience.
 
 <br>
 
@@ -359,6 +359,13 @@ Lehman received his B.A. (2000) and M.A. in Composition (2002) from Wesleyan Uni
 He is currently a Professor of Music at The California Institute of the Arts, and lives in Los Angeles.
 <br>
 [www.stevelehman.com](http://www.stevelehman.com/)
+
+<br>
+
+---
+
+####Eric Lewis 
+is an associate of philosophy at McGill University, Montreal, specializing in the philosophy of improvisation.  He is the author of Intents and Purposes: Philosophy and the Aesthetics of Improvisation; The Video Art of Sylvia Safdie, and co-editor of Improvisation and Social Aesthetics.  He is involved in the design of digital control surfaces to help enable individuals with physical disabilities make music, the design of digital sound-walk apps, and is presently part of a Greek-based design team working on the development of a digital new media art archive based on improvisatory principles.  He is an active improviser on brass and electronics.
 
 <br>
 
