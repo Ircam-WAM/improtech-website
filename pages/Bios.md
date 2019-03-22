@@ -5,6 +5,7 @@ title: Participants
 [TOC]
 
 ---
+
 <img src="../images/Amirisa.png" width="320" style="float:left" hspace="10">
 ####Sami Amiris
 is a member of Phos Duo, as well as the Musical Director and pianist of the Big Band of Athens and a founding member of the critically acclaimed power jazz trio "NUKeLEUS". 
@@ -15,6 +16,7 @@ He has studied music, mathematics, music technology and computer programming. Hi
 [http://www.phosduo.com]() / [https://soundcloud.com/samiamiris/albums]()
 
 ---
+
 <img src="../images/Antoniadis.jpg" width="320" style="float:left" hspace="10">
 ####Pavlos Antoniadis
 (PhD University of Strasbourg-IRCAM, MA University of California, San Diego) is a musicologist, pianist and technologist, based in Berlin and Strasbourg. His practice-oriented research has focused on both historic and systematic aspects of 20th and 21st century music, notably the performance practice of complex contemporary and experimental music, as well as on embodied cognition and on the development of tools for technology-enhanced learning & performance. He is a member of the *Interaction- Son-Musique-Mouvement* team at IRCAM, and previously associate of the Laboratory of Excellence GREAM, Université de Strasbourg, where he also taught seminars on computer music and contemporary performance practice.
@@ -57,6 +59,7 @@ prize at the Margareth Guthman Musical Instrument Competition, Atlanta,
 <br>
 
 ---
+
 <img src="../images/Alexakis.png" width="154" style="float:left" hspace="10">
 ####Antonis Alexakis
 holds a BSc in Mathematics from University of Patras and 
@@ -108,6 +111,7 @@ composer and researcher, got an engineering degree before studying composition i
 <br><br><br><br>
 
 ---
+
 <img src="../images/Bokowiec.jpg" width="280" style="float:left" hspace="10">
 ####Mark Bokowiec 
 Composer & interactive systems designer
@@ -175,6 +179,7 @@ was born in 1970, he studied instrumental composition, electroacoustic music, mu
 <br><br><br><br>
 
 ---
+
 <img src="../images/Dedousis.jpg" width="320" style="float:left" hspace="10">
 ####Giorgos Dedousis
 has studied piano, contemporary singing, theory of music, harmony, counterpoint, fugue and orchestration at the National Conservatory of Athens. He holds a Master’s of Arts Degree from the City University London, specializing in the field of Composing for Moving Images, and an Integrated Master’s Degree from the Department of Music at the National and Kapodistrian University. He has also completed a Bachelor’s Degree in Informatics and Telecommunications at the National and Kapodistrian University. He has composed music for theatrical plays, teaches at the Municipal Conservatory of Aspropyrgos and performs at various venues in Greece.
@@ -192,6 +197,7 @@ is Associate Professor in Music Technology at the Music Department of the Univer
 <br>
 
 ---
+
 ####Ian Gold and Eric Lewis
 Improvising machine systems have made remarkable advances in the appropriateness of their contributions to collective improvisations.  It has, however, proven to be intractably difficult to create an improvising system that seems aware, to the same degree that experienced human improvisers are, of when a collective improvisation is coming to an end.  We explore the role that theory of mind plays in collective improvisation, and suggest that machine failures to manifest theory of mind may be behind this failure.  We suggest that a false model of collective improvisation, and a false model of theory of mind, has occluded the importance of theory of mind to collective improvisation. We also survey a number of experiments that we hope to undertake to help establish the connections we hypothesize, and suggest what this may mean for the future of improvising machine system design, and for the role of improvisation in assorted therapeutic contexts.
 
@@ -238,6 +244,7 @@ Studie II.
 <br>
 
 ---
+
 <img src="../images/Kaliakatsos.jpeg" width="220" style="float:left" hspace="10">
 ####Maximos Kaliakatsos-Papakostas
 is currently an Adjunct Lecturer and the Department of Audio and Visual Arts, Ionian University, a postdoctoral researcher at the Music Department of the Aristotle University of Thessaloniki and a research associate at the Athena Research and Innovation Centre. He holds a PhD in Computational Intelligence methods for music related tasks, an MSc in Computational Intelligence and a Bachelor’s degree in Mathematics, from the Department of Mathematics, University of Patras. Among his research interests are music data analysis (mainly symbolic but also audio), automated music generation, machine learning and cognitive models for music and computational creativity.
@@ -251,6 +258,7 @@ is currently an Adjunct Lecturer and the Department of Audio and Visual Arts, Io
 <br>
 
 ---
+
 <img src="../images/Karamanlis.JPG" width="220" style="float:left" hspace="10">
 ####Orestis Karamanlis
 Born in Athens, Greece. Upon completing a PhD in electroacoustic composition Orestis has been active in composing new music and lecturing in the academia. Currently a scholar at the University of Athens and a visiting fellow at Bournemouth University, he has produced a diverse body of sound-art and new media work which is frequently performed in concert venues and urban spaces. orestiskaramanlis.net.
@@ -296,9 +304,10 @@ He also co-developed the Méta-Mallette (Puce-Muse-Paris), the Continuator Proje
 In the 1980s, Gyorgy KURTAG Jr  collaborated with some of the most influential American researchers-composers in the computer music such as John Chowning, Tod Machover, George E. Lewis and David Wessel at IRCAM, the wold renowned musical research institute of Paris.<br>
 All these expériences inspired him to create his own musical and digital universe.
 <br>
-[www.dailymotion.com/video/x1vrmwd](http://www.dailymotion.com/video/x1vrmwd) / [www.youtube.com/watch?v=MJ8Z5skovLw](https://www.youtube.com/watch?v=MJ8Z5skovLw) / [www.youtube.com/watch?v=M3Tr8mSDYl8](https://www.youtube.com/watch?v=M3Tr8mSDYl8)
+[www.dailymotion.com/video/x1vrmwd]() / [www.youtube.com/watch?v=MJ8Z5skovLw]() / [www.youtube.com/watch?v=M3Tr8mSDYl8]()
 
 <br>
+
 ---
 
 <img src="../images/Ladopoulos.png" width="320" style="float:left" hspace="10">
@@ -325,6 +334,7 @@ Antonis’ main project both as a performer and composer has long been “Phos D
 <br>
 
 ---
+
 <img src="../images/hLehmann.jpg" width="320" style="float:left" hspace="10">
 ####Harry Lehmann
 After receiving a master’s degree in physics and mathematics at the Saint Petersburg State University, with further philosophical studies in Berlin, Harry Lehmann earned a doctorate at the University of Potsdam in 2003 with a dissertation based on a systems-theoretical approach toward aesthetics. In the last years, he initiated a controversy about the digital revolution of music and its impact on New Music and published a great number of essays about this topic in German music journals as well as several books about art philosophy, music philosophy, aesthetics, and art criticism: 
@@ -338,6 +348,7 @@ After receiving a master’s degree in physics and mathematics at the Saint Pete
 One can find more information about the author on his website: [www.harrylehmann.net]() or on his YouTube-Canal [https://www.youtube.com/user/HarryLehmannVideo]().
 
 <br>
+
 ---
 
 <img src="../images/Bio_SteveLehman.jpeg" width="320" style="float:left" hspace="10">
@@ -385,6 +396,7 @@ He works at the Greek National School of Dance. Ηe has been involved in the tea
 <br>
 
 ---
+
 <img src="../images/Serra.jpg" width="250" style="float:left" hspace="10">
 ####Xavier Serra
 is a Professor of the Department of Information and
@@ -443,6 +455,7 @@ Quietus*; *Just Outside*).
 <br>
 
 ---
+
 <img src="../images/Steinhauer.jpg" width="312" style="float:left" hspace="10">
 ####Iakovos Steinhauer
 Studies of Music Sciences and Art History at the J. W. Goethe-University in Frankfurt/Main. Master of Arts 1999 and admission to the graduate programme. 2005 PhD at the J. W. Goethe-University: “Musical Space und Compositional Object in the Music of Edgard Varèse", published in 2008 (Frankfurter Beiträge zur Musikwissenschaft vol. 34, Hans Schneider Verlag).  2019 Assistant Professor, Department of Music Studies, National and Kapodistrian University of Athens. Publications and lectures at the Universities in Athens, Crete and Frankfurt/M. on music theory.
@@ -465,6 +478,7 @@ is a research associate and teaching fellow at the Department of Music Studies, 
 <br>	
 
 ---
+
 <img src="../images/Tsagkarakis.jpg" width="312" style="float:left" hspace="10">
 ####Panagiotis E. Tsagkarakis
 Born in Athens, 1975. He studied in the field Audio technology BSc in Salford University (UK) and specialized in real time audio processes and synthesis in interactive environments M.Eng Ionian University (GR). The last few years, his research was focused in immaterial interfaces for interactive performances in the ancient Greek drama, creating interactive prosodic tools and gestural sonification. This research was published both in scientific journals (International Journal of Music New Sound - 2019, International Journal of Music Science, Technology and Art – 2018) and conferences (International Conferences on New Music Concepts - 2018, Sonic and Music Computing Conference - 2018, Digital Culture and Audiovisual Challenges - 2018). In the last decade he designed many Interactive systems for new media theatrical and contemporary dance projects. He developed technologies applicable to each occasion in order to fulfill the given needs. This included the selection of sensor technologies and programming platform as well as programming the sound synthesis engine to produce inspiring and responsive sonic outcome. Part of everyday life was field recordings and audio processing to create the original sound design material.
@@ -472,6 +486,7 @@ Born in Athens, 1975. He studied in the field Audio technology BSc in Salford Un
 <br>
 
 ---
+
 <img src="../images/Tzanetakis.jpg" width="320" style="float:left" hspace="10">
 ####George Tzanetakis
 is a Professor in the Department of Computer Science
