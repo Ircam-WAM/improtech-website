@@ -21,8 +21,6 @@ Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, 
 
 Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
 
-Steve Lehman, J. Nika (saxs, DYCI2 system)
-
 Georg Hajdu: *Just Her - Jester - Gesture* (for kalimba and electronics)
 
 Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax, traditional instruments, omax)
@@ -40,12 +38,10 @@ Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax,
 <br>
 
 **Keynote:** George Tzanetakis: *Perception, embodiment, and expressivity in human and computer improvisation.*
-
-Eric Lewis: AI & Impro
+ 
+Ian Gold and Eric Lewis: *It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines*
 
 Christophe d’Alessandro: *Improvising with augmented organ and singing instruments: gesture, sound, music (Cantor digitalis).*
-
-J. Nika, the DYC2 project
 
 Emilios Cambouropoulos: *Creativity via Learning and Blending: The CHAMELEON melodic harmonization assistant.*
 
@@ -65,8 +61,6 @@ Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis: *Improvisa
 Mark Bokowiec, Julie Wilson - Bokowiec (University of Huddersfield, UK): *Kinaesonics: crafting and being trans-dimensional (Bodycoder system).*
 
 Claude Cadoz (ACROE) Haptic Feed-back Improvisation System 
-
-Emilie Zawadzki & Camille Dianoux Session Hacking & collective improvisation 
 
 George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki: *Prosodic Drama tools and improvisation.*
 
@@ -100,9 +94,8 @@ Rémy Fox, J. Nika (saxs, DYCI2 system)
 
 **Keynote:** Xavier Serra: *From digital to human intelligence in music understanding research.*
 
-Mondher Ayari, 
-Marc Chemillier
-.
+Mondher Ayari *Modelling Improvisation Systems in the Mediterranean Sphere*
+
 Dimitri Vassilakis: *"Jazz mapping". An analytical and computational approach to Jazz improvisation (omax & co).*
 
 Sami Amiris, Antonis Ladopoulos: *Metrical Polyrhythms & Polytemporality in live improvisation setting.*
@@ -141,7 +134,7 @@ Orestis Karamanlis, Areti Andreopoulou (UOA): *Traditional musicians *(Laptop / 
 
 Students of UOA, Dimitri Vassilakis, Anastasia Georgaki: *Omax & co* (Jazz ensemble, omax, dyci2)
 
-
+Steve Lehman, J. Nika (saxs, DYCI2 system)
 
 <br>
 
