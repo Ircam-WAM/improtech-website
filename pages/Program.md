@@ -19,11 +19,11 @@ title: Program
 
 Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
 
-Michelle-Agnes Magalhaes, Frederic Bevilacqua (comaxposition, piano, gestural system)
+Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
 
 Georg Hajdu: *Just Her - Jester - Gesture* (for kalimba and electronics)
 
-Raphael Imbert / Benjamin Lévy with musicians fromax the mediterranean area (Sax, traditional instruments, omaxax)
+Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
 
 
 <br>
@@ -37,7 +37,7 @@ Raphael Imbert / Benjamin Lévy with musicians fromax the mediterranean area (Sa
 
 <br>
 
-**Keynote:** George Tzanetakis: *Perception, embodiment, and expressivity in human and comaxputer improvisation.*
+**Keynote:** George Tzanetakis: *Perception, embodiment, and expressivity in human and computer improvisation.*
 
 Ian Gold and Eric Lewis: *It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines*
 
