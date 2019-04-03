@@ -8,7 +8,7 @@ title: Program
 ---
 ## Thursday sept 26
 ---
- 
+
 **Opening Words:** (18.00) A. Georgaki, C. Carras, G. Assayag, M. Chemillier
 
 **Keynote:**   (19.00) George Lewis
@@ -19,11 +19,11 @@ title: Program
 
 Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
 
-Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
+Michelle-Agnes Magalhaes, Frederic Bevilacqua (comaxposition, piano, gestural system)
 
 Georg Hajdu: *Just Her - Jester - Gesture* (for kalimba and electronics)
 
-Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax, traditional instruments, omax)
+Raphael Imbert / Benjamin Lévy with musicians fromax the mediterranean area (Sax, traditional instruments, omaxax)
 
 
 <br>
@@ -33,12 +33,12 @@ Raphael Imbert / Benjamin Lévy with musicians from the mediterranean area (Sax,
 ---
 
 ### Lectures (9.00-14.00)-UOA
-#### Algorithms, AI and Improvisation 
+#### Algorithms, AI and Improvisation
 
 <br>
 
-**Keynote:** George Tzanetakis: *Perception, embodiment, and expressivity in human and computer improvisation.*
- 
+**Keynote:** George Tzanetakis: *Perception, embodiment, and expressivity in human and comaxputer improvisation.*
+
 Ian Gold and Eric Lewis: *It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines*
 
 Christophe d’Alessandro: *Improvising with augmented organ and singing instruments: gesture, sound, music (Cantor digitalis).*
@@ -60,7 +60,7 @@ Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis: *Improvisa
 
 Mark Bokowiec, Julie Wilson - Bokowiec (University of Huddersfield, UK): *Kinaesonics: crafting and being trans-dimensional (Bodycoder system).*
 
-Claude Cadoz (ACROE) Haptic Feed-back Improvisation System 
+Claude Cadoz (ACROE) Haptic Feed-back Improvisation System
 
 George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki: *Prosodic Drama tools and improvisation.*
 
@@ -84,7 +84,7 @@ Rémy Fox, J. Nika (saxs, DYCI2 system)
 <br>
 
 ---
-## Saturday 28.9.2019 
+## Saturday 28.9.2019
 ---
 
 ### Lectures (9.00-1400)- UOA
@@ -96,7 +96,7 @@ Rémy Fox, J. Nika (saxs, DYCI2 system)
 
 Mondher Ayari *Modelling Improvisation Systems in the Mediterranean Sphere*
 
-Dimitri Vassilakis: *"Jazz mapping". An analytical and computational approach to Jazz improvisation (omax & co).*
+Dimitri Vassilakis: *" Jazz Mapping ”. Thematic development and story telling in jazz improvisation*
 
 Sami Amiris, Antonis Ladopoulos: *Metrical Polyrhythms & Polytemporality in live improvisation setting.*
 
@@ -180,4 +180,3 @@ Danae Stefanou: *De-machinations: improvising (with) awkwardness.*
   <img src="../images/IKPoster_frag10.png" width="300">
    <br><br>
 </p>
-
