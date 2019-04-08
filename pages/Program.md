@@ -5,9 +5,19 @@ title: Program
 
 <br><br>
 
----
-## Thursday sept 26
----
+
+<br>
+<br>
+
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
+<font color="DarkBlue">
+# Thursday sept 26 - Opening
+**Onassis Cultural Center**
+## Opening keynote and concert
+</font>
+
+<br>
+
 
 **Opening Words:** (18.00) A. Georgaki, C. Carras, G. Assayag, M. Chemillier
 
@@ -15,7 +25,7 @@ title: Program
 
 <br>
 
-### Concert (20.30-22.30) (SGT)
+### Concert (20.30-22.30)
 
 Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
 
@@ -27,27 +37,34 @@ Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
 
 
 <br>
+<br>
 
----
-## Friday 27.9.2019
----
-
-### Lectures (9.00-14.00)-UOA
-#### Algorithms, AI and Improvisation
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
+<font color="DarkBlue">
+# Friday sept 27 - Lectures
+**University oif Athens**
+## Algorithms, AI and Improvisation
+</font>
 
 <br>
 
-**Keynote:** George Tzanetakis: *Perception, embodiment, and expressivity in human and computer improvisation.*
+### Keynote talk : Perception, embodiment, and expressivity in human and computer improvisation
+George Tzanetakis
 
-Ian Gold and Eric Lewis: *It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines*
+### It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines
+Ian Gold and Eric Lewis
 
-Christophe d’Alessandro: *Improvising with augmented organ and singing instruments: gesture, sound, music (Cantor digitalis).*
+### Improvising with augmented organ and singing instruments: gesture, sound, music (Cantor digitalis)
+Christophe d’Alessandro
 
-Emilios Cambouropoulos: *Creativity via Learning and Blending: The CHAMELEON melodic harmonization assistant.*
+### Creativity via Learning and Blending: The CHAMELEON melodic harmonization assistant
+Emilios Cambouropoulos
 
-Maximos Kaliakatsos: *Do the math: Music cognition and creativity under the spectrum of information science.*
+### Do the math: Music cognition and creativity under the spectrum of information science
+Maximos Kaliakatsos
 
-Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis: *Improvisation experiments and computational music analysis of children’s improvisations during the MIROR European Project.*
+### Improvisation experiments and computational music analysis of children’s improvisations during the MIROR European Project
+Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis:
 
 
 <br>
