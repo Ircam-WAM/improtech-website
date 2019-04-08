@@ -3,9 +3,7 @@ title: Program
 ## IMPROTECH Paris -  &Alpha;&theta;&eta;&nu;&alpha; 2019
 
 
-<br><br>
-
-
+<br>
 <br>
 <br>
 
@@ -15,16 +13,19 @@ title: Program
 **Onassis Cultural Center**
 ## Opening keynote and concert
 </font>
-
 <br>
 
+### Opening
 
-**Opening Words:** (18.00) A. Georgaki, C. Carras, G. Assayag, M. Chemillier
+####18:00
+### Welcome Words
+A. Georgaki, C. Carras, G. Assayag, M. Chemillier
 
 **Keynote:**   (19.00) George Lewis
 
 <br>
 
+####20:30 - 22:30
 ### Concert (20.30-22.30)
 
 Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
