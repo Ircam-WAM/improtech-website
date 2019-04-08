@@ -15,13 +15,13 @@ title: Program
 </font>
 <br>
 
-### Opening
-
 ####18:00
 ### Welcome Words
 A. Georgaki, C. Carras, G. Assayag, M. Chemillier
 
-**Keynote:**   (19.00) George Lewis
+###19:00
+### Opening Keynote
+George Lewis
 
 <br>
 
