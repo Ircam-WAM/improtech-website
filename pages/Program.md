@@ -10,7 +10,7 @@ title: Program
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Thursday sept 26 - Opening
-**Onassis Cultural Center**
+**Onassis Cultural Center, 18:00 - 22:30**
 ## Opening keynote and concert
 </font>
 <br>
@@ -19,14 +19,14 @@ title: Program
 ### Welcome Words
 A. Georgaki, C. Carras, G. Assayag, M. Chemillier
 
-###19:00
+####19:00
 ### Opening Keynote
 George Lewis
 
 <br>
 
-####20:30 - 22:30
-### Concert (20.30-22.30)
+#### 20:30 - 22:30
+### Concert #1
 
 Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
 
@@ -36,19 +36,18 @@ Georg Hajdu: *Just Her - Jester - Gesture* (for kalimba and electronics)
 
 Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
 
-
 <br>
 <br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Friday sept 27 - Lectures
-**University oif Athens**
+**University of Athens, 09:00 - 14:00**
 ## Algorithms, AI and Improvisation
 </font>
-
 <br>
 
+#### 09:00
 ### Keynote talk : Perception, embodiment, and expressivity in human and computer improvisation
 George Tzanetakis
 
@@ -67,27 +66,44 @@ Maximos Kaliakatsos
 ### Improvisation experiments and computational music analysis of children’s improvisations during the MIROR European Project
 Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis:
 
+<br>
+#### 14:30
+#### Lunch Break
+UOA Cultural building Kostis Palamas
 
 <br>
-
-#### Lunch at UOA Cultural buliding, Kostis Palamas (14.30-16.30)
-
 <br>
 
-### Workshops / demos (17.00-19.30)-SGT
-
-Mark Bokowiec, Julie Wilson - Bokowiec (University of Huddersfield, UK): *Kinaesonics: crafting and being trans-dimensional (Bodycoder system).*
-
-Claude Cadoz (ACROE) Haptic Feed-back Improvisation System
-
-George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki: *Prosodic Drama tools and improvisation.*
-
-
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
+<font color="DarkBlue">
+# Friday sept 27 - Workshops
+**Onassis Cultural Center, 17:00 - 19:30**
+##
+</font>
 <br>
 
-### Concerts: 20.30-22.30 (SGT)
+#### 17:00
+### Kinaesonics: crafting and being trans-dimensional (Bodycoder system)
+Mark Bokowiec, Julie Wilson-Bokowiec
 
+### Haptic Feed-back Improvisation System
+Claude Cadoz (ACROE, France)
 
+### Prosodic Drama tools and improvisation
+George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki
+
+<br>
+<br>
+
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
+<font color="DarkBlue">
+# Friday sept 27 - Concert
+**Onassis Cultural Center, 20:30 - 22:30**
+##
+</font>
+<br>
+
+### Concert #2
 Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
 
 Lara Morciano, (composition, Piano, gesture interface, sound transducers)
@@ -98,8 +114,9 @@ Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, G
 
 Rémy Fox, J. Nika (saxs, DYCI2 system)
 
-
 <br>
+
+
 
 ---
 ## Saturday 28.9.2019
