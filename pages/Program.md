@@ -23,8 +23,6 @@ A. Georgaki, C. Carras, G. Assayag, M. Chemillier
 ### Opening Keynote
 George Lewis
 
-<br>
-
 #### 20:30 - 22:30
 ### Concert #1
 
@@ -100,7 +98,7 @@ Mark Bokowiec, Julie Wilson-Bokowiec
 ### Haptic Feed-back Improvisation System
 Claude Cadoz (ACROE, France)
 
-### 18:30
+#### 18:30
 ### Prosodic Drama tools and improvisation
 George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki
 
