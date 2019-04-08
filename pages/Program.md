@@ -68,7 +68,7 @@ Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis:
 
 <br>
 #### 14:30
-#### Lunch Break
+### Lunch Break
 UOA Cultural building Kostis Palamas
 
 <br>
@@ -78,7 +78,7 @@ UOA Cultural building Kostis Palamas
 <font color="DarkBlue">
 # Friday sept 27 - Workshops
 **Onassis Cultural Center, 17:00 - 19:30**
-##
+## Body and Drama
 </font>
 <br>
 
@@ -99,10 +99,11 @@ George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki
 <font color="DarkBlue">
 # Friday sept 27 - Concert
 **Onassis Cultural Center, 20:30 - 22:30**
-##
+## __
 </font>
 <br>
 
+#### 20:30
 ### Concert #2
 Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
 
@@ -114,6 +115,7 @@ Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, G
 
 Rémy Fox, J. Nika (saxs, DYCI2 system)
 
+<br>
 <br>
 
 
