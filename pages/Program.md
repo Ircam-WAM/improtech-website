@@ -47,24 +47,32 @@ Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
 </font>
 <br>
 
-#### 09:00
+#### 09:30
 ### Keynote talk : Perception, embodiment, and expressivity in human and computer improvisation
 George Tzanetakis
 
+#### 10:15
 ### It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines
 Ian Gold and Eric Lewis
 
+#### 10:45
 ### Improvising with augmented organ and singing instruments: gesture, sound, music (Cantor digitalis)
 Christophe d’Alessandro
 
+#### 11:15
+### Coffee Break
+
+#### 11:45
 ### Creativity via Learning and Blending: The CHAMELEON melodic harmonization assistant
 Emilios Cambouropoulos (School of Music Studies, Aristotle University of Thessaloniki)
 
 One of the most advanced modes of creativity involves making associations between different conceptual spaces and combining seemingly unrelated constituent elements into novel meaningful wholes. Composers and improvisers often actively employ combinational and fusion strategies in producing original music creations. In this presentation we focus on issues of harmonic representation and learning from data, giving special attention to the role of conceptual blending in melodic harmonization. Models are presented for statistical learning of harmonic concepts (chord types and transitions, cadences and voice-leading) from musical pieces drawn from diverse idioms (such as tonal, modal, jazz, octatonic, atonal, traditional harmonic idioms). Then, a computational account of concept invention via conceptual blending is described that yields original blended harmonic spaces. The CHAMELEON melodic harmonisation assistant (new online version), produces novel harmonisations in diverse musical idioms for given melodies and, also, blends different harmonic spaces giving rise to new ‘unexpected’ outcomes.  Many musical examples will be given that illustrate the creative potential of the system. Such sophisticated blending methodologies can be incorporated in interactive improvisation systems allowing the creation and exploration of novel musical spaces (bypassing mere imitation).
 
+#### 12:15
 ### Do the math: Music cognition and creativity under the spectrum of information science
 Maximos Kaliakatsos
 
+#### 12:45
 ### Improvisation experiments and computational music analysis of children’s improvisations during the MIROR European Project
 Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis:
 
@@ -88,9 +96,11 @@ UOA Cultural building Kostis Palamas
 ### Kinaesonics: crafting and being trans-dimensional (Bodycoder system)
 Mark Bokowiec, Julie Wilson-Bokowiec
 
+#### 17:00
 ### Haptic Feed-back Improvisation System
 Claude Cadoz (ACROE, France)
 
+### 18:30
 ### Prosodic Drama tools and improvisation
 George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki
 
