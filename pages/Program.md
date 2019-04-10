@@ -112,7 +112,7 @@ George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki
 <font color="DarkBlue">
 # Friday sept 27 - Concert
 **Onassis Cultural Center, 20:30 - 22:30**
-## __
+## _
 </font>
 <br>
 
@@ -200,7 +200,7 @@ Ioannis Zannos
 <font color="DarkBlue">
 # Saturday sept 28 - Concert
 **Onassis Cultural Center, 20:30 - 22:30**
-## Concert #3
+## _
 </font>
 <br>
 
