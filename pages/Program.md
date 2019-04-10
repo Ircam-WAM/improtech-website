@@ -83,10 +83,10 @@ Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis:
 
 <font color="DarkBlue">
 ##### 14:30
-#### Lunch Break
+#### *Lunch Break*
 UOA Cultural building Kostis Palamas
 </font>
-<br><br>
+<br><br><br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
@@ -171,10 +171,10 @@ Pavlos Antoniadis
 
 <font color="DarkBlue">
 ##### 14:30
-#### Lunch Break
+#### *Lunch Break*
 UOA Cultural building Kostis Palamas
 </font>
-<br><br>
+<br><br><br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
@@ -268,11 +268,13 @@ Danae Stefanou
 ##### 13:30
 #### Round table & closing address
 
-##### 14.30
+<font color="DarkBlue">
+##### 14:30
 #### *Lunch*
+UOA Cultural building Kostis Palamas
+</font>
+<br><br><br>
 
-<br>
-<br>
 
 
 ---
