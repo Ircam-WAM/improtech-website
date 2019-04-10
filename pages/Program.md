@@ -49,11 +49,11 @@ Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjami
 <br>
 
 #### 09:30
-### Keynote talk : Perception, embodiment, and expressivity in human and computer improvisation
+#### Keynote talk : Perception, embodiment, and expressivity in human and computer improvisation
 George Tzanetakis
 
 #### 10:15
-### It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines
+#### It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines
 Ian Gold and Eric Lewis
 
 #### 10:45
