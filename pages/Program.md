@@ -129,47 +129,82 @@ Rémy Fox, J. Nika (saxs, DYCI2 system)
 <br>
 
 
-
----
-## Saturday 28.9.2019
----
-
-### Lectures (9.00-1400)- UOA
-#### Improvisation, Digital Intelligence and Cultural Heritage
-
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
+<font color="DarkBlue">
+# Saturday Sept 28 - Lectures
+**University of Athens, 09:00 - 14:00**
+## Improvisation, Digital Intelligence and Cultural Heritage
+</font>
+<br>
 <br>
 
-**Keynote:** Xavier Serra: *From digital to human intelligence in music understanding research.*
+#### 09:30
+### Keynote talk : From digital to human intelligence in music understanding research
+Xavier Serra
 
-Mondher Ayari *Modelling Improvisation Systems in the Mediterranean Sphere*
+#### 10:15
+### Modelling Improvisation Systems in the Mediterranean Sphere
+Mondher Ayari
 
-Dimitri Vassilakis: *" Jazz Mapping ”. Thematic development and story telling in jazz improvisation*
+#### 10:45
+### " Jazz Mapping ” : Thematic development and story telling in jazz improvisation
+Dimitri Vassilakis
 
-Sami Amiris, Antonis Ladopoulos: *Metrical Polyrhythms & Polytemporality in live improvisation setting.*
+#### 11:15
+### Coffee Break
 
-Pavlos Antoniadis: *GesTCom as an interactive tool for improvisation.*
+#### 11:45
+### Metrical Polyrhythms & Polytemporality in live improvisation setting
+Sami Amiris, Antonis Ladopoulos
 
-<br>
-
-#### Lunch at UOA Cultural buliding, Kostis Palamas (14.30-16.30)
-
-<br>
-
-### Workshops / demos (17.00-19.30)-SGT
-
-Daniel Brown (USA): *Procedural music engine for video games.*
-
-Fred Bevilacqua (Ircam), Michelle A. Magalhaes, composer. COMO & Cicades : Movement-based collective improvisation using mobile devices.
-
-Lara Morciano and Jose-Miguel Fernandez (Fr/Chil.): Composition / improvisation in “musiques mixtes” with captors and transducers
-
-Ioannis Zannos: *Improvisation with Motion Sensors and Live coding: Combining Dance and Instrumental Improvisation.*
-
+#### 12:15
+### GesTCom as an interactive tool for improvisation
+Pavlos Antoniadis
 
 <br>
+#### 14:30
+### Lunch Break
+UOA Cultural building Kostis Palamas
+<br>
+<br>
 
-### Concerts: 20.30-22.30 (SGT)
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
+<font color="DarkBlue">
+# Saturday sept 28 - Workshops
+**Onassis Cultural Center, 17:00 - 19:30**
+## Game, mobiles, transducers
+</font>
+<br>
 
+#### 17:00
+### Procedural music engine for video games
+Daniel Brown
+
+### 17:00
+### COMO : Movement-based collective improvisation using mobile devices
+Frédéric Bevilacqua (Ircam), Michelle-Agnes Magalhaes, composer
+
+### 18:30
+### Composition / improvisation in “musiques mixtes” with captors and transducers
+Lara Morciano (composer), Jose-Miguel Fernandez (composer, Ircam)
+
+### 18:30
+### Improvisation with Motion Sensors and Live coding: Combining Dance and Instrumental Improvisation
+Ioannis Zannos
+
+<br>
+<br>
+
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
+<font color="DarkBlue">
+# Saturday sept 28 - Concert
+**Onassis Cultural Center, 20:30 - 22:30**
+## __
+</font>
+<br>
+
+#### 20:30
+### Concert #3
 
 Jaap Blonk, Hervé Sellin, Georges Bloch: Cine-concert, (voice, piano, DYCI2 system)
 
@@ -185,39 +220,52 @@ Steve Lehman, J. Nika (saxs, DYCI2 system)
 
 <br>
 
----
-## Sunday 29.9.2019
----
 
+
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
+<font color="DarkBlue">
+# Sunday Sept 29 - Lectures
+**University of Athens, 09:00 - 14:00**
+## Aesthetics and Ethics of Improvisation in the Digital Era
+</font>
+<br>
 <br>
 
-### Lectures (9.00-14.00)- SGT
-#### Aesthetics and Ethics of Improvisation in the digital era
+#### 09:30
+### Keynote talk :
+Gary L. Hagberg (Bard College, US)
+
+#### 10:15
+### The MICA Project : Musical Improvisation and Collective Action
+Clement Canonne & Pierre Saint Germier
+
+#### 10:45
+### Machine Ethics and Music Creativity
+George Kosteletos, Αnastasia Georgaki
+
+#### 11:15
+### Coffee Break
+
+#### 11:45
+### AI-Aesthetics. Artificial Intelligence in Music and Art
+Harry Lehmann
+
+#### 12:15
+### Phenomenological aspects of virtual instruments improvisation
+Iakovos Steinhauer, Anastasia Georgaki
+
+#### 12:45
+### De-machinations: improvising (with) awkwardness
+Danae Stefanou
+
+#### 13:30
+### Round table & closing address
+
+#### 14.30
+### Lunch
 
 <br>
-
-**Keynote:** Gary L. Hagberg (Bard College)
-
-Clement Canonne & Pierre Saint Germier: *The MICA Project : Musical Improvisation and Collective Action.*
-
-George Kosteletos, Αnastasia Georgaki: *Machine ethics and music creativity.*
-
-Harry Lehmann: *AI-Aesthetics. Artificial Intelligence in Music and Art.*
-
-Iakovos Steinhauer, Anastasia Georgaki: *Phenomenological aspects of virtual instruments improvisation.*
-
-Danae Stefanou: *De-machinations: improvising (with) awkwardness.*
-
-
-
 <br>
-
-### Round table & closing address (13.30)
-
-<br>
-
-#### 14.30: Lunch
-
 
 
 ---
