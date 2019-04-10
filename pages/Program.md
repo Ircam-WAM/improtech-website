@@ -34,6 +34,9 @@ Georg Hajdu: *Just Her - Jester - Gesture* (for kalimba and electronics)
 
 Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
 
+Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy : *Omax & co* (Jazz ensemble, omax, dyci2)
+
+
 <br>
 <br>
 
@@ -128,18 +131,16 @@ Rémy Fox, J. Nika (saxs, DYCI2 system)
 <br>
 <br>
 
-
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Saturday Sept 28 - Lectures
 **University of Athens, 09:00 - 14:00**
-## Improvisation, Digital Intelligence and Cultural Heritage
+### Improvisation, Digital Intelligence and Cultural Heritage
 </font>
-<br>
 <br>
 
 #### 09:30
-### Keynote talk : From digital to human intelligence in music understanding research
+### Keynote talk : From Digital to Human Intelligence in Music Understanding Research
 Xavier Serra
 
 #### 10:15
@@ -147,24 +148,24 @@ Xavier Serra
 Mondher Ayari
 
 #### 10:45
-### " Jazz Mapping ” : Thematic development and story telling in jazz improvisation
+### " Jazz Mapping ” : Thematic Development and Story Telling in Jazz Improvisation
 Dimitri Vassilakis
 
 #### 11:15
-### Coffee Break
+### *Coffee Break*
 
 #### 11:45
-### Metrical Polyrhythms & Polytemporality in live improvisation setting
+### Metrical Polyrhythms and Polytemporality in live Improvisation Settings
 Sami Amiris, Antonis Ladopoulos
 
 #### 12:15
-### GesTCom as an interactive tool for improvisation
+### GesTCom as an Interactive Tool for Improvisation
 Pavlos Antoniadis
 
-<br>
 #### 14:30
-### Lunch Break
+### *Lunch Break*
 UOA Cultural building Kostis Palamas
+
 <br>
 <br>
 
@@ -180,15 +181,15 @@ UOA Cultural building Kostis Palamas
 ### Procedural music engine for video games
 Daniel Brown
 
-### 17:00
+#### 17:00
 ### COMO : Movement-based collective improvisation using mobile devices
 Frédéric Bevilacqua (Ircam), Michelle-Agnes Magalhaes, composer
 
-### 18:30
+#### 18:30
 ### Composition / improvisation in “musiques mixtes” with captors and transducers
 Lara Morciano (composer), Jose-Miguel Fernandez (composer, Ircam)
 
-### 18:30
+#### 18:30
 ### Improvisation with Motion Sensors and Live coding: Combining Dance and Instrumental Improvisation
 Ioannis Zannos
 
@@ -199,27 +200,25 @@ Ioannis Zannos
 <font color="DarkBlue">
 # Saturday sept 28 - Concert
 **Onassis Cultural Center, 20:30 - 22:30**
-## __
+## Concert #3
 </font>
 <br>
 
 #### 20:30
 ### Concert #3
 
-Jaap Blonk, Hervé Sellin, Georges Bloch: Cine-concert, (voice, piano, DYCI2 system)
+Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert*, (voice, piano, DYCI2 system)
 
-Mark Bokowiec, Julie Wilson - Bokowiec: *Digital shamanism (bodycoder system).*
+Mark Bokowiec, Julie Wilson - Bokowiec: *Digital shamanism (bodycoder system)*
 
-Marc Chemillier & Camel Zekri: machines and Gnaoua tradition (strings, dJazz system)
+Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz system)
 
-Orestis Karamanlis, Areti Andreopoulou (UOA): *Traditional musicians *(Laptop / musicians performance)
-
-Students of UOA, Dimitri Vassilakis, Anastasia Georgaki: *Omax & co* (Jazz ensemble, omax, dyci2)
+Orestis Karamanlis, Areti Andreopoulou (UOA): *Traditional musicians* (Laptop / musicians performance)
 
 Steve Lehman, J. Nika (saxs, DYCI2 system)
 
 <br>
-
+<br>
 
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
@@ -228,7 +227,6 @@ Steve Lehman, J. Nika (saxs, DYCI2 system)
 **University of Athens, 09:00 - 14:00**
 ## Aesthetics and Ethics of Improvisation in the Digital Era
 </font>
-<br>
 <br>
 
 #### 09:30
@@ -244,7 +242,7 @@ Clement Canonne & Pierre Saint Germier
 George Kosteletos, Αnastasia Georgaki
 
 #### 11:15
-### Coffee Break
+### *Coffee Break*
 
 #### 11:45
 ### AI-Aesthetics. Artificial Intelligence in Music and Art
@@ -262,7 +260,7 @@ Danae Stefanou
 ### Round table & closing address
 
 #### 14.30
-### Lunch
+### *Lunch*
 
 <br>
 <br>
