@@ -60,8 +60,10 @@ Ian Gold and Eric Lewis
 #### Improvising with augmented organ and singing instruments: gesture, sound, music (Cantor digitalis)
 Christophe d’Alessandro
 
+<font color="DarkBlue">
 ##### 11:15
 #### Coffee Break
+</font>
 
 ##### 11:45
 #### Creativity via Learning and Blending: The CHAMELEON melodic harmonization assistant
