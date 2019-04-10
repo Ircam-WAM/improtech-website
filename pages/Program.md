@@ -48,7 +48,7 @@ Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjami
 </font>
 <br>
 
-#### 09:30
+#####09:30
 #### Keynote talk : Perception, embodiment, and expressivity in human and computer improvisation
 George Tzanetakis
 
