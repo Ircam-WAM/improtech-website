@@ -62,7 +62,7 @@ Christophe d’Alessandro
 
 <font color="DarkBlue">
 ##### 11:15
-#### Coffee Break
+#### *Coffee Break*
 </font>
 
 ##### 11:45
@@ -80,12 +80,13 @@ Maximos Kaliakatsos
 Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis:
 
 <br>
+
+<font color="DarkBlue">
 ##### 14:30
 #### Lunch Break
 UOA Cultural building Kostis Palamas
-
-<br>
-<br>
+</font>
+<br><br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
@@ -153,8 +154,10 @@ Mondher Ayari
 #### " Jazz Mapping ” : Thematic Development and Story Telling in Jazz Improvisation
 Dimitri Vassilakis
 
+<font color="DarkBlue">
 ##### 11:15
 #### *Coffee Break*
+</font>
 
 ##### 11:45
 #### Metrical Polyrhythms and Polytemporality in live Improvisation Settings
@@ -164,12 +167,14 @@ Sami Amiris, Antonis Ladopoulos
 #### GesTCom as an Interactive Tool for Improvisation
 Pavlos Antoniadis
 
-##### 14:30
-#### *Lunch Break*
-UOA Cultural building Kostis Palamas
+<br>
 
-<br>
-<br>
+<font color="DarkBlue">
+##### 14:30
+#### Lunch Break
+UOA Cultural building Kostis Palamas
+</font>
+<br><br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
@@ -243,8 +248,10 @@ Clement Canonne & Pierre Saint Germier
 #### Machine Ethics and Music Creativity
 George Kosteletos, Αnastasia Georgaki
 
+<font color="DarkBlue">
 ##### 11:15
 #### *Coffee Break*
+</font>
 
 ##### 11:45
 #### AI-Aesthetics. Artificial Intelligence in Music and Art
