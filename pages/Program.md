@@ -16,11 +16,11 @@ title: Program
 <br>
 
 #####18:00
-#### Welcome Words
+#### Opening Words
 A. Georgaki, C. Carras, G. Assayag, M. Chemillier
 
 #####19:00
-#### Opening Keynote
+#### Keynote
 George Lewis
 
 ##### 20:30 - 22:30
@@ -30,11 +30,11 @@ Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, 
 
 Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
 
+Steve Lehman, J. Nika (saxs, DYCI2 system)
+
 Georg Hajdu: *Just Her - Jester - Gesture* (for kalimba and electronics)
 
 Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
-
-Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy : *Omax & co* (Jazz ensemble, omax, dyci2)
 
 
 <br>
@@ -222,7 +222,7 @@ Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz s
 
 Orestis Karamanlis, Areti Andreopoulou (UOA): *Traditional musicians* (Laptop / musicians performance)
 
-Steve Lehman, J. Nika (saxs, DYCI2 system)
+Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy : *Omax & co* (Jazz ensemble, omax, dyci2)
 
 <br>
 <br>
