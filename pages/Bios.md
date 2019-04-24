@@ -104,11 +104,46 @@ is an Assistant Professor in the Laboratory of Music Acoustics and Technology (L
 
 ---
 
+<img src="../images/Bevilacqua.jpg" width="320" style="float:left" hspace="10">
+####Frédéric Bevilacqua
+is the head of the [Sound Music Movement Interaction team](http://ismm.ircam.fr/) at IRCAM in Paris (part of the joint research lab Science & Technology for Music and Sound – IRCAM – CNRS – Sorbonne Université). His research concerns the modeling and the design of interaction between movement and sound, and the development of gesture-based interactive systems.
+
+He holds a master degree in physics and a Ph.D. in Biomedical Optics from [EPFL](https://www.epfl.ch/) in Lausanne. He also studied music at the Berklee College of Music in Boston (and has participated in different music and media arts projects. From 1999 to 2003 he was a researcher at the Beckman Laser Institute at the University of California Irvine. In 2003 he joined IRCAM as a researcher on gesture analysis for music and performing arts.
+
+He co-authored more than 120 scientific publications and co-authored 5patents. His research projects and installations were presented internationally, including Centre Pompidou, MoMA (USA), ZKM (Allemagne), EMPAC (USA), YCAM (Japon). He was keynote or invited speaker at several international conferences such as the ACM TEI’13. In 2006 he was the co-chair of the International conference New Interfaces for Musical Expression. As the coordinator of the “Interlude project”, he was awarded in 2011 the 1st Prize of the Guthman Musical Instrument Competition (Georgia Tech) and received the award “prix ANR du Numérique” from the French National Research Agency (category Societal Impact, 2013).
+
+<br>
+
+---
+
 <img src="../images/Bio_GBloch.jpg" width="320" style="float:left" hspace="10">
 ####Georges Bloch
 composer and researcher, got an engineering degree before studying composition in U. C. San Diego (PH. D. in 1988). His compositions revolve around three centers of interest: music and space, interaction and collaboration with other artists. He is Associate professor at Strasbourg University and was instrumental in developing Tonmeister cursus in France, in Strasbourg and in Paris Conservatoire. Because of his interest for opera, he has been linked to music-theater productions as well as studies in film music. As researcher associated to Ircam in Paris, he actually works on the OMax/Somax/DYCI2 family of computer–assisted improvisation systems.
 
 <br><br><br><br>
+
+---
+
+<img src="../images/Blonk.jpg" width="320" style="float:left" hspace="10">
+####Jaap Blonk
+(born 1953 in Woerden, Holland) is a self-taught composer, performer and poet.
+He went to university for mathematics and musicology but did not finish those studies. In the late 1970s he took up saxophone and started to compose music.
+A few years later he discovered his potential as a vocal performer, at first in reciting poetry and later on in improvisations and his own compositions. For almost two decades the voice was his main means for the discovery and development of new sounds. From around the year 2000 on Blonk started work with electronics, at first using samples of his own voice, then extending the field to include pure sound synthesis as well.
+
+He took a year off of performing in 2006. As a result, his renewed interest in mathematics made him start a research of the possibilities of algorithmic composition for the creation of music, visual work and poetry.
+
+As a vocalist, Jaap Blonk is unique for his powerful stage presence and almost childlike freedom in improvisation, combined with a keen grasp of structure. He has performed around the world, on all continents. With the use of live electronics the scope and range of his concerts has acquired a considerable extension.
+
+Besides working as a soloist, he collaborated with many musicians and ensembles in the field of contemporary and improvised music, like Maja Ratkje, Mats Gustafsson, Joan La Barbara, The Ex, the Netherlands Wind Ensemble and the Ebony Band. He premiered several compositions by the German composer Carola Bauckholt, including a piece for voice and orchestra. A solo voice piece was commissioned by the Donaueschinger Musiktage. On several occasions he collaborated with visual computer artist Golan Levin, for the Ars Electronica Festival.
+
+Blonk's work for radio and television includes several commissioned radio plays.
+He also makes larger-scale drawings of his scores, as well as visual poetry, which is being exhibited.
+
+He has his own record label, Kontrans, featuring a total of 25 releases so far. Other Blonk recordings appeared on various labels, such as Staalplaat, Basta, VICTO, Ecstatic Peace, Monotype Records, Terp and Elegua Records.
+His book/CD 'Traces of Speech' was published in 2012 by Hybriden-Verlag, Berlin. Forthcoming is a sequel with the title "Traces of Cookery".
+A comprehensive collection of his sound poetry came out as a book with 2 CDs in 2013, entitled "KLINKT".
+
+<br>
 
 ---
 
@@ -157,6 +192,14 @@ scientific journals, books and conference proceedings. Website:
 <br>
 <br>
 <br>
+
+---
+
+<img src="../images/clement.canonne.gif" width="200" style="float:left" hspace="10">
+####Clément Canonne
+is a CNRS Researcher in the « Analysis of Musical Practices » team at IRCAM, working mainly on issues related to group improvisation. Recent publications include papers in Cognition, Empirical Musicology, Music Theory Online, Psychology of Music and Journal of New Music Research.
+
+<br><br><br><br><br><br><br><br><br>
 
 ---
 
@@ -370,12 +413,33 @@ is an associate of philosophy at McGill University, Montreal, specializing in th
 <br>
 
 ---
+<img src="../images/GLewis.jpg" width="320" style="float:left" hspace="10">
+####George Lewis
+is Professor of American Music at Columbia University. A Fellow of the American Academy of Arts and Sciences and the American Academy of Arts and Letters, and a Corresponding Fellow of the British Academy, Lewis’s other honors include a MacArthur Fellowship (2002) and a Guggenheim Fellowship (2015). Lewis's work has been presented by the BBC Scottish Symphony Orchestra, Ensemble Dal Niente, Ensemble Intercontemporain, London Philharmonia Orchestra, International Contemporary Ensemble, Musikfabrik, Mivos Quartet, London Sinfonietta, Spektral Quartet, and others. An Honorary Member of the American Musicological Society, his 2008 book, *A Power Stronger Than Itself:  The AACM and American Experimental Music* (University of Chicago Press) received the AMS Music in American Culture Award. Lewis is the co-editor of the two-volume *Oxford Handbook of Critical Improvisation Studies* (2016). Lewis holds honorary degrees from the University of Edinburgh, New College of Florida, and Harvard University.
+<br>[https://music.columbia.edu/bios/george-e-lewis](https://music.columbia.edu/bios/george-e-lewis)
+
+<br>
+
+---
 
 <img src="../images/Bio_BernardLubat.png" width="320" style="float:left" hspace="10">
 ####Bernard Lubat
 Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accordion player, singer, composer and actor, began studying piano in 1957, attending the Bordeaux Conservatory where he discovered the drums, jazz and Milt Jackson. In 1961, he entered the Paris Conservatory where in 1963 he was awarded the prize for best percussionist. He was then taken on by the Jef Gilson Orchestra (1965) where he came into contact with Michel Portal, Bernard Vitet, François Jeanneau, Jean-Louis Chautemps, Henri Texier… He worked with Jean-Luc Ponty and Martial Solal, as a vibraphonist and for Stan Getz and Eddy Louiss as a drummer. At the same time he worked in contemporary music with Diego Masson, playing Varèse, Bartok, Xenakis, he took part in the premier of Luciano Berio's work Chemin 2 at the Scala de Milan and in the recording of Laborintus. In 1975, he established a group with André Ceccarelli, Marc Bertaux and Tony Bonfils. In 1978, he went on to set up the Festival Uzeste Musical (summer festival) and the Compagnie Lubat, a group with a changeable number of players. At the beginning of the 90s, he launched the festival de printemps and the festival d'hiver set up in cooperation with the Cie Lubat artists with Laure Duthilleul (actress), André Minvielle (singer and musician) and Patrick Auzier (musician and  firework designer) and the publishing house, Les Editions du Tilleul, for the production of CDs. Bernard Lubat and his company tour all over France and abroad. He has also been a musical expert working on the OMax/ImproteK/Djazz project in collaboration with IRCAM and EHESS.
 <br>
 [www.cie-lubat.org](http://www.cie-lubat.org)
+
+<br>
+
+---
+
+<img src="../images/Nauseef.jpg" width="320" style="float:left" hspace="10">
+####Mark Nauseef
+Percussionist Mark Nauseef has performed and/or recorded for more than fifty years in an unusually wide variety of musical situations with many leading musicians of various genres from around the world such as, among others, Jack Bruce, Evan Parker, Ikue Mori, L.Shankar, Hamza El Din, Lou Harrison, Bill Laswell, The Velvet Underground, Kyai Kunbul (Javanese Gamelan), Joachim Kühn, The Ladzekpo Brothers (Ghanaian music and dance), The Gamelan Orchestra of Saba (Balinese Gamelan) and Kudsi Erguner.
+
+Nauseef attended the California Institute Of The Arts (CalArts) where he studied Javanese Gamelan with K.R.T. Wasitodiningrat, Balinese Gamelan with I. Nyoman Wenten, North Indian Pakhawaj drumming with Pandit Taranath Rao, North Indian music theory with Pandit Amiya Dasgupta, Ghanaian drumming and dance with Kobla and Alfred Ladzekpo, Dzidzorgbe Lawluvi and C.K. Ganyo, and 20th Century Western percussion techniques and hand drumming with John Bergamo. Mark also studied frame drum techniques of the Middle East, India and the Caucasus with Glen Velez.
+
+Nauseef has also worked as a producer. In addition to his own recordings, he has produced many records of various types of music including modern experimental forms as well as traditional forms. Traditional music productions include numerous recordings of traditional Balinese and Javanese music such as the acclaimed and award winning “The Music of K.R.T. Wasitodiningrat”, which was recorded in Java and features the compositions of this master Javanese musician. Other examples include Balinese ensemble recordings “Gamelan Batel Wayang Ramayana” and “Gender Wayang Pemarwan”, which were recorded in Bali.
+<br> [http://www.marknauseef.com](http://www.marknauseef.com)
 
 <br>
 
@@ -565,6 +629,19 @@ Presenting "jazz mapping AI & Robotics" for Singularity Summit Greece November 2
 <img src="../images/Wilson-Bokowiec.jpg" width="280" style="float:left" hspace="10">
 ####Julie Wilson-Bokowiec
 is a performer, writer and media artist. She is an accomplished physical performer and musician and has worked with such luminaries as Lindsey Kemp, the Austrian artist Hermann Nitsch and Genesis P-Orridge among others. She has created new works in opera, contemporary dance, performance art and theatre including: *The Red Room* (Canal Café Theatre) nominated for the Whitbread London Fringe Theatre Prize (best production), *Dorian Grey* (LBT/Opera North) and *The Last Cuckoo* nominated for the 20th Mayer-Whitworth Award (Royal National Theatre). Julie is the sole performer of an extensive repertoire of works for the Bodycoder System that range from large theatrical works such as *Spiral Fiction* commissioned by Digital Summer as part of the cultural programme of the Commonwealth Games, Manchester and shorter concert pieces including *Cyborg Dreaming* commissioned by the Science Museum, London, *Lifting Bodies* (The Trafo Theatre, Budapest) and *Zeitgeist* for KlangArt, Osnabruek. Works for voice and Bodycoder system including *Vox Circuit Trilogy *and most recently *V’Oct*(Ritual) and *Pythia:Delphine21* created in residency in Athens and premiered at the International Animart Festival in Delphi Greece 2016. Julie is a regular guest practitioner at the University of Manchester and Manchester MMU.
+
+<br>
+
+---
+<img src="../images/mattwright.jpg" width="280" style="float:left" hspace="10">
+####Matt Wright
+works internationally as a composer, improviser and sound artist at the edges of concert and club culture. His output stretches from scores for early music ensembles and contemporary chamber groups to digital improvisation, experimental turntablism and website installations to collaborations with dance, theatre and film. As a performer he works with turntables, laptops and surround sound installations to create post-DJ, multichannel music embracing hip hop, avant and improvised traditions. His lives in Canterbury, where he runs the annual WINTERSOUND experimental music and sound festival. 
+
+He works closely with Evan Parker in their live/studio project Trance Map and Trance Map+ (featuring guests such as Toma Gouband, Peter Evans, Spring Heel Jack and Mark Nauseef); with Ensemble Klang in The Hague (including the albums Music at the Edge of Collapse and Cold Highlife); with the Brussels-based Bl!ndman ensemble and composer Eric Sleichim (including NETWORK, directed by Ivo van Hove and starring Breaking Bad actor Bryan Cranston, as well as Beyond/Behind with soprano Claron McFadden); with Champ D'Action in Antwerp (including the LABO international arts residency); with The Six Tones based in Stockholm and Hanoi; with Ensemble Offspring in Sydney; with CEPROMusic in Mexico City and as guest with the Alexander Hawkins Ensemble (on the record 'Unit[e]'); as well as duo projects with Irreversible Entanglements saxophonist Keir Neuringer (Speak Cities), The Chap's Panos Ghikas (Unrealtime Combat), violinist/composer Roger Redgate (Single Combat) and saxophonist/composer Robert Stillman (The Wheel, BBC Radio 3's Exposure Ramsgate). 
+
+His work has been presented at the Sydney Opera House, Le Poisson Rouge (New York), the Muziekcentrum an ‘t IJ (Amsterdam), The Kim Ma Theatre (Vietnam) and Abbey Road Studios, Tate Britain and Tate Modern. He has been commissioned by organisations such as The Huddersfield Contemporary Music Festival (hcmf//) and the MATA Festival (New York), his work being regularly broadcast on radio across Europe, but also including a two-hour focus on his work on the ABC Network in Australia. Reviews of his projects have appeared in the New York Times, the Sydney Morning Herald, Vietnam Today and the Financial Times. He remixed Robert Wyatt's Cuckooland album into a concert-length collaboration with Elaine Mitchener, Tony Hymas and the Brodsky Quartet, and Totem for Den Haag was selected to represent UK new music in Mexico City in 2015. His work is presented on Psi, Migro, Ensemble Klang, Extra Normal and Intakt.
+
+He studied Composition with Richard Steinitz and with Christopher Fox at the University of Huddersfield; with Steve Martland in London, Louis Andriessen, Martijn Padding and Richard Ayres at The Royal Conservatory of the Netherlands and with Roger Redgate at Goldsmiths College, London. Matt is a Professor of Composition and Sonic Art at Canterbury Christ Church University, regularly gives guest lectures across the UK and Europe and is an Associate Researcher at the Orpheus Institute, Ghent. 
 
 <br>
 
