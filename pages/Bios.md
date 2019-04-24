@@ -468,6 +468,18 @@ He works at the Greek National School of Dance. Ηe has been involved in the tea
 
 ---
 
+<img src="../images/PierreSaintGermier.jpg" width="250" style="float:left" hspace="10">
+####Pierre Saint-Germier
+holds a PhD in philosophy. His interests range over various areas of philosophy, from logic and metaphysics to cognitive science and the philosophy of music. He presently works as a postdoctoral researcher at IRCAM in the project "Musical Improvisation and Collective Action". There, he investigates conceptual analyses of improvisation as an action concept and the way theories of the cognitive architecture of joint action can accommodate the phenomenon of improvisation, taking musical improvisation as a test case. Another question that animates his thoughts is how concepts of agentivity, sociality and normativity apply to the behavior of artificial entities such as software and robots. When he’s bored with philosophy, he also performs jazz and improvised music.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
 <img src="../images/Serra.jpg" width="250" style="float:left" hspace="10">
 ####Xavier Serra
 is a Professor of the Department of Information and
