@@ -75,7 +75,7 @@ University of Athens.
 
 ---
 
-<img src="../images/Anagnostopoulou.png" width="320" style="float:left" hspace="10">
+<img src="../images/Anagnostopoulou.png" width="241" style="float:left" hspace="10">
 ####Christina Anagnostopoulou 
 is a musicologist and associate professor in music informatics at the Department of Music Studies, University of Athens. Her PhD (Edinburgh) was on computational and cognitive modeling of music analysis. She has taught at the Universities of Edinburgh, Glasgow, and Queen’s Belfast, where she got tenure. Her research interests include computational music analysis, and music in the community. She is also the director of the Music Cognition, Computation and Community (MCCC) Lab in Athens. 
 
@@ -87,7 +87,7 @@ is a musicologist and associate professor in music informatics at the Department
 
 ---
 
-<img src="../images/AretiAndreopoulou.jpg" width="320" style="float:left" hspace="10">
+<img src="../images/AretiAndreopoulou.jpg" width="241" style="float:left" hspace="10">
 ####Areti Andreopoulou
 is an Assistant Professor in the Laboratory of Music Acoustics and Technology (LabMAT) at the University of Athens, Greece. She has a bachelor’s degree in music studies from the University of Athens (2005) and a Master’s (2008) and a Ph.D degree (2014) in music technology from New York University. Her fields of interest include spatial audio, the design and evaluation of immersive environments, auditory displays, acoustics, and data sonification.
 
@@ -147,7 +147,7 @@ A comprehensive collection of his sound poetry came out as a book with 2 CDs in 
 
 ---
 
-<img src="../images/Bokowiec.jpg" width="280" style="float:left" hspace="10">
+<img src="../images/Bokowiec.jpg" width="241" style="float:left" hspace="10">
 ####Mark Bokowiec 
 Composer & interactive systems designer
 
@@ -157,7 +157,7 @@ Mark is a composer and electronics / interactive systems designer. He is the man
 
 ---
 
-<img src="../images/Brown.jpg" width="320" style="float:left" hspace="10">
+<img src="../images/Brown.jpg" width="241" style="float:left" hspace="10">
 ####Daniel Brown
 is the founder of Intelligent Music Systems, a company that develops computer-composed music software for interactive systems. He is also a composer, cellist, and educator. Daniel received a Doctorate of Musical Arts in Composition from the University of California at Santa Cruz in 2012, where he studied under David Cope and Paul Nauert, and a Bachelor of Science in Discrete Mathematics from the Georgia Institute of Technology (USA).  Aside from his training in Western music in the USA, he has studied non-Western musics in India, Korea, and Turkey. His compositions have been performed in the US, Japan, Korea, India, and Central America.
 
@@ -171,7 +171,7 @@ is the founder of Intelligent Music Systems, a company that develops computer-co
 
 ---
 
-<img src="../images/Cambouropoulos.jpg" width="320" style="float:left" hspace="10">
+<img src="../images/Cambouropoulos.jpg" width="241" style="float:left" hspace="10">
 ####Emilios Cambouropoulos
 is currently Associate Professor of Musical
 Informatics at the School of Music Studies, Aristotle University of
@@ -203,7 +203,7 @@ is a CNRS Researcher in the « Analysis of Musical Practices » team at IRCAM, w
 
 ---
 
-<img src="../images/Bio_MarcChemillier.png" width="320" style="float:left" hspace="10">
+<img src="../images/Bio_MarcChemillier.png" width="241" style="float:left" hspace="10">
 ####Marc Chemillier 
 was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pierre Cornevin at the Schola Cantorum in Paris. Later he received a PhD in Computer Science and also has degrees in Mathematics, Musicology, Philosophy and Anthropology. He has been conducting fieldwork among the Nzakara of Central African Republic to study their harp music, and in Madagascar to work on the ethnomathematics of divination, and the trance music of the zither. Now Director of Studies at the EHESS in Paris (School for Advanced Studies in Social Sciences), his main interests focus on the design of a family of improvisation softwares in collaboration with IRCAM (OMax/ImproteK/Djazz), and their use in real live performances to study the impact of such devices in the social context of jazz concerts or traditional music rituals.
 <br>
@@ -228,6 +228,24 @@ was born in 1970, he studied instrumental composition, electroacoustic music, mu
 has studied piano, contemporary singing, theory of music, harmony, counterpoint, fugue and orchestration at the National Conservatory of Athens. He holds a Master’s of Arts Degree from the City University London, specializing in the field of Composing for Moving Images, and an Integrated Master’s Degree from the Department of Music at the National and Kapodistrian University. He has also completed a Bachelor’s Degree in Informatics and Telecommunications at the National and Kapodistrian University. He has composed music for theatrical plays, teaches at the Municipal Conservatory of Aspropyrgos and performs at various venues in Greece.
 
 <br><br>
+
+---
+
+<img src="../images/genevois.jpg" width="320" style="float:left" hspace="10">
+####Hugues Genevois 
+is a researcher in musical acoustics, within the LAM team, at the Institut Jean le Rond d'Alembert (Sorbonne Université - CNRS).
+
+With a scientific background (Master of Science in Physics and Telecom ParisTech Engineering School), Hugues Genevois, became interested very early in musical composition and possibilities offered by computers for sound synthesis. However, if his tastes willingly lead him to concrete music and music from the Far East, it is through contact with Iannis Xenakis that he decides to deepen his writing work.
+
+After having produced numerous pieces of music on support, his interest in instrumental practice (electric guitar, cello, keyboards) led him to explore the expressive possibilities of the computer. His research focuses in particular on new lutheries and musician/instrument interaction.
+
+It was in 1997, during a symposium organized with the GMEM, in Marseilles, that he addressed what would later become the main theme of his research: the musical gesture. His approach is poetic as well as technical. It is in this context that he uses for the first time the term calliphony, a sonic and musical equivalent of *calligraphy*, in its Far Eastern sense.
+
+Also an improviser, he performs in various formations: *ONE* (electroacoustic septet), the *Méta-Orchestre*, the trios *Déjà-Là* (with Laurence Bouckaert and Michel Risse) and *Les complémentaires* (with György Kurtag jr. and Jean Haury), and in duet (*Moon Module* with Laurence Bouckaert, and *Ouï-Ouï* with Marie-Hélène Grimigni). He also founded the experimental rock group *Poppy NoGood*.
+
+<br>
+<br>
+<br>
 
 ---
 
