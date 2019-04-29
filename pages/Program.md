@@ -26,6 +26,8 @@ George Lewis
 ##### 20:30 - 22:30
 #### Concert #1
 
+*Program Notes*]({filename}/pages/ProgramNote-Concert1.md)
+
 Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
 
 Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
