@@ -15,6 +15,8 @@ He has studied music, mathematics, music technology and computer programming. Hi
 
 [http://www.phosduo.com]() / [https://soundcloud.com/samiamiris/albums]()
 
+<br>
+
 ---
 
 <img src="../images/Antoniadis.jpg" width="320" style="float:left" hspace="10">
@@ -72,6 +74,8 @@ University of Athens.
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ---
 
@@ -79,9 +83,6 @@ University of Athens.
 ####Christina Anagnostopoulou 
 is a musicologist and associate professor in music informatics at the Department of Music Studies, University of Athens. Her PhD (Edinburgh) was on computational and cognitive modeling of music analysis. She has taught at the Universities of Edinburgh, Glasgow, and Queen’s Belfast, where she got tenure. Her research interests include computational music analysis, and music in the community. She is also the director of the Music Cognition, Computation and Community (MCCC) Lab in Athens. 
 
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -98,9 +99,7 @@ is an Assistant Professor in the Laboratory of Music Acoustics and Technology (L
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 ---
 
@@ -167,7 +166,6 @@ is the founder of Intelligent Music Systems, a company that develops computer-co
 <br>
 <br>
 <br>
-<br>
 
 ---
 
@@ -188,18 +186,18 @@ scientific journals, books and conference proceedings. Website:
 
 <br><br><br><br><br><br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
 <img src="../images/clement.canonne.gif" width="200" style="float:left" hspace="10">
 ####Clément Canonne
-is a CNRS Researcher in the « Analysis of Musical Practices » team at IRCAM, working mainly on issues related to group improvisation. Recent publications include papers in Cognition, Empirical Musicology, Music Theory Online, Psychology of Music and Journal of New Music Research.
+I am a CNRS researcher in the « Analysis of Musical Practices » team at IRCAM since 2015. My researches are mainly focused on collective free improvisation, bringing perspectives from ethnography and experimental psychology. Recent publications on this topic include papers in *Cognition, Music Theory Online, Empirical Musicology Review, Revue de Musicologie, Psychology of Music and Journal of New Music Research*. 
 
-<br><br><br><br><br><br><br><br><br>
+I am also interested in the philosophy of music – in collaboration Pierre Saint-Germier, I have translated in French two volumes of essays from the American philosopher Jerrold Levinson (Vrin, 2015 & 2019)– and in the empirical approaches of aesthetic issues.
+
+I am currently working on two large scale projects: the ANR-funded project « Musical Improvisation and Collective Action » (2018-2021), which aims to study joint action and emergent coordination through the lens of free improvisation; and an ethnographic inquiry into the material aspects of improvisers’ instrumental practices across many different genres (baroque, jazz, sound art, free improvisation and traditional music).
+
+<br><br><br>
 
 ---
 
@@ -209,7 +207,7 @@ was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pie
 <br>
 [improtekjazz.org](http://improtekjazz.org) / [digitaljazz.fr](http://digitaljazz.fr)
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 ---
 
@@ -219,7 +217,7 @@ was born in 1970, he studied instrumental composition, electroacoustic music, mu
 <br>
 [www.pierrecouprie.fr](http://www.pierrecouprie.fr)  / [logiciels.pierrecouprie.fr](http://logiciels.pierrecouprie.fr)
 
-<br><br><br><br>
+<br><br>
 
 ---
 
@@ -228,6 +226,15 @@ was born in 1970, he studied instrumental composition, electroacoustic music, mu
 has studied piano, contemporary singing, theory of music, harmony, counterpoint, fugue and orchestration at the National Conservatory of Athens. He holds a Master’s of Arts Degree from the City University London, specializing in the field of Composing for Moving Images, and an Integrated Master’s Degree from the Department of Music at the National and Kapodistrian University. He has also completed a Bachelor’s Degree in Informatics and Telecommunications at the National and Kapodistrian University. He has composed music for theatrical plays, teaches at the Municipal Conservatory of Aspropyrgos and performs at various venues in Greece.
 
 <br><br>
+
+---
+
+<img src="../images/fox.jpg" width="320" style="float:left" hspace="10">
+####Rémi Fox 
+Saxophonist, improviser and composer, Rémi Fox is part of this new generation of artist who wishes to make the jazz a resolutely contemporary music. He graduated from the Department Jazz and improvised music from the CNSMD of PARIS where he had the opportunity to build a strong musical experience, along with great musicians (being of his generation or more experienced one). All these encounters gave him the opportunity to take part in a great variety of projects, and develop a rich and open musical universe, while strengthening his own personality. During his studies, he entered the Department of Improvisation Generative of CNSMDP (directed by Vincent Lê Quang and Alexandros Markeas) to discover new ways of playing, and to begin with sound textures experimentation. During those years, he always seeked to confront his music to other forms of Art such as dance, video or Visual arts, leading to enriching collaborations with IRCAM, CNC (National Film and the moving image Centre) or Theatres. The “nOx project” (nOx.3, nOx.6, nOx.8), started in 2013, embodies Remi’s wish to now create its own path and musical personality. Through this innovative series, the young artist offers a smart mix between improvisation, contemporary electronic music, and genuine “nOxian” melodies.<br> [www.nox3.net](www.nox3.net)
+
+<br>
+<br>
 
 ---
 
@@ -243,7 +250,6 @@ It was in 1997, during a symposium organized with the GMEM, in Marseilles, that 
 
 Also an improviser, he performs in various formations: *ONE* (electroacoustic septet), the *Méta-Orchestre*, the trios *Déjà-Là* (with Laurence Bouckaert and Michel Risse) and *Les complémentaires* (with György Kurtag jr. and Jean Haury), and in duet (*Moon Module* with Laurence Bouckaert, and *Ouï-Ouï* with Marie-Hélène Grimigni). He also founded the experimental rock group *Poppy NoGood*.
 
-<br>
 <br>
 <br>
 
@@ -324,8 +330,6 @@ is currently an Adjunct Lecturer and the Department of Audio and Visual Arts, Io
 ####Orestis Karamanlis
 Born in Athens, Greece. Upon completing a PhD in electroacoustic composition Orestis has been active in composing new music and lecturing in the academia. Currently a scholar at the University of Athens and a visiting fellow at Bournemouth University, he has produced a diverse body of sound-art and new media work which is frequently performed in concert venues and urban spaces. orestiskaramanlis.net.
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -437,6 +441,11 @@ is Professor of American Music at Columbia University. A Fellow of the American 
 <br>[https://music.columbia.edu/bios/george-e-lewis](https://music.columbia.edu/bios/george-e-lewis)
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -498,6 +507,30 @@ holds a PhD in philosophy. His interests range over various areas of philosophy,
 
 ---
 
+<img src="../images/sellin.jpeg" width="312" style="float:left" hspace="10">
+####Hervé Sellin
+
+Né en 1957.<br>
+Etudes classiques au CNSM de Paris (piano, musique de chambre, harmonie, analyse). Double prix de piano et musique de chambre en 1980 dans la classe d’Aldo Ciccolini.<br>
+Se dirige ensuite vers une carrière dans le jazz ce qui le conduira à jouer aux côtés de  Art Farmer, Slide Hampton, Chet Baker, Dizzy Gillespie, Clifford Jordan…<br>
+Pianiste attitré de Johnny Griffin pendant plus de 15 ans.<br>
+Accompagne Dee Dee Bridgewater de 1986 à 1990.<br>
+Prix Django Reinhardt en 1990 pour ses activités de soliste, compositeur et arrangeur.<br>
+Enregistre avec Branford Marsalis en 1991 (Sony music)<br>
+Album en piano solo “thèmes et variations” en 2000 (Jazz aux Remparts/ Night & Day).<br>
+De 2002 à 2006, en tournée avec le groupe de Richard Galliano « Piazzolla forever » : 300 concerts dans le monde, un CD et un DVD (2003/2006) chez Dreyfus Jazz.<br>
+Invité par Wynton Marsalis au Lincoln Center de New-york en octobre 2003 pour y créer une suite pour Tentet.<br>
+(Photo J.B.Millot)
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
 <img src="../images/Serra.jpg" width="250" style="float:left" hspace="10">
 ####Xavier Serra
 is a Professor of the Department of Information and
@@ -518,6 +551,7 @@ fields. He was awarded an Advanced Grant from the European Research
 Council to carry out the project CompMusic aimed at promoting
 multicultural approaches in music information research.
 
+<br>
 <br>
 
 ---
@@ -584,6 +618,8 @@ is a research associate and teaching fellow at the Department of Music Studies, 
 ####Panagiotis E. Tsagkarakis
 Born in Athens, 1975. He studied in the field Audio technology BSc in Salford University (UK) and specialized in real time audio processes and synthesis in interactive environments M.Eng Ionian University (GR). The last few years, his research was focused in immaterial interfaces for interactive performances in the ancient Greek drama, creating interactive prosodic tools and gestural sonification. This research was published both in scientific journals (International Journal of Music New Sound - 2019, International Journal of Music Science, Technology and Art – 2018) and conferences (International Conferences on New Music Concepts - 2018, Sonic and Music Computing Conference - 2018, Digital Culture and Audiovisual Challenges - 2018). In the last decade he designed many Interactive systems for new media theatrical and contemporary dance projects. He developed technologies applicable to each occasion in order to fulfill the given needs. This included the selection of sensor technologies and programming platform as well as programming the sound synthesis engine to produce inspiring and responsive sonic outcome. Part of everyday life was field recordings and audio processing to create the original sound design material.
 
+<br>
+<br>
 <br>
 
 ---
