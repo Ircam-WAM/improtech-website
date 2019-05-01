@@ -147,7 +147,7 @@ Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Om
 
 Lara Morciano: *Philiris* (piano, motion capture, transducers and real-time electronics) 
 
-George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin, live electronic, voyager System)
+George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin/MUGIC™ sensor, live electronic, voyager System)
 
 Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin)
 
@@ -255,7 +255,7 @@ This workshop introduces techniques of improvisation with wearable movement sens
 
 Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert*, (voice, piano, DYCI2 system)
 
-Mark Bokowiec, Julie Wilson - Bokowiec: *HEXIS* (soloist, Bodycoder System and multi-channel diffusion)
+Mark Bokowiec, Julie Wilson - Bokowiec: *Kinaesonic* (Bodycoder System)
 
 Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz system)
 
@@ -337,3 +337,4 @@ UOA Cultural building Kostis Palamas
   <img src="../images/IKPoster_frag10.png" width="300">
    <br><br>
 </p>
+f

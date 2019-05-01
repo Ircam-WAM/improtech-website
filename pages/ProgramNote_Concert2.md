@@ -13,7 +13,7 @@ Status: Hidden
 
 #### George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin, live electronic, voyager system)
 
-#### Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin)
+#### Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin/MUGIC™ sensor)
 
 #### Rémy Fox, J. Nika (saxs, DYCI2 system)
 
@@ -41,7 +41,7 @@ Chords played in the air are triggered by the motion tracking of both hands ; th
 Voyager: Interactive Quintet (2007/2019)
 
 Evan Parker: saxophones<br>
-Mari Kimura: violin<br>
+Mari Kimura: violin/MUGIC™ sensor<br>
 Stylianos Dimou: live electronics<br>
 George Lewis : trombone, laptop<br>
 Voyager : interactive computer pianist
