@@ -2,8 +2,6 @@ title: Program
 
 ## IMPROTECH Paris -  &Alpha;&theta;&eta;&nu;&alpha; 2019
 
-XXXXXXXXXXXXX
-
 <br>
 <br>
 <br>
