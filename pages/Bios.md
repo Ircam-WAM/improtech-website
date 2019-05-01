@@ -231,6 +231,10 @@ Saxophonist, improviser and composer, Rémi Fox is part of this new generation o
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -435,6 +439,8 @@ is an associate of philosophy at McGill University, Montreal, specializing in th
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ---
 <img src="../images/GLewis.jpg" width="320" style="float:left" hspace="10">
@@ -526,8 +532,6 @@ s
 (Photo J.B.Millot)
 
 
-<br>
-<br>
 <br>
 <br>
 <br>
