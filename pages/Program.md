@@ -144,6 +144,8 @@ The workshop includes a short-term performance presenting the interactive platfo
 ##### 20:30
 #### Concert #2
 
+[*Program Notes*]({filename}/pages/ProgramNote_Concert2.md)
+
 Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
 
 Lara Morciano: *Philiris* (piano, motion capture, transducers and real-time electronics)
@@ -253,6 +255,8 @@ This workshop introduces techniques of improvisation with wearable movement sens
 
 ##### 20:30
 #### Concert #3
+
+[*Program Notes*]({filename}/pages/ProgramNote_Concert3.md)
 
 Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert*, (voice, piano, DYCI2 system)
 
