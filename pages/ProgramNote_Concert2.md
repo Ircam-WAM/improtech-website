@@ -7,15 +7,15 @@ Status: Hidden
 **September 27, 20:30** *Onassis Cultural Center*  
 <br>
 
-#### Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
+Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
 
-#### Lara Morciano: *Philiris* (piano, motion capture, transducers and real-time electronics)
+Lara Morciano: *Philiris* (piano, motion capture, transducers and real-time electronics)
 
-#### George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin, live electronic, voyager system)
+George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin, live electronic, voyager system)
 
-#### Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin/MUGIC™ sensor)
+Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin/MUGIC™ sensor)
 
-#### Rémy Fox, J. Nika (saxs, DYCI2 system)
+Rémy Fox, J. Nika (saxs, DYCI2 system)
 
 <br>
 <br>
