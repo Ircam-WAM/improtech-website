@@ -467,6 +467,19 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 
 ---
 
+<img src="../images/michelle.jpg" width="320" style="float:left" hspace="10">
+####Michelle Agnes Magalhaes 
+is a Brazilian composer whose music explores the limits between gesture and writing, composition and improvisation. She focus on raw materials, creating complex sounds inside forms that are geometric and structured. Magalhaes also places a high premium on the engagement of the musician's body with her performance, as well as new approaches to traditional instruments and instrumentation. Her compositions are about sound production and physicality. After studying musical composition at the University of Sao Paulo, she received regular compositions lessons from Salvatore Sciarrino (Accademia Chigiana di Siena and Conservatorio Statale di Musica, Latina). She has been awarded fellowships, residences and commissions from Radcliffe Institute (Harvard University), Fapesp, Unesco, Camargo Foundation, Villa Sträuli, Brazilian Culture Minister, Fondazione Giorgio Cini Venezia, Ernst-von-Siemens-Musikstiftung and IRCAM. She has collaborated as a composer with numerous ensembles (Abstraï, Percorso Ensemble, Arsenale, Accroche Note, Promenade Sauvage, ECCE, Bahia Blanca Soloists, Quarteto Prometeo, Flame Ensemble, Ensemble TaG Neue Musik, 20° dans le noir, Talea Ensemble, Ensemble L'Itinéraire, Schallfeld Ensemble and Ensemble Multilatérale. Actually she is artist in residence at IRCAM to develop an interactif collective work in collaboration with ISMM team and Frédéric Bevilacqua, with the support of the VERTIGO project (STARTS program of the European Commission).<br>
+She lives and works in Paris.
+<br>
+[https://www.michelleagnes.net](https://www.michelleagnes.nets)
+
+<br>
+<br>
+<br>
+
+---
+
 <img src="../images/morciano.jpg" width="250" style="float:left" hspace="10">
 ####Lara Morciano 
 began studying the piano at a young age and obtained her diploma with the highest distinctions at the age of 16 at the Conservatory Tito Schipa in Lecce, Italy. Parallel to her concert activities, she studied composition at the Conservatory Santa Cecilia in Rome, where she earned several diplomas (Composition, Choral music and Choral Conducting, Piano reduction of scores and Analysis), subsequently earning her Master in Composition with Franco Donatoni at the Santa Cecilia's National Academy. In France, after a Diploma of Composition obtained at the Strasbourg’s Conservatory (in the class of Ivan Fedele) she attended in 2005-2006 the Cursus of composition and computer music of Ircam. In 2009 she was awarded a Master of the Arts in Musicology at the University of Paris 8, followed by a PhD in Sciences, Arts, Creation and Research (*SACRe*) at PSL Research University, ENS, CNSMDP and Ircam, under the direction of Gérard Assayag.<br>
