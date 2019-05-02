@@ -7,15 +7,15 @@ Status: Hidden
 **September 26, 20:30** *Onassis Cultural Center*  
 <br>
 
-#### Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
+Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
 
-#### Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
+Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
 
-#### Steve Lehman, J. Nika (saxs, DYCI2 system)
+Georg Hajdu: *Just Her - Jester - Gesture* (Lin Chen, augmented kalimba ; Georg Hajdu, live electronics),
 
-#### Georg Hajdu: *Just Her - Jester - Gesture* (Lin Chen : kalimba ;  Georg Hajdu : computer & live electronics)
+Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
 
-#### Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
+Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy : *Omax & co* (Jazz ensemble, omax, dyci2)
 
 <br>
 <br>

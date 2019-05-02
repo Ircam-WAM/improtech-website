@@ -7,15 +7,15 @@ Status: Hidden
 **September 28, 20:30** *Onassis Cultural Center*  
 <br>
 
-#### Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert*, (voice, piano, DYCI2 system)
+Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert*, (voice, piano, DYCI2 system)
 
-#### Mark Bokowiec, Julie Wilson - Bokowiec: *HEXIS* (soloist, Bodycoder System and multi-channel diffusion)
+Mark Bokowiec, Julie Wilson - Bokowiec: *Kinaesonic* (Bodycoder System)
 
-#### Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz system)
+Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz system)
 
-#### Orestis Karamanlis, Areti Andreopoulou (UOA): *Traditional musicians* (Laptop / musicians performance)
+Orestis Karamanlis, Areti Andreopoulou (UOA): *Traditional musicians* (Laptop / musicians performance)
 
-#### Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy : *Omax & co* (Jazz ensemble, omax, dyci2)
+Steve Lehman, J. Nika (saxs, DYCI2 system)
 
 <br>
 <br>

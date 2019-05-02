@@ -31,11 +31,11 @@ Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, 
 
 Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
 
-Steve Lehman, J. Nika (saxs, DYCI2 system)
-
-Georg Hajdu: *Just Her - Jester - Gesture* (for kalimba and electronics)
+Georg Hajdu: *Just Her - Jester - Gesture* (Lin Chen, augmented kalimba ; Georg Hajdu, live electronics),
 
 Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
+
+Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy : *Omax & co* (Jazz ensemble, omax, dyci2)
 
 
 <br>
@@ -143,13 +143,14 @@ The workshop includes a short-term performance presenting the interactive platfo
 
 ##### 20:30
 #### Concert #2
+
 Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
 
 Lara Morciano: *Philiris* (piano, motion capture, transducers and real-time electronics)
 
-George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin/MUGIC™ sensor, live electronic, voyager System)
+George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin, live electronic, voyager system)
 
-Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin)
+Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin/MUGIC™ sensor)
 
 Rémy Fox, J. Nika (saxs, DYCI2 system)
 
@@ -261,7 +262,7 @@ Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz s
 
 Orestis Karamanlis, Areti Andreopoulou (UOA): *Traditional musicians* (Laptop / musicians performance)
 
-Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy : *Omax & co* (Jazz ensemble, omax, dyci2)
+Steve Lehman, J. Nika (saxs, DYCI2 system)
 
 <br>
 <br>
