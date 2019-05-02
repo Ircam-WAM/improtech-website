@@ -1,4 +1,4 @@
-Title: Program Notes Concert  #1
+Title: Program Notes Concert 1
 Status: Hidden
 
 <br>
@@ -57,7 +57,3 @@ Just Her – Jester – Gesture will be performed by Hamburg-based percussionist
 <p align="center">
 <img src="../images/IKPoster_frag20.png" width="125" >
 </p>
-
-
-
-

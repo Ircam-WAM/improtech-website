@@ -25,7 +25,7 @@ George Lewis
 ##### 20:30 - 22:30
 #### Concert #1
 
-[*Program Notes*]({filename}/pages/ProgramNote-Concert1.md)
+[*Program Notes*]({filename}/pages/ProgramNote_Concert1.md)
 
 Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
 
@@ -145,7 +145,7 @@ The workshop includes a short-term performance presenting the interactive platfo
 #### Concert #2
 Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
 
-Lara Morciano: *Philiris* (piano, motion capture, transducers and real-time electronics) 
+Lara Morciano: *Philiris* (piano, motion capture, transducers and real-time electronics)
 
 George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin/MUGIC™ sensor, live electronic, voyager System)
 
@@ -314,7 +314,7 @@ Improvisation is a practice free from any pre-established system, based mainly i
 #### Improvising (with) awkwardness
 Danae Stefanou
 
-In modern Greek, the term “amechania” roughly translates as “awkwardness”. It owes its name to the ancient Greek deity of Helplessness, a spirit linked to times of crisis and want. Literally translatable as a “de-machination”, it essentially describes the critical state when a mechanism fails, and otherwise automated procedures are rendered inoperative. Yet, unreliable systems and failing machines, whether in the form of technological apparatuses or cognitive procedures, also tend to yield their own unforeseen byproducts. When a machine is de-instrumentalised, when its prescribed function is not executable and its use no longer discernible, divisions between subject and object, freedom and control, process and product may be more easily exposed, unpacked, and relativized. Discussing such liminal instances in recent examples of improvised music, I examine the broader theoretical implications of this concept, with reference to the work of Giorgio Agamben and Donna Haraway among others, and propose an active exploration of amechania as a positive aspiration for experimental and improvised music-making in the age of machinic capitalism. 
+In modern Greek, the term “amechania” roughly translates as “awkwardness”. It owes its name to the ancient Greek deity of Helplessness, a spirit linked to times of crisis and want. Literally translatable as a “de-machination”, it essentially describes the critical state when a mechanism fails, and otherwise automated procedures are rendered inoperative. Yet, unreliable systems and failing machines, whether in the form of technological apparatuses or cognitive procedures, also tend to yield their own unforeseen byproducts. When a machine is de-instrumentalised, when its prescribed function is not executable and its use no longer discernible, divisions between subject and object, freedom and control, process and product may be more easily exposed, unpacked, and relativized. Discussing such liminal instances in recent examples of improvised music, I examine the broader theoretical implications of this concept, with reference to the work of Giorgio Agamben and Donna Haraway among others, and propose an active exploration of amechania as a positive aspiration for experimental and improvised music-making in the age of machinic capitalism.
 
 ##### 13:30
 #### Round table & closing address

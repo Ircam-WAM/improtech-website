@@ -1,4 +1,4 @@
-Title: Program Notes Concert  #3
+Title: Program Notes Concert 3
 Status: Hidden
 
 <br>
@@ -24,8 +24,8 @@ Status: Hidden
 <img src="../images/IKPoster_frag19.png" width="125" >
 </p>
 
-####Mark Bokowiec, Julie Wilson - Bokowiec 
-*HEXIS* (2019 World Premiere) 
+####Mark Bokowiec, Julie Wilson - Bokowiec
+*HEXIS* (2019 World Premiere)
 
 Soloist, Bodycoder System and multi-channel diffusion.
 
@@ -44,7 +44,3 @@ Soloist, Bodycoder System and multi-channel diffusion.
 <p align="center">
 <img src="../images/IKPoster_frag20.png" width="125" >
 </p>
-
-
-
-
