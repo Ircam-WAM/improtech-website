@@ -7,7 +7,7 @@ Status: Hidden
 **September 26, 20:30** *Onassis Cultural Center*  
 <br>
 
-Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
+Evan Parker, Matt Wright, Peter Evans, Mark Nauseef *Quartet* (saxophones, electronics, trumpet, percussion)
 
 Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
 
@@ -23,6 +23,18 @@ Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjami
 <p align="center">
 <img src="../images/IKPoster_frag19.png" width="125" >
 </p>
+
+
+#### Evan Parker, Matt Wright, Peter Evans, Mark Nauseef
+Quartet
+
+Evan Parker : saxophones
+Matt Wright: electronics
+Peter Evans: trumpet
+Mark Nauseef: percussion
+
+Evan Parker, saxophonist and one of the founding fathers of the European improvised music scene since the late 1960s has chosen to assemble a version of Trance Map+, the group he co leads with Matt Wright, which adds percussionist Mark Nauseef and trumpetist Peter Evans to make a new quartet.  Both Mark and Peter have played in other larger combinations but this will be a debut for this specific combination. For the occasion they will be composing site specific new music by improvisation
+
 
 ####Georg Hajdu  
 Just Her - Jester - Gesture

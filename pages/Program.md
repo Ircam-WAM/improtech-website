@@ -32,7 +32,7 @@ George Lewis
 
 [*Program Notes*]({filename}/pages/ProgramNote_Concert1.md)
 
-Evan Parker, Matt Wright, Peter Evans, Mark Nauseef (sax, electronics, trumpet, percussion)
+Evan Parker, Matt Wright, Peter Evans, Mark Nauseef *Quartet* (saxophones, electronics, trumpet, percussion)
 
 Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
 
@@ -200,8 +200,10 @@ Xavier Serra (Music Technology Group, Universitat Pompeu Fabra, Barcelona)
 We are able to develop AI algorithms that solve complex musical tasks, yet, we are unable to apply these powerful technologies to help understand and improve our own musical comprehension abilities. Our machines are rapidly becoming capable of “understanding” music, while we still use traditional and time-consuming educational methods for training people in the development of their basic musical skills, or for that matter, in the development of most cognitive-based human capabilities. To make sense of a particular music listening experience, as listeners we identify relevant auditory cues and then piece the cues together into patterns that can be retained long enough for brain mechanisms to examine and create the impression of auditory objects. Music lovers that appreciate and comprehend a particular musical style are able to verbalize their cognitive experience after listening to a music piece of that style. In this talk we propose that by building on prior research from the fields of Music Cognition, Music Information Retrieval, and Music Education we should be able to develop tools and perceptual training methodologies with which to help a naive listener to understand and apreciate a music tradition to which they had no prior exposure. Given that computers will never be able to comprehend or feel for us, we should do our best to build systems that can help us with that.
 
 ***10:15***
-#### Modelling Improvisation Systems in the Mediterranean Sphere
-Mondher Ayari
+#### Forms of presence in instrumental and electronic improvisation in relation to  cultural contexts
+Marc CHemillier
+
+The development of digital sounds and live music softwares has profoundly changed the notion of "presence" in music. Connected to the philosophical tradition of ancient Greece (parusia in Plato, παρουσία), this notion of presence is translated into music by different types of relationships between musicians within an orchestra or between musicians and their listeners. They take extremely varied forms depending on the culture, from the ritualised and participatory music of societies with an oral tradition to the musical flow that nowadays is delivered through streaming platforms. The development of improvisation software profoundly renews this notion of presence and invites us to reflect on what distinguishes its different forms. Several examples will be given from work with the improvisation software Djazz (digitaljazz.fr) in different cultural contexts.
 
 ***10:45***
 #### " Jazz Mapping ” : Thematic Development and Story Telling in Jazz Improvisation
@@ -378,4 +380,4 @@ UOA Cultural building Kostis Palamas
   <img src="../images/IKPoster_frag10.png" width="300">
    <br><br>
 </p>
-f
+
