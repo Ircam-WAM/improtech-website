@@ -283,7 +283,7 @@ This workshop introduces techniques of improvisation with wearable movement sens
 <font color="DarkBlue">
 # Saturday sept 28 - Concert
 **Onassis Cultural Center, 20:30 - 22:30**
-### _
+<br><br>
 </font>
 <br>
 
@@ -310,7 +310,7 @@ Steve Lehman, J. Nika (saxs, DYCI2 system)
 <font color="DarkBlue">
 # Sunday Sept 29 - Lectures
 **University of Athens, 09:00 - 14:00**
-#### Aesthetics and Ethics of Improvisation in the Digital Era
+### Aesthetics and Ethics of Improvisation in the Digital Era
 </font>
 <br>
 
