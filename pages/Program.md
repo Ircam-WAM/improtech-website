@@ -6,7 +6,7 @@ title: Program
 <br>
 <br>
 
-[TOC 2]
+[TOC]
 
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
@@ -52,7 +52,7 @@ Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjami
 </font>
 <br>
 
-#####09:30
+***09:30***
 #### Keynote talk : Perception, embodiment, and expressivity in human and computer improvisation
 George Tzanetakis
 
