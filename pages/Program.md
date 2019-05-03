@@ -115,6 +115,9 @@ UOA Cultural building Kostis Palamas
 #### Kinaesonics: crafting and being trans-dimensional (Bodycoder system)
 Mark Bokowiec, Julie Wilson-Bokowiec
 
+In this workshop/demo we will unpack our particular approach to Kinaesonic composition and the multi-dimensional nature of our particular brand of live performance with the Bodycoder System. We will explore the critical intersections where liveness meets the programmed and the automated, consider the aesthetic as well as the socio-political implications and discuss the role and qualities of improvisation employed in the new work we will present at the Onassis Centre.   
+
+
 ##### 17:00
 #### Haptic Feed-back Improvisation System
 Claude Cadoz (ACROE, France)
@@ -201,6 +204,11 @@ In the proposed lecture, I will present the use of the system GesTCom as an inte
 The GesTCom (Gesture Cutting through Textual Complexity) has been developed at IRCAM since 2014, in collaboration with the Interaction-Son-Musique-Mouvement team. It is a modular sensor-based environment for the analysis, processing and real-time control of complex piano notation through multimodal recordings. In terms of hardware, it comprises systems for the capture of movement, audio, video, MIDI and capacitive data from sensors on the piano keys. In terms of software, it is equipped with modules for the capture, analysis and control of the multimodal data; and modules for the augmentation and interactive control of music notation. Each of these systems functions both as stand-alone and integrated in a general methodology denoted as embodied navigation of complex notation.<br>
 The collaboration with Ghikas resulted in three distinct projects: Open Cycles (Bath, 2016), Toxic Gum (Berlin, 2017) and Azoman (London, 2018). I will present audiovisual material and patches from these three collaborations, which next to the GesTCom feature Ghikas's unreal-time improve system. I will show how the GesTCom was used both as a generator of pre-compositional material and as a real-time tool enabling allelomimetic interactions based on gesture in both solo, duo and ensemble settings.  I will also expand on the underlying concepts of embodied navigation of complex notation and of unreal-time improv as promoting the complementarity of improvisation and composition and the fluidity between notation, motion and sound in piano performance.
 
+##### 12:45
+#### Disposable Music
+Georg Hajdu
+
+My presentation introduces the concept of real-time composition and composition as a dispositif in the sense of Foucault and Deleuze, defining it as a heterogeneous ensemble of pieces which together form an apparatus. The introduction situates the dispositif in the context of cultural developments, most notably its slow, but steady shift away from textualization in digital media. As musicians are adapting to ensuing cultural and, above all, economic changes, new music forms emerge which rely to a lesser degree on fully-notated scores such as comprovisation or laptop performance. Antithetically, the computer also allows the creation of “author-less” notated scores in real-time to be sight-read by capable musicians—a practice for which special software has been developed in recent years. Since these scores are not meant to be kept and distributed, they are ephemeral and, therefore, disposable. Examples are given to illustrate the interwovenness of this approach, where carefully selected narratives and dramaturgies make up for the inherent unpredictability of the outcome.
 
 <br>
 
@@ -260,7 +268,7 @@ This workshop introduces techniques of improvisation with wearable movement sens
 
 Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert*, (voice, piano, DYCI2 system)
 
-Mark Bokowiec, Julie Wilson - Bokowiec: *Kinaesonic* (Bodycoder System)
+Mark Bokowiec, Julie Wilson - Bokowiec: *HEXIS* (Kinaesonic, Bodycoder System)
 
 Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz system)
 
