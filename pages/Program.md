@@ -53,6 +53,20 @@ Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjami
 #### Keynote talk : Perception, embodiment, and expressivity in human and computer improvisation
 George Tzanetakis
 
+The majority of research in computer systems for composition and
+improvisation has been based on symbolic representations and follows a
+stylistic imitation paradigm. There are some inherent limitations to
+these approaches that are especially apparent in the context of
+improvisation. After a brief overview of existing approaches I will
+argue that in order to create more effective improvisation systems it
+is critical to integrate perception, embodiment, and expressivity and
+also consider audio representations. This integration will be
+motivated using specific examples from human, computer, and
+human-computer improvisation scenarios. It is my hope that this exploration
+will help us better understand and appreciate the complexity of music
+improvisation and inspire future research that considers perception, embodiment, and expressivity.
+
+
 ##### 10:15
 #### It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines
 Ian Gold and Eric Lewis
