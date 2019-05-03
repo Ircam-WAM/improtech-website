@@ -514,7 +514,7 @@ is a researcher and computer music designer. He graduated from the French Grande
 
 ---
 
-<img src="../images/Bio_EvanParker.jpg" width="320" style="float:left" hspace="10">
+<img src="../images/BIO_EvanParker.jpg" width="320" style="float:left" hspace="10">
 ####Evan Parker
 saxophonist and one of the founding fathers of the European improvised music scene since the late 1960s has chosen to assemble a version of Trance Map+, the group he co leads with Matt Wright, which adds percussionist Mark Nauseef and trumpetist Peter Evans to make a new quartet.  Both Mark and Peter have played in other larger combinations but this will be a debut for this specific combination. For the occasion they will be composing site specific new music by improvisation
 <br><br>
