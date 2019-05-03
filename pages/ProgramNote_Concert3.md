@@ -9,7 +9,7 @@ Status: Hidden
 
 Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert*, (voice, piano, DYCI2 system)
 
-Mark Bokowiec, Julie Wilson - Bokowiec: *Kinaesonic* (Bodycoder System)
+Mark Bokowiec, Julie Wilson - Bokowiec: *HEXIS* (Kinaesonic, Bodycoder System)
 
 Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz system)
 
