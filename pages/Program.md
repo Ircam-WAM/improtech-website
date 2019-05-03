@@ -69,7 +69,7 @@ improvisation and inspire future research that considers perception, embodiment,
 
 ##### 10:15
 #### It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines
-Ian Gold and Eric
+Ian Gold and Eric Lewis
 
 Improvising machine systems have made remarkable advances in the appropriateness of their contributions to collective improvisations.  It has, however, proven to be intractably difficult to create an improvising system that seems aware, to the same degree that experienced human improvisers are, of when a collective improvisation is coming to an end.  We explore the role that theory of mind plays in collective improvisation, and suggest that machine failures to manifest theory of mind may be behind this failure.  We suggest that a false model of collective improvisation, and a false model of theory of mind, has occluded the importance of theory of mind to collective improvisation.  We also survey a number of experiments that we hope to undertake to help establish the connections we hypothesize, and suggest what this may mean for the future of improvising machine system design, and for the role of improvisation in assorted therapeutic contexts.
 
