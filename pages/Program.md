@@ -283,7 +283,7 @@ This workshop introduces techniques of improvisation with wearable movement sens
 <font color="DarkBlue">
 # Saturday sept 28 - Concert
 **Onassis Cultural Center, 20:30 - 22:30**
-<br><br>
+<br><br><br>
 </font>
 <br>
 
