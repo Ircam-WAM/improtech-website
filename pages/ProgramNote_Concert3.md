@@ -7,7 +7,7 @@ Status: Hidden
 **September 28, 20:30** *Onassis Cultural Center*  
 <br>
 
-Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert*, (voice, piano, DYCI2 system)
+Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert : Paris bout à bout*, (Jaap Blonk, voice ; Hervé Sellin, piano ; images by Nurith Aviv ; Georges Bloch, DYCI2 improvisation system)
 
 Mark Bokowiec, Julie Wilson - Bokowiec: *HEXIS* (Kinaesonic, Bodycoder System)
 

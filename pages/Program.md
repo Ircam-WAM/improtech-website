@@ -69,7 +69,10 @@ improvisation and inspire future research that considers perception, embodiment,
 
 ##### 10:15
 #### It Ain’t Over Till Its Over: Theory of Mind, Social Intelligence and Improvising Machines
-Ian Gold and Eric Lewis
+Ian Gold and Eric
+
+Improvising machine systems have made remarkable advances in the appropriateness of their contributions to collective improvisations.  It has, however, proven to be intractably difficult to create an improvising system that seems aware, to the same degree that experienced human improvisers are, of when a collective improvisation is coming to an end.  We explore the role that theory of mind plays in collective improvisation, and suggest that machine failures to manifest theory of mind may be behind this failure.  We suggest that a false model of collective improvisation, and a false model of theory of mind, has occluded the importance of theory of mind to collective improvisation.  We also survey a number of experiments that we hope to undertake to help establish the connections we hypothesize, and suggest what this may mean for the future of improvising machine system design, and for the role of improvisation in assorted therapeutic contexts.
+
 
 ##### 10:45
 #### Improvising with augmented organ and singing instruments: gesture, sound, music (Cantor digitalis)
@@ -210,6 +213,12 @@ Dimitri Vassilakis
 #### Metrical Polyrhythms and Polytemporality in live Improvisation Settings
 Sami Amiris, Antonis Ladopoulos
 
+Artistic explorations of two improvising musicians who dare to dwell on the fringe of polytemporality and metrical polyrhythmicity.
+The musicians forming the critically acclaimed Phos Duo, expand their horizons by each expanding on distinct metrical surfaces - thus each one has a different sense of the whole than the other, like observers with different speeds in the theory of relativity - while still listening to each other and interacting.
+To make this possible in practice, a new type of metronomic sequencer - like an individual mechanical conductor - is used, capable of handling different timings simultaneously and independently from channel to channel, but still controllable overall.
+The result is an exciting and challenging musical environment that the duo finds fruitful for the creation of new musical textures, both through-composed and improvised.
+
+
 ##### 12:15
 #### GesTCom as an Interactive Tool for Improvisation
 Pavlos Antoniadis
@@ -280,7 +289,7 @@ This workshop introduces techniques of improvisation with wearable movement sens
 
 [*Program Notes*]({filename}/pages/ProgramNote_Concert3.md)
 
-Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert*, (voice, piano, DYCI2 system)
+Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert : Paris bout à bout*, (Jaap Blonk, voice ; Hervé Sellin, piano ; images by Nurith Aviv ; Georges Bloch, DYCI2 improvisation system)
 
 Mark Bokowiec, Julie Wilson - Bokowiec: *HEXIS* (Kinaesonic, Bodycoder System)
 
