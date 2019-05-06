@@ -179,7 +179,7 @@ George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Q
 
 Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin/MUGIC™ sensor)
 
-Rémy Fox, J. Nika (saxs, DYCI2 system)
+Rémi Fox, J. Nika (saxs, DYCI2 system)
 
 <br>
 <br>
@@ -380,4 +380,3 @@ UOA Cultural building Kostis Palamas
   <img src="../images/IKPoster_frag10.png" width="300">
    <br><br>
 </p>
-

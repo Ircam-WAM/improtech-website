@@ -8,9 +8,9 @@ title: Participants
 
 <img src="../images/Amirisa.png" width="320" style="float:left" hspace="10">
 ####Sami Amiris
-is a member of Phos Duo, as well as the Musical Director and pianist of the Big Band of Athens and a founding member of the critically acclaimed power jazz trio "NUKeLEUS". 
+is a member of Phos Duo, as well as the Musical Director and pianist of the Big Band of Athens and a founding member of the critically acclaimed power jazz trio "NUKeLEUS".
 
-He teaches at the American College of Greece. He is also the author of a series of books for M.M.S. Germany, called "Keyboard Quest", now at production stage. 
+He teaches at the American College of Greece. He is also the author of a series of books for M.M.S. Germany, called "Keyboard Quest", now at production stage.
 He has studied music, mathematics, music technology and computer programming. His interests include mathematical music theory, composition, jazz arranging and orchestrations in general, piano performance of jazz and contemporary music, and most of all, contemporary rhythmic theory and practice, especially in conjunction with semigroup theory and combinatorics on words.
 
 [http://www.phosduo.com]() / [https://soundcloud.com/samiamiris/albums]()
@@ -25,7 +25,7 @@ He has studied music, mathematics, music technology and computer programming. Hi
 As a researcher, Pavlos has fifteen (15) publications in English, German and French on contemporary piano performance, embodied cognition and interactive systems for technology-enhanced learning based on physical movement. He has given fifty (50) talks, often with a performance and/or technological demo element, either as invited speaker / performer in several institutions in Europe and Asia (HfM Dresden, INMM Darmstadt, IRCAM Paris, Orcim Gent, Goldsmiths London, Trinity Dublin, Aristoteleio Thessaloniki, Cité de la Musique et de la Danse Strasbourg, Hong Kong University, Yamanashi Gakuin University Kofu, Wocmat Taiwan, LEAD Dijon, SARC Belfast, UdK Berlin) or in multiple international and national conferences. He was a Musical Research Residency fellow at IRCAM in 2014, where under the supervision of Frédéric Bevilacqua and Dominique Fober (Grame, Lyon) he developed *GesTCom* (*Gesture Cutting through Textual Complexity*), a sensor-based environment for the gestural control and analysis of complex piano notation, for example of works by Xenakis or Ferneyhough.<br>
 As a pianist, Pavlos has performed in Europe, North & South America and Asia with the new music ensembles Work in Progress-Berlin, Kammerensemble Neue Musik Berlin, Phorminx, ERGON, Accroche Note, as well as a soloist with the Thessaloniki State Symphony Orchestra. He has participated in recordings for Mode (2015 German Recording Critics Award / Deutscheschallplattenkritikspreis) and Wergo records. As a soloist, he has worked with composers Mark Andre, Helmut Lachenmann, Brian Ferneyhough, Wolfgang Rihm, Tristan Murail, Richard Barrett, Walter Zimmermann, and has premiered solo piano works by James Erber, Nicolas Tzortzis, Andrew R. Noble, Luis Antunes Pena, Dominik Karski and others. His programming features the most complex contemporary works, extremes of physicality, live electronics, multimedia and musical theatre, often in eclectic dialogue with ancient repertoire from Cabezón to Bartók. He is also active in free improvisation with the composer and improviser Panos Ghikas (London) and has collaborated with the physical theatre group Zero Point (Athens).<br>
 Pavlos holds degrees in piano performance (Piano Diploma, Nakas Athens; Koninklijk Conservatorium Den Haag; MA, UC San Diego) and musicology (BA, Athens National University, PhD Université de Strasbourg in co-direction with the IRCAM, under Pierre Michel and Frédéric Bevilacqua, previously in the Hochschule für Musik Dresden under Jörn Peter Hiekel and Wolfgang Lessing). He has studied on LabEx GREAM, IRCAM, Fulbright, UC San Diego, Nakas conservatory, Internationale Ensemble Modern Academie Frankfurt and Impuls Academie Gratz scholarships. His main piano teachers were Chryssi Partheniade, Ian Pace, Geoffrey Douglas Madge and Aleck Karis.
-  
+
 [https://pavlosantoniadis.wordpress.com/about/]() / [https://soundcloud.com/katapataptwsi]() / [http://ismm.ircam.fr/pavlos-antoniadis/]() / [https://www.youtube.com/channel/UC8G2C0lwe96oa_KuIzfWOeA]()
 
 <br>
@@ -62,7 +62,7 @@ prize at the Margareth Guthman Musical Instrument Competition, Atlanta,
 
 <img src="../images/Alexakis.png" width="154" style="float:left" hspace="10">
 ####Antonis Alexakis
-holds a BSc in Mathematics from University of Patras and 
+holds a BSc in Mathematics from University of Patras and
 an MSc in Knowledge Based Systems from Heriot-Watt University. He has
 an active presence in the IT industry for more than 25 years. In the past he has taken part in several EU projects (FP4 & FP5). Lately, he has taken part in MIROR project as an IT expert. His work entails the computational analyses of the musical data gathered within the framework of the above project. He is
 currently finishing his PhD at the Department of Music Studies,
@@ -78,8 +78,8 @@ University of Athens.
 ---
 
 <img src="../images/Anagnostopoulou.png" width="241" style="float:left" hspace="10">
-####Christina Anagnostopoulou 
-is a musicologist and associate professor in music informatics at the Department of Music Studies, University of Athens. Her PhD (Edinburgh) was on computational and cognitive modeling of music analysis. She has taught at the Universities of Edinburgh, Glasgow, and Queen’s Belfast, where she got tenure. Her research interests include computational music analysis, and music in the community. She is also the director of the Music Cognition, Computation and Community (MCCC) Lab in Athens. 
+####Christina Anagnostopoulou
+is a musicologist and associate professor in music informatics at the Department of Music Studies, University of Athens. Her PhD (Edinburgh) was on computational and cognitive modeling of music analysis. She has taught at the Universities of Edinburgh, Glasgow, and Queen’s Belfast, where she got tenure. Her research interests include computational music analysis, and music in the community. She is also the director of the Music Cognition, Computation and Community (MCCC) Lab in Athens.
 
 <br>
 <br>
@@ -138,10 +138,10 @@ A comprehensive collection of his sound poetry came out as a book with 2 CDs in 
 ---
 
 <img src="../images/Bokowiec.jpg" width="241" style="float:left" hspace="10">
-####Mark Bokowiec 
+####Mark Bokowiec
 Composer & interactive systems designer
 
-Mark is a composer and electronics / interactive systems designer. He is the manager of the electro-acoustic music studios and the Spatialization and Interactive Research Lab (SPIRAL) at the University of Huddersfield UK, where he also lectures in interactive performance and composition. Commissions for interactive instruments include: the *LiteHarp* for the London Science Museum and *A Passage To India* for Wakefield City Art Gallery. Mark has created a variety of interactive works for soloists and interactive technologies including, *Dialogue* (2014) for cellist Seth Parker-Woods and interactive prosthetic SPINE and a variety of pieces for augmented Trombone and various wind instruments. His fixed media electroacoustic works have been widely performed and published, Amera was a selected finalist for the prestigious *Arts Electroniques* des *Concours Internationaux de Bourges* composition prize. CD releases include: Route (2001) and Ghosts (2000) and Visitations (2018) on the MPS label.  Mark Bokowiec and Julie Wilson-Bokowiec (Performer/Vocalist) are award-winning artists that have developed a significant international reputation as innovators in the field of interactive sonic art and are considered experts in the field of live gestural interaction and the manipulation of voice and sound processing with their Bodycoder System and the Bodycoder project initiated in 1995. Their work is frequently programmed at international digital arts festivals and has been supported by The British Council, Banff Centre for the Arts (Canada) and Arts Council of England awards. They have been commissioned by the Science Museum London, Wellcome Trust wing (LSM), Wakefield City Art Galleries among others and have created new works in residencies at Banff Centre for the Arts (Canada), STEIM (Amsterdam) the Confederation Centre for the Arts (PEI Nova Scotia) the Traffo Theatre (Budapest), Dartington College of Arts (UK) among others. 
+Mark is a composer and electronics / interactive systems designer. He is the manager of the electro-acoustic music studios and the Spatialization and Interactive Research Lab (SPIRAL) at the University of Huddersfield UK, where he also lectures in interactive performance and composition. Commissions for interactive instruments include: the *LiteHarp* for the London Science Museum and *A Passage To India* for Wakefield City Art Gallery. Mark has created a variety of interactive works for soloists and interactive technologies including, *Dialogue* (2014) for cellist Seth Parker-Woods and interactive prosthetic SPINE and a variety of pieces for augmented Trombone and various wind instruments. His fixed media electroacoustic works have been widely performed and published, Amera was a selected finalist for the prestigious *Arts Electroniques* des *Concours Internationaux de Bourges* composition prize. CD releases include: Route (2001) and Ghosts (2000) and Visitations (2018) on the MPS label.  Mark Bokowiec and Julie Wilson-Bokowiec (Performer/Vocalist) are award-winning artists that have developed a significant international reputation as innovators in the field of interactive sonic art and are considered experts in the field of live gestural interaction and the manipulation of voice and sound processing with their Bodycoder System and the Bodycoder project initiated in 1995. Their work is frequently programmed at international digital arts festivals and has been supported by The British Council, Banff Centre for the Arts (Canada) and Arts Council of England awards. They have been commissioned by the Science Museum London, Wellcome Trust wing (LSM), Wakefield City Art Galleries among others and have created new works in residencies at Banff Centre for the Arts (Canada), STEIM (Amsterdam) the Confederation Centre for the Arts (PEI Nova Scotia) the Traffo Theatre (Budapest), Dartington College of Arts (UK) among others.
 
 <br>
 
@@ -191,7 +191,7 @@ I am currently working on two large scale projects: the ANR-funded project « Mu
 ---
 
 <img src="../images/Bio_MarcChemillier.png" width="241" style="float:left" hspace="10">
-####Marc Chemillier 
+####Marc Chemillier
 was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pierre Cornevin at the Schola Cantorum in Paris. Later he received a PhD in Computer Science and also has degrees in Mathematics, Musicology, Philosophy and Anthropology. He has been conducting fieldwork among the Nzakara of Central African Republic to study their harp music, and in Madagascar to work on the ethnomathematics of divination, and the trance music of the zither. Now Director of Studies at the EHESS in Paris (School for Advanced Studies in Social Sciences), his main interests focus on the design of a family of improvisation softwares in collaboration with IRCAM (OMax/ImproteK/Djazz), and their use in real live performances to study the impact of such devices in the social context of jazz concerts or traditional music rituals.
 <br>
 [improtekjazz.org](http://improtekjazz.org) / [digitaljazz.fr](http://digitaljazz.fr)
@@ -201,7 +201,7 @@ was born in 1960 and began studying jazz piano in 1971 with Jack Diéval and Pie
 ---
 
 <img src="../images/Bio_PierreCouprie.jpg" width="320" style="float:left" hspace="10">
-####Pierre Couprie 
+####Pierre Couprie
 was born in 1970, he studied instrumental composition, electroacoustic music, musical analysis, and free improvisation at Bordeaux Conservatory. He is an associate professor in digital pedagogy/computer music and a researcher at Sorbonne University (Research Institute in Musicology Lab). His research fields cover the musical analysis/transcription/representation of electroacoustic music and the digital musicology. He also develops tools for research (iAnalyse, EAnalysis, MotusLab Tools) or musical performance. In 2015, he won the Qwartz Max Mathews Price of technological innovation for his musical analysis software. As an improviser, he is a member of The Phonogénistes and The National Electroacoustic Orchestra (ONE).
 <br>
 [www.pierrecouprie.fr](http://www.pierrecouprie.fr)  / [logiciels.pierrecouprie.fr](http://logiciels.pierrecouprie.fr)
@@ -219,7 +219,7 @@ holds a Master’s of Arts Degree from the City University London, specializing 
 ---
 
 
-####Stylianos Dimou 
+####Stylianos Dimou
 is a Greek composer and electronic performer born in Thessaloniki in 1988. A Fulbright Scholar and participant in numerous international composers meetings, festivals and competitions, Dimou won the International Prize for Composition “Luigi Nono” and was nominated for the Gaudeamus Prize in 2015. Dimou has pursued advanced studies in composition at the Aristotle University of Thessaloniki (2011, MM in Composition) and the Eastman School of Music (2013, MA in Composition), as well as advanced training in computer music at the Cursus program at IRCAM and the the Manifeste Academy. He is currently a composer and researcher at the OeAD organization. closely affiliated with the University of Music and Performing Arts Graz, and a Doctoral Fellow at Columbia University (DMA in Music Composition).
 
 <br>
@@ -227,8 +227,8 @@ is a Greek composer and electronic performer born in Thessaloniki in 1988. A Ful
 ---
 
 <img src="../images/fox.jpg" width="320" style="float:left" hspace="10">
-####Rémi Fox 
-Saxophonist, improviser and composer, Rémi Fox is part of this new generation of artist who wishes to make the jazz a resolutely contemporary music. He graduated from the Department Jazz and improvised music from the CNSMD of PARIS where he had the opportunity to build a strong musical experience, along with great musicians (being of his generation or more experienced one). All these encounters gave him the opportunity to take part in a great variety of projects, and develop a rich and open musical universe, while strengthening his own personality. During his studies, he entered the Department of Improvisation Generative of CNSMDP (directed by Vincent Lê Quang and Alexandros Markeas) to discover new ways of playing, and to begin with sound textures experimentation. During those years, he always seeked to confront his music to other forms of Art such as dance, video or Visual arts, leading to enriching collaborations with IRCAM, CNC (National Film and the moving image Centre) or Theatres. The “nOx project” (nOx.3, nOx.6, nOx.8), started in 2013, embodies Remi’s wish to now create its own path and musical personality. Through this innovative series, the young artist offers a smart mix between improvisation, contemporary electronic music, and genuine “nOxian” melodies.<br> [www.nox3.net](www.nox3.net)
+####Rémi Fox
+Saxophonist, improviser and composer, Rémi Fox is part of this new generation of artist who wishes to make the jazz a resolutely contemporary music. He graduated from the Department Jazz and improvised music from the CNSMD of PARIS where he had the opportunity to build a strong musical experience, along with great musicians (being of his generation or more experienced one). All these encounters gave him the opportunity to take part in a great variety of projects, and develop a rich and open musical universe, while strengthening his own personality. During his studies, he entered the Department of Improvisation Generative of CNSMDP (directed by Vincent Lê Quang and Alexandros Markeas) to discover new ways of playing, and to begin with sound textures experimentation. During those years, he always seeked to confront his music to other forms of Art such as dance, video or Visual arts, leading to enriching collaborations with IRCAM, CNC (National Film and the moving image Centre) or Theatres. The “nOx project” (nOx.3, nOx.6, nOx.8), started in 2013, embodies Remi’s wish to now create its own path and musical personality. Through this innovative series, the young artist offers a smart mix between improvisation, contemporary electronic music, and genuine “nOxian” melodies.<br> [www.nox3.net](http://www.nox3.net)
 
 <br>
 <br>
@@ -240,7 +240,7 @@ Saxophonist, improviser and composer, Rémi Fox is part of this new generation o
 ---
 
 <img src="../images/genevois.jpg" width="320" style="float:left" hspace="10">
-####Hugues Genevois 
+####Hugues Genevois
 is a researcher in musical acoustics, within the LAM team, at the Institut Jean le Rond d'Alembert (Sorbonne Université - CNRS).<br>
 With a scientific background (Master of Science in Physics and Telecom ParisTech Engineering School), Hugues Genevois, became interested very early in musical composition and possibilities offered by computers for sound synthesis. However, if his tastes willingly lead him to concrete music and music from the Far East, it is through contact with Iannis Xenakis that he decides to deepen his writing work.<br>
 After having produced numerous pieces of music on support, his interest in instrumental practice (electric guitar, cello, keyboards) led him to explore the expressive possibilities of the computer. His research focuses in particular on new lutheries and musician/instrument interaction.<br>
@@ -400,10 +400,10 @@ Antonis’ main project both as a performer and composer has long been “Phos D
 
 <img src="../images/hLehmann.jpg" width="320" style="float:left" hspace="10">
 ####Harry Lehmann
-After receiving a master’s degree in physics and mathematics at the Saint Petersburg State University, with further philosophical studies in Berlin, Harry Lehmann earned a doctorate at the University of Potsdam in 2003 with a dissertation based on a systems-theoretical approach toward aesthetics. In the last years, he initiated a controversy about the digital revolution of music and its impact on New Music and published a great number of essays about this topic in German music journals as well as several books about art philosophy, music philosophy, aesthetics, and art criticism: 
+After receiving a master’s degree in physics and mathematics at the Saint Petersburg State University, with further philosophical studies in Berlin, Harry Lehmann earned a doctorate at the University of Potsdam in 2003 with a dissertation based on a systems-theoretical approach toward aesthetics. In the last years, he initiated a controversy about the digital revolution of music and its impact on New Music and published a great number of essays about this topic in German music journals as well as several books about art philosophy, music philosophy, aesthetics, and art criticism:
 
-- *Die flüchtige Wahrheit der Kunst. Ästhetik nach Luhmann*, München: W. Fink 2006; 
-- *Die digitale Revolution der Musik. Eine Musikphilosophie*, Mainz: Schott 2012. 
+- *Die flüchtige Wahrheit der Kunst. Ästhetik nach Luhmann*, München: W. Fink 2006;
+- *Die digitale Revolution der Musik. Eine Musikphilosophie*, Mainz: Schott 2012.
 - *Autonome Kunstkritik* (Hg.), Berlin: Kulturverlag Kadmos 2012.
 - *Gehaltsästhetik. Eine Kunstphilosophie*, Paderborn: Wilhelm Fink, Januar 2016.
 - *Ästhetische Erfahrung. Eine Diskursanalyse*, Paderborn: Wilhelm Fink, Oktober 2016.
@@ -427,7 +427,7 @@ He is currently a Professor of Music at The California Institute of the Arts, an
 
 ---
 <img src="../images/ELewis.jpg" width="320" style="float:left" hspace="10">
-####Eric Lewis 
+####Eric Lewis
 is an associate of philosophy at McGill University, Montreal, specializing in the philosophy of improvisation.  He is the author of Intents and Purposes: Philosophy and the Aesthetics of Improvisation; The Video Art of Sylvia Safdie, and co-editor of Improvisation and Social Aesthetics.  He is involved in the design of digital control surfaces to help enable individuals with physical disabilities make music, the design of digital sound-walk apps, and is presently part of a Greek-based design team working on the development of a digital new media art archive based on improvisatory principles.  He is an active improviser on brass and electronics.
 
 <br>
@@ -469,7 +469,7 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 ---
 
 <img src="../images/michelle.jpg" width="320" style="float:left" hspace="10">
-####Michelle Agnes Magalhaes 
+####Michelle Agnes Magalhaes
 is a Brazilian composer whose music explores the limits between gesture and writing, composition and improvisation. She focus on raw materials, creating complex sounds inside forms that are geometric and structured. Magalhaes also places a high premium on the engagement of the musician's body with her performance, as well as new approaches to traditional instruments and instrumentation. Her compositions are about sound production and physicality. After studying musical composition at the University of Sao Paulo, she received regular compositions lessons from Salvatore Sciarrino (Accademia Chigiana di Siena and Conservatorio Statale di Musica, Latina). She has been awarded fellowships, residences and commissions from Radcliffe Institute (Harvard University), Fapesp, Unesco, Camargo Foundation, Villa Sträuli, Brazilian Culture Minister, Fondazione Giorgio Cini Venezia, Ernst-von-Siemens-Musikstiftung and IRCAM. She has collaborated as a composer with numerous ensembles (Abstraï, Percorso Ensemble, Arsenale, Accroche Note, Promenade Sauvage, ECCE, Bahia Blanca Soloists, Quarteto Prometeo, Flame Ensemble, Ensemble TaG Neue Musik, 20° dans le noir, Talea Ensemble, Ensemble L'Itinéraire, Schallfeld Ensemble and Ensemble Multilatérale. Actually she is artist in residence at IRCAM to develop an interactif collective work in collaboration with ISMM team and Frédéric Bevilacqua, with the support of the VERTIGO project (STARTS program of the European Commission).<br>
 She lives and works in Paris.
 <br>
@@ -484,7 +484,7 @@ She lives and works in Paris.
 ---
 
 <img src="../images/morciano.jpg" width="250" style="float:left" hspace="10">
-####Lara Morciano 
+####Lara Morciano
 began studying the piano at a young age and obtained her diploma with the highest distinctions at the age of 16 at the Conservatory Tito Schipa in Lecce, Italy. Parallel to her concert activities, she studied composition at the Conservatory Santa Cecilia in Rome, where she earned several diplomas (Composition, Choral music and Choral Conducting, Piano reduction of scores and Analysis), subsequently earning her Master in Composition with Franco Donatoni at the Santa Cecilia's National Academy. In France, after a Diploma of Composition obtained at the Strasbourg’s Conservatory (in the class of Ivan Fedele) she attended in 2005-2006 the Cursus of composition and computer music of Ircam. In 2009 she was awarded a Master of the Arts in Musicology at the University of Paris 8, followed by a PhD in Sciences, Arts, Creation and Research (*SACRe*) at PSL Research University, ENS, CNSMDP and Ircam, under the direction of Gérard Assayag.<br>
 Her compositions have been performed in many festivals including Philarmonie – Paris; Ircam - Centre Pompidou; Presences, Création Mondiale – Radio France; ZKM – Karlsruhe; The Venice Biennale; International Gaudeamus Music Week – Amsterdam; Warsaw Autumn Festival; Opera – Dijon; Musica – Strasbourg; Ultima – Oslo; Bifem – Australia; Nuova Consonanza – Rome… She works with ensembles such as the Ensemble Intercontemporain, Court Circuit and with performers including Hae Sun Kang, Mario Caroli, Claude Delangle and Garth Knox. Her music is broadcast by France Musique, Rai3-RadioTelevisione Italiana, ABC Classic FM, Louis Vuitton Foundation and other transmissions.<br>
 She has received commissions from numerous institutions including the French Ministry of Culture, the Ensemble Intercontemporain, Ircam - Centre Pompidou, Radio France, the Venice Biennale, the ZKM of Karlsruhe. She won the Tremplin 2008 competition (Ircam and Ensemble Intercontemporain) and in 2012 the International Composition Competition Giga-Hertz Award in Germany.
@@ -507,7 +507,7 @@ Nauseef has also worked as a producer. In addition to his own recordings, he has
 
 <img src="../images/Bio_JeromeNika.png" width="320" style="float:left" hspace="10">
 ####Jérôme Nika
-is a researcher and computer music designer. He graduated from the French Grandes Écoles Télécom ParisTech and ENSTA ParisTech. In addition, he studied acoustics, signal processing and computer science applied to music (multidisciplinary Master’s degree ATIAM in sciences and technologies for music, Sorbonne Université, Télécom ParisTech, Ircam), and composition. His PhD work at Ircam (Paris, France),  “Guiding Human-Computer music improvisation” (Young Researcher Prize in Science and Music, 2015; Young Researcher Prize awarded by the French Association of Computer Music, 2016) focused on the introduction of authoring, composition, and control in human-computer music co-improvisation. Through the development of the software instruments ImproteK and DYCI2 in collaboration with Ircam, his research focuses on the integration of scenarios in music generation processes, and on the dialectic between reactivity and planning in interactive human-computer music improvisation. These projects led to numerous collaborations with composers (such as Pascal Dusapin, Marta Gentilucci) and/or improvisers (such as Rémi Fox, Bernard Lubat, Steve Lehman) in the past three years (Annenberg Center, Philadelphia, USA; Centre Pompidou, Collège de France, Le Centquatre, Paris, France; Montreux Jazz festival, Switzerland; etc.). 
+is a researcher and computer music designer. He graduated from the French Grandes Écoles Télécom ParisTech and ENSTA ParisTech. In addition, he studied acoustics, signal processing and computer science applied to music (multidisciplinary Master’s degree ATIAM in sciences and technologies for music, Sorbonne Université, Télécom ParisTech, Ircam), and composition. His PhD work at Ircam (Paris, France),  “Guiding Human-Computer music improvisation” (Young Researcher Prize in Science and Music, 2015; Young Researcher Prize awarded by the French Association of Computer Music, 2016) focused on the introduction of authoring, composition, and control in human-computer music co-improvisation. Through the development of the software instruments ImproteK and DYCI2 in collaboration with Ircam, his research focuses on the integration of scenarios in music generation processes, and on the dialectic between reactivity and planning in interactive human-computer music improvisation. These projects led to numerous collaborations with composers (such as Pascal Dusapin, Marta Gentilucci) and/or improvisers (such as Rémi Fox, Bernard Lubat, Steve Lehman) in the past three years (Annenberg Center, Philadelphia, USA; Centre Pompidou, Collège de France, Le Centquatre, Paris, France; Montreux Jazz festival, Switzerland; etc.).
 [http://repmus.ircam.fr/nika](http://repmus.ircam.fr/nika) / [http://repmus.ircam.fr/dyci2/](http://repmus.ircam.fr/dyci2/)
 
 <br><br>
@@ -516,8 +516,8 @@ is a researcher and computer music designer. He graduated from the French Grande
 
 <img src="../images/BIO_EvanParker.jpg" width="320" style="float:left" hspace="10">
 ####Evan Parker
-Evan Parker, saxophonist is one of the founding fathers of the European improvised music scene since the late 1960s. From Parliamentary Jazz Awards 2013 : Evan Parker...transformed the language and techniques of the instrument in the late 1960s and has since become one of the most admired and influential saxophone improvisers on the planet. Parker has been rewriting the book on the sounds that can be made with a saxophone for almost half a century, developing a remarkable post-Coltrane technique that has allowed him to play counterpoint on what was designed as a single-line instrument, generate electronics-like textures acoustically, and build a personal soundscape that avoids conventional tunes but has its own arresting lyricism. Parker has worked with comparable revolutionaries like John Zorn and Anthony Braxton, and played in experimental electro-acoustic groups and contemporary-classical ensembles - but he has also brought a sharp edge to more orthodox jazz lineups led by Stan Tracey, Kenny Wheeler and by the Rolling Stones Charlie Watts, and the celebrated South African orchestra Brotherhood of Breath. He has also recorded with singer-songwriter Robert Wyatt, with TV comic Vic Reeves, and has lent his inimitable sound to the more pop-oriented contexts of Scott Walker, David Sylvian and Jah Wobble. 
-Parker is widely acknowledged as "one of the music's greatest living instrumentalists" (The Times), "one of the world's finest ensemble improvisers" (Chicago Reader) and "one of the modern era's most original voices" (The Wire). 
+Evan Parker, saxophonist is one of the founding fathers of the European improvised music scene since the late 1960s. From Parliamentary Jazz Awards 2013 : Evan Parker...transformed the language and techniques of the instrument in the late 1960s and has since become one of the most admired and influential saxophone improvisers on the planet. Parker has been rewriting the book on the sounds that can be made with a saxophone for almost half a century, developing a remarkable post-Coltrane technique that has allowed him to play counterpoint on what was designed as a single-line instrument, generate electronics-like textures acoustically, and build a personal soundscape that avoids conventional tunes but has its own arresting lyricism. Parker has worked with comparable revolutionaries like John Zorn and Anthony Braxton, and played in experimental electro-acoustic groups and contemporary-classical ensembles - but he has also brought a sharp edge to more orthodox jazz lineups led by Stan Tracey, Kenny Wheeler and by the Rolling Stones Charlie Watts, and the celebrated South African orchestra Brotherhood of Breath. He has also recorded with singer-songwriter Robert Wyatt, with TV comic Vic Reeves, and has lent his inimitable sound to the more pop-oriented contexts of Scott Walker, David Sylvian and Jah Wobble.
+Parker is widely acknowledged as "one of the music's greatest living instrumentalists" (The Times), "one of the world's finest ensemble improvisers" (Chicago Reader) and "one of the modern era's most original voices" (The Wire).
 <br><br>
 
 ---
@@ -634,14 +634,14 @@ Studies of Music Sciences and Art History at the J. W. Goethe-University in Fran
 
 <img src="../images/Triantafyllaki.png" width="312" style="float:left" hspace="10">
 ####Angeliki Triantafyllaki
-is a research associate and teaching fellow at the Department of Music Studies, University of Athens, and the MA in Education Programme Leader at Mediterranean College Athens. She holds a PhD and MPhil in Education and Educational Psychology from the University of Cambridge, Faculty of Education. She has taken part in international and European research projects and has been awarded by IKY and the British Academy for postdoctoral research on professional teacher development, music education, creativity in learning and teaching and new technologies, and learning and teaching in tertiary education. Her work has been published in a recent monograph (Routledge, UK), in collective volumes and in international scientific journals. 
+is a research associate and teaching fellow at the Department of Music Studies, University of Athens, and the MA in Education Programme Leader at Mediterranean College Athens. She holds a PhD and MPhil in Education and Educational Psychology from the University of Cambridge, Faculty of Education. She has taken part in international and European research projects and has been awarded by IKY and the British Academy for postdoctoral research on professional teacher development, music education, creativity in learning and teaching and new technologies, and learning and teaching in tertiary education. Her work has been published in a recent monograph (Routledge, UK), in collective volumes and in international scientific journals.
 
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>	
+<br>
 
 ---
 
@@ -726,7 +726,7 @@ is a performer, writer and media artist. She is an accomplished physical perform
 works internationally as a composer, improviser and sound artist at the edges of concert and club culture. His output stretches from scores for early music ensembles and contemporary chamber groups to digital improvisation, experimental turntablism and website installations to collaborations with dance, theatre and film. As a performer he works with turntables, laptops and surround sound installations to create post-DJ, multichannel music embracing hip hop, avant and improvised traditions. His lives in Canterbury, where he runs the annual WINTERSOUND experimental music and sound festival. <br>
 He works closely with Evan Parker in their live/studio project Trance Map and Trance Map+ (featuring guests such as Toma Gouband, Peter Evans, Spring Heel Jack and Mark Nauseef); with Ensemble Klang in The Hague (including the albums Music at the Edge of Collapse and Cold Highlife); with the Brussels-based Bl!ndman ensemble and composer Eric Sleichim (including NETWORK, directed by Ivo van Hove and starring Breaking Bad actor Bryan Cranston, as well as Beyond/Behind with soprano Claron McFadden); with Champ D'Action in Antwerp (including the LABO international arts residency); with The Six Tones based in Stockholm and Hanoi; with Ensemble Offspring in Sydney; with CEPROMusic in Mexico City and as guest with the Alexander Hawkins Ensemble (on the record 'Unit[e]'); as well as duo projects with Irreversible Entanglements saxophonist Keir Neuringer (Speak Cities), The Chap's Panos Ghikas (Unrealtime Combat), violinist/composer Roger Redgate (Single Combat) and saxophonist/composer Robert Stillman (The Wheel, BBC Radio 3's Exposure Ramsgate). <br>
 His work has been presented at the Sydney Opera House, Le Poisson Rouge (New York), the Muziekcentrum an ‘t IJ (Amsterdam), The Kim Ma Theatre (Vietnam) and Abbey Road Studios, Tate Britain and Tate Modern. He has been commissioned by organisations such as The Huddersfield Contemporary Music Festival (hcmf//) and the MATA Festival (New York), his work being regularly broadcast on radio across Europe, but also including a two-hour focus on his work on the ABC Network in Australia. Reviews of his projects have appeared in the New York Times, the Sydney Morning Herald, Vietnam Today and the Financial Times. He remixed Robert Wyatt's Cuckooland album into a concert-length collaboration with Elaine Mitchener, Tony Hymas and the Brodsky Quartet, and Totem for Den Haag was selected to represent UK new music in Mexico City in 2015. His work is presented on Psi, Migro, Ensemble Klang, Extra Normal and Intakt.<br>
-He studied Composition with Richard Steinitz and with Christopher Fox at the University of Huddersfield; with Steve Martland in London, Louis Andriessen, Martijn Padding and Richard Ayres at The Royal Conservatory of the Netherlands and with Roger Redgate at Goldsmiths College, London. Matt is a Professor of Composition and Sonic Art at Canterbury Christ Church University, regularly gives guest lectures across the UK and Europe and is an Associate Researcher at the Orpheus Institute, Ghent. 
+He studied Composition with Richard Steinitz and with Christopher Fox at the University of Huddersfield; with Steve Martland in London, Louis Andriessen, Martijn Padding and Richard Ayres at The Royal Conservatory of the Netherlands and with Roger Redgate at Goldsmiths College, London. Matt is a Professor of Composition and Sonic Art at Canterbury Christ Church University, regularly gives guest lectures across the UK and Europe and is an Associate Researcher at the Orpheus Institute, Ghent.
 
 <br>
 
