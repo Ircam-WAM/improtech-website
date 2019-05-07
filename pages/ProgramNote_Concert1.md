@@ -28,18 +28,18 @@ Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjami
 #### Evan Parker, Matt Wright, Peter Evans, Mark Nauseef
 Quartet
 
-Evan Parker : saxophones
-Matt Wright: electronics
-Peter Evans: trumpet
-Mark Nauseef: percussion
+Evan Parker : saxophones  
+Matt Wright: electronics  
+Peter Evans: trumpet  
+Mark Nauseef: percussion  
 
 Evan Parker, saxophonist and one of the founding fathers of the European improvised music scene since the late 1960s has chosen to assemble a version of Trance Map+, the group he co leads with Matt Wright, which adds percussionist Mark Nauseef and trumpetist Peter Evans to make a new quartet.  Both Mark and Peter have played in other larger combinations but this will be a debut for this specific combination. For the occasion they will be composing site specific new music by improvisation
 
 #### In good company
 for 2 pianists, guest musicians and webaudio devices
 
-Michelle Agnes Magalhaes, composer, pianists
-Frédéric Bevilacqua (researcher, webaudio systems)
+Michelle Agnes Magalhaes, composer, pianists  
+Frédéric Bevilacqua (researcher, webaudio systems)  
 
 Conceived as a small musical theatre of “interactions”, In good company is a cycle of small pieces. The cycle is organised as an organic living form that progressively expands. It’s built from minimal individual interaction (fingers - piano keys) towards more complex collective interaction between performers and various objects. Its multilayered structure includes visual, sound, gestural and environmental elements. The score is actually a proposition for games that pushes the performers to try new things, take risks and surprise themselves. In addition to instrumental sounds, they also manipulate cell phones, hacking these objects that intermediates in our everyday life much of the interaction with the others. Here, our main interest is to continuously operate shifts in changing rules, eventually creating a large form.
 This piece was designed with the support of the VERTIGO project as part of the STARTS program of the European Commission, based on technological elements from BeCoMe.
@@ -47,7 +47,7 @@ This piece was designed with the support of the VERTIGO project as part of the S
 ####Georg Hajdu  
 Just Her - Jester - Gesture
 
-Lin Chen : kalimba
+Lin Chen : kalimba  
 Georg Hajdu : computer & live electronics  
 
 Just Her – Jester – Gesture is a composition in Bohlen-Pierce tuning for augmented kalimba and electronics written in 2010. It was premiered on occasion of my 50th birthday on June 21, 2010 at the EMS conference hosted by the Shanghai Conservatory’s Electro-Acoustic Music Center (EAMC). 
