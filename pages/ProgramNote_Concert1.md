@@ -47,8 +47,8 @@ This piece was designed with the support of the VERTIGO project as part of the S
 ####Georg Hajdu  
 Just Her - Jester - Gesture
 
-Lin Chen : kalimba<br>
-Georg Hajdu : computer & live electronics
+Lin Chen : kalimba
+Georg Hajdu : computer & live electronics 
 
 Just Her – Jester – Gesture is a composition in Bohlen-Pierce tuning for augmented kalimba and electronics written in 2010. It was premiered on occasion of my 50th birthday on June 21, 2010 at the EMS conference hosted by the Shanghai Conservatory’s Electro-Acoustic Music Center (EAMC). 
 
