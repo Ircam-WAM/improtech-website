@@ -34,7 +34,7 @@ George Lewis
 
 Evan Parker, Matt Wright, Peter Evans, Mark Nauseef *Quartet* (saxophones, electronics, trumpet, percussion)
 
-Michelle-Agnes Magalhaes, Frederic Bevilacqua (composition, piano, gestural system)
+Michelle-Agnes Magalhaes, Frederic Bevilacqua & guests, *In good company* (composition, piano, webaudio systems)
 
 Georg Hajdu: *Just Her - Jester - Gesture* (Lin Chen, augmented kalimba ; Georg Hajdu, live electronics),
 
@@ -267,8 +267,11 @@ The Dynamic Percussion System comprises both an in-game playback system and an a
 
 
 ***17:00***
-#### COMO : Movement-based collective improvisation using mobile devices
-Frédéric Bevilacqua (Ircam), Michelle-Agnes Magalhaes, composer
+#### Collective performance and improvisation using CoMo-Elements
+Michelle Agnes Magalhaes (composer, artist in residence IRCAM)
+Frédéric Bevilacqua (researcher, IRCAM)
+
+Using the web application CoMo-Elements (como.ircam.fr), this workshop proposes an approach to collective performance using of mobile phones, used as separate as motion sensors and interactive sound systems. Each mobile can be “played” using gestures. The application allows for users to design their own gestures and associate them to specific sounds. Additionally, all mobiles can be synchronized and remotely controlled, allowing for musical structures to be either composed and performed, or more directly improvised collectively. We will present the CoMo-Element system, along with examples of possible uses of the system allowing participants to explore various possibilities. Musical materiel and small musical pieces by Michelle Agnes Magalhaes will be proposed to the participants to be collectively experimented and discussed.
 
 ***18:30***
 #### Composition / improvisation in “musiques mixtes” with captors and transducers
