@@ -22,8 +22,8 @@ String instruments, dJazz computer system
 **Orestis Karamanlis and Areti Andreopoulou**    
 *Traditional musicians and Laptop performance*  
 
-**Steve Lehman and J. Nika**
-*Improvisation*
+**Steve Lehman and Jerôme Nika**  
+*Improvisation*  
 Saxophones, live electronics, DYCI2 computer system
 
 <br>

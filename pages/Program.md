@@ -32,16 +32,25 @@ George Lewis
 
 [*Program Notes*]({filename}/pages/ProgramNote_Concert1.md)
 
-Evan Parker, Matt Wright, Peter Evans, Mark Nauseef *Quartet* (saxophones, electronics, trumpet, percussion)
+**Evan Parker, Matt Wright, Peter Evans, Mark Nauseef**  
+*Quartet*  
+Saxophones, live electronics, trumpet, percussion
 
-Michelle-Agnes Magalhaes, Frederic Bevilacqua & guests, *In good company* (composition, piano, webaudio systems)
+**Michelle-Agnes Magalhaes, Frederic Bevilacqua & guests**  
+*In good company*  
+for 2 pianists, guest musicians and webaudio devices
 
-Georg Hajdu: *Just Her - Jester - Gesture* (Lin Chen, augmented kalimba ; Georg Hajdu, composer, live electronics),
+**Georg Hajdu**  
+*Just Her - Jester - Gesture*  
+For augmented kalimba (played by Lisa Chen) and live electronics
 
-Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
+**Raphael Imbert, Benjamin Lévy**  
+*Improvisation*  
+Saxophones, OMax computer system
 
-Students of UOA, Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy : *Omax & co* (Jazz ensemble, omax, dyci2)
-
+**Students of University Of Athens with Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy**  
+*Omax & co*  
+Jazz ensemble, OMax computer system
 
 <br>
 <br>
@@ -313,15 +322,24 @@ This workshop introduces techniques of improvisation with wearable movement sens
 
 [*Program Notes*]({filename}/pages/ProgramNote_Concert3.md)
 
-Jaap Blonk, Hervé Sellin, Georges Bloch: *Cine-concert : Paris bout à bout*, (Jaap Blonk, voice ; Hervé Sellin, piano ; images by Nurith Aviv ; Georges Bloch, DYCI2 improvisation system)
+**Jaap Blonk, Hervé Sellin, Georges Bloch**  
+*Paris bout à bout*  
+Cine-concert on Nurith Aviv's Bout à Bout movie. Voice, piano, OMax and DYCI2 computer systems.
 
-Mark Bokowiec, Julie Wilson - Bokowiec: *HEXIS* (Kinaesonic, Bodycoder System)
+**Mark Bokowiec and Julie Wilson - Bokowiec**  
+*HEXIS*  
+For Kinaesonics, Bodycoder System and soloist.
 
-Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz system)
+**Marc Chemillier and Camel Zekri**  
+*Machines and Gnaoua tradition*  
+String instruments, dJazz computer system
 
-Orestis Karamanlis, Areti Andreopoulou (UOA): *Traditional musicians* (Laptop / musicians performance)
+**Orestis Karamanlis and Areti Andreopoulou**    
+*Traditional musicians and Laptop performance*  
 
-Steve Lehman, J. Nika (saxs, DYCI2 system)
+**Steve Lehman and Jerôme Nika**  
+*Improvisation*  
+Saxophones, live electronics, DYCI2 computer system
 
 <br>
 <br>
