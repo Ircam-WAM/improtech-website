@@ -7,15 +7,24 @@ Status: Hidden
 **September 28, 20:30** *Onassis Cultural Center*  
 <br>
 
-Jaap Blonk, Hervé Sellin, Georges Bloch: *Paris bout à bout*, (Jaap Blonk, voice ; Hervé Sellin, piano ; images by Nurith Aviv ; Georges Bloch, DYCI2 improvisation system)
+**Jaap Blonk, Hervé Sellin, Georges Bloch**  
+*Paris bout à bout*  
+Cine-concert on Nurith Aviv's Bout à Bout movie. Voice, piano, OMax and DYCI2 computer systems.
 
-Mark Bokowiec, Julie Wilson - Bokowiec: *HEXIS* (Kinaesonic, Bodycoder System)
+**Mark Bokowiec and Julie Wilson - Bokowiec**  
+*HEXIS*  
+For Kinaesonics, Bodycoder System and soloist.
 
-Marc Chemillier & Camel Zekri: *Machines and Gnaoua tradition* (strings, dJazz system)
+**Marc Chemillier and Camel Zekri**  
+*Machines and Gnaoua tradition*  
+String instruments, dJazz computer system
 
-Orestis Karamanlis, Areti Andreopoulou (UOA): *Traditional musicians* (Laptop / musicians performance)
+**Orestis Karamanlis and Areti Andreopoulou**    
+*Traditional musicians and Laptop performance*  
 
-Steve Lehman, J. Nika (saxs, DYCI2 system)
+**Steve Lehman and J. Nika**
+*Improvisation*
+Saxophones, live electronics, DYCI2 computer system
 
 <br>
 <br>
