@@ -27,6 +27,8 @@ Anastasia Georgaki, Christos Carras, Gérard Assayag, Marc Chemillier
 #### Keynote
 George Lewis
 
+<br>
+
 ***20:30 - 22:30***
 #### Concert #1
 
