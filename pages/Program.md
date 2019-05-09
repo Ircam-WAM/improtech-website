@@ -274,8 +274,12 @@ Frédéric Bevilacqua (researcher, IRCAM)
 Using the web application CoMo-Elements (como.ircam.fr), this workshop proposes an approach to collective performance using of mobile phones, used as separate as motion sensors and interactive sound systems. Each mobile can be “played” using gestures. The application allows for users to design their own gestures and associate them to specific sounds. Additionally, all mobiles can be synchronized and remotely controlled, allowing for musical structures to be either composed and performed, or more directly improvised collectively. We will present the CoMo-Element system, along with examples of possible uses of the system allowing participants to explore various possibilities. Musical materiel and small musical pieces by Michelle Agnes Magalhaes will be proposed to the participants to be collectively experimented and discussed.
 
 ***18:30***
-#### Composition / improvisation in “musiques mixtes” with captors and transducers
-Lara Morciano (composer), Jose-Miguel Fernandez (composer, Ircam)
+#### Composing “musiques mixtes” : acoustic spaces, improvisation and gestures.
+Lara Morciano (composer), Jose-Miguel Fernandez (composer, RIM Ircam)
+
+The workshop introduces some possibilities of real-time interaction between instruments and electronic, explored through a device which uses the hands movements of the performer to control and synchronize various sound processes.
+This presentation will mainly focus on the Philiris composition for piano, motion capture and transducers. The different sections of the piece will be presented from a technical and compositional point of view. Examples of the interaction between the real and virtual piano linked to motion capture, sound synthesis and real time treatments through transducers within the piano and the notion of "double" will be presented. It will also show examples of Antescofo, score follower and programming language software, for the creation of real-time processes and interaction in relation with the notions of acoustic spaces, improvisation and gestures.
+
 
 ***18:30***
 #### Improvisation with Motion Sensors and Live coding: Combining Dance and Instrumental Improvisation

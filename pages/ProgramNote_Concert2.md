@@ -7,15 +7,25 @@ Status: Hidden
 **September 27, 20:30** *Onassis Cultural Center*  
 <br>
 
-Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
+**Bernard Lubat, Sylvain Luc, Marc Chemillier, Gérard Assayag**  
+*Lubax Lux*  
+Piano, guitar, Omax & dJazz computer systems
 
-Lara Morciano: *Philiris* (piano, motion capture, transducers and real-time electronics)
+**Lara Morciano**  
+*Philiris*  
+For piano, motion capture, transducers and real-time electronics
 
-George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin, live electronic, voyager system)
+**George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou**  
+*Voyager: Interactive Quintet* (2007/2019)  
+Trombone, saxophones, violin, live electronic, Voyager system
 
-Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin/MUGIC™ sensor)
+**Mari Kimura, Pierre Couprie, Gyorgy Kurtag, Hugues Genevois**  
+*A Close Encounter of the Seventh Kind*  
+Violin and electronic instruments
 
-Rémi Fox, J. Nika (saxs, DYCI2 system)
+**Rémi Fox, J. Nika**  
+ *Improvisation*  
+Saxophones and DYCI2 computer system
 
 <br>
 <br>
@@ -25,9 +35,11 @@ Rémi Fox, J. Nika (saxs, DYCI2 system)
 </p>
 
 #### Lara Morciano
-*Philiris*
+*Philiris*  
+For piano, motion capture, transducers and real-time electronics  
 
-Piano, motion capture, transducers and real-time electronics
+Lara Morciano, composer, piano  
+Jose-Miguel Fernandez, live Electronics  
 
 In Philiris the research is based on the correspondence between the gesture and the characteristics of the sound signal as well as the synchronization and interaction between the hands movements of the performer and various sound processes.
 
@@ -38,13 +50,13 @@ Chords played in the air are triggered by the motion tracking of both hands ; th
 
 
 ####George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou  
-Voyager: Interactive Quintet (2007/2019)
+*Voyager: Interactive Quintet* (2007/2019)
 
-Evan Parker: saxophones<br>
-Mari Kimura: violin/MUGIC™ sensor<br>
-Stylianos Dimou: live electronics<br>
-George Lewis : trombone, laptop<br>
-Voyager : interactive computer pianist
+George Lewis : trombone, laptop  
+Evan Parker: saxophones  
+Mari Kimura: violin/MUGIC™ sensor  
+Stylianos Dimou: live electronics  
+Voyager : interactive computer pianist  
 
 The performers are engaged in live, completely improvised dialogue with Voyager, computer-driven, interactive "virtual improvisor" software designed by Lewis, who has been working with musical computers, or “creative machines,” since 1979.  The computer performs on a software-controllable acoustic piano, the Yamaha DisklavierTM.  Lewis’s program uses its analysis of both musicians’ performances to guide its generation of complex responses, while also establishing its own independent musical behavior. The system does not need real-time human input to generate music; it can also take initiatives on its own. In this performance, the improvised musical encounter is portrayed as a sonic negotiation among musicians, some of whom are people and others not. 
 
@@ -54,7 +66,15 @@ When one of the performers is a creative machine, as is the case tonight, our ha
 
 
 
+#### Mari Kimura, Pierre Couprie, Gyorgy Kurtag, Hugues Genevois
+*A Close Encounter of the Seventh Kind *
 
+Mari Kimura: violin / MUGIC™ sensor
+Pierre Couprie: Live Electronics
+György Kurtág: Handsonic
+Hugues Genevois: Koncertdoboz
+
+In musicology, a close encounter is an event in which a person witnesses an unidentified musical object. This terminology and the system of classification behind it were first suggested in cyber-musicologist Leonid S. Gonionski's 1958 book The CE Experience: A Scientific Inquiry. Categories beyond Professor Gonionski's original three have been added by others researchers and successors. It would be long and tedious to detail all these categories. Let's just say that a close encounter of the seventh type occurs when the audience is invited to attend the creation of a musical hybridisation between real humans by scientific methods and technological means.
 
 
 ---
