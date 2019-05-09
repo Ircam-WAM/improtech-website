@@ -15,15 +15,15 @@ Piano, guitar, Omax & dJazz computer systems
 *Philiris*  
 For piano, motion capture, transducers and real-time electronics
 
-**George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou**  
+**George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou, Voyager**  
 *Voyager: Interactive Quintet* (2007/2019)  
-Trombone, saxophones, violin, live electronic, Voyager system
+Trombone, saxophones, violin, live electronics, Voyager interactive pianist.
 
 **Mari Kimura, Pierre Couprie, Gyorgy Kurtag, Hugues Genevois**  
 *A Close Encounter of the Seventh Kind*  
-Violin and electronic instruments
+Violin, live electronics, Handsonic, Koncertdoboz
 
-**Rémi Fox, J. Nika**  
+**Rémi Fox, Jérôme Nika**  
  *Improvisation*  
 Saxophones and DYCI2 computer system
 

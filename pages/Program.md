@@ -21,7 +21,7 @@ title: Program
 
 ***18:00***
 #### Opening Words
-A. Georgaki, C. Carras, G. Assayag, M. Chemillier
+Anastasia Georgaki, Christos Carras, Gérard Assayag, Marc Chemillier
 
 ***19:00***
 #### Keynote
@@ -36,7 +36,7 @@ Evan Parker, Matt Wright, Peter Evans, Mark Nauseef *Quartet* (saxophones, elect
 
 Michelle-Agnes Magalhaes, Frederic Bevilacqua & guests, *In good company* (composition, piano, webaudio systems)
 
-Georg Hajdu: *Just Her - Jester - Gesture* (Lin Chen, augmented kalimba ; Georg Hajdu, live electronics),
+Georg Hajdu: *Just Her - Jester - Gesture* (Lin Chen, augmented kalimba ; Georg Hajdu, composer, live electronics),
 
 Raphael Imbert / Benjamin Lévy  (Sax, traditional instruments, omax)
 
@@ -169,17 +169,27 @@ The workshop includes a short-term performance presenting the interactive platfo
 ***20:30***
 #### Concert #2
 
-[*Program Notes*]({filename}/pages/ProgramNote_Concert2.md)
+[*Program Notes*]({filename}/pages/ProgramNote_Concert2.md)  
 
-Bernard Lubat, Sylvain Luc, Gérard Assayag & Marc Chemillier (piano, guitar, Omax & dJazz systems)
+**Bernard Lubat, Sylvain Luc, Marc Chemillier, Gérard Assayag**  
+*Lubax Lux*  
+Piano, guitar, Omax & dJazz computer systems
 
-Lara Morciano: *Philiris* (piano, motion capture, transducers and real-time electronics)
+**Lara Morciano**  
+*Philiris*  
+For piano, motion capture, transducers and real-time electronics
 
-George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou: *Voyager: Interactive Quintet* (2007/2019) (trombone, sax, violin, live electronic, voyager system)
+**George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou, Voyager**  
+*Voyager: Interactive Quintet* (2007/2019)  
+Trombone, saxophones, violin, live electronics, Voyager interactive pianist.
 
-Pierre Couprie, Gyorgy Kurtag, Mari Kimura, Hugues Genevois (live Electronics, Gesture interface, violin/MUGIC™ sensor)
+**Mari Kimura, Pierre Couprie, Gyorgy Kurtag, Hugues Genevois**  
+*A Close Encounter of the Seventh Kind*  
+Violin, live electronics, Handsonic, Koncertdoboz
 
-Rémi Fox, J. Nika (saxs, DYCI2 system)
+**Rémi Fox, Jérôme Nika**  
+ *Improvisation*  
+Saxophones and DYCI2 computer system
 
 <br>
 <br>
