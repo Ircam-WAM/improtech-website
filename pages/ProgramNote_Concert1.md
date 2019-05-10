@@ -8,7 +8,7 @@ Status: Hidden
 <br>
 
 **Evan Parker, Matt Wright, Peter Evans, Mark Nauseef**  
-*Quartet*  
+*Trance Map+*  
 Saxophones, live electronics, trumpet, percussion
 
 **Michelle-Agnes Magalhaes, Frederic Bevilacqua & guests**  
@@ -36,14 +36,16 @@ Jazz ensemble, OMax computer system
 
 
 #### Evan Parker, Matt Wright, Peter Evans, Mark Nauseef
-*Quartet*
+*Trance Map+*  
 
 Evan Parker : saxophones  
 Matt Wright: electronics  
 Peter Evans: trumpet  
 Mark Nauseef: percussion  
 
-Evan Parker, saxophonist and one of the founding fathers of the European improvised music scene since the late 1960s has chosen to assemble a version of Trance Map+, the group he co leads with Matt Wright, which adds percussionist Mark Nauseef and trumpetist Peter Evans to make a new quartet.  Both Mark and Peter have played in other larger combinations but this will be a debut for this specific combination. For the occasion they will be composing site specific new music by improvisation
+Evan Parker, saxophonist and one of the founding fathers of the European improvised music scene since the late 1960s has chosen to assemble a version of Trance Map+, the group he co leads with Matt Wright, which adds percussionist Mark Nauseef and trumpetist Peter Evans to make a new quartet.  Both Mark and Peter have played in other larger combinations but this will be a debut for this specific combination. For the occasion they will be composing site specific new music by improvisation.
+Evan Parker and Matt Wright met in 2008 and out of their first studio sessions developed Trance Map, an album of over an hour that mixes field recordings, samples from cassettes, turntable scratching and the live processing of Evan's relentlessly evolving saxophone lines. Since that time the project has developed to include live events across Europe, often involving (Trance Map+) guest performers such as Toma Gouband, Peter Evans, Hannah Marshall and Barry Guy. A US version of the group (featuring Evan Parker, Matt Wright, Mark Nauseef, Adam Linson and Ned Rothenberg) performed at the Big Ears Festival in Knoxville in late March 2019. Trance Map+ Live in Nikkelsdorf (featuring Evan Parker, Matt Wright, Spring Heel Jack and Adam Linson) will be released on Intakt in summer/autumn 2019.
+http://www.matt-wright.co.uk/trance-map
 
 #### Michelle Agnes Magalhaes
 *In good company*  

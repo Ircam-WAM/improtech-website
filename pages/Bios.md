@@ -226,6 +226,13 @@ is a Greek composer and electronic performer born in Thessaloniki in 1988. A Ful
 
 ---
 
+
+<img src="../images/Peter_Evans.jpg" width="320" style="float:left" hspace="10">
+####Peter Evans
+is a trumpet player and improvisor/composer based in New York City since 2003.   Evans is part of a broad, hybridized scene of musical experimentation and his work cuts across a wide range of modern musical practices and traditions.  Peter is committed to the simultaneously self-determining and collaborative nature of musical improvisation as a compositional tool, and works with an ever-expanding group of musicians and composers in the creation of new music. His primary groups as a leader are the Peter Evans Ensemble and Being & Becoming.  Evans has been exploring solo trumpet music since 2002 and is widely recognized as a leading voice in the field, having released several recordings over the past decade.  He is a member of the cooperative groups Pulverize the Sound (with Mike Pride and Tim Dahl) and Rocket Science (with Evan Parker, Craig Taborn and Sam Pluta) and is constantly experimenting and forming new configurations with like minded players.  As a composer, he has been commissioned by the International Contemporary Ensemble (ICE), Yarn/Wire, the Donaueschingen Musiktage Festival, the Jerome Foundation's Emerging Artist Program, and the Doris Duke Foundation. Evans has presented and/or performed his works at major festivals worldwide and tours his own groups extensively.  He has worked with some of the leading figures in new music:  John Zorn, Ingrid Laubrock, Jim Black, Weasel Walter, Ambrose Akinmusere, Matana Roberts, Tyshawn Sorey, Levy Lorenzo, Nate Wooley, Steve Schick, Mary Halvorson, Joe McPhee and performs with both ICE and the Wet Ink Ensemble. He has been releasing recordings on his own label, More is More, since 2011.  2018 will see the release of a new solo album, the first duo album with Levy Lorenzo, a new record by Pulverize the Sound, and the new album by the Peter Evans Ensemble.
+
+---
+
 <img src="../images/fox.jpg" width="320" style="float:left" hspace="10">
 ####Rémi Fox
 Saxophonist, improviser and composer, Rémi Fox is part of this new generation of artist who wishes to make the jazz a resolutely contemporary music. He graduated from the Department Jazz and improvised music from the CNSMD of PARIS where he had the opportunity to build a strong musical experience, along with great musicians (being of his generation or more experienced one). All these encounters gave him the opportunity to take part in a great variety of projects, and develop a rich and open musical universe, while strengthening his own personality. During his studies, he entered the Department of Improvisation Generative of CNSMDP (directed by Vincent Lê Quang and Alexandros Markeas) to discover new ways of playing, and to begin with sound textures experimentation. During those years, he always seeked to confront his music to other forms of Art such as dance, video or Visual arts, leading to enriching collaborations with IRCAM, CNC (National Film and the moving image Centre) or Theatres. The “nOx project” (nOx.3, nOx.6, nOx.8), started in 2013, embodies Remi’s wish to now create its own path and musical personality. Through this innovative series, the young artist offers a smart mix between improvisation, contemporary electronic music, and genuine “nOxian” melodies.<br> [www.nox3.net](http://www.nox3.net)
@@ -467,6 +474,15 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 <br>
 
 ---
+
+
+<img src="../images/Sylvain_Luc.jpg" width="320" style="float:left" hspace="10">
+####Sylvain Luc
+“Technique has never been my objective… Music is not a competition. Play music, live music. Music has to be shared. It shouldn’t keep people apart.” Sylvain Luc  
+Sylvain Luc was born in 1965 in Bayonne. At age four, he began playing guitar, then violin, and then studied cello for ten years at the Bayonne Conservatory. At age 23, he moved to Paris, where he worked as an arranger, composer and accompanist for popular musicians, such as Catherine Lara, Michel Jonasz, Al Jarreau and others, while still keeping a hand in jazz as a bassist in the Richard Galliano Trio and as a guitarist with Eric Le Lann.  In 1993, Luc became Godin guitars’ worldwide ambassador. Since then, he has continued recording in France and abroad. His first album, “Piaia”, released in 1993, included “Petits Déjà,” a duet with his long-time friend Louis Winsberg.  Also featured are “Ameskeri” with Stéphane Belmondo, “Duet” with Biréli Lagrène, and “Summertime.” Luc launched the famous Trio Sud band with André Ceccarelli and Jean-Marc Jafet. Following the release of their second album, “Sylvain Luc Trio Sud ”, they won the “Victoire de la Musique Jazz” award for best jazz group in 2003. They released a third album, “Young and Fine”, in 2008.  Following the release of his album “Joko” in 2006, Luc toured France and Europe from 2006 to 2007 with renowned musicians Michel Portal, Eric Longsworth, Olivier Ker Ourio, Jacky Terrasson and Pascal Rey. In 2007, he was invited to represent France along with Didier Lockwood, Richard Galliano and Olivier Ker Ourio at the International Agency for Education of Jazz (IAEJ) conference in New York. Afterwards, he spent six weeks giving a series of solo concerts in the U.S., Canada and South America, in association with the International Guitar Night Festival. In 2008, Luc won the “Django d’Or” music award for his achievements and played in the “String Quartet” band with Didier Lockwood, Victor Bailey and Billy Cobham. In 2009, he toured with Richard Bona and Steve Gadd and with Didier Lockwood, Ira Coleman and the Chemirani brothers.  He also performed duets with Philip Catherine and Biréli Lagrène, as well as several solos.
+
+---
+
 
 <img src="../images/michelle.jpg" width="320" style="float:left" hspace="10">
 ####Michelle Agnes Magalhaes
