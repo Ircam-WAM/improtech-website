@@ -281,6 +281,11 @@ Ian Gold is Associate Professor of Philosophy & Psychiatry at McGill University 
 <br>
 
 ---
+<img src="../images/Garry_Hagberg.jpg" width="241" style="float:left" hspace="10">
+####Garry L. Hagberg 
+is the James H. Ottaway Professor of Philosophy and Aesthetics at Bard College in New York, USA, and has also held a Chair in the School of Philosophy at the University of East Anglia, Norwich, England. Author of numerous papers at the intersection of aesthetics and the philosophy of language, his books include Meaning and Interpretation: Wittgenstein, Henry James, and Literary Knowledge, and Art as Language: Wittgenstein, Meaning, and Aesthetic Theory. His most recent book is Describing Ourselves: Wittgenstein and Autobiographical Consciousness. He is editor of Art and Ethical Criticism, co-editor of A Companion to the Philosophy of Literature, and Editor of the journal Philosophy and Literature. Professor Hagberg is presently writing a new book on the contribution literary experience makes to the formation of self and sensibility, Living in Words: Literature, Autobiographical Language, and the Composition of Selfhood, and three edited volumes, Fictional Characters, Real Problems: The Search for Ethical Content in Literature; Wittgenstein on Aesthetic Understanding; and Stanley Cavell on Aesthetic Understanding, were recently published. Another new book in progress is on aesthetic issues in jazz improvisation, a subject in which he has an interest of long standing both as scholar and performer (he has performed on about a dozen CDs as a jazz guitarist, and is co-author, with Howard Roberts, of the three-volume Guitar Compendium: Technique, Improvisation, Musicianship, Theory published by Advance Music/ Schott). He has delivered many talks and papers at philosophical, literary, and musical meetings and conferences around the world. 
+
+---
 
 <img src="../images/Hajdu-Photo.jpeg" width="241" style="float:left" hspace="10">
 ####Georg Hajdu

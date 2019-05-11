@@ -24,8 +24,8 @@ title: Program
 Anastasia Georgaki, Christos Carras, Gérard Assayag, Marc Chemillier
 
 ***19:00***
-#### Keynote
-George Lewis
+#### Opening Keynote
+George Lewis (Columbia University)
 
 <br>
 
@@ -356,8 +356,10 @@ Saxophones, live electronics, DYCI2 computer system
 <br>
 
 ***09:30***
-#### Keynote talk :
-Gary L. Hagberg (Bard College, US)
+#### Keynote talk : Distributed Creativity, Some Ethical Aspects of Group Improvisation, and our (human-like) Interaction with Digital Entities
+Garry L. Hagberg (Bard College, US)
+
+The work of an improvising ensemble is intentional action, but of a kind -- a collective kind -- that transcends the sum total of the intentions of individual players. And while performing, players face emergent and rapidly-shifting obligations to each other, to the collective, and to the traditions and histories to which they are contributing. Thus in improvising ensembles we work together in a special way, and we treat or regard each other in a special (closely-listening, closely-responding) way. The digital age of computer interaction lifts these issues to a new level of complexity: do we see the co-improvising program as a co-equal participant to whom (or to "whom") we distribute creative agency; do we have ethical obligations of a similar kind -- not to her or to him -- but to it? This talk will pursue these issues by offering some ways of thinking of (1) collective improvisational creativity, (2) ethical interaction within an improvising ensemble, and (3) the form of "seeing as" that places us into a human-like relationship with artificial musical intelligence. 
 
 ***10:15***
 #### The MICA Project : Musical Improvisation and Collective Action
