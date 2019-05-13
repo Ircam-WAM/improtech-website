@@ -783,7 +783,7 @@ project "In Transit", and in 2017 at the "Mind the Fact" festival.
 
 ---
 
-<img src="../images/Camel_Zekri.jpeg" width="380" style="float:left" hspace="10">
+<img src="../images/Camel_Zekri.jpg" width="380" style="float:left" hspace="10">
 #### Camel Zekri
 Director of Les Arts Improvisés in Normandy Camel Zekri is a specialist in Central African music (Aka Pygmies and Banda Linda), music from North Africa (Gnawa, Mezwed) and West Africa (Niger, Mauritania).  
 At the same time, since 1995, he has been developing creative spaces in France and Africa around Le festival de l’eau between traditional musicians and musicians playing with augmented devices of digital sensors.  
