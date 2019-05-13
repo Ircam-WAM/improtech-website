@@ -434,7 +434,6 @@ Lehman received his B.A. (2000) and M.A. in Composition (2002) from Wesleyan Uni
 He is currently a Professor of Music at The California Institute of the Arts, and lives in Los Angeles.
 <br>
 [www.stevelehman.com](http://www.stevelehman.com/)
-
 <br>
 
 ---
@@ -454,7 +453,7 @@ is an associate of philosophy at McGill University, Montreal, specializing in th
 He is the author of Intents and Purposes: Philosophy and the Aesthetics of Improvisation; The Video Art of Sylvia Safdie, and co-editor of Improvisation and Social Aesthetics.  
 He is involved in the design of digital control surfaces to help enable individuals with physical disabilities make music, the design of digital sound-walk apps, and is presently part of a Greek-based design team working on the development of a digital new media art archive based on improvisatory principles.  
 He is an active improviser on brass and electronics.  
-[Web page](https://www.mcgill.ca/philosophy/eric-lewis)  
+[Web page](https://jpic.fm/team_member/dr-eric-lewis-philosopher-director-of-mcgill-center-for-critical-studies-in-improvisation/)  
 <br>
 <br>
 <br>
@@ -468,7 +467,6 @@ He is an active improviser on brass and electronics.
 is Professor of American Music at Columbia University. A Fellow of the American Academy of Arts and Sciences and the American Academy of Arts and Letters, and a Corresponding Fellow of the British Academy, Lewis’s other honors include a MacArthur Fellowship (2002) and a Guggenheim Fellowship (2015). Lewis's work has been presented by the BBC Scottish Symphony Orchestra, Ensemble Dal Niente, Ensemble Intercontemporain, London Philharmonia Orchestra, International Contemporary Ensemble, Musikfabrik, Mivos Quartet, London Sinfonietta, Spektral Quartet, and others. An Honorary Member of the American Musicological Society, his 2008 book, *A Power Stronger Than Itself:  The AACM and American Experimental Music* (University of Chicago Press) received the AMS Music in American Culture Award. Lewis is the co-editor of the two-volume *Oxford Handbook of Critical Improvisation Studies* (2016). Lewis holds honorary degrees from the University of Edinburgh, New College of Florida, and Harvard University.
 <br>[https://music.columbia.edu/bios/george-e-lewis](https://music.columbia.edu/bios/george-e-lewis)
 
-<br>
 <br>
 <br>
 <br>
