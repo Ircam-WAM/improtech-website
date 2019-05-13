@@ -489,10 +489,9 @@ Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accor
 <img src="../images/Sylvain_Luc.jpg" width="400" style="float:left" hspace="10">
 ####Sylvain Luc
 “Technique has never been my objective… Music is not a competition. Play music, live music. Music has to be shared. It shouldn’t keep people apart.” Sylvain Luc  
-Sylvain Luc was born in 1965 in Bayonne. At age four, he began playing guitar, then violin, and then studied cello for ten years at the Bayonne Conservatory. At age 23, he moved to Paris, where he worked as an arranger, composer and accompanist for popular musicians, such as Catherine Lara, Michel Jonasz, Al Jarreau and others, while still keeping a hand in jazz as a bassist in the Richard Galliano Trio and as a guitarist with Eric Le Lann.  In 1993, Luc became Godin guitars’ worldwide ambassador. Since then, he has continued recording in France and abroad. His first album, “Piaia”, released in 1993, included “Petits Déjà,” a duet with his long-time friend Louis Winsberg.  Also featured are “Ameskeri” with Stéphane Belmondo, “Duet” with Biréli Lagrène, and “Summertime.” Luc launched the famous Trio Sud band with André Ceccarelli and Jean-Marc Jafet. Following the release of their second album, “Sylvain Luc Trio Sud ”, they won the “Victoire de la Musique Jazz” award for best jazz group in 2003. They released a third album, “Young and Fine”, in 2008.  Following the release of his album “Joko” in 2006, Luc toured France and Europe from 2006 to 2007 with renowned musicians Michel Portal, Eric Longsworth, Olivier Ker Ourio, Jacky Terrasson and Pascal Rey. In 2007, he was invited to represent France along with Didier Lockwood, Richard Galliano and Olivier Ker Ourio at the International Agency for Education of Jazz (IAEJ) conference in New York. Afterwards, he spent six weeks giving a series of solo concerts in the U.S., Canada and South America, in association with the International Guitar Night Festival. In 2008, Luc won the “Django d’Or” music award for his achievements and played in the “String Quartet” band with Didier Lockwood, Victor Bailey and Billy Cobham. In 2009, he toured with Richard Bona and Steve Gadd and with Didier Lockwood, Ira Coleman and the Chemirani brothers.  He also performed duets with Philip Catherine and Biréli Lagrène, as well as several solos.
+Sylvain Luc was born in 1965 in Bayonne. At the age of four, he began playing guitar, then violin, then studied cello for ten years at the Bayonne Conservatory. In 1988, he moved to Paris, where he worked as an arranger, composer and accompanist of popular music artists (Catherine Lara, Michel Jonazs, Al Jarreau…) while still continuing jazz as a bassist in the Richard Galliano Trio and guitarist with Eric Le Lann. As his contacts multiplied, Luc worked with some of the greatest musicians on the scene, including Wynton Marsalis, Steve Gadd, Michel Legrand, Elvin Jones, Dee Dee Brigewater, Manu Katché, Stéphane Belmondo, Michel Portal, Bernard Lubat, Steve Lukather, Larry Coyrell, Al Di Meola, Didier Lockwood, John Mc Laughlin, Billy Cobham, Richard Bona. His first album, “Piaia,” was released in 1993, followed the year after by “Petit Déjà,” a duet with his long-time friend Louis Winsberg. In 2000, he recorded a duet album with Biréli Lagrène that rapidly sold more than 70,000 copies. Its 2009 sequel “Summertime” is heading for the same record sales. With André Ceccarelli and Jean-Marc Jafet, Luc launched the famous Trio Sud band and recorded their first album in 2000. In 2003, for their album “Sylvain Luc Trio Sud,” they were awarded the “Victoire de la Musique” award for best jazz group. In January 2007, he was invited to represent France, along with Didier Lockwood, Richard Galliano and Olivier Ker Ourio at the IAEJ conference in New-York. Following was a two-month series of solo concerts in the USA and Canada in association with the International Guitar Night Festival. In 2008, Luc won the “Django d’Or” music award for his achievements. In 2010, Sylvain Luc received the Award of Jazz musician of the year from the SACEM, and in 2011 from the French Jazz Academy.
 
 ---
-
 
 <img src="../images/michelle.jpg" width="320" style="float:left" hspace="10">
 ####Michelle Agnes Magalhaes
@@ -783,6 +782,19 @@ project "In Transit", and in 2017 at the "Mind the Fact" festival.
 <br>
 
 ---
+
+<img src="../images/Camel_Zekri.jpeg" width="380" style="float:left" hspace="10">
+#### Camel Zekri
+Director of Les Arts Improvisés in Normandy Camel Zekri is a specialist in Central African music (Aka Pygmies and Banda Linda), music from North Africa (Gnawa, Mezwed) and West Africa (Niger, Mauritania).  
+At the same time, since 1995, he has been developing creative spaces in France and Africa around Le festival de l’eau between traditional musicians and musicians playing with augmented devices of digital sensors.  
+His repertory consist of traditional and contemporary music and improvisations.  
+He performs solo or in groups, and has played, among others, with such great figures as Xavier Charles, Fred Frith, Evan Parker, Jacques di Donato, Benat Achiary, Jon Hassel.
+<br>
+<br>
+<br>
+
+---
+
 
 <p align="center">
    <br><br>

@@ -178,7 +178,7 @@ The workshop includes a short-term performance presenting the interactive platfo
 <br>
 
 ***20:30***
-#### Concert #2
+####  #2
 
 [*Program Notes*]({filename}/pages/ProgramNote_Concert2.md)  
 
@@ -199,7 +199,7 @@ Trombone, saxophones, violin, live electronics, Voyager interactive pianist.
 Violin, live electronics, Handsonic, Koncertdoboz
 
 **Rémi Fox, Jérôme Nika**  
- *Improvisation*  
+ *C’est pour ça*  
 Saxophones and DYCI2 computer system
 
 <br>
@@ -340,8 +340,9 @@ String instruments, dJazz computer system
 *Traditional musicians and Laptop performance*  
 
 **Steve Lehman and Jerôme Nika**  
-*Improvisation*  
+*Silver Lake Studies*  
 Saxophones, live electronics, DYCI2 computer system
+
 
 <br>
 <br>
