@@ -448,16 +448,13 @@ As a musician, he participates in various project inside and outside Ircam, tyin
 
 
 ---
-<img src="../images/ELewis.jpg" width="280" style="float:left" hspace="10">
+<img src="../images/ELewis.jpg" width="260" style="float:left" hspace="10">
 ####Eric Lewis
-is an associate of philosophy at McGill University, Montreal, specializing in the philosophy of improvisation.  He is the author of Intents and Purposes: Philosophy and the Aesthetics of Improvisation; The Video Art of Sylvia Safdie, and co-editor of Improvisation and Social Aesthetics.  He is involved in the design of digital control surfaces to help enable individuals with physical disabilities make music, the design of digital sound-walk apps, and is presently part of a Greek-based design team working on the development of a digital new media art archive based on improvisatory principles.  He is an active improviser on brass and electronics.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+is an associate of philosophy at McGill University, Montreal, specializing in the philosophy of improvisation.  
+He is the author of Intents and Purposes: Philosophy and the Aesthetics of Improvisation; The Video Art of Sylvia Safdie, and co-editor of Improvisation and Social Aesthetics.  
+He is involved in the design of digital control surfaces to help enable individuals with physical disabilities make music, the design of digital sound-walk apps, and is presently part of a Greek-based design team working on the development of a digital new media art archive based on improvisatory principles.  
+He is an active improviser on brass and electronics.  
+[Web page](https://www.mcgill.ca/philosophy/eric-lewis)  
 <br>
 <br>
 <br>
