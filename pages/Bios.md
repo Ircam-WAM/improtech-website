@@ -439,7 +439,7 @@ He is currently a Professor of Music at The California Institute of the Arts, an
 
 ---
 
-<img src="../images/Benjamin.Levy.jpg" width="360" style="float:left" hspace="10">
+<img src="../images/Benjamin.Levy.jpg" width="320" style="float:left" hspace="10">
 ####Benjamin Lévy
 Nowadays computer musician and research engineer, Benjamin Lévy has a double background in science – mainly computer science with an engineering school degree and a PhD – and in music – with courses of cello, composition, improvisation at Saint-Ouen, Cergy-Pontoise and Paris National Conservatoire.  
 He has been working since 2008 with Ircam both for scientific R&D and artistic creation. In particular, he fully renewed the improvisation software OMax between 2008 and 2013. And he also works as a audio developer in private companies specialize in audio technologies.  
@@ -448,7 +448,7 @@ As a musician, he participates in various project inside and outside Ircam, tyin
 
 
 ---
-<img src="../images/ELewis.jpg" width="320" style="float:left" hspace="10">
+<img src="../images/ELewis.jpg" width="280" style="float:left" hspace="10">
 ####Eric Lewis
 is an associate of philosophy at McGill University, Montreal, specializing in the philosophy of improvisation.  He is the author of Intents and Purposes: Philosophy and the Aesthetics of Improvisation; The Video Art of Sylvia Safdie, and co-editor of Improvisation and Social Aesthetics.  He is involved in the design of digital control surfaces to help enable individuals with physical disabilities make music, the design of digital sound-walk apps, and is presently part of a Greek-based design team working on the development of a digital new media art archive based on improvisatory principles.  He is an active improviser on brass and electronics.
 
@@ -466,7 +466,7 @@ is an associate of philosophy at McGill University, Montreal, specializing in th
 <br>
 
 ---
-<img src="../images/GLewis.jpg" width="320" style="float:left" hspace="10">
+<img src="../images/GLewis.jpg" width="300" style="float:left" hspace="10">
 ####George Lewis
 is Professor of American Music at Columbia University. A Fellow of the American Academy of Arts and Sciences and the American Academy of Arts and Letters, and a Corresponding Fellow of the British Academy, Lewis’s other honors include a MacArthur Fellowship (2002) and a Guggenheim Fellowship (2015). Lewis's work has been presented by the BBC Scottish Symphony Orchestra, Ensemble Dal Niente, Ensemble Intercontemporain, London Philharmonia Orchestra, International Contemporary Ensemble, Musikfabrik, Mivos Quartet, London Sinfonietta, Spektral Quartet, and others. An Honorary Member of the American Musicological Society, his 2008 book, *A Power Stronger Than Itself:  The AACM and American Experimental Music* (University of Chicago Press) received the AMS Music in American Culture Award. Lewis is the co-editor of the two-volume *Oxford Handbook of Critical Improvisation Studies* (2016). Lewis holds honorary degrees from the University of Edinburgh, New College of Florida, and Harvard University.
 <br>[https://music.columbia.edu/bios/george-e-lewis](https://music.columbia.edu/bios/george-e-lewis)
@@ -480,7 +480,7 @@ is Professor of American Music at Columbia University. A Fellow of the American 
 
 ---
 
-<img src="../images/Bio_BernardLubat.png" width="320" style="float:left" hspace="10">
+<img src="../images/Bio_BernardLubat.png" width="400" style="float:left" hspace="10">
 ####Bernard Lubat
 Born in Uzeste in 1945, Bernard Lubat, pianist, vibraphonist, keyboard and accordion player, singer, composer and actor, began studying piano in 1957, attending the Bordeaux Conservatory where he discovered the drums, jazz and Milt Jackson. In 1961, he entered the Paris Conservatory where in 1963 he was awarded the prize for best percussionist. He was then taken on by the Jef Gilson Orchestra (1965) where he came into contact with Michel Portal, Bernard Vitet, François Jeanneau, Jean-Louis Chautemps, Henri Texier… He worked with Jean-Luc Ponty and Martial Solal, as a vibraphonist and for Stan Getz and Eddy Louiss as a drummer. At the same time he worked in contemporary music with Diego Masson, playing Varèse, Bartok, Xenakis, he took part in the premier of Luciano Berio's work Chemin 2 at the Scala de Milan and in the recording of Laborintus. In 1975, he established a group with André Ceccarelli, Marc Bertaux and Tony Bonfils. In 1978, he went on to set up the Festival Uzeste Musical (summer festival) and the Compagnie Lubat, a group with a changeable number of players. At the beginning of the 90s, he launched the festival de printemps and the festival d'hiver set up in cooperation with the Cie Lubat artists with Laure Duthilleul (actress), André Minvielle (singer and musician) and Patrick Auzier (musician and  firework designer) and the publishing house, Les Editions du Tilleul, for the production of CDs. Bernard Lubat and his company tour all over France and abroad. He has also been a musical expert working on the OMax/ImproteK/Djazz project in collaboration with IRCAM and EHESS.
 <br>
