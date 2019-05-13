@@ -282,8 +282,8 @@ Ian Gold is Associate Professor of Philosophy & Psychiatry at McGill University 
 
 ---
 <img src="../images/Garry_Hagberg.jpg" width="241" style="float:left" hspace="10">
-####Garry L. Hagberg 
-is the James H. Ottaway Professor of Philosophy and Aesthetics at Bard College in New York, USA, and has also held a Chair in the School of Philosophy at the University of East Anglia, Norwich, England. Author of numerous papers at the intersection of aesthetics and the philosophy of language, his books include Meaning and Interpretation: Wittgenstein, Henry James, and Literary Knowledge, and Art as Language: Wittgenstein, Meaning, and Aesthetic Theory. His most recent book is Describing Ourselves: Wittgenstein and Autobiographical Consciousness. He is editor of Art and Ethical Criticism, co-editor of A Companion to the Philosophy of Literature, and Editor of the journal Philosophy and Literature. Professor Hagberg is presently writing a new book on the contribution literary experience makes to the formation of self and sensibility, Living in Words: Literature, Autobiographical Language, and the Composition of Selfhood, and three edited volumes, Fictional Characters, Real Problems: The Search for Ethical Content in Literature; Wittgenstein on Aesthetic Understanding; and Stanley Cavell on Aesthetic Understanding, were recently published. Another new book in progress is on aesthetic issues in jazz improvisation, a subject in which he has an interest of long standing both as scholar and performer (he has performed on about a dozen CDs as a jazz guitarist, and is co-author, with Howard Roberts, of the three-volume Guitar Compendium: Technique, Improvisation, Musicianship, Theory published by Advance Music/ Schott). He has delivered many talks and papers at philosophical, literary, and musical meetings and conferences around the world. 
+####Garry L. Hagberg
+is the James H. Ottaway Professor of Philosophy and Aesthetics at Bard College in New York, USA, and has also held a Chair in the School of Philosophy at the University of East Anglia, Norwich, England. Author of numerous papers at the intersection of aesthetics and the philosophy of language, his books include Meaning and Interpretation: Wittgenstein, Henry James, and Literary Knowledge, and Art as Language: Wittgenstein, Meaning, and Aesthetic Theory. His most recent book is Describing Ourselves: Wittgenstein and Autobiographical Consciousness. He is editor of Art and Ethical Criticism, co-editor of A Companion to the Philosophy of Literature, and Editor of the journal Philosophy and Literature. Professor Hagberg is presently writing a new book on the contribution literary experience makes to the formation of self and sensibility, Living in Words: Literature, Autobiographical Language, and the Composition of Selfhood, and three edited volumes, Fictional Characters, Real Problems: The Search for Ethical Content in Literature; Wittgenstein on Aesthetic Understanding; and Stanley Cavell on Aesthetic Understanding, were recently published. Another new book in progress is on aesthetic issues in jazz improvisation, a subject in which he has an interest of long standing both as scholar and performer (he has performed on about a dozen CDs as a jazz guitarist, and is co-author, with Howard Roberts, of the three-volume Guitar Compendium: Technique, Improvisation, Musicianship, Theory published by Advance Music/ Schott). He has delivered many talks and papers at philosophical, literary, and musical meetings and conferences around the world.
 
 ---
 
@@ -714,7 +714,7 @@ and listeners ([www.cs.uvic.ca/~gtzan]()).
 ---
 
 <img src="../images/Vassilakis.jpg" width="320" style="float:left" hspace="10">
-####Dimitri Vassilakis
+####Dimitris Vassilakis
 “An internationally acclaimed, award winning Greek saxophonist/vocalist and composer”
 [http://www.dimitriosvassilakis.com](http://www.dimitriosvassilakis.com)<br>
 Has recorded 5 albums for historic jazz label Candid Records based in London.
@@ -754,7 +754,7 @@ He studied Composition with Richard Steinitz and with Christopher Fox at the Uni
 
 ---
 <img src="../images/Zannos.png" width="220" style="float:left" hspace="10">
-####Iannis Zannos
+####Ioannis Zannos
 has a background in music composition,
 ethnomusicology and interactive performance. He has worked as Director
 of the Music Technology and Documentation section at the Federal
