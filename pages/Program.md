@@ -35,7 +35,7 @@ George Lewis (Columbia University)
 [*Program Notes*]({filename}/pages/ProgramNote_Concert1.md)
 
 **Evan Parker, Matt Wright, Peter Evans, Mark Nauseef**  
-*Quartet*  
+*Trance Map+*  
 Saxophones, live electronics, trumpet, percussion
 
 **Michelle-Agnes Magalhaes, Frederic Bevilacqua & guests**  
@@ -50,7 +50,7 @@ For augmented kalimba (played by Lisa Chen) and live electronics
 *Improvisation*  
 Saxophones, OMax computer system
 
-**Students of University Of Athens with Dimitri Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy**  
+**Students of University Of Athens with Dimitris Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy**  
 *Omax & co*  
 Jazz ensemble, OMax computer system
 

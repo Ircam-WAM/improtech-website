@@ -437,6 +437,16 @@ He is currently a Professor of Music at The California Institute of the Arts, an
 
 <br>
 
+
+---
+<img src="../images/Benjamin.Levy.jpg" width="380" style="float:left" hspace="10">
+####Benjamin Lévy
+Nowadays computer musician and research engineer, Benjamin Lévy has a double background in science – mainly computer science with an engineering school degree and a PhD – and in music – with courses of cello, composition, improvisation at Saint-Ouen, Cergy-Pontoise and Paris National Conservatoire.  
+He has been working since 2008 with Ircam both for scientific R&D and artistic creation. In particular, he fully renewed the improvisation software OMax between 2008 and 2013. And he also works as a audio developer in private companies specialize in audio technologies.  
+As a musician, he participates in various project inside and outside Ircam, tying links with contemporary music, jazz, free improvisation, theater and dance. He collaborates frequently with choreographers met in a traineeship at Abbaye de Royaumont and performs regularly on stage with jazz saxophonist Raphaël Imbert.  
+<br>
+
+
 ---
 <img src="../images/ELewis.jpg" width="320" style="float:left" hspace="10">
 ####Eric Lewis
