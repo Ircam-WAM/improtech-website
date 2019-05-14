@@ -20,12 +20,13 @@ for 2 pianists, guest musicians and webaudio devices
 For augmented kalimba (played by Lisa Chen) and live electronics
 
 **Raphael Imbert, Benjamin Lévy**  
-*Improvisation*  
-Saxophones, OMax computer system
+*A.I. Swing*  
+Saxophones, OMax 5 computer system
 
-**Students of University Of Athens with Dimitris Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy**  
-*Omax & co*  
-Jazz ensemble, OMax computer system
+
+**Dimitri Vassilakis with the students from the University of Athens**
+*Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*
+Saxophones, guitars, vocals, accordion, live electronics, OMax 5 computer system
 
 <br>
 <br>
@@ -79,7 +80,28 @@ A wireless controller attached to the back of kalimba with a strip of velcro dri
 Just Her – Jester – Gesture will be performed by Hamburg-based percussionist Lin Chen.
 
 
+#### Raphael Imbert, Benjamin Lévy
+*A.I. Swing*
 
+Raphaël Imbert, saxophones, composition  
+Benjamin Lévy, OMax 5 computer system
+
+Following a collaboration started 2009, Benjamin Lévy and Raphaël Imbert now offer a new duo, which is currently the subject of an artistic research residency at Ircam. The objective: to find a common and new musical language between the OMax improvisation software and the heritage and creativity of jazz, which is discovered in real time, makes sense and swings. Because OMax swings, new technologies groove and artificial intelligence is having fun, under the guidance of our two protagonists who are keen on experiments, research, improvisation and History.  Louis Armstrong, Coleman Hawkins, Mary Lou Williams, John Coltrane, Alan Lomax's work songs become innovative contemporary objects, while the latest technology illuminates the musical heritage in a playful and experimental way.  The same improvised gesture thus unites the saxophone and the computer, the past and the future, jazz and contemporary music, for a specific research that is also an arithmetic celebration and a sound laboratory.
+
+#### Dimitri Vassilakis with the students from the University of Athens
+*Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*  
+
+Dimitri Vassilakis, saxophones, midi sax, vocals, group coordinator  
+Tilemachos Mousas, guitar, midi guitar  
+Nastazia Beikof, vocals  
+Dimitris Smailis, guitars, programming  
+Natalia Kotsani, vocals, programming  
+and
+Anastasia Georgaki, accordion  
+Raphael Imbert, saxophones  
+Benjamin Lévy, OMax 5 computer system  
+
+A live performance experimenting and improvising with the OMax 5 system, including poetry and original compositions.
 
 
 

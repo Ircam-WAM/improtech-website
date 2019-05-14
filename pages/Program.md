@@ -47,10 +47,13 @@ for 2 pianists, guest musicians and webaudio devices
 For augmented kalimba (played by Lisa Chen) and live electronics
 
 **Raphael Imbert, Benjamin Lévy**  
-*Improvisation*  
-Saxophones, OMax computer system
+*A.I. Swing*  
+Saxophones, OMax 5 computer system
 
-**Students of University Of Athens with Dimitris Vassilakis, Anastasia Georgaki, Raphael Imbert, Benjamin Lévy**  
+**Dimitri Vassilakis with the students from the University of Athens**
+*Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*
+Saxophones, guitars, vocals, accordion, live electronics, OMax 5 computer system
+
 *Omax & co*  
 Jazz ensemble, OMax computer system
 
@@ -333,11 +336,12 @@ Cine-concert on Nurith Aviv's Bout à Bout movie. Voice, piano, OMax and DYCI2 c
 For Kinaesonics, Bodycoder System and soloist.
 
 **Marc Chemillier and Camel Zekri**  
-*Machines and Gnaoua tradition*  
-String instruments, dJazz computer system
+*Gnawa Machine*  
+Augmented guitar, keyboard, dJazz and Le Cercle computer systems.
 
-**Orestis Karamanlis and Areti Andreopoulou**    
-*Traditional musicians and Laptop performance*  
+**Orestis Karamanlis and Giorgos Gargalas**
+*BitVox*
+For beatboxing and laptop live electronics
 
 **Steve Lehman and Jerôme Nika**  
 *Silver Lake Studies*  

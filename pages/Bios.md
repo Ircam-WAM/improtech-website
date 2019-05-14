@@ -246,6 +246,11 @@ Saxophonist, improviser and composer, Rémi Fox is part of this new generation o
 
 ---
 
+#### Giorgos Gargalas
+is working as an audio & visual artist and a creative technician and his main interest is in electroacoustic composition and performance. He graduated from the Audio & Visual Arts Department, Ionian University, Corfu, and made his internship at Glasgow Caledonian University as a graduate teaching and research assistant. He is currently a post-graduate student at the University of Athens. Giorgos won the Greek Beatbox Championship in 2013 and his sound design work for the movie "The Ox" won the "Best sound-design award" at DFK New Wave Festival, West Bengal (2018).
+
+---
+
 <img src="../images/genevois.jpg" width="320" style="float:left" hspace="10">
 ####Hugues Genevois
 is a researcher in musical acoustics, within the LAM team, at the Institut Jean le Rond d'Alembert (Sorbonne Université - CNRS).<br>
@@ -325,6 +330,16 @@ Studie II.
 
 ---
 
+
+<img src="../images/Raphael_Imbert.jpeg" width="241" style="float:left" hspace="10">
+#### Raphaël Imbert
+"Jazz is the musical gesture that allows me to play with whomever I want, whenever I want."
+Born in 1974 in Thiais, France, Raphaël Imbert grew up in an environment particularly sensitive to artistic practices. At the age of 15, he discovered the saxophone, which he learned on his own. He enrolled in the Jazz class at the CNR de Marseille, and met some of the musicians with whom he would play most regularly, such as Pierre Fenichel and Jean-Luc Difraya. He quickly developed a vision of music and jazz linked to the intrinsic spirituality represented by the Jazzman's musical approach. To this end, he founded the "Nine Spirit » ensemble to play the sacred music of Ellington, Coltrane or Ayler, and to create his own compositions. In addition, Raphaël developed a study project on the Sacred in Jazz, and became a winner of the Villa Médicis Hors Les Murs. He was a member of the Board of Directors of the National Jazz Orchestra from 2004 to 2007 and won the 28th national Jazz de la Défense competition in June 2005. Raphaël Imbert also composes for cinema and television. As a musician, teacher and researcher, Raphaël Imbert has been invited to numerous institutions, including Emory University (Atlanta, GA, USA), Northern Colorado University (Greeley, CO, USA), Columbia University (New York, NYC, USA). He was invited to the French Quarter Festival in New York in 2016.
+Raphael Imbert is producer and host of the program "L'heur de plaire" on France Musique National Radio during the summer of 2016, and "Swing Chronique" in 2017. He is an artist in residence in 2016 at the Festival d'Art Lyrique d'Aix en Provence. He joined Archie Shepp's Attica Blues Big Band (Jazz à la Villette 2012) and Harmonia Mundi's new label "Jazz Village", for which he published "Heavens, Amadeus & The Duke", "Libres" duo with Karol Beffa, "Music is my Home" and "Music is My Hope" in 2018, which won the Victoires du Jazz 2018. He was awarded the IRCAM Artistic Research Residency in 2018. Writing numerous articles for scientific, specialized or generalist journals (Libération, Le Monde.fr, L'Homme, Jazz Mag, Philo Mag, Les Cahiers du Jazz, Les Cahiers d'Études Africaines, Mouvement, etc.), he published in March 2014 at l'éclat editions the book "Jazz Supreme. Initiates, Mystics & Prophets » on the action of spirituality and masonry in Jazz history including Coltrane deep involvement.
+Picture credits : © Muriel Despiau.
+
+
+
 <img src="../images/Kaliakatsos.jpeg" width="220" style="float:left" hspace="10">
 ####Maximos Kaliakatsos-Papakostas
 is currently an Adjunct Lecturer and the Department of Audio and Visual Arts, Ionian University, a postdoctoral researcher at the Music Department of the Aristotle University of Thessaloniki and a research associate at the Athena Research and Innovation Centre. He holds a PhD in Computational Intelligence methods for music related tasks, an MSc in Computational Intelligence and a Bachelor’s degree in Mathematics, from the Department of Mathematics, University of Patras. Among his research interests are music data analysis (mainly symbolic but also audio), automated music generation, machine learning and cognitive models for music and computational creativity.
@@ -341,7 +356,9 @@ is currently an Adjunct Lecturer and the Department of Audio and Visual Arts, Io
 
 <img src="../images/Karamanlis.JPG" width="220" style="float:left" hspace="10">
 ####Orestis Karamanlis
-Born in Athens, Greece. Upon completing a PhD in electroacoustic composition Orestis has been active in composing new music and lecturing in the academia. Currently a scholar at the University of Athens and a visiting fellow at Bournemouth University, he has produced a diverse body of sound-art and new media work which is frequently performed in concert venues and urban spaces. orestiskaramanlis.net.
+Born in Athens, Greece. Upon completing a PhD in electroacoustic composition Orestis has been active in composing new music and lecturing in the academia.  
+Currently a scholar at the University of Athens and a visiting fellow at Bournemouth University, he has produced a diverse body of sound-art and new media work which is frequently performed in concert venues and urban spaces.  
+orestiskaramanlis.net.
 
 <br>
 <br>
