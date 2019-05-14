@@ -740,22 +740,16 @@ and listeners ([www.cs.uvic.ca/~gtzan]()).
 
 <img src="../images/Vassilakis.jpg" width="320" style="float:left" hspace="10">
 ####Dimitris Vassilakis
-“An internationally acclaimed, award winning Greek saxophonist/vocalist and composer”
-[http://www.dimitriosvassilakis.com](http://www.dimitriosvassilakis.com)<br>
-Has recorded 5 albums for historic jazz label Candid Records based in London.
-[http://store.candidrecords.com/index.php?route=product/category&path=61_192](http://store.candidrecords.com/index.php?route=product/category&path=61_192)<br>
-Awarded album of the month from BBC Music magazine and 2nd jazz album of the year from the BBC for "Labyrinth". This album has become the subject of study at several universities and has been presented at Yale University and at musicological conferences.<br>
+[“An internationally acclaimed, award winning Greek saxophonist/vocalist and composer”](http://www.dimitriosvassilakis.com)<br>
+Has recorded [5 albums for historic jazz label Candid Records based in London.](http://store.candidrecords.com/index.php?route=product/category&path=61_192)<br>
+Awarded album of the month from BBC Music magazine and 2nd jazz album of the year from the BBC for "Labyrinth". This album has become the subject of study at several universities and has been presented at Yale University and at musicological conferences.
 Has played and recorded with jazz greats like: David Liebman, Jeff «Tain» Watts, Abdullah Ibrahim, Ralph Peterson, Marc Johnson, Essiet Essiet, Dave Kikoski, Dan Wall, Ron Affif, Andy Sheppard, Theodosii Spassov, Milcho Leviev, Adam Nussbaum, Benito Gonzalez, Jamie Cullum.<br>
-Has appeared at New York clubs Birdland, Lincoln Center Dizzy' s, Zinc, Smalls, Kitano, Jazz Showcase Chicago and major festivals worldwide such as London Jazz Festival, Ronnie Scott's, Smithsonian Festival DC at the American History Museum. <br>
-Has collaborated for many of his educational and concert projects with the Onassis Foundation at Dizzy' s and Jazz at The Lincoln Center, Niarchos Foundation, Yale, Harvard, The British Council, The American Embassy and the Hellenic Foundation For Culture, Hellenic Ministry Of Culture, Hellenic Ministry Of Foreign Affairs. <br>
-Branding with Bentley:
-[http://www.dimitriosvassilakis.com/en/press-and-media/54-media-photos/88-bentley-sponsorship.html](http://www.dimitriosvassilakis.com/en/press-and-media/54-media-photos/88-bentley-sponsorship.html) / [http://www.dimitriosvassilakis.com/en/discography.html](http://www.dimitriosvassilakis.com/en/discography.html)<br>
-Presenting his concept “Jazz Democracy” at the United Nations New York April 30th 2018 invited by the Permanent mission of Greece to the UN for International Jazz Day. [https://www.youtube.com/playlist?list=PLfth9JxqdMQFOb32Pz6920eWWfMmRohsJ](https://www.youtube.com/playlist?list=PLfth9JxqdMQFOb32Pz6920eWWfMmRohsJ)<br>
-Since 2015 organizer and artistic director of Mirabello Jazz Festival (Crete) and Rhodes Jazz Festival, plus special researcher at Georgia Institute Of Technology Atlanta USA for jazz and artificial intelligence/robotics.<br>
-Has taught at the Athens, Macedonia, Aristotle Universities and has lectured and presented workshops, residencies and clinics at Yale, Columbia, Queens, Skidmore DePaul, Georgia Tech, Royal Academy, Paris Conservatoire.<br>
-Researcher and lecturer at the Athens Kapodistrian University, teaching at the Master Course in “Jazz and new Technologies” from fall 2017.<br>
-Presenting "jazz mapping AI & Robotics" for Singularity Summit Greece November 2018, “On the syntax and semantics of language”.
-[https://www.youtube.com/watch?v=MyEXyn8T3Rs](https://www.youtube.com/watch?v=MyEXyn8T3Rs)
+Has appeared at New York clubs Birdland, Lincoln Center Dizzy' s, Zinc, Smalls, Kitano, Jazz Showcase Chicago and major festivals worldwide such as London Jazz Festival, Ronnie Scott's, Smithsonian Festival DC at the American History Museum.
+Has collaborated for many of his educational and concert projects with the Onassis Foundation at Dizzy' s and Jazz at The Lincoln Center, Niarchos Foundation, Yale, Harvard, The British Council, The American Embassy and the Hellenic Foundation For Culture, Hellenic Ministry Of Culture, Hellenic Ministry Of Foreign Affairs. Has presented his concept “Jazz Democracy” at the United Nations New York April 30th 2018 [invited by the Permanent mission of Greece to the UN for International Jazz Day.](https://www.youtube.com/playlist?list=PLfth9JxqdMQFOb32Pz6920eWWfMmRohsJ)
+Since 2015 organizer and artistic director of Mirabello Jazz Festival (Crete) and Rhodes Jazz Festival, plus special researcher at Georgia Institute Of Technology Atlanta USA for jazz and artificial intelligence/robotics.
+Has taught at the Athens, Macedonia, Aristotle Universities and has lectured and presented workshops, residencies and clinics at Yale, Columbia, Queens, Skidmore DePaul, Georgia Tech, Royal Academy, Paris Conservatoire.
+Researcher and lecturer at the Athens Kapodistrian University, teaching at the Master Course in “Jazz and new Technologies” from fall 2017.
+Presenting "jazz mapping AI & Robotics" for Singularity Summit Greece November 2018, [“On the syntax and semantics of language”.](https://www.youtube.com/watch?v=MyEXyn8T3Rs)
 
 <br>
 
