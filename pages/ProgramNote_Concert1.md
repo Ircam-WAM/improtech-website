@@ -24,9 +24,9 @@ For augmented kalimba (played by Lisa Chen) and live electronics
 Saxophones, OMax 5 computer system
 
 
-**Dimitri Vassilakis with the students from the University of Athens**
-*Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*
-Saxophones, guitars, vocals, accordion, live electronics, OMax 5 computer system
+**Dimitri Vassilakis with the students from the University of Athens**  
+*Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*  
+Saxophones, guitars, vocals, accordion, live electronics, OMax 5 computer system  
 
 <br>
 <br>
@@ -34,6 +34,8 @@ Saxophones, guitars, vocals, accordion, live electronics, OMax 5 computer system
 <p align="center">
 <img src="../images/IKPoster_frag19.png" width="125" >
 </p>
+
+<br>
 
 
 #### Evan Parker, Matt Wright, Peter Evans, Mark Nauseef
@@ -52,7 +54,7 @@ http://www.matt-wright.co.uk/trance-map
 *In good company*  
 for 2 pianists, guest musicians and webaudio devices
 
-Michelle Agnes Magalhaes, composer and pianist
+Michelle Agnes Magalhaes, composer and pianist  
 Frédéric Bevilacqua, researcher, webaudio systems
 
 Conceived as a small musical theatre of “interactions”, In good company is a cycle of small pieces. The cycle is organised as an organic living form that progressively expands. It’s built from minimal individual interaction (fingers - piano keys) towards more complex collective interaction between performers and various objects. Its multilayered structure includes visual, sound, gestural and environmental elements. The score is actually a proposition for games that pushes the performers to try new things, take risks and surprise themselves. In addition to instrumental sounds, they also manipulate cell phones, hacking these objects that intermediates in our everyday life much of the interaction with the others. Here, our main interest is to continuously operate shifts in changing rules, eventually creating a large form.
@@ -62,8 +64,8 @@ This piece was designed with the support of the VERTIGO project as part of the S
 *Just Her - Jester - Gesture*  
 for augmented kalimba and live electronics
 
-Georg Hajdu : composer, computer & live electronics  
-Lin Chen : kalimba  
+Georg Hajdu, composer, computer & live electronics  
+Lin Chen, augmented kalimba  
 
 Just Her – Jester – Gesture is a composition in Bohlen-Pierce tuning for augmented kalimba and electronics written in 2010. It was premiered on occasion of my 50th birthday on June 21, 2010 at the EMS conference hosted by the Shanghai Conservatory’s Electro-Acoustic Music Center (EAMC). 
 
@@ -96,7 +98,7 @@ Tilemachos Mousas, guitar, midi guitar
 Nastazia Beikof, vocals  
 Dimitris Smailis, guitars, programming  
 Natalia Kotsani, vocals, programming  
-and
+and  
 Anastasia Georgaki, accordion  
 Raphael Imbert, saxophones  
 Benjamin Lévy, OMax 5 computer system  

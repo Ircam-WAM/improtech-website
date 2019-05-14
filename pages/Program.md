@@ -50,12 +50,9 @@ For augmented kalimba (played by Lisa Chen) and live electronics
 *A.I. Swing*  
 Saxophones, OMax 5 computer system
 
-**Dimitri Vassilakis with the students from the University of Athens**
-*Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*
-Saxophones, guitars, vocals, accordion, live electronics, OMax 5 computer system
-
-*Omax & co*  
-Jazz ensemble, OMax computer system
+**Dimitri Vassilakis with the students from the University of Athens**  
+*Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*  
+Saxophones, guitars, vocals, accordion, live electronics, OMax 5 computer system  
 
 <br>
 <br>
@@ -153,12 +150,7 @@ Mark Bokowiec, Julie Wilson-Bokowiec
 
 In this workshop/demo we will unpack our particular approach to Kinaesonic composition and the multi-dimensional nature of our particular brand of live performance with the Bodycoder System. We will explore the critical intersections where liveness meets the programmed and the automated, consider the aesthetic as well as the socio-political implications and discuss the role and qualities of improvisation employed in the new work we will present at the Onassis Centre.   
 
-
 ***17:00***
-#### Haptic Feed-back Improvisation System
-Claude Cadoz (ACROE, France)
-
-***18:30***
 #### Interactive Drama Tools
 George Petras, Panagiotis E. Tsagkarakis, Anastasia Georgaki
 
@@ -168,6 +160,13 @@ Firstly, we will present theoretical and practical aspects regarding the use of 
 Secondly, we’ll be presenting the technical and practical aspects regarding the interactive platform. We’ll be explaining areas like sensors, data extraction, mapping, and sound design.<br>
 The interactive tools built to provide and develop the improvisation ability of the performer, in two ways: sonic improvisation and structural improvisation. The sonic improvisation is achieved by focusing on voice and sound processing, where the performer manipulates the sonic outcome in order to enhance the prosodic interaction and emotional meaning on the text. The structural improvisation allows the performer to move between scenes freely since he controls the ques with gestures and key positions in space.<br>
 The workshop includes a short-term performance presenting the interactive platform in action. It aims to show how the theoretical, technical and performative aspects merge.
+
+***18:30***
+#### Collective performance and improvisation using CoMo-Elements
+Michelle Agnes Magalhaes (composer, artist in residence IRCAM), Frédéric Bevilacqua (researcher, IRCAM)
+
+Using the web application CoMo-Elements (como.ircam.fr), this workshop proposes an approach to collective performance using of mobile phones, used as separate as motion sensors and interactive sound systems. Each mobile can be “played” using gestures. The application allows for users to design their own gestures and associate them to specific sounds. Additionally, all mobiles can be synchronized and remotely controlled, allowing for musical structures to be either composed and performed, or more directly improvised collectively. We will present the CoMo-Element system, along with examples of possible uses of the system allowing participants to explore various possibilities. Musical materiel and small musical pieces by Michelle Agnes Magalhaes will be proposed to the participants to be collectively experimented and discussed.
+
 
 <br>
 <br>
@@ -289,13 +288,11 @@ The Dynamic Percussion System is software used in commercial video games like Ri
 While the use of procedural music in video games is an exciting development, there are many unanswered questions and issues surrounding it. How does it fit into the traditional workflow of professional composers and sound designers? What choices do such people have when “authoring” procedural music? How does it interact with precomposed game music?  
 The Dynamic Percussion System comprises both an in-game playback system and an authoring tool to be used by composers and sound designers. The design of the authoring tool––its user interface and functionality––addresses these questions. It offers one model of how the new techniques of generating procedural music can be adapted into the traditional methods used in commercial development. It has also motivated new techniques for generating, implementing, and interpreting game music.
 
-
 ***17:00***
-#### Collective performance and improvisation using CoMo-Elements
-Michelle Agnes Magalhaes (composer, artist in residence IRCAM)
-Frédéric Bevilacqua (researcher, IRCAM)
+#### Improvisation with Motion Sensors and Live coding: Combining Dance and Instrumental Improvisation
+Ioannis Zannos
 
-Using the web application CoMo-Elements (como.ircam.fr), this workshop proposes an approach to collective performance using of mobile phones, used as separate as motion sensors and interactive sound systems. Each mobile can be “played” using gestures. The application allows for users to design their own gestures and associate them to specific sounds. Additionally, all mobiles can be synchronized and remotely controlled, allowing for musical structures to be either composed and performed, or more directly improvised collectively. We will present the CoMo-Element system, along with examples of possible uses of the system allowing participants to explore various possibilities. Musical materiel and small musical pieces by Michelle Agnes Magalhaes will be proposed to the participants to be collectively experimented and discussed.
+This workshop introduces techniques of improvisation with wearable movement sensors combined with live coding.  Movement sensors based on IMU (Inertial Measurement Units) are used to measure the movement of a performer.  The motion data is transmitted to computer over wifi, and live coding is used to control the generation of sound in SuperCollider and graphics on the Godot Gaming engine.  The workshop shows how to use the sc-hacks library in order to program and modify the response of the system to sensor data.  Techniques for sending the control data to remote locations over the internet are shown.  This enables joint performance from several different remote locations. At each location the data sent from all performers is used to synthesize the audiovisual performance.
 
 ***18:30***
 #### Composing “musiques mixtes” : acoustic spaces, improvisation and gestures.
@@ -305,11 +302,6 @@ The workshop introduces some possibilities of real-time interaction between inst
 This presentation will mainly focus on the Philiris composition for piano, motion capture and transducers. The different sections of the piece will be presented from a technical and compositional point of view. Examples of the interaction between the real and virtual piano linked to motion capture, sound synthesis and real time treatments through transducers within the piano and the notion of "double" will be presented. It will also show examples of Antescofo, score follower and programming language software, for the creation of real-time processes and interaction in relation with the notions of acoustic spaces, improvisation and gestures.
 
 
-***18:30***
-#### Improvisation with Motion Sensors and Live coding: Combining Dance and Instrumental Improvisation
-Ioannis Zannos
-
-This workshop introduces techniques of improvisation with wearable movement sensors combined with live coding.  Movement sensors based on IMU (Inertial Measurement Units) are used to measure the movement of a performer.  The motion data is transmitted to computer over wifi, and live coding is used to control the generation of sound in SuperCollider and graphics on the Godot Gaming engine.  The workshop shows how to use the sc-hacks library in order to program and modify the response of the system to sensor data.  Techniques for sending the control data to remote locations over the internet are shown.  This enables joint performance from several different remote locations. At each location the data sent from all performers is used to synthesize the audiovisual performance.
 
 <br>
 <br>
@@ -329,7 +321,7 @@ This workshop introduces techniques of improvisation with wearable movement sens
 
 **Jaap Blonk, Hervé Sellin, Georges Bloch**  
 *Paris bout à bout*  
-Cine-concert on Nurith Aviv's Bout à Bout movie. Voice, piano, OMax and DYCI2 computer systems.
+Cine-concert on Nurith Aviv's *Bout à Bout* movie. Voice, piano, OMax and DYCI2 computer systems.
 
 **Mark Bokowiec and Julie Wilson - Bokowiec**  
 *HEXIS*  
