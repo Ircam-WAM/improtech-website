@@ -231,6 +231,8 @@ is a Greek composer and electronic performer born in Thessaloniki in 1988. A Ful
 ####Peter Evans
 is a trumpet player and improvisor/composer based in New York City since 2003.   Evans is part of a broad, hybridized scene of musical experimentation and his work cuts across a wide range of modern musical practices and traditions.  Peter is committed to the simultaneously self-determining and collaborative nature of musical improvisation as a compositional tool, and works with an ever-expanding group of musicians and composers in the creation of new music. His primary groups as a leader are the Peter Evans Ensemble and Being & Becoming.  Evans has been exploring solo trumpet music since 2002 and is widely recognized as a leading voice in the field, having released several recordings over the past decade.  He is a member of the cooperative groups Pulverize the Sound (with Mike Pride and Tim Dahl) and Rocket Science (with Evan Parker, Craig Taborn and Sam Pluta) and is constantly experimenting and forming new configurations with like minded players.  As a composer, he has been commissioned by the International Contemporary Ensemble (ICE), Yarn/Wire, the Donaueschingen Musiktage Festival, the Jerome Foundation's Emerging Artist Program, and the Doris Duke Foundation. Evans has presented and/or performed his works at major festivals worldwide and tours his own groups extensively.  He has worked with some of the leading figures in new music:  John Zorn, Ingrid Laubrock, Jim Black, Weasel Walter, Ambrose Akinmusere, Matana Roberts, Tyshawn Sorey, Levy Lorenzo, Nate Wooley, Steve Schick, Mary Halvorson, Joe McPhee and performs with both ICE and the Wet Ink Ensemble. He has been releasing recordings on his own label, More is More, since 2011.  2018 will see the release of a new solo album, the first duo album with Levy Lorenzo, a new record by Pulverize the Sound, and the new album by the Peter Evans Ensemble.
 
+<br>
+
 ---
 
 <img src="../images/fox.jpg" width="320" style="float:left" hspace="10">
@@ -330,7 +332,6 @@ Studie II.
 
 ---
 
-
 <img src="../images/Raphael_Imbert.jpeg" width="241" style="float:left" hspace="10">
 #### Raphaël Imbert
 "Jazz is the musical gesture that allows me to play with whomever I want, whenever I want."
@@ -338,6 +339,9 @@ Born in 1974 in Thiais, France, Raphaël Imbert grew up in an environment partic
 Raphael Imbert is producer and host of the program "L'heur de plaire" on France Musique National Radio during the summer of 2016, and "Swing Chronique" in 2017. He is an artist in residence in 2016 at the Festival d'Art Lyrique d'Aix en Provence. He joined Archie Shepp's Attica Blues Big Band (Jazz à la Villette 2012) and Harmonia Mundi's new label "Jazz Village", for which he published "Heavens, Amadeus & The Duke", "Libres" duo with Karol Beffa, "Music is my Home" and "Music is My Hope" in 2018, which won the Victoires du Jazz 2018. He was awarded the IRCAM Artistic Research Residency in 2018. Writing numerous articles for scientific, specialized or generalist journals (Libération, Le Monde.fr, L'Homme, Jazz Mag, Philo Mag, Les Cahiers du Jazz, Les Cahiers d'Études Africaines, Mouvement, etc.), he published in March 2014 at l'éclat editions the book "Jazz Supreme. Initiates, Mystics & Prophets » on the action of spirituality and masonry in Jazz history including Coltrane deep involvement.
 Picture credits : © Muriel Despiau.
 
+<br>
+
+---
 
 
 <img src="../images/Kaliakatsos.jpeg" width="220" style="float:left" hspace="10">
