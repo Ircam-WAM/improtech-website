@@ -23,10 +23,9 @@ For augmented kalimba (played by Lisa Chen) and live electronics
 *A.I. Swing*  
 Saxophones, OMax 5 computer system
 
-
 **Dimitri Vassilakis with the students from the University of Athens**  
 *Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*  
-Saxophones, guitars, vocals, accordion, live electronics, OMax 5 computer system  
+Saxophones, guitars, vocals, accordion, live electronics, OMax 5 and DYCI2 computer system  
 
 <br>
 <br>
@@ -103,9 +102,9 @@ Anastasia Georgaki, accordion
 Raphael Imbert, saxophones  
 Benjamin Lévy, OMax 5 computer system  
 
-A live performance experimenting and improvising with the OMax 5 system, including poetry and original compositions.
-
-
+Dimitri Vassilakis and his students from the Master Jazz and New technologies at the National and Kapodistrian University of Athens (NKUA) will give a live performance, improvising and interacting with the OMax 5 and the DYCI2 computer systems, including poetry and original compositions.
+This new master course under Anastasia Georgaki's Laboratory of Music Acoustics and Technology (LMAT), is linking Jazz with the latest reseazrches and developments in sound and music technologies. It marks an important innovation for the Greek academic and educational field. http://en.labmat.music.uoa.gr
+The students perform in different ensemble settings that play regularly for the University and in festivals. Through a collaboration with Ircam (Jétôme Nika, Benjamin Lévy, Gérard Assayag) the students have been able to experiment and familiarize with cutting edge AI improvisation software such as omax and DYCI2, and they combine it with midi controllers and live prose, poetry and jazz performance.
 
 ---
 <br>
