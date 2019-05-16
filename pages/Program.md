@@ -22,13 +22,15 @@ title: Program
 <br>
 <br>
 
-<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">  
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Thursday sept 26 - Opening
 **Onassis Cultural Center, 18:00 - 22:30**
-### Opening keynote and concert
+### Opening Keynote and concert
 </font>
 <br>
+<br>
+
 
 
 ***18:00***
