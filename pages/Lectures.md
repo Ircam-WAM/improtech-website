@@ -1,4 +1,4 @@
-title: Lectures Program
+title: Program of lectures
 Status: Hidden
 
 ## IMPROTECH Paris -  &Alpha;&theta;&eta;&nu;&alpha; 2019
@@ -7,51 +7,19 @@ Status: Hidden
 <br>
 
 
-[TOC 1]
-
-
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">  
 <font color="DarkBlue">
 # Thursday sept 26 - Opening
-**Onassis Cultural Center, 18:00 - 22:30**
-### Opening keynote and concert
+**Onassis Cultural Center, 18:00**
+### Improtech Opening
 <br>
 </font>
 
-
-***18:00***
 #### Opening Words
 Anastasia Georgaki, Christos Carras, Gérard Assayag, Marc Chemillier
 
 #### Opening Keynote
 George Lewis (Columbia University)
-
-<br>
-
-***20:00***
-#### Concert #1
-
-[*Program Notes*]({filename}/pages/ProgramNote_Concert1.md)
-
-**Evan Parker, Matt Wright, Peter Evans, Mark Nauseef**  
-*Trance Map+*  
-Saxophones, live electronics, trumpet, percussion
-
-**Michelle-Agnes Magalhaes, Frederic Bevilacqua & guests**  
-*In good company*  
-for 2 pianists, guest musicians and webaudio devices
-
-**Georg Hajdu**  
-*Just Her - Jester - Gesture*  
-For augmented kalimba (played by Lisa Chen) and live electronics
-
-**Raphael Imbert, Benjamin Lévy**  
-*A.I. Swing*  
-Saxophones, OMax 5 computer system
-
-**Dimitri Vassilakis with the students from the University of Athens**  
-*Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*  
-Saxophones, guitars, vocals, accordion, live electronics, OMax 5 and DYCI2 computer system  
 
 <br>
 <br>
@@ -83,62 +51,9 @@ Maximos Kaliakatsos-Papakostas (Ionian University, Gr.)
 #### Children’s improvisations using reflexive interaction technologies – Computational music analysis in the European Project MIROR
 Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis (University of Athens, Gr.)
 
-<br><br>
-
-<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
-<font color="DarkBlue">
-# Friday sept 27 - Workshops
-**Onassis Cultural Center, 16:00 - 19:00**
-### Body and Drama
-</font>
 <br>
 <br>
 
-#### Kinaesonics: crafting and being trans-dimensional (Bodycoder system)
-Mark Bokowiec, Julie Wilson-Bokowiec (University of Huddersfield, UK)
-
-#### Interactive Drama Tools
-George Petras (National School of Dance, Gr.), Panagiotis E. Tsagkarakis (Free-lance Engineer), Anastasia Georgaki (University of Athens, Gr.)
-
-#### Collective performance and improvisation using CoMo-Elements
-Michelle Agnes Magalhaes (composer, Ircam, Fr.), Frédéric Bevilacqua (researcher, Ircam, Fr.)
-
-<br>
-<br>
-
-<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
-<font color="DarkBlue">
-# Friday sept 27 - Concert #2
-**Onassis Cultural Center, 20:00 - 22:30**
-<br><br><br>
-</font>
-<br>
-<br>
-
-[*Program Notes*]({filename}/pages/ProgramNote_Concert2.md)  
-
-**Bernard Lubat, Sylvain Luc, Marc Chemillier, Gérard Assayag**  
-*Lubax Lux*  
-Piano, guitar, Omax & dJazz computer systems
-
-**Lara Morciano**  
-*Philiris*  
-For piano, motion capture, transducers and real-time electronics
-
-**George Lewis, Evan Parker, Mari Kimura, Stylianos Dimou, Voyager**  
-*Voyager: Interactive Quintet* (2007/2019)  
-Trombone, saxophones, violin, live electronics, Voyager interactive pianist.
-
-**Mari Kimura, Pierre Couprie, Gyorgy Kurtag, Hugues Genevois**  
-*A Close Encounter of the Seventh Kind*  
-Violin, live electronics, Handsonic, Koncertdoboz
-
-**Rémi Fox, Jérôme Nika**  
- *C’est pour ça*  
-Saxophones and DYCI2 computer system
-
-<br>
-<br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
@@ -167,63 +82,9 @@ Pavlos Antoniadis (musician and musicologist, Fr.)
 #### Disposable Music
 Georg Hajdu
 
-<br><br>
-
-<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
-<font color="DarkBlue">
-# Saturday sept 28 - Workshops
-**Onassis Cultural Center, 16:00 - 19:00**
-### Game, mobiles, transducers
-</font>
 <br>
 <br>
 
-#### The Dynamic Percussion System: A procedural music engine for video games
-Daniel Brown (Intelligent Music System, USA)
-
-#### Improvisation with Motion Sensors and Live coding: Combining Dance and Instrumental Improvisation
-Ioannis Zannos (Ionian University, Gr.)
-
-#### Composing “musiques mixtes” : acoustic spaces, improvisation and gestures.
-Lara Morciano (composer, It.), Jose-Miguel Fernandez (composer, Ircam, Fr.)
-
-<br>
-<br>
-
-<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
-<font color="DarkBlue">
-# Saturday sept 28 - Concert #3
-**Onassis Cultural Center, 20:00 - 22:30**
-<br><br><br>
-</font>
-<br>
-<br>
-
-
-[*Program Notes*]({filename}/pages/ProgramNote_Concert3.md)
-
-**Jaap Blonk, Hervé Sellin, Georges Bloch**  
-*Paris bout à bout*  
-Cine-concert on Nurith Aviv's *Bout à Bout* movie. Voice, piano, OMax and DYCI2 computer systems.
-
-**Mark Bokowiec and Julie Wilson - Bokowiec**  
-*HEXIS*  
-For Kinaesonics, Bodycoder System and soloist.
-
-**Marc Chemillier and Camel Zekri**  
-*Gnawa Machine*  
-Augmented guitar, keyboard, dJazz and Le Cercle computer systems.
-
-**Orestis Karamanlis and Giorgos Gargalas**
-*BitVox*
-For beatboxing and laptop live electronics
-
-**Steve Lehman and Jerôme Nika**  
-*Silver Lake Studies*  
-Saxophones, live electronics, DYCI2 computer system
-
-<br>
-<br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
@@ -252,8 +113,8 @@ Iakovos Steinhauer (University of Athens, Gr.)
 #### Improvising (with) awkwardness
 Danae Stefanou (Aristotle University of Thessaloniki, Gr.)
 
-<br><br>
-
+<br>
+<br>
 
 ---
 

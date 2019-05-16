@@ -1,7 +1,5 @@
-Title: Program Notes Concert 3
+Title: Concert program 3
 Status: Hidden
-
-<br>
 
 ##ImproTech Paris-Athina::  Concert  #3
 **September 28, 20:00** *Onassis Cultural Center*  
