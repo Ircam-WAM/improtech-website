@@ -1,8 +1,27 @@
 Title: Opening and Concert 1
 Status: Hidden
 
-##ImproTech Paris-Athina
+## IMPROTECH Paris -  &Alpha;&theta;&eta;&nu;&alpha; 2019
 
+<br>
+<br>
+
+### Detailed program
+
+#### Thursday Sept. 26
+* [Opening Keynote and Concert #1] ({filename}/pages/ProgramNote_Concert1.md)
+#### Friday Sept. 27
+* [Lectures and Workshops] ({filename}/pages/LecturesFri.md)
+* [Concert #2] ({filename}/pages/ProgramNote_Concert2.md)
+#### Saturday Sept. 28
+* [Lectures and Workshops] ({filename}/pages/LecturesSat.md)
+* [Concert #3] ({filename}/pages/ProgramNote_Concert3.md)  
+#### Sunday Sept. 29
+* [Lectures] ({filename}/pages/LecturesSun.md)
+
+
+<br>
+<br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">  
 <font color="DarkBlue">
