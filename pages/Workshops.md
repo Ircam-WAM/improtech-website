@@ -1,4 +1,4 @@
-title: Program summary
+title: Workshops summary
 Status: Hidden
 
 ## IMPROTECH Paris -  &Alpha;&theta;&eta;&nu;&alpha; 2019

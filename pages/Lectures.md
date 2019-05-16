@@ -1,4 +1,4 @@
-title: Program summary
+title: Lectures Program
 Status: Hidden
 
 ## IMPROTECH Paris -  &Alpha;&theta;&eta;&nu;&alpha; 2019
