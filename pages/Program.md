@@ -5,7 +5,7 @@ title: Program
 <br>
 <br>
 
-[*Concerts summary*]({filename}/pages/concerts.md)
+[*Concerts summary*]({filename}/pages/Concerts.md)
 
 <br>
 <br>
