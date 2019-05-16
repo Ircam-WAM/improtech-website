@@ -1,4 +1,5 @@
-title: Friday 27, Lectures and workshops
+title: Friday 27 Lectures and workshops
+Status: Hidden
 
 ## IMPROTECH Paris -  &Alpha;&theta;&eta;&nu;&alpha; 2019
 

@@ -1,4 +1,4 @@
-title: Saturday 28, Lectures and workshops
+title: Saturday 28 Lectures and workshops
 Status: Hidden
 
 ## IMPROTECH Paris -  &Alpha;&theta;&eta;&nu;&alpha; 2019

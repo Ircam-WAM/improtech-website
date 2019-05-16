@@ -1,4 +1,4 @@
-title: Sunday 29, Lectures
+title: Sunday 29 Lectures
 Status: Hidden
 
 ## IMPROTECH Paris -  &Alpha;&theta;&eta;&nu;&alpha; 2019
