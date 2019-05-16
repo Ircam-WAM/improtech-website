@@ -5,11 +5,25 @@ title: Program
 <br>
 <br>
 
+
+#### Thursday Sept. 26
+* Opening Keynote and Concert #1
+#### Friday Sept. 27
+* Lectures and Workshops
+* Concert #2
+#### Saturday Sept. 28
+* Lectures and Workshops
+* Concert #3
+#### Sunday Sept. 29
+* Lectures
+
+
+
 ####[Concert 1 Program]({filename}/pages/ProgramNote_Concert1.md)  
 ####[Concert 2 Program]({filename}/pages/ProgramNote_Concert2.md)  
 ####[Concert 3 Program]({filename}/pages/ProgramNote_Concert3.md)  
 ####[Lectures Program]({filename}/pages/Lectures.md)  
-####[Workshops Program]({filename}/pages/ProgramNote_Concert3.md)  
+####[Workshops Program]({filename}/pages/Workshops.md)  
 
 
 <br>
@@ -267,7 +281,7 @@ The collaboration with Ghikas resulted in three distinct projects: Open Cycles (
 
 ***12:45***
 #### Disposable Music
-Georg Hajdu
+Georg Hajdu (Hochschule für Musik und Theater Hamburg, DE)
 
 My presentation introduces the concept of real-time composition and composition as a dispositif in the sense of Foucault and Deleuze, defining it as a heterogeneous ensemble of pieces which together form an apparatus. The introduction situates the dispositif in the context of cultural developments, most notably its slow, but steady shift away from textualization in digital media. As musicians are adapting to ensuing cultural and, above all, economic changes, new music forms emerge which rely to a lesser degree on fully-notated scores such as comprovisation or laptop performance. Antithetically, the computer also allows the creation of “author-less” notated scores in real-time to be sight-read by capable musicians—a practice for which special software has been developed in recent years. Since these scores are not meant to be kept and distributed, they are ephemeral and, therefore, disposable. Examples are given to illustrate the interwovenness of this approach, where carefully selected narratives and dramaturgies make up for the inherent unpredictability of the outcome.
 

@@ -80,7 +80,7 @@ Sami Amiris (American College, Athens Big Band, Gr.), Antonis Ladopoulos (Univer
 Pavlos Antoniadis (musician and musicologist, Fr.)
 
 #### Disposable Music
-Georg Hajdu
+Georg Hajdu (Hochschule für Musik und Theater Hamburg, DE)
 
 <br>
 <br>
