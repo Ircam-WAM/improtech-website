@@ -45,11 +45,3 @@ Robert Rowe, New York University
 Pierre Alexandre Tremblay, Huddersfield University  
 Atau Tanaka, Goldsmiths University of London  
 <br>
-
----
-
-<p align="center">
-   <br><br>
-   <img src="../images/IKPoster_frag9.png" width="200">
-   <br><br>
-</p>

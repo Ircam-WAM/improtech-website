@@ -38,10 +38,5 @@ IkPA is under the high patronage of
 
  [IKPA Art Work]({filename}/pages/Visuals.md) and Graphic Design © Turner Williams
 
----
-
-<p align="center">
-   <br><br>
-  <img src="../images/IKPoster_frag9.png" width="200">
-   <br><br>
-</p>
+ <br>
+ <br>

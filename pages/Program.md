@@ -97,6 +97,7 @@ Maximos Kaliakatsos-Papakostas (Ionian University, Gr.)
 Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis (University of Athens, Gr.)
 <br>
 <br>
+<br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
@@ -265,12 +266,3 @@ Danae Stefanou (Aristotle University of Thessaloniki, Gr.)
 
 <br>
 <br>
-
-
----
-
-<p align="center">
-   <br><br>
-  <img src="../images/IKPoster_frag10.png" width="300">
-   <br><br>
-</p>
