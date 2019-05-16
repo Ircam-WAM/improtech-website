@@ -31,3 +31,5 @@ This meeting point in the heart of the  Hellenic capital is a stimulating destin
 Scholars, students, musicians, will come from many places in world to talk about their work, demo, teach and perform. **iikPA'19** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz, contemporary music, traditional music from the mediterranean area, and the  avant-garde scene of Greece .
 
 **ikPA'19** will combine, around the central theme of improvisation, a great diversity of aesthetic approaches while convening artists and experts covering many knowledge fields, including computer music, artificial intelligence, robotics, musicology / ethno-musicology, philosophy / anthropology, critical studies, acoustics and signal processing.
+
+.
