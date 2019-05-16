@@ -4,7 +4,7 @@ Status: Hidden
 <br>
 
 ##ImproTech Paris-Athina::  Concert  #1
-**September 26, 20:30** *Onassis Cultural Center*  
+**September 26, 20:00** *Onassis Cultural Center*  
 <br>
 
 **Evan Parker, Matt Wright, Peter Evans, Mark Nauseef**  
@@ -34,6 +34,7 @@ Saxophones, guitars, vocals, accordion, live electronics, OMax 5 and DYCI2 compu
 <img src="../images/IKPoster_frag19.png" width="125" >
 </p>
 
+<br>
 <br>
 
 

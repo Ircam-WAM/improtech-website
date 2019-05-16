@@ -4,7 +4,7 @@ Status: Hidden
 <br>
 
 ##ImproTech Paris-Athina::  Concert  #3
-**September 28, 20:30** *Onassis Cultural Center*  
+**September 28, 20:00** *Onassis Cultural Center*  
 <br>
 
 **Jaap Blonk, Hervé Sellin, Georges Bloch**  
@@ -34,6 +34,8 @@ Saxophones, live electronics, DYCI2 computer system
 <img src="../images/IKPoster_frag19.png" width="125" >
 </p>
 
+<br>
+<br>
 
 #### Jaap Blonk, Hervé Sellin, Georges Bloch
 *Paris bout à bout*

@@ -4,7 +4,7 @@ Status: Hidden
 <br>
 
 ##ImproTech Paris-Athina::  Concert  #2
-**September 27, 20:30** *Onassis Cultural Center*  
+**September 27, 20:00** *Onassis Cultural Center*  
 <br>
 
 **Bernard Lubat, Sylvain Luc, Marc Chemillier, Gérard Assayag**  
@@ -34,6 +34,8 @@ Saxophones and DYCI2 computer system
 <img src="../images/IKPoster_frag19.png" width="125" >
 </p>
 
+<br>
+<br>
 
 
 #### Bernard Lubat, Sylvain Luc, Marc Chemillier, Gérard Assayag
