@@ -1,9 +1,28 @@
-Title: Concert program 1
+Title: Opening and Concert 1
 Status: Hidden
 
-##ImproTech Paris-Athina::  Concert  #1
-**September 26, 20:00** *Onassis Cultural Center*  
+##ImproTech Paris-Athina
+
+
+<img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">  
+<font color="DarkBlue">
+# Thursday sept 26 - Opening
+**Onassis Cultural Center, 18:00 - 22:30**
+### Opening keynote and concert
+</font>
 <br>
+
+***18:00 - 19:30***
+#### Opening Words
+Anastasia Georgaki, Christos Carras, Gérard Assayag, Marc Chemillier
+
+#### Opening Keynote
+George Lewis (Columbia University)
+
+<br>
+
+***20:00 - 22:30***
+#### Concert #1
 
 **Evan Parker, Matt Wright, Peter Evans, Mark Nauseef**  
 *Trance Map+*  
