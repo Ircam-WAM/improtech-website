@@ -8,15 +8,15 @@ title: Program
 ### Detailed program
 
 #### Thursday Sept. 26
-* [Opening Keynote and Concert #1] ({filename}/pages/ProgramNote_Concert1.md)
+* [Opening Keynote and Concert #1]({filename}/pages/ProgramNote_Concert1.md)
 #### Friday Sept. 27
-* [Lectures and Workshops] ({filename}/pages/LecturesFri.md)
-* [Concert #2] ({filename}/pages/ProgramNote_Concert2.md)
+* [Lectures and Workshops]({filename}/pages/LecturesFri.md)
+* [Concert #2]({filename}/pages/ProgramNote_Concert2.md)
 #### Saturday Sept. 28
-* [Lectures and Workshops] ({filename}/pages/LecturesSat.md)
-* [Concert #3] ({filename}/pages/ProgramNote_Concert3.md)  
+* [Lectures and Workshops]({filename}/pages/LecturesSat.md)
+* [Concert #3]({filename}/pages/ProgramNote_Concert3.md)  
 #### Sunday Sept. 29
-* [Lectures] ({filename}/pages/LecturesSun.md)
+* [Lectures]({filename}/pages/LecturesSun.md)
 
 
 <br>
@@ -29,7 +29,6 @@ title: Program
 ### Opening keynote and concert
 </font>
 <br>
-
 
 
 ***18:00 - 19:30***
