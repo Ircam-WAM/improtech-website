@@ -8,10 +8,6 @@ title: Program
 [*Program summary*]({filename}/pages/Program_short.md)
 
 <br>
-
-[TOC]
-
-<br>
 <br>
 
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">  
