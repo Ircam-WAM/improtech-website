@@ -16,7 +16,7 @@ title: Venues
  <br><br>
 
 <p align="center">
-  <iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="1280" height="960"></iframe>
+  <iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="960" height="640></iframe>
 </p>
 
 <br>
