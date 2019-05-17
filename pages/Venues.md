@@ -19,14 +19,17 @@ title: Venues
 <br><br>
 
 <p align="center">
-<iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="960" height="480">
+<iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="960" height="540">
 </iframe>
 </p>
 
 <br>
 <br>
 
----
+--
+<br>
+<br>
 
-<br>
-<br>
+<p align="center">
+<img src="../images/IKPoster_frag20.png" width="125" >
+</p>
