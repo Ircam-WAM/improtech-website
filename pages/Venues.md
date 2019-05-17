@@ -16,12 +16,12 @@ title: Venues
 [Grand Hyatt Athens](https://www.hyatt.com/en-US/hotel/greece/grand-hyatt-athens/athgh?src=corp_lclb_gmb_seo_eame_athgh)
 
 
- <br><br>
+<br><br>
 
 <p align="center">
-  <iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="960" height="540></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="960" height="480">
+</iframe>
 </p>
-
 
 <br>
 <br>
@@ -29,7 +29,4 @@ title: Venues
 ---
 
 <br>
-
-<p align="center">
-<img src="../images/IKPoster_frag20.png" width="125" >
-</p>
+<br>
