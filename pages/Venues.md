@@ -2,13 +2,21 @@ title: Venues
 
 ---
 
- - [Onassis Cultural Center](https://www.onassis.org/initiatives/onassis-stegi/)
- - [University of Athens](https://en.uoa.gr/)
+### Conferences, workshops and concerts
+
+ - [Onassis Cultural Center Stegi](https://www.onassis.org/initiatives/onassis-stegi/)
+ - [National and Kapodistrian University of Athens](https://en.uoa.gr/)
+ - [University cultural center Kostis Palamas](https://en.uoa.gr/about_us/services_units/kostis_palamas_building/)
+
+### Hotel
+
+[Grand Hyatt Athens](https://www.hyatt.com/en-US/hotel/greece/grand-hyatt-athens/athgh?src=corp_lclb_gmb_seo_eame_athgh)
+
 
  <br><br>
 
 <p align="center">
-  <iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="640" height="480"></iframe>
+  <iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="1280" height="960"></iframe>
 </p>
 
 <br>
