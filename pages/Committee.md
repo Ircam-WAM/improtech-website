@@ -15,7 +15,6 @@ Marc Chemillier, EHESS
 
 ### Organizing Committee
 
-Areti Andreopoulou, University of Athens  
 Sylvie Benoit, Ircam  
 Pierre Couprie, Sorbonne Université  
 George Dedousis, University of Athens  
