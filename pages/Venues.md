@@ -6,7 +6,10 @@ title: Venues
 
  - [Onassis Cultural Center Stegi](https://www.onassis.org/initiatives/onassis-stegi/)
  - [National and Kapodistrian University of Athens](https://en.uoa.gr/)
- - [University cultural center Kostis Palamas](https://en.uoa.gr/about_us/services_units/kostis_palamas_building/)
+
+### Lunch
+
+[University cultural center Kostis Palamas](https://en.uoa.gr/about_us/services_units/kostis_palamas_building/)
 
 ### Hotel
 
@@ -16,7 +19,7 @@ title: Venues
  <br><br>
 
 <p align="center">
-  <iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="960" height="640></iframe>
+  <iframe src="https://www.google.com/maps/d/embed?mid=14_xzjlceUA06td2J0TGMqwpPwgz8K_fI" width="960" height="540></iframe>
 </p>
 
 <br>
