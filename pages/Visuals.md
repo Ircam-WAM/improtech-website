@@ -1,8 +1,31 @@
-title: Visuals
+title: Previous
 
 ---
 
-## Previous Improtech Art Work
+
+## Previous Improtech Editions
+
+[Ircam original workshop at SMC'14](http://recherche.ircam.fr/equipes/repmus/SMC04/)
+
+Paris - New-york edition 2012](http://repmus.ircam.fr/improtechpny)
+
+[Paris - Philadelphia edition 2017](http://ikparisphilly.ircam.fr)
+
+
+## ImproTech Paris-Philly Teaser
+
+<br>
+<br>
+
+<iframe src="https://player.vimeo.com/video/255067410" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/255067410">Presentation Improtech Paris - Philly 2017</a> from <a href="https://vimeo.com/user15042869">RepMus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<br>
+© Jeff Joly 2017  
+<br>
+
+
+## Improtech Art Work
 
 
 ImproTech Paris-Philly 2017 Art Work
