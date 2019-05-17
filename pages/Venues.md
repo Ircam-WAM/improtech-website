@@ -23,10 +23,11 @@ title: Venues
 </p>
 
 
+--
+<br>
 <br>
 <br>
 
----
-
-<br>
-<br>
+<p align="center">
+<img src="../images/IKPoster_frag20.png" width="125" >
+</p>
