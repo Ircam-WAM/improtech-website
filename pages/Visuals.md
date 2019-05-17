@@ -1,13 +1,10 @@
-title: Previous
-
----
-
+Title: Previous
 
 ## Previous Improtech Editions
 
 [Ircam original workshop at SMC'14](http://recherche.ircam.fr/equipes/repmus/SMC04/)
 
-Paris - New-york edition 2012](http://repmus.ircam.fr/improtechpny)
+[Paris - New-york edition 2012](http://repmus.ircam.fr/improtechpny)
 
 [Paris - Philadelphia edition 2017](http://ikparisphilly.ircam.fr)
 
@@ -18,7 +15,6 @@ Paris - New-york edition 2012](http://repmus.ircam.fr/improtechpny)
 <br>
 
 <iframe src="https://player.vimeo.com/video/255067410" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/255067410">Presentation Improtech Paris - Philly 2017</a> from <a href="https://vimeo.com/user15042869">RepMus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <br>
 © Jeff Joly 2017  
@@ -31,7 +27,6 @@ Paris - New-york edition 2012](http://repmus.ircam.fr/improtechpny)
 ImproTech Paris-Philly 2017 Art Work
 © Turner Williams 2017  
 
----
 
 <p align="center">
    <img src="../images/IKPoster.005.jpeg" width="600" hspace="20">
