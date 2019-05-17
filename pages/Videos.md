@@ -1,6 +1,5 @@
-title: Videos
-
----
+Title: Videos
+Status: Hidden
 
 ## Videos of previous Improtech
 
