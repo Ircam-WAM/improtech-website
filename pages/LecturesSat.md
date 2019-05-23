@@ -68,12 +68,8 @@ The result is an exciting and challenging musical environment that the duo finds
 
 
 ***12:15***
-#### GesTCom as an Interactive Tool for Improvisation
-Pavlos Antoniadis (musician and musicologist, Fr.)
+#### Peter Nelson
 
-In the proposed lecture, I will present the use of the system GesTCom as an interactive tool for improvisation, in the context of my collaboration with the composer and improviser Panos Ghikas.<br>
-The GesTCom (Gesture Cutting through Textual Complexity) has been developed at IRCAM since 2014, in collaboration with the Interaction-Son-Musique-Mouvement team. It is a modular sensor-based environment for the analysis, processing and real-time control of complex piano notation through multimodal recordings. In terms of hardware, it comprises systems for the capture of movement, audio, video, MIDI and capacitive data from sensors on the piano keys. In terms of software, it is equipped with modules for the capture, analysis and control of the multimodal data; and modules for the augmentation and interactive control of music notation. Each of these systems functions both as stand-alone and integrated in a general methodology denoted as embodied navigation of complex notation.<br>
-The collaboration with Ghikas resulted in three distinct projects: Open Cycles (Bath, 2016), Toxic Gum (Berlin, 2017) and Azoman (London, 2018). I will present audiovisual material and patches from these three collaborations, which next to the GesTCom feature Ghikas's unreal-time improve system. I will show how the GesTCom was used both as a generator of pre-compositional material and as a real-time tool enabling allelomimetic interactions based on gesture in both solo, duo and ensemble settings.  I will also expand on the underlying concepts of embodied navigation of complex notation and of unreal-time improv as promoting the complementarity of improvisation and composition and the fluidity between notation, motion and sound in piano performance.
 
 ***12:45***
 #### Disposable Music

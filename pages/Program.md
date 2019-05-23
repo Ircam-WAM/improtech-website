@@ -174,8 +174,7 @@ Dimitri Vassilakis (University of Athens, Gr.)
 #### Metrical Polyrhythms and Polytemporality in live Improvisation Settings
 Sami Amiris (American College, Athens Big Band, Gr.), Antonis Ladopoulos (University of Athens, American College, Gr.)
 
-#### GesTCom as an Interactive Tool for Improvisation
-Pavlos Antoniadis (musician and musicologist, Fr.)
+#### Peter Nelson
 
 #### Disposable Music
 Georg Hajdu (Hochschule für Musik und Theater Hamburg, DE)
