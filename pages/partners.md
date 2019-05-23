@@ -7,7 +7,7 @@ IkPA'19 is brought by
 <br>
 <p align="center">
 <a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="150"> </a>
-<a target="_blank" href="https://www.onassis.org/initiatives/onassis-stegi/"> <img  src="../images/LOGO.OCC.jpg" width="220"> </a>
+<a target="_blank" href="https://www.onassis.org/initiatives/onassis-stegi/"> <img  src="../images/LOGO.OCC.jpg" width="240"> </a>
 <a target="_blank" href="https://en.uoa.gr/"> <img  src="../images/LOGO_UOA_GR.svg" width="270"> </a>
 </p>
 <br>
@@ -29,7 +29,7 @@ IkPA is under the high patronage of
 <br>
 
 <p align="center">
-<a target="_blank" href="https://www.onassis.org/"> <img  src="../images/LOGO_Onassis-foundation.jpg" width="200"> </a>
+<a target="_blank" href="https://www.onassis.org/"> <img  src="../images/LOGO_Onassis-foundation.jpg" width="240"> </a>
 <a target="_blank" href="http://www.ircam.fr"> <img  src="../images/LOGO_Tutelles_STMS.png" width="700"> </a>
 </p>
 
