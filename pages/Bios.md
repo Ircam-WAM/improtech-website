@@ -219,6 +219,7 @@ holds a Master’s of Arts Degree from the City University London, specializing 
 ---
 
 
+<img src="../images/Stylianos_Dimou.jpg" width="320" style="float:left" hspace="10">
 ####Stylianos Dimou
 is a Greek composer and electronic performer born in Thessaloniki in 1988. A Fulbright Scholar and participant in numerous international composers meetings, festivals and competitions, Dimou won the International Prize for Composition “Luigi Nono” and was nominated for the Gaudeamus Prize in 2015. Dimou has pursued advanced studies in composition at the Aristotle University of Thessaloniki (2011, MM in Composition) and the Eastman School of Music (2013, MA in Composition), as well as advanced training in computer music at the Cursus program at IRCAM and the the Manifeste Academy. He is currently a composer and researcher at the OeAD organization. closely affiliated with the University of Music and Performing Arts Graz, and a Doctoral Fellow at Columbia University (DMA in Music Composition).
 
