@@ -37,8 +37,10 @@ Status: Hidden
 #### Opening Words
 Anastasia Georgaki, Christos Carras, Gérard Assayag, Marc Chemillier
 
-#### Opening Keynote
+#### Opening Keynote Lecture: Improvisation with Technology as a Way of Life:  Listening for Freedom with Arnold Davidson
 George Lewis (Columbia University)
+
+I met the American philosopher Arnold I. Davidson in July 2007 at the conference “Ruptures: Music, Philosophy, Science, and Modernity,” co-organized by Davidson and the composer Martin Brody and held at the Max-Planck-Institut für Wissenschaftsgeschichte in Berlin, at which I presented a performance of my interactive computer music work, Voyager. Topics such as ethics, moral perfectionism, social responsibility, intelligibility, and freedom had long been central to Davidson’s thought, but during the post-concert discussion, he introduced a new understanding of these issues at the nexus of interactive technology and improvisation.  Since his ideas in this area have rarely been published, this talk draws upon transcripts of public dialogues on interactive computer improvisation which we held between 2008 and 2012.  Davidson’s work on improvisation points the way to how the philosophy of music might importantly occupy the center of the intellectual picture, drawing upon music to illuminate larger human ways of knowing and doing beyond the purview of the arts, in ways that the field has only belatedly engaged.  This talk takes up the mantle of the radical sound art collective Ultra-red, in posing the question: “What is the sound of freedom?”
 
 <br>
 

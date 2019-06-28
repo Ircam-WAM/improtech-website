@@ -37,7 +37,7 @@ title: Program
 #### Opening Words
 Anastasia Georgaki, Christos Carras, Gérard Assayag, Marc Chemillier
 
-#### Opening Keynote Lecture
+#### Opening Keynote Lecture: Improvisation with Technology as a Way of Life:  Listening for Freedom with Arnold Davidson
 George Lewis (Columbia University)
 
 <br>
