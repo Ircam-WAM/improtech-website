@@ -68,7 +68,13 @@ The result is an exciting and challenging musical environment that the duo finds
 
 
 ***12:15***
-#### Peter Nelson
+#### Polyphonic Conversations
+Peter Nelson (University of Edinburgh, UK)
+
+“... what’s intriguing about the ... improvisation I do is that its more polyphonic than your average conversation ...” John Oswald, interview 2009.
+
+In recent years, the technologies used in making music and other time-based arts have changed radically, engaging with communication networks that have settled into every crevice of our social realities. This circumstance changes even the notion of what we consider to be the social, as well as the ways in which we engage with artefacts, processes and institutions. This talk will explore the implications of current technologies for improvisation strategies, and will interrogate the conversation as an expanding and transforming discourse whose agents may come to include more than simply human selves.
+
 
 
 ***12:45***

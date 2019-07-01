@@ -174,7 +174,8 @@ Dimitri Vassilakis (University of Athens, Gr.)
 #### Metrical Polyrhythms and Polytemporality in live Improvisation Settings
 Sami Amiris (American College, Athens Big Band, Gr.), Antonis Ladopoulos (University of Athens, American College, Gr.)
 
-#### Peter Nelson
+#### Polyphonic Conversations
+Peter Nelson (University of Edinburgh, UK)
 
 #### Disposable Music
 Georg Hajdu (Hochschule für Musik und Theater Hamburg, DE)
