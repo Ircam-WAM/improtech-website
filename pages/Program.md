@@ -59,9 +59,9 @@ for 2 pianists, guest musicians and webaudio devices
 *Just Her - Jester - Gesture*  
 For augmented kalimba (played by Lisa Chen) and live electronics
 
-**Raphael Imbert, Benjamin Lévy**  
+**Raphael Imbert, Benjamin Lévy, Mourad Benhammou**  
 *A.I. Swing*  
-Saxophones, OMax 5 computer system
+Saxophones, OMax 5 computer system, drums
 
 **Dimitri Vassilakis with the students from the University of Athens**  
 *Guests : Anastasia Georgaki, Raphael Imbert and Benjamin Lévy*  
