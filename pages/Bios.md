@@ -101,6 +101,16 @@ is an Assistant Professor in the Laboratory of Music Acoustics and Technology (L
 
 ---
 
+<img src="../images/Benhammou.jpg" width="320" style="float:left" hspace="10">
+####Mourad Benhammou
+Born in 1969 in Paris of Algerian parents, Mourad Benhammou started playing drums at the age of 15. Self-taught, he studied, perfected his skills with American jazz drummer Sunny Murray and gradually established himself in Parisian clubs. In 1996, with Alain Jean-Marie (piano) and Jean Bardy (double bass), he formed a trio "hommage à Monk". The following year, as a leader, he founded the Interplanetary Music Orchestra, an orchestra of 9 musicians. The adventure will lead to a first personal opus, the eponymous album published in 1998.  
+In 1999, Mourad Benhammou joined the tenor saxophone quartet David El Malek with pianist Baptiste Trotignon and Raphaël Imbert's nonet Nine Spirit for a project "hommage à Duke Ellington".   
+After a stay in the United States, where he met and made a great friendship with drummer Walter Perkins, he gave birth to a new project called Jazzworkers. An internationally renowned and appreciated drummer for the past ten years, Mourad Benhammou has worked and recorded with a large number of jazz stars such as alto saxophone Peter King, drummer Mino Cinelu, trumpeter Ted Curson, guitarist Christian Escoudé and pianist Maurice Vander.
+<br>
+
+---
+---
+
 <img src="../images/Bevilacqua.jpg" width="320" style="float:left" hspace="10">
 ####Frédéric Bevilacqua
 is the head of the [Sound Music Movement Interaction team](http://ismm.ircam.fr/) at IRCAM in Paris (part of the joint research lab Science & Technology for Music and Sound – IRCAM – CNRS – Sorbonne Université). His research concerns the modeling and the design of interaction between movement and sound, and the development of gesture-based interactive systems.<br>
