@@ -106,6 +106,8 @@ Born in 1969 in Paris of Algerian parents, Mourad Benhammou started playing drum
 In 1999, Mourad Benhammou joined the tenor saxophone quartet David El Malek with pianist Baptiste Trotignon and Raphaël Imbert's nonet Nine Spirit for a project "hommage à Duke Ellington".   
 After a stay in the United States, where he met and made a great friendship with drummer Walter Perkins, he gave birth to a new project called Jazzworkers. An internationally renowned and appreciated drummer for the past ten years, Mourad Benhammou has worked and recorded with a large number of jazz stars such as alto saxophone Peter King, drummer Mino Cinelu, trumpeter Ted Curson, guitarist Christian Escoudé and pianist Maurice Vander.
 <br>
+<br>
+<br>
 
 ---
 
