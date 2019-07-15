@@ -100,7 +100,7 @@ is an Assistant Professor in the Laboratory of Music Acoustics and Technology (L
 
 
 ---
-<img src="../images/Benhammou.jpg" width="320" style="float:left" hspace="10">
+<img src="../images/Benhammou.jpg" width="241" style="float:left" hspace="10">
 ####Mourad Benhammou
 Born in 1969 in Paris of Algerian parents, Mourad Benhammou started playing drums at the age of 15. Self-taught, he studied, perfected his skills with American jazz drummer Sunny Murray and gradually established himself in Parisian clubs. In 1996, with Alain Jean-Marie (piano) and Jean Bardy (double bass), he formed a trio "hommage à Monk". The following year, as a leader, he founded the Interplanetary Music Orchestra, an orchestra of 9 musicians. The adventure will lead to a first personal opus, the eponymous album published in 1998.  
 In 1999, Mourad Benhammou joined the tenor saxophone quartet David El Malek with pianist Baptiste Trotignon and Raphaël Imbert's nonet Nine Spirit for a project "hommage à Duke Ellington".   
