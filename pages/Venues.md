@@ -4,7 +4,7 @@ title: Venues
 
 ### Conferences, workshops and concerts
 
- - [Onassis Stegi](https://www.onassis.org/initiatives/onassis-stegi/)
+ - [Onassis Stegi](https://www.onassis.org/initiatives/onassis-stegi/) 
  - [National and Kapodistrian University of Athens](https://en.uoa.gr/)
 
 ### Lunch
