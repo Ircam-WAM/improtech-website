@@ -95,7 +95,7 @@ UOA Cultural building Kostis Palamas
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Saturday sept 28 - Workshops
-**Onassis Cultural Center, 16:00 - 19:00**
+**Onassis STEGI, 16:00 - 19:00**
 ### Game, mobiles, transducers
 </font>
 <br>
