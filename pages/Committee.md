@@ -5,7 +5,7 @@ title: Committee
 ###  General Chair
 
 #### &Alpha;&theta;&eta;&nu;&alpha;
-Christos Carras, Onassis STEGI
+Christos Carras, Onassis STEGI  
 Anastasia Georgakis, University of Athens  
 
 #### Paris

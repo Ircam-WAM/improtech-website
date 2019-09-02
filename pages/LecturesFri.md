@@ -109,7 +109,7 @@ UOA Cultural building Kostis Palamas
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Friday sept 27 - Workshops
-**Onassis Cultural Center, 16:00 - 19:00**
+**Onassis STEGI, 16:00 - 19:00**
 ### Body and Drama
 </font>
 <br>
@@ -119,7 +119,7 @@ UOA Cultural building Kostis Palamas
 #### Kinaesonics: crafting and being trans-dimensional (Bodycoder system)
 Mark Bokowiec, Julie Wilson-Bokowiec (University of Huddersfield, UK)
 
-In this workshop/demo we will unpack our particular approach to Kinaesonic composition and the multi-dimensional nature of our particular brand of live performance with the Bodycoder System. We will explore the critical intersections where liveness meets the programmed and the automated, consider the aesthetic as well as the socio-political implications and discuss the role and qualities of improvisation employed in the new work we will present at the Onassis Centre.   
+In this workshop/demo we will unpack our particular approach to Kinaesonic composition and the multi-dimensional nature of our particular brand of live performance with the Bodycoder System. We will explore the critical intersections where liveness meets the programmed and the automated, consider the aesthetic as well as the socio-political implications and discuss the role and qualities of improvisation employed in the new work we will present at  Onassis STEGI.   
 
 ***17:00 - 18:00***
 #### Interactive Drama Tools

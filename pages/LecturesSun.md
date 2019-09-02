@@ -27,7 +27,7 @@ Status: Hidden
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Sunday Sept 29 - Lectures
-**Onassis Cultural Center, 09:30 - 13:30**
+**Onassis STEGI, 09:30 - 13:30**
 ### Aesthetics and Ethics of Improvisation in the Digital Era
 </font>
 <br>
