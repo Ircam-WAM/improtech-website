@@ -6,7 +6,7 @@ Tags: ircam, improvisation, performance, human machine interaction, improtech, o
 Authors: Gerard Assayag
 Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### Workshop - Festival, September 26th - 29th, 2019 at the Onassis Cultural Center and the University of Athens
+#### Workshop - Festival, September 26th - 29th, 2019 at the Onassis STEGI Cultural Center, and the University of Athens
 <br>
 <br>
 
@@ -17,7 +17,7 @@ ikPA'19 creates a link between the european and worlwide research and creation s
 
 It is thus a unique opportunity for intercultural and interdisciplinary encounters among international research and creation communities.
 
-ImproTech is being held in 2019 with the support of the [Onassis Cultural Center](http://http://www.sgt.gr)(OCC) and the [University of Athens](https://en.uoa.gr/) (UOA), in addition to the workshop's founding organisms, to allow the public to observe the aesthetic, technological and sociological developments that have taken place since previous editions.
+ImproTech is being held in 2019 with the support of [Onassis STEGI](http://http://www.sgt.gr) and the [University of Athens](https://en.uoa.gr/) (UOA), in addition to the workshop's founding organisms, to allow the public to observe the aesthetic, technological and sociological developments that have taken place since previous editions.
 This meeting point in the heart of the  Hellenic capital is a stimulating destination because of the city's young and lively improvisation scene, the many men and women who promote research in music science and technology in the Greek universities, and of course the central position of Greek culture in the history of improvised music, from its practice to its theory.
 
 Scholars, students, musicians, will come from many places in world to talk about their work, demo, teach and perform. **ikPA'19** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz, contemporary music, traditional music from the mediterranean area, and the  avant-garde scene of Greece .
@@ -36,7 +36,7 @@ Scholars, students, musicians, will come from many places in world to talk about
 <br>
 <br>
 ### Lectures and Concerts
-**ikPA'19** brings together artists, musicians, composers and researchers from several continents, all motivated by the possibilities offered by creative improvised interactions between humans, machines and algorithms of all sorts. **ikPA'19** will take place from 26 to 29 September 2019, at the OCC (Onassis Cultural Center) and the UOA (University of Athens) with concerts, demos, workshops, conferences and **prestigious keynotes speakers** (George Lewis, Xavier Serra, George Tzanetakis, Gary L. Hagberg). **World-class improvisers** are expected, including George Lewis, Evan Parker, Mari Kimura, Sylvain Luc, Bernard Lubat, Jaap Blonk, Steve Lehman, Lara Morciano, Michelle-Agnes Magalhaes, Raphael Imbert, Hervé Sellin, Rémi Fox, Peter Evans, Mark Nauseef, Camel Zekri, Mark & Julie Bokowiec, Orestis Karamanlis, Dimitri Vassilakis, Areti Andreopoulou, Anastasia Georgaki, and many others.
+**ikPA'19** brings together artists, musicians, composers and researchers from several continents, all motivated by the possibilities offered by creative improvised interactions between humans, machines and algorithms of all sorts. **ikPA'19** will take place from 26 to 29 September 2019, at Onassis STEGI and the UOA (University of Athens) with concerts, demos, workshops, conferences and **prestigious keynotes speakers** (George Lewis, Xavier Serra, George Tzanetakis, Gary L. Hagberg). **World-class improvisers** are expected, including George Lewis, Evan Parker, Mari Kimura, Sylvain Luc, Bernard Lubat, Jaap Blonk, Steve Lehman, Lara Morciano, Michelle-Agnes Magalhaes, Raphael Imbert, Hervé Sellin, Rémi Fox, Peter Evans, Mark Nauseef, Camel Zekri, Mark & Julie Bokowiec, Orestis Karamanlis, Dimitri Vassilakis, Areti Andreopoulou, Anastasia Georgaki, and many others.
 
 ###Participants
 

@@ -5,7 +5,7 @@ title: Committee
 ###  General Chair
 
 #### &Alpha;&theta;&eta;&nu;&alpha;
-Christos Carras, Onassis Cultural center  
+Christos Carras, Onassis STEGI
 Anastasia Georgakis, University of Athens  
 
 #### Paris
@@ -19,7 +19,7 @@ Sylvie Benoit, Ircam
 Pierre Couprie, Sorbonne Université  
 George Dedousis, University of Athens  
 Jérôme Nika, Ircam  
-Pasqua Vorgia, OCC  
+Pasqua Vorgia, OCC
 
 ---
 

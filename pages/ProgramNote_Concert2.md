@@ -27,7 +27,7 @@ Status: Hidden
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Friday sept 27 - Concert
-**Onassis Cultural Center, 20:00 - 22:30**
+**Onassis STEGI, 20:00 - 22:30**
 <br><br><br>
 </font>
 <br>

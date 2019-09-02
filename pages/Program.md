@@ -25,7 +25,7 @@ title: Program
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Thursday sept 26 - Opening
-**Onassis Cultural Center, 18:00 - 22:30**
+**Onassis STEGI, 18:00 - 22:30**
 ### Opening Keynote and concert
 </font>
 <br>
@@ -102,7 +102,7 @@ Christina Anagnostopoulou, Aggeliki Triantafyllaki, Antonis Alexakis (University
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Friday sept 27 - Workshops
-**Onassis Cultural Center, 16:00 - 19:00**
+**Onassis STEGI, 16:00 - 19:00**
 ### Body and Drama
 </font>
 <br>
@@ -123,7 +123,7 @@ Michelle Agnes Magalhaes (composer, Ircam, Fr.), Frédéric Bevilacqua (research
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Friday sept 27 - Concert #2
-**Onassis Cultural Center, 20:00 - 22:30**
+**Onassis STEGI, 20:00 - 22:30**
 <br><br><br>
 </font>
 <br>
@@ -186,7 +186,7 @@ Georg Hajdu (Hochschule für Musik und Theater Hamburg, DE)
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Saturday sept 28 - Workshops
-**Onassis Cultural Center, 16:00 - 19:00**
+**Onassis STEGI, 16:00 - 19:00**
 ### Game, mobiles, transducers
 </font>
 <br>
@@ -207,7 +207,7 @@ Lara Morciano (composer, It.), Jose-Miguel Fernandez (composer, Ircam, Fr.)
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Saturday sept 28 - Concert #3
-**Onassis Cultural Center, 20:00 - 22:30**
+**Onassis STEGI, 20:00 - 22:30**
 <br><br><br>
 </font>
 <br>
@@ -241,7 +241,7 @@ Saxophones, live electronics, DYCI2 computer system
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Sunday Sept 29 - Lectures
-**Onassis Cultural Center, 09:30 - 13:30**
+**Onassis STEGI, 09:30 - 13:30**
 ### Aesthetics and Ethics of Improvisation in the Digital Era
 </font>
 <br>
