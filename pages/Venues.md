@@ -4,16 +4,15 @@ title: Venues
 
 ### Conferences, workshops and concerts
 
- - [Onassis Stegi](https://www.onassis.org/initiatives/onassis-stegi/)
- - [National and Kapodistrian University of Athens](https://en.uoa.gr/)
+#### Concerts 
+[Onassis Stegi](https://www.onassis.org/onassis-stegi/), Christina Onassis Hall, 5th floor, Leoforos Syggrou 107-109, Athens
 
-### Lunch
+#### Workshops
+[Onassis Stegi](https://www.onassis.org/onassis-stegi/), The Galaxy Studio, Galaxia 2, Athens
 
-[University cultural center Kostis Palamas](https://en.uoa.gr/about_us/services_units/kostis_palamas_building/)
+#### Conferences
 
-### Hotel
-
-[Grand Hyatt Athens](https://www.hyatt.com/en-US/hotel/greece/grand-hyatt-athens/athgh?src=corp_lclb_gmb_seo_eame_athgh)
+[National and Kapodistrian University of Athens](https://en.uoa.gr/), Ioannis Drakopoulos Amphitheatre, Panepistimiou 30, Athens
 
 
 <br><br>
