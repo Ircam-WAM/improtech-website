@@ -33,7 +33,7 @@ Status: Hidden
 <br>
 <br>
 
-***18:00 - 19:30***
+***19:00 - 20:00***
 #### Opening Words
 Anastasia Georgaki, Christos Carras, Gérard Assayag, Marc Chemillier
 
@@ -44,7 +44,7 @@ I met the American philosopher Arnold I. Davidson in July 2007 at the conference
 
 <br>
 
-***20:00 - 22:30***
+***20:30 - 22:30***
 #### Concert #1
 
 **Evan Parker, Matt Wright, Peter Evans, Mark Nauseef**  

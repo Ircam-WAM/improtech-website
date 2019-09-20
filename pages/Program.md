@@ -25,7 +25,7 @@ title: Program
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Thursday sept 26 - Opening
-**Onassis STEGI, 18:00 - 22:30**
+**Onassis STEGI, 19:00 - 22:30**
 ### Opening Keynote and concert
 </font>
 <br>
@@ -33,7 +33,7 @@ title: Program
 
 
 
-***18:00***
+***19:00***
 #### Opening Words
 Anastasia Georgaki, Christos Carras, Gérard Assayag, Marc Chemillier
 
@@ -42,7 +42,7 @@ George Lewis (Columbia University)
 
 <br>
 
-***20:00***
+***20:30***
 #### Concert #1
 
 [*Program Notes*]({filename}/pages/ProgramNote_Concert1.md)
