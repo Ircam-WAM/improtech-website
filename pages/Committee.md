@@ -17,13 +17,13 @@ Marc Chemillier, EHESS
 
 Sylvie Benoit, Ircam  
 Pierre Couprie, Sorbonne Université  
-Giorgos Dedousis, University of Athens
-Areti Andreopoulou, University of Athens
+Giorgos Dedousis, University of Athens  
+Areti Andreopoulou, University of Athens  
 Jérôme Nika, Ircam  
-Pasqua Vorgia, Onassis STEGI
-Christina Pitouli, Onassis STEGI
-Despina Sifniadou, Onassis STEGI
-Lefteris Karabilas, Onassis STEGI
+Pasqua Vorgia, Onassis STEGI  
+Christina Pitouli, Onassis STEGI  
+Despina Sifniadou, Onassis STEGI  
+Lefteris Karabilas, Onassis STEGI  
 
 ---
 
