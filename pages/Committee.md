@@ -15,7 +15,7 @@ Marc Chemillier, EHESS
 
 ### Organisation Committee
 
-Sylvie Benoit, Ircam, general organisation
+Sylvie Benoit, Ircam, general organisation  
 Jose-Miguel Fernandez, Ircam, concert technical supervision  
 Pierre Couprie, Sorbonne Université, program design  
 Areti Andreopoulou, University of Athens, Lectures  
