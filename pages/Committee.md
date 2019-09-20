@@ -13,16 +13,44 @@ Gérard Assayag, Ircam
 Marc Chemillier, EHESS  
 
 
-### Organizing Committee
+### Organisation Committee
 
 Sylvie Benoit, Ircam  
+Jose-Miguel Fernandez, Ircam
 Pierre Couprie, Sorbonne Université  
 Giorgos Dedousis, University of Athens  
 Areti Andreopoulou, University of Athens  
-Pasqua Vorgia, Onassis STEGI  
-Christina Pitouli, Onassis STEGI  
-Despina Sifniadou, Onassis STEGI  
-Lefteris Karabilas, Onassis STEGI  
+Pasqua Vorgia, Onassis STEGI, curator  
+Christina Pitouli, Onassis STEGI, line producer  
+Despina Sifniadou, Onassis STEGI, line producer  
+Lefteris Karabilas, Onassis STEGI, theatre technical director  
+
+### collaborators
+
+Savvas Paraskevas, Onassis STEGI, Line producer  
+Giannis Kritikos, Onassis STEGI, Stage Manager
+Giannis Ntovas, Onassis STEGI, Stage Manager
+Kostas Apollonios, Onassis STEGI, IT Manager
+Jeff Joly, Popmyfilm,	Film maker
+Kostas Katsantonis, University of Athens, Sound engineer
+Irene Bossinakis, University of Athens and Parliament Channel, audiovisual producer
+
+
+
+### Volunteers
+
+Melina Ntelikou
+Eleftheriadi Dimitra
+Eirini Mangana
+Poulakaki Charikleia
+Christina Griva
+Liana Iliopoulou
+Dimitra Mantzari
+Nikoleta Koutsamani
+Emmanouil Pissarakis
+Flora -Chrysi Malla
+Georgios-Aimilianos Stavrinos
+Eirini Bosinaki
 
 ---
 
