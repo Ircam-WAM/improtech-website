@@ -15,11 +15,11 @@ Marc Chemillier, EHESS
 
 ### Organisation Committee
 
-Sylvie Benoit, Ircam  
-Jose-Miguel Fernandez, Ircam
-Pierre Couprie, Sorbonne Université  
-Areti Andreopoulou, University of Athens  
-Giorgos Dedousis, University of Athens  
+Sylvie Benoit, Ircam, general organisation
+Jose-Miguel Fernandez, Ircam, concert technical supervision
+Pierre Couprie, Sorbonne Université, program design
+Areti Andreopoulou, University of Athens, Lectures
+Giorgos Dedousis, University of Athens, Lectures
 Pasqua Vorgia, Onassis STEGI, curator  
 Christina Pitouli, Onassis STEGI, line producer  
 Despina Sifniadou, Onassis STEGI, line producer  
@@ -35,7 +35,7 @@ Jeff Joly, Popmyfilm,	Film maker
 Kostas Katsantonis, University of Athens, Sound engineer  
 Irene Bossinakis, University of Athens and Parliament Channel, audiovisual producer  
 
-### Volunteers
+### Volunteers at UOA
 
 Melina Ntelikou  
 Eleftheriadi Dimitra  
