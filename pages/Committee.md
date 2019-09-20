@@ -25,7 +25,7 @@ Christina Pitouli, Onassis STEGI, line producer
 Despina Sifniadou, Onassis STEGI, line producer  
 Lefteris Karabilas, Onassis STEGI, theatre technical director  
 
-### collaborators
+### Collaborators
 
 Savvas Paraskevas, Onassis STEGI, Line producer  
 Giannis Kritikos, Onassis STEGI, Stage Manager  
