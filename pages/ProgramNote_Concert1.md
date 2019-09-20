@@ -57,7 +57,7 @@ for 2 pianists, guest musicians and webaudio devices
 
 **Georg Hajdu**  
 *Just Her - Jester - Gesture*  
-For augmented kalimba (played by Lisa Chen) and live electronics
+For augmented kalimba (played by Lin Chen) and live electronics
 
 **Raphael Imbert, Benjamin Lévy, Mourad Benhammou**  
 *A.I. Swing*  
