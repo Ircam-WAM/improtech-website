@@ -27,7 +27,7 @@ Status: Hidden
 <img src="../images/IKPoster_frag16.png" width="260" style="float:left" hspace="30">
 <font color="DarkBlue">
 # Thursday sept 26 - Opening
-**Onassis STEGI, 18:00 - 22:30**
+**Onassis STEGI, 19:00 - 22:30**
 ### Opening Keynote and concert
 </font>
 <br>
