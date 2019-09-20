@@ -16,10 +16,10 @@ Marc Chemillier, EHESS
 ### Organisation Committee
 
 Sylvie Benoit, Ircam, general organisation
-Jose-Miguel Fernandez, Ircam, concert technical supervision
-Pierre Couprie, Sorbonne Université, program design
-Areti Andreopoulou, University of Athens, Lectures
-Giorgos Dedousis, University of Athens, Lectures
+Jose-Miguel Fernandez, Ircam, concert technical supervision  
+Pierre Couprie, Sorbonne Université, program design  
+Areti Andreopoulou, University of Athens, Lectures  
+Giorgos Dedousis, University of Athens, Lectures  
 Pasqua Vorgia, Onassis STEGI, curator  
 Christina Pitouli, Onassis STEGI, line producer  
 Despina Sifniadou, Onassis STEGI, line producer  
