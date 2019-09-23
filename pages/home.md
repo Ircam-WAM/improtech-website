@@ -10,6 +10,12 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 <br>
 <br>
 
+[*Announcement in The Huffington Post Greece, interview of the organisers (Greek)*](moesike_gr_5d7f6089e4b03b5fc8867c43)
+[*Annoucement on the Ircam web, interview of Gérard Assayag (English)*](https://www.ircam.fr/article/detail/the-human-machine-co-creativity-will-change-radically-our-musical-experience/)
+
+<br>
+<br>
+
 <img src="../images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
 ##Improtech
 gathers scholars, researchers, musicians, makers, around the idea of **musical improvisation in interaction with digital intelligence**, taking note of the important development of this new creative field.
