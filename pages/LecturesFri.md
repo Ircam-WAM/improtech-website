@@ -101,7 +101,6 @@ In the present paper we explore the thesis that the computational music analysis
 <font color="DarkBlue">
 ***13:30***
 #### *Lunch Break*
-UOA Cultural building Kostis Palamas
 </font>
 <br><br><br>
 

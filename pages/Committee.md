@@ -15,25 +15,28 @@ Marc Chemillier, EHESS
 
 ### Organisation Committee
 
-Sylvie Benoit, Ircam, general organisation  
+Sylvie Benoit, Ircam, general coordinator  
 Jose-Miguel Fernandez, Ircam, concert technical supervision  
-Pierre Couprie, Sorbonne Université, program design  
-Areti Andreopoulou, University of Athens, Lectures  
-Giorgos Dedousis, University of Athens, Lectures  
-Pasqua Vorgia, Onassis STEGI, curator  
-Christina Pitouli, Onassis STEGI, line producer  
-Despina Sifniadou, Onassis STEGI, line producer  
+
+Areti Andreopoulou, University of Athens, Lectures coordinator  
+Giorgos Dedousis, University of Athens, Lectures organisation
+
 Lefteris Karabilas, Onassis STEGI, theatre technical director  
+Christina Pitouli, Onassis STEGI,  production manager  
+Despina Sifniadou, Onassis STEGI, line producer  
+Pasqua Vorgia, Onassis STEGI, general coordinator  
+
+Pierre Couprie, Sorbonne Université, program design  
 
 ### Collaborators
 
-Savvas Paraskevas, Onassis STEGI, Line producer  
-Giannis Kritikos, Onassis STEGI, Stage Manager  
-Giannis Ntovas, Onassis STEGI, Stage Manager  
 Kostas Apollonios, Onassis STEGI, IT Manager  
-Jeff Joly, Popmyfilm,	Film maker  
-Kostas Katsantonis, University of Athens, Sound engineer  
 Irene Bossinakis, University of Athens and Parliament Channel, audiovisual producer  
+Kostas Katsantonis, University of Athens, Sound engineer  
+Giannis Kritikos, Onassis STEGI, Stage Manager  
+Jeff Joly, Popmyfilm,	Film maker  
+Giannis Ntovas, Onassis STEGI, Stage Manager  
+Savvas Paraskevas, Onassis STEGI, Line producer  
 
 ### Volunteers at UOA
 
@@ -50,7 +53,6 @@ Flora -Chrysi Malla
 Georgios-Aimilianos Stavrinos  
 Eirini Bosinaki  
 
----
 
 ### Science / Art  Board
 

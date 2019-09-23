@@ -165,7 +165,7 @@ Saxophones and DYCI2 computer system
 #### Keynote talk : From Digital to Human Intelligence in Music Understanding Research
 Xavier Serra (Universitat Pompeu Fabra, Sp.)
 
-#### Forms of presence in instrumental and electronic improvisation in relation to  cultural contexts
+#### [CANCELED] Forms of presence in instrumental and electronic improvisation in relation to  cultural contexts
 Marc CHemillier (EHESS, Fr.)
 
 #### " Jazz Mapping ” : Thematic Development and Story Telling in Jazz Improvisation
