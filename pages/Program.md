@@ -5,7 +5,7 @@ title: Program
 <br>
 <br>
 
-* [*Program on Onassis STEGI web site*](https://www.onassis.org/whats-on/improtech-2019)
+[*Program on Onassis STEGI web site*](https://www.onassis.org/whats-on/improtech-2019)
 
 <br>
 <br>

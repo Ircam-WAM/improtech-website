@@ -10,7 +10,7 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 <br>
 <br>
 
-[*Announcement in The Huffington Post Greece, interview of the organisers (Greek)*](moesike_gr_5d7f6089e4b03b5fc8867c43)
+[*Announcement in The Huffington Post Greece, interview of the organisers (Greek)*](https://www.huffingtonpost.gr/entry/to-improtech-2019-sten-athena-technete-noemosene-kai-moesike_gr_5d7f6089e4b03b5fc8867c43)  
 [*Annoucement on the Ircam web, interview of Gérard Assayag (English)*](https://www.ircam.fr/article/detail/the-human-machine-co-creativity-will-change-radically-our-musical-experience/)
 
 <br>
