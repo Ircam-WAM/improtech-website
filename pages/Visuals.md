@@ -2,29 +2,18 @@ title: Visuals
 
 ---
 
-ImproTech Paris-Philly Art Work
-© Turner Williams 2017  
+ikPA'19  banner artwork © Turner Williams and Onassis STEGI  
+ikPA'19 Posters artwork © Onassis STEGI  
+
+
+[PDF poster 1]({filename}/doc/ImproTech_Poster_1.pdf)  
+[PDF poster 1]({filename}/doc/ImproTech_Poster_2.pdf)
 
 ---
 
 <p align="center">
-   <img src="../images/IKPoster.005.jpeg" width="600" hspace="20">
+   <img src="../doc/ImproTech_Poster_1.jpg" width="600" hspace="20">
   <br><br>
-  <img src="../images/Flyer.png" width="600" hspace="20">
+  <img src="../doc/ImproTech_Poster_2.jpg" width="600" hspace="20">
   <br><br>
-   <img src="../images/Logos_Prod.png" width="600" hspace="20">
-  <br><br>
-   <img src="../images/IKPoster.001.jpeg" width="600" hspace="20">
-  <br><br>
-  <img src="../images/IKPoster.002.jpeg" width="600" hspace="20">
-  <br><br>
-  <img src="../images/IKPoster.003.jpeg" width="600" hspace="20">
-  <br><br>
-  <img src="../images/IKPoster.004.jpeg" width="600" hspace="20">
-  <br><br>
- 
 </p>
-
-
-
-
