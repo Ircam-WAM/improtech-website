@@ -7,11 +7,6 @@ title: Visuals
 ikPA'19  banner artwork © Turner Williams and Onassis STEGI  
 ikPA'19 Posters artwork © Onassis STEGI  
 
-### ikPA'19 Posters
-
-[PDF poster 1]({filename}/doc/ImproTech_Poster_1.pdf)  
-[PDF poster 1]({filename}/doc/ImproTech_Poster_2.pdf)
-
 ---
 
 ### ikPA'19 mashup by Jeff Joly @ popmyfilm
@@ -26,6 +21,12 @@ ikPA'19 Posters artwork © Onassis STEGI
 
 <br>
 <br>
+
+
+### ikPA'19 Posters
+
+[PDF poster 1]({filename}/doc/ImproTech_Poster_1.pdf)  
+[PDF poster 1]({filename}/doc/ImproTech_Poster_2.pdf)
 
 ---
 
