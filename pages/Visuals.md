@@ -22,7 +22,7 @@ ikPA'19 Posters artwork © Onassis STEGI
 
 ### ikPA'19 all the movies
 
-<iframe src='https://vimeo.com/showcase/6364851/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe>
+[See ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851)
 
 <br>
 <br>
