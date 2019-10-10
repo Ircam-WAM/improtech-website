@@ -14,14 +14,9 @@ ikPA'19 Posters artwork © Onassis STEGI
 <br>
 <iframe src="https://player.vimeo.com/video/365537126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
 ### ikPA'19 all the movies
 
 [See ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851)
-
-<br>
-<br>
-
 
 ### ikPA'19 Posters
 
@@ -29,8 +24,6 @@ ikPA'19 Posters artwork © Onassis STEGI
 [PDF poster 1]({filename}/doc/ImproTech_Poster_2.pdf)
 
 ---
-
-
 
 <p align="center">
    <img src="../doc/ImproTech_Poster_1.jpg" width="600" hspace="20">
