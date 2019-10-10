@@ -17,8 +17,8 @@ ikPA'19 Posters artwork © Onassis STEGI
 ### ikPA'19 mashup by Jeff Joly @ popmyfilm
 
 <br>
+<iframe src="https://player.vimeo.com/video/365537126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<iframe src="https://vimeo.com/365537126" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### ikPA'19 all the movies
 
