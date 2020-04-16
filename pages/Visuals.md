@@ -22,7 +22,8 @@ ikPA'19 Posters artwork © Onassis STEGI
 <iframe src="https://player.vimeo.com/video/365537126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <br>
 ### ikPA'19 Hexis, Mark Bokowiec and Julie Wilson - Bokowiec
-<iframe src="https://player.vimeo.com/video/368022425" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/368022425" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
 <a href="https://vimeo.com/368022425">Improtech Paris-Athina 2019 : Hexis by Mark Bokowiec and Julie Wilson - Bokowiec</a>
 from
 <a href="https://vimeo.com/user15042869">RepMus</a> on <a href="https://vimeo.com">Vimeo</a>
