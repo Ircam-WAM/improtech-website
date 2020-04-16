@@ -16,18 +16,16 @@ ikPA'19 Posters artwork © Onassis STEGI
 
 ### ikPA'19 all the movies
 [See ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851)
+[Check other RepMus videos on vimeo](https://vimeo.com/manage/folders/400247)
 
 ### ikPA'19 mashup by Jeff Joly @ popmyfilm
 <br>
 <iframe src="https://player.vimeo.com/video/365537126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <br>
 ### ikPA'19 Hexis, Mark Bokowiec and Julie Wilson - Bokowiec
+<br>
 <iframe src="https://player.vimeo.com/video/368022425" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <br>
-<a href="https://vimeo.com/368022425">Improtech Paris-Athina 2019 : Hexis by Mark Bokowiec and Julie Wilson - Bokowiec</a>
-from
-<a href="https://vimeo.com/user15042869">RepMus</a> on <a href="https://vimeo.com">Vimeo</a>
-.
 
 ### ikPA'19 Posters
 
