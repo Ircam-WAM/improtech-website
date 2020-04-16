@@ -9,8 +9,12 @@ ikPA'19 Posters artwork © Onassis STEGI
 
 ---
 
-### ikPA'19 all the movies
+### ikPA'19 Pictures
+[Hidef pictures by Jeff Joly](https://www.flickr.com/photos/jeffjoly/sets/72157713898729827/)  
+[Hidef pictures by Jeff Joly](https://photos.app.goo.gl/C2KRuo5BL6FDRgar7)
 
+
+### ikPA'19 all the movies
 [See ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851)
 
 ### ikPA'19 mashup by Jeff Joly @ popmyfilm
