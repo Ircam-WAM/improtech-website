@@ -34,6 +34,10 @@ Status: Hidden
 <br>
 <br>
 
+#### Movies
+
+[See the conference recordings on YouTubes](https://www.youtube.com/watch?v=yauFNTAPGtE)
+
 ***09:30***
 #### Keynote talk : Perception, embodiment, and expressivity in human and computer improvisation
 George Tzanetakis (University of Victoria, Ca)
