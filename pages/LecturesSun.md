@@ -33,6 +33,11 @@ Status: Hidden
 <br>
 <br>
 
+#### Movies
+
+[Conference recordings on YouTubes - Part 1](https://www.youtube.com/watch?v=0K7_1OKo5Zo&feature=youtu.be)<br>
+[Conference recordings on YouTubes - Part 2](https://www.youtube.com/watch?v=wi_vvUGKIvA)
+
 ***09:30***
 #### Keynote talk : Distributed Creativity, Some Ethical Aspects of Group Improvisation, and our (human-like) Interaction with Digital Entities
 Garry L. Hagberg (Bard College, USA)

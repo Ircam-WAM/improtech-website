@@ -33,6 +33,10 @@ Status: Hidden
 <br>
 <br>
 
+#### Movies
+
+[Conference recordings on YouTubes](https://www.youtube.com/watch?v=iCRIFHL_sDs&feature=youtu.be)
+
 ***09:30***
 #### Keynote talk : From Digital to Human Intelligence in Music Understanding Research
 Xavier Serra (Universitat Pompeu Fabra, Sp.)
