@@ -14,23 +14,16 @@ ikPA'19 Posters artwork © Onassis STEGI
 [Hidef pictures by Jeff Joly](https://photos.app.goo.gl/C2KRuo5BL6FDRgar7)
 
 ### ikPA'19 all the movies
-[Retrieve ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851)  
+[Retrieve ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through
 
-
+<br>
 
 <iframe src="https://vimeo.com/showcase/6364851/embed" width="720" height="405" allowfullscreen frameborder="0"></iframe>
 
+<br>
+<br>
 
 
-
-### ikPA'19 mashup by Jeff Joly @ popmyfilm
-<br>
-<iframe src="https://player.vimeo.com/video/365537126" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<br>
-### ikPA'19 Hexis, Mark Bokowiec and Julie Wilson - Bokowiec
-<br>
-<iframe src="https://player.vimeo.com/video/368022425" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<br>
 
 ### ikPA'19 Posters
 
