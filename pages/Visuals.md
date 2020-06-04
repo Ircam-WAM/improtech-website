@@ -14,7 +14,7 @@ ikPA'19 Posters artwork © Onassis STEGI
 [Hidef pictures by Jeff Joly](https://photos.app.goo.gl/C2KRuo5BL6FDRgar7)
 
 ### ikPA'19 all the movies
-[Retrieve ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through
+Retrieve [ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through :
 
 <br>
 
