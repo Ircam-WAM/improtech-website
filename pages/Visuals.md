@@ -17,12 +17,20 @@ ikPA'19 Posters artwork © Onassis STEGI
 Retrieve [ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through :
 
 <br>
-
 <iframe src="https://vimeo.com/showcase/6364851/embed" width="720" height="405" allowfullscreen frameborder="0"></iframe>
-
-<br>
 <br>
 
+
+
+### ikPA'19 conferences
+
+[Day 1](https://www.youtube.com/watch?v=yauFNTAPGtE)
+
+[Day 2](https://www.youtube.com/watch?v=iCRIFHL_sDs&feature=youtu.be)
+
+[Day 3. pt1](https://www.youtube.com/watch?v=0K7_1OKo5Zo&feature=youtu.be)
+
+[Day 3. pt2](https://www.youtube.com/watch?v=wi_vvUGKIvA
 
 
 ### ikPA'19 Posters
