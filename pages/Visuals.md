@@ -13,10 +13,15 @@ ikPA'19 Posters artwork © Onassis STEGI
 [Hidef pictures by Jeff Joly](https://www.flickr.com/photos/jeffjoly/sets/72157713898729827/)  
 [Hidef pictures by Jeff Joly](https://photos.app.goo.gl/C2KRuo5BL6FDRgar7)
 
-
 ### ikPA'19 all the movies
-[See ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851)  
-[Check other RepMus videos on vimeo here](https://vimeo.com/user/15042869/folder/400247) and [here](https://www.dailymotion.com/RepMus)
+[Retrieve ikPA'19 movies on Vimeo](https://vimeo.com/showcase/6364851)  
+
+
+
+<iframe src="https://vimeo.com/showcase/6364851/embed" width="720" height="405" allowfullscreen frameborder="0"></iframe>
+
+
+
 
 ### ikPA'19 mashup by Jeff Joly @ popmyfilm
 <br>
