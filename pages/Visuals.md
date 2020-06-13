@@ -1,26 +1,18 @@
 title: Visuals
 
 ---
+<br>
+### ikPA'19 : Hilightsfrom concerts
 
-ikPA'19  banner artwork © Turner Williams and Onassis STEGI  
-ikPA'19 Posters artwork © Onassis STEGI  
+<iframe src="https://player.vimeo.com/video/428831250?autoplay=1" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### ikPA'19 : Teaser
+
+<iframe src="https://player.vimeo.com/video/365537126" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <br>
 
-<iframe src="https://player.vimeo.com/video/365537126?autoplay=1" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<br>
-
-
-
----
-
-### ikPA'19 Pictures
-[Hidef pictures by Jeff Joly](https://www.flickr.com/photos/jeffjoly/sets/72157713898729827/)  
-[Hidef pictures by Jeff Joly](https://photos.app.goo.gl/C2KRuo5BL6FDRgar7)
-
-### ikPA'19 opening and concerts
+### ikPA'19 : Opening, keynot and concerts
 Retrieve [movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through :
 
 <br>
@@ -39,11 +31,20 @@ Retrieve [movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through 
 
 [Day 3. pt1](https://www.youtube.com/watch?v=0K7_1OKo5Zo&feature=youtu.be), [Day 3. pt2](https://www.youtube.com/watch?v=wi_vvUGKIvA)
 
+### ikPA'19 Pictures
+[Hidef pictures by Jeff Joly](https://www.flickr.com/photos/jeffjoly/sets/72157713898729827/)  
+[Hidef pictures by Jeff Joly](https://photos.app.goo.gl/C2KRuo5BL6FDRgar7)
 
 ### ikPA'19 Posters
 
 [PDF poster 1]({filename}/doc/ImproTech_Poster_1.pdf)  
 [PDF poster 1]({filename}/doc/ImproTech_Poster_2.pdf)
+
+<br>
+
+ikPA'19  banner artwork © Turner Williams and Onassis STEGI  
+ikPA'19 Posters artwork © Onassis STEGI  
+
 
 ---
 
