@@ -2,7 +2,7 @@ title: Visuals
 
 ---
 <br>
-### ikPA'19 : Hilightsfrom concerts
+### ikPA'19 : Highlights from concerts
 
 <iframe src="https://player.vimeo.com/video/428831250?autoplay=1" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -12,7 +12,7 @@ title: Visuals
 
 <br>
 
-### ikPA'19 : Opening, keynot and concerts
+### ikPA'19 : Opening, keynote and all concerts
 Retrieve [movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through :
 
 <br>
