@@ -6,15 +6,17 @@ title: Visuals
 
 <iframe src="https://player.vimeo.com/video/428831250?autoplay=1" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### ikPA'19 : Presentation by Gérard Assayag
+
+<iframe src="https://player.vimeo.com/video/415177009" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### ikPA'19 : Keynote conference by George Lewis
 
 <iframe src="https://player.vimeo.com/video/424809228" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### ikPA'19 : Teaser
+### ikPA'19 : Short Teaser
 
 <iframe src="https://player.vimeo.com/video/365537126" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<br>
 
 ### ikPA'19 : Opening, keynote and all concerts
 Retrieve [movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through :
