@@ -4,10 +4,13 @@ Title: About
 ## A Workshop-Festival of a new kind
 
 Improtech Paris - XXX  (ikP(x)) is a workshop / festival dedicated to the alliance of the art of Improvisation and the culture of Digital Intelligence, and to co-creative dynamics between human and machines. It connects the french scene (in art and sciences) with another  important city in the world (e.g. New York, Philadelphia, Athens, and soon Tokyo) and  includes high profile  conferences, demos, workshops, performances/installations and concerts.
+
 ikP(x) creates a link between the european and worlwide research and creation scenes through the symbolic matching of Paris, where the event originated at Ircam, and an other emblematic city. It is thus a unique opportunity for intercultural and interdisciplinary encounters among international research and creation communities.
 Improtech ikP(x) is organised by IRCAM and french partners, in conjunction with local institutions and partners in the target city X.
 For each new edition it allows the public to observe the aesthetic, technological and sociological developments that have taken place since previous editions. The meeting point in the heart of a new major city/country  (such as Tokyo/Japan) is always a stimulating destination because of the city's young and lively improvisation scene, the many men and women who promote research in music science and technology in the universities, and of course the central position of the city/country’s culture in the history of improvised performance, from its practice to its theory.
+
 Scholars, students, musicians, come from many places in world to talk about their work, demo, teach and perform. ikPA(x) flourishes on the explosive encounter of prominent research labs and well established personalities from  contemporary and traditional art.
+
 ikP(x) combines, around the central theme of improvisation, a great diversity of aesthetic approaches while convening artists and experts covering many knowledge fields, including computer music, artificial intelligence, robotics, musicology / ethno-musicology, philosophy / anthropology, critical studies, acoustics and signal processing, and several performance art domains : music, dance, poetry, installation art etc.
 Improtech is an original concept by Gérard Assayag and March Chemillier.
 
