@@ -19,7 +19,7 @@ Retrieve [movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through 
 
 ### ikPA'19 Interviews
 
-<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7276504/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+<iframe src="https://vimeo.com/showcase/7276504/embed" width="720" height="405" allowfullscreen frameborder="0"></iframe>
 
 ### ikPA'19 conferences
 
