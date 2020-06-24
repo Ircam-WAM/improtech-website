@@ -6,19 +6,11 @@ title: Visuals
 
 <iframe src="https://player.vimeo.com/video/428831250?autoplay=1" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### ikPA'19 : Presentation by Gérard Assayag
+### ikPA'19 : Documentary
 
-<iframe src="https://player.vimeo.com/video/415177009" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/432057132" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### ikPA'19 : Keynote conference by George Lewis
-
-<iframe src="https://player.vimeo.com/video/424809228" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### ikPA'19 : Short Teaser
-
-<iframe src="https://player.vimeo.com/video/365537126" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### ikPA'19 : Opening, keynote and all concerts
+### ikPA'19 : Opening, Keynote and Concerts full videos
 Retrieve [movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through :
 
 <br>
@@ -27,7 +19,7 @@ Retrieve [movies on Vimeo](https://vimeo.com/showcase/6364851) or parse through 
 
 ### ikPA'19 Interviews
 
-...to come...
+<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7276504/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
 ### ikPA'19 conferences
 
