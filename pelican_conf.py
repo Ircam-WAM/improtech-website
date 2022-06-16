@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "Improtech 2019"
-SITEURL = 'http://ikparisathina.ircam.fr'
+SITENAME = "Improtech 2022"
+SITEURL = 'http://ikMarseille.ircam.fr'
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -128,7 +128,7 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_SUBSITES = {
     'fr': {
-        'SITENAME': 'Improtech 2019',
+        'SITENAME': 'Improtech 2022',
         }
     }
 
