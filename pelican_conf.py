@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals 
+from __future__ import unicode_literals
 
-SITENAME = "Improtech 2017"
-SITEURL = 'http://ikparisphilly.ircam.fr'
+SITENAME = "Improtech 2022"
+SITEURL = 'http://ikmarseille.ircam.fr'
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -15,8 +15,7 @@ THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
-PATH = '/var/in'
-OUTPUT_PATH = '/var/out/ikparisphilly'
+OUTPUT_PATH = '/var/out/ikmarseille'
 STATIC_PATHS = ['doc', 'images']
 
 BANNER = '/images/IKPoster_Banner.png'
@@ -117,7 +116,7 @@ MARKDOWN = {
         },
         'markdown.extensions.extra': {},
         'markdown.extensions.toc': {},
-              
+
         # optionally, more extensions,
         # e.g. markdown.extensions.meta
     },
@@ -128,8 +127,8 @@ MARKDOWN = {
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_SUBSITES = {
-    'fr': {
-        'SITENAME': 'Improtech 2017',
+    'en': {
+        'SITENAME': 'Improtech 2022',
         }
     }
 
