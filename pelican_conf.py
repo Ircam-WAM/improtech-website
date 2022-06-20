@@ -16,7 +16,7 @@ BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
 PATH = '/var/in'
-OUTPUT_PATH = '/var/out'
+OUTPUT_PATH = '/var/out/ikparisathina'
 STATIC_PATHS = ['doc', 'images']
 
 BANNER = '/images/IKPoster_Banner1.png'
