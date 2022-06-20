@@ -16,7 +16,7 @@ BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
 PATH = '/var/in'
-OUTPUT_PATH = '/var/out'
+OUTPUT_PATH = '/var/out/ikmarseille'
 STATIC_PATHS = ['doc', 'images']
 
 BANNER = '/images/IKPoster_Banner1.png'
@@ -93,6 +93,7 @@ GALLERY_PATH = '/var/in/img/gallery/'
 PELICANGIT_SOURCE_REPO=PATH
 PELICANGIT_SOURCE_REMOTE="origin"
 PELICANGIT_SOURCE_BRANCH="master"
+PELICANGIT_SOURCE_BRANCHES=["ikparisphilly", "ikparisathina", "ikmarseille",]
 
 PELICANGIT_DEPLOY_REPO=OUTPUT_PATH
 PELICANGIT_DEPLOY_REMOTE="origin"
