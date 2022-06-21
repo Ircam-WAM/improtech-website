@@ -9,10 +9,7 @@ Summary: Improtech Marseille gathers scholars, technologists, musicians, makers,
 #### Workshop - Festival, October 22 - 24, 2022 at Palais Carli, Marseille Conservatory
 <br>
 <br>
-<img src="./images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
-
-##Improtech
-Improtech is both a musical festival and an interdisciplinary workshop that brings together actors and actresses of research and creation from all over the world around the question of musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity.
+**Improtech** is both a musical festival and an interdisciplinary workshop that brings together actors and actresses of research and creation from all over the world around the question of musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity.
 
 Improtech @ Marseille ! will be held from October 22 to 24, 2022 at the Palais Carli, in the beautiful spaces of the Conservatoire National Pierre Barbizet, with satellite events in the city during the week of October 17.
 
