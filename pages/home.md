@@ -1,4 +1,4 @@
-Title: Improtech Marseille 2022 (ikMA'22)
+Title: Improtech @ Marseille ! 2022
 Status: hidden
 save_as: index.html
 Date: 2022-06-21 17:01
