@@ -12,18 +12,16 @@ Summary: Improtech Marseille gathers scholars, technologists, musicians, makers,
 <img src="./images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
 
 ##Improtech
-gathers scholars, researchers, musicians, makers, around the idea of **musical improvisation in interaction with digital intelligence**, taking note of the important development of this new creative field.
+Improtech is both a musical festival and an interdisciplinary workshop that brings together actors and actresses of research and creation from all over the world around the question of musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity.
 
- **This year Improtech will connect with marseille**, in a powerful arc between science and the art of improvisation, after the  [Paris - Athina edition](http://ikparisathina.ircam.fr), the [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr), and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny).
+Improtech @ Marseille ! will be held from October 22 to 24, 2022 at the Palais Carli, in the beautiful spaces of the Conservatoire National Pierre Barbizet, with satellite events in the city during the week of October 17.
 
-It is thus a unique opportunity for intercultural and interdisciplinary encounters among international research and creation communities.
+Scholars, students, musicians, will come from many places in world to talk about their work, demo, teach and perform. **ikPA'19** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz, contemporary music, traditional music from the mediterranean area, and the  avant-garde scene of Marseille .
 
-ImproTech is being held in 2019 with the support of [Onassis STEGI](https://www.onassis.org/onassis-stegi) and the [University of Athens](https://en.uoa.gr/) (UOA), in addition to the workshop's founding organisms, to allow the public to observe the aesthetic, technological and sociological developments that have taken place since previous editions.
-This meeting point in the heart of the  Hellenic capital is a stimulating destination because of the city's young and lively improvisation scene, the many men and women who promote research in music science and technology in the Greek universities, and of course the central position of Greek culture in the history of improvised music, from its practice to its theory.
+ikMA'22 will combine, around the central theme of improvisation, a great diversity of aesthetic approaches while convening artists and experts covering many knowledge fields, including computer music, artificial intelligence, robotics, musicology / ethno-musicology, philosophy / anthropology, critical studies, acoustics and signal processing.
 
-Scholars, students, musicians, will come from many places in world to talk about their work, demo, teach and perform. **ikPA'19** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz, contemporary music, traditional music from the mediterranean area, and the  avant-garde scene of Greece .
+ikMA'22  comes after the  much praised [Paris - Athina edition](http://ikparisathina.ircam.fr), the [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr), and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny).
 
-**ikPA'19** will combine, around the central theme of improvisation, a great diversity of aesthetic approaches while convening artists and experts covering many knowledge fields, including computer music, artificial intelligence, robotics, musicology / ethno-musicology, philosophy / anthropology, critical studies, acoustics and signal processing.
 <br>
 <br>
 <br>
