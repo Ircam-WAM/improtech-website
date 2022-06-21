@@ -17,7 +17,7 @@ Scholars, students, musicians, will come from many places in world to talk about
 
 **ikMA'22** will combine, around the central theme of improvisation, a great diversity of aesthetic approaches while convening artists and experts covering many knowledge fields, including computer music, artificial intelligence, robotics, musicology / ethno-musicology, philosophy / anthropology, critical studies, acoustics and signal processing.
 
-*ikMA'22*  comes after the  much praised [Paris - Athina edition](http://ikparisathina.ircam.fr), the [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr), and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny).
+ikMA'22 comes after the  much praised [Paris - Athina edition](http://ikparisathina.ircam.fr), the [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr), and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny).
 
 <br>
 <br>
