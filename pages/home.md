@@ -1,7 +1,7 @@
 Title: Improtech Marseille 2022 (ikMA'22)
 Status: hidden
 save_as: index.html
-Date: 2019-01-28 10:20
+Date: 2022-06-21 17:01
 Tags: ircam, improvisation, performance, human machine interaction, improtech, omax, artificial intelligence, digital intelligence, machine musicianship, artificial intelligence, computztional creativity, cybe human systems
 Authors: Gerard Assayag
 Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
