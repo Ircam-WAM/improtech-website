@@ -1,25 +1,20 @@
-Title: Improtech @ Marseille ! 2022
+Title: Improtech @ Marseille !
 Status: hidden
 save_as: index.html
 Date: 2022-06-21 17:01
 Tags: ircam, improvisation, performance, human machine interaction, improtech, omax, artificial intelligence, digital intelligence, machine musicianship, artificial intelligence, computztional creativity, cybe human systems
 Authors: Gerard Assayag
-Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
+Summary: Improtech Marseille gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### Workshop - Festival, September 26th - 29th, 2019 at the  cultural center Onassis STEGI, and the University of Athens
+#### Workshop - Festival, October 22 - 24, 2022 at Palais Carli, Marseille Conservatory
 <br>
 <br>
-
-[*Announcement in The Huffington Post Greece, interview of the organisers (Greek)*](https://www.huffingtonpost.gr/entry/to-improtech-2019-sten-athena-technete-noemosene-kai-moesike_gr_5d7f6089e4b03b5fc8867c43)  
-[*Annoucement on the Ircam web, interview of Gérard Assayag (English)*](https://www.ircam.fr/article/detail/the-human-machine-co-creativity-will-change-radically-our-musical-experience/)
-
-<br>
-<br>
-
 <img src="./images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
+
 ##Improtech
 gathers scholars, researchers, musicians, makers, around the idea of **musical improvisation in interaction with digital intelligence**, taking note of the important development of this new creative field.
-ikPA'19 creates a link between the european and worlwide research and creation scenes through the symbolic matching of  Paris, where the event [originated at Ircam](http://recherche.ircam.fr/equipes/repmus/SMC04/), and an other emblematic city. **This year Paris will connect with Athens**, in a powerful arc between science and the art of improvisation, after the  [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr) last year, and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny) a few years ago.
+
+ **This year Improtech will connect with marseille**, in a powerful arc between science and the art of improvisation, after the  [Paris - Athina edition](http://ikparisathina.ircam.fr), the [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr), and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny).
 
 It is thus a unique opportunity for intercultural and interdisciplinary encounters among international research and creation communities.
 
