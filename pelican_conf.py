@@ -19,7 +19,7 @@ PATH = '/var/in'
 OUTPUT_PATH = '/var/out/ikmarseille'
 STATIC_PATHS = ['doc', 'images']
 
-BANNER = '/images/IKPoster_Banner13.png'
+BANNER = '/images/IKPoster_Banner1.png'
 BANNER_SUBTITLE = ''
 BANNER_ALL_PAGES = True
 
