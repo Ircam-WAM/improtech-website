@@ -43,7 +43,7 @@ Improtech provides an exceptional platform to challenge and question individual 
 We witness the emergence of new aesthetics linked to scientific and technological innovation, and the way contemporary creators seize on it to install new social patterns of interaction and communication involving creative algorithms.
 Improtech capitalizes on each edition and creates its legacy by setting up collaborations between artists and scientists and between various institutions in the partner countries. Experience shows that these collaborations are sustainable beyond the event. For example, the 5-year European research program ERC REACH brings together French, American and Japanese universities that are strongly linked to this event.
 
-## An iternational network of artists and institutions
+## An international network of artists and institutions
 Improtech has already brought together some of the best improvisers in the world including Evan Parker, George Lewis, Steve Coleman, Bernard Lubat, Roscoe Mitchell, Geri Allen, Raphael Imbert, Vijay Iyer, Sun Ra, Steve Lehman, Rudresh Manhantappa, Bob Ostertag, Jaap Blonk, David Rosenboom, Matmos, Sylvain Luc, D.mHotep, to name a few.
 
 Improtech was made possible thanks to the commitment of ircam, EHESS, the Onassis STEGI Center and the University of Athens, New York University, Columbia University, University of Pennsylvania, Drexel University, Institut Fançais, Sorbonne University, Région Nouvelle Aquitaine, Princeton University, CalArts, Stanford University, Hyvibe Company, Yamaha Disklavier, Université de Bordeaux, FACE, Uzeste Musical and Compagnie Lubat.
