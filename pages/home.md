@@ -48,4 +48,4 @@ ikMA'22 comes after the  much praised [Paris - Athina edition](http://ikparisath
 <br>
 <br>
 
-<img src="./images/IKPoster1.jpg" width="500" style="float:center" hspace="10">
+<img src="./images/IKPoster1.jpg" width="500" style="float:left" hspace="10">
