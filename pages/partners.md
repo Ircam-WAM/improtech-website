@@ -2,13 +2,16 @@ Title: Credits
 
 ---
 
+Improtech @ Marseille ! already receives the support of Ircam, the Agence Nationale de la Recherche, the European Research Council, the CNRS, the Ministry of Culture, the French Institute, Sorbonne Center for Artificial Intelligence, Conservatoire National à Rayonnement Régional Pierre Barbizet de Marseille, INSEAMM, IFAMM, ...
+Improtech is an ERC REACH action supported by the European Research Council within the Horizon 2020 program (Convention No. 883313).
+
+
 IkPA'19 is brought by
 
 <br>
 <p align="center">
 <a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="150"> </a>
-<a target="_blank" href="https://www.onassis.org/initiatives/onassis-stegi/"> <img  src="../images/LOGO.OCC.jpg" width="240"> </a>
-<a target="_blank" href="https://en.uoa.gr/"> <img  src="../images/LOGO_UOA_GR.svg" width="270"> </a>
+<a target="_blank" href="http://esadmm.fr/conservatoire/presentation/presentation/"> <img  src="../images/Logo_CNRRM.jpg" width="240"> </a>
 </p>
 <br>
 

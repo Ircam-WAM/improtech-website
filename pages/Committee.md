@@ -4,57 +4,33 @@ title: Committee
 
 ###  General Chair
 
-#### &Alpha;&theta;&eta;&nu;&alpha;
-Christos Carras, Onassis STEGI  
-Anastasia Georgakis, University of Athens  
-
-#### Paris
-Gérard Assayag, Ircam  
-Marc Chemillier, EHESS  
+Gérard Assayag (Research Director, IRCAM)
+Marc Chemillier (Research Director, EHESS)
+Raphaël Imbert (Director of Marseille Conservatory)
 
 
 ### Organisation Committee
 
-Sylvie Benoit, Ircam, general coordinator  
-Jose-Miguel Fernandez, Ircam, concert technical supervision  
+Vasiliki Zachari, coordination IRCAM
+Nicolas Journeau, coordination  Conservatoire
+Beatrice Simonet (IFAMM) production
+Garance Pichet (Conservatoire) chargée de production
+Roseline Lansard (Conservatoire) communication
+Jacques Corrazier (Conservatoire) régisseur
+Ingénieur Son (IRCAM)
+RIM (IRCAM)
+... in construction ...
 
-Areti Andreopoulou, University of Athens, Lectures coordinator  
-Giorgos Dedousis, University of Athens, Lectures organisation
+### Collaborators and Partners
 
-Lefteris Karabilas, Onassis STEGI, theatre technical director  
-Christina Pitouli, Onassis STEGI,  production manager  
-Despina Sifniadou, Onassis STEGI, line producer  
-Pasqua Vorgia, Onassis STEGI, general coordinator  
+Jeff Joly, Popmyfilm,	Film maker
+Regis Michel, Film Maker
+... in construction ...
 
-Pierre Couprie, Sorbonne Université, program design  
+### Volunteers
+... in construction ...
 
-### Collaborators
-
-Kostas Apollonios, Onassis STEGI, IT Manager  
-Irene Bossinakis, University of Athens and Parliament Channel, audiovisual producer  
-Kostas Katsantonis, University of Athens, Sound engineer  
-Giannis Kritikos, Onassis STEGI, Stage Manager  
-Jeff Joly, Popmyfilm,	Film maker  
-Giannis Ntovas, Onassis STEGI, Stage Manager  
-Savvas Paraskevas, Onassis STEGI, Line producer  
-
-### Volunteers at UOA
-
-Melina Ntelikou  
-Eleftheriadi Dimitra  
-Eirini Mangana  
-Poulakaki Charikleia  
-Christina Griva  
-Liana Iliopoulou  
-Dimitra Mantzari  
-Nikoleta Koutsamani  
-Emmanouil Pissarakis  
-Flora -Chrysi Malla  
-Georgios-Aimilianos Stavrinos  
-Eirini Bosinaki  
-
-
-### Science / Art  Board
+### Science / Art  Advisory Board
 
 Emilios Cambouropulos, Aristotle University of Thessaloniki  
 Suguru Goto, Geidai University of the Arts, Tokyo  
@@ -73,5 +49,4 @@ Peter Nelson, University of Edinburgh
 Tae Hong Park, New York University  
 Robert Rowe, New York University  
 Pierre Alexandre Tremblay, Huddersfield University  
-Atau Tanaka, Goldsmiths University of London  
-<br>
+Atau Tanaka, Goldsmiths University of London
