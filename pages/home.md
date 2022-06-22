@@ -29,7 +29,7 @@ For the first time, Improtech will be centered on a major French city: **Improte
 
 **Improtech @ Marseille !** centered on the Marseille Conservatory will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
 
-*[Read more about ImproTech philosophy and history]({filename}/pages/About.md)*
+**[Read more about ImproTech philosophy and history]({filename}/pages/About.md)**
 
 <br>
 <img src="./images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
