@@ -20,19 +20,21 @@ Scholars, students, musicians, will come from many places in world to talk about
 ikMA'22 comes after the  much praised [Paris - Athina edition](http://ikparisathina.ircam.fr), the [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr), and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny).
 
 <br>
-
-<img src="./images/IKPoster_frag1.png" width="125" style="float:left" hspace="10">
+<img src="./images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ##Highlights
-...in conctruction...
+...in construction...
 <br>
-<img src="./images/IKPoster_frag2.png" width="125" style="float:left" hspace="10">
+<br>
+<img src="./images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
 ### Lectures and Concerts
-...in conctruction...
+...in construction...
 <br>
-<img src="./images/IKPoster_frag3.png" width="125" style="float:left" hspace="10">
+<br>
+<img src="./images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
 ###Participants
-...in conctruction...
+...in construction...
 <br>
-**[Read more about ikMA's participants...]({filename}/pages/Bios.md)**  
+<br>
+*[more about ikMA's participants...]*({filename}/pages/Bios.md)**  
 
 ---
