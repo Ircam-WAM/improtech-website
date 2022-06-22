@@ -4,31 +4,31 @@ title: Committee
 
 ###  General Chair
 
-Gérard Assayag (Research Director, IRCAM)
-Marc Chemillier (Research Director, EHESS)
-Raphaël Imbert (Director of Marseille Conservatory)
+Gérard Assayag (Research Director, IRCAM)  
+Marc Chemillier (Research Director, EHESS)  
+Raphaël Imbert (Director of Marseille Conservatory)  
 
 
 ### Organisation Committee
 
-Vasiliki Zachari, coordination IRCAM
-Nicolas Journeau, coordination  Conservatoire
-Beatrice Simonet (IFAMM) production
-Garance Pichet (Conservatoire) chargée de production
-Roseline Lansard (Conservatoire) communication
-Jacques Corrazier (Conservatoire) régisseur
-Ingénieur Son (IRCAM)
-RIM (IRCAM)
-... in construction ...
+Vasiliki Zachari, coordination IRCAM  
+Nicolas Journeau, coordination  Conservatoire  
+Beatrice Simonet (IFAMM) production  
+Garance Pichet (Conservatoire) chargée de production  
+Roseline Lansard (Conservatoire) communication  
+Jacques Corrazier (Conservatoire) régisseur  
+Ingénieur Son (IRCAM)  
+RIM (IRCAM)  
+... in construction ...  
 
 ### Collaborators and Partners
 
-Jeff Joly, Popmyfilm,	Film maker
-Regis Michel, Film Maker
-... in construction ...
+Jeff Joly, Popmyfilm,	Film maker  
+Regis Michel, Film Maker  
+... in construction ...  
 
 ### Volunteers
-... in construction ... 
+... in construction ...  
 
 ### Science / Art  Advisory Board
 
