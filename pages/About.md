@@ -65,6 +65,7 @@ ikPA'19 created a link between the european and worlwide research and creation s
 <br>
 <br>
 
-<p style="text-align:center">
-  <img src="./images/IKPoster1.jpg" width="500">
+
+<p align="center">
+  <img src="../images/IKPoster1.jpg" width="500">
 </p>

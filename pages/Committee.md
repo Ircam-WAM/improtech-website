@@ -50,3 +50,9 @@ Tae Hong Park, New York University
 Robert Rowe, New York University  
 Pierre Alexandre Tremblay, Huddersfield University  
 Atau Tanaka, Goldsmiths University of London
+
+
+
+<p align="center">
+  <img src="../images/IKPoster1.jpg" width="500">
+</p>
