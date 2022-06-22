@@ -4,9 +4,9 @@ Title: About
 <img src="../images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ## A Workshop-Festival of a new kind
 
-Improtech is both a musical festival and an interdisciplinary workshop that brings together actors and actresses of research and creation from all over the world around the question of musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity.
+Improtech is both a musical festival and an interdisciplinary workshop that brings together actors of research and creation from all over the world around the question of musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity.
 
-This unparalleled event, co-organized by Ircam and French and international partners (major universities, private institutes, museums, public institutions) has already been held with undeniable success in New York (2012), Philadelphia (2017), and Athens (2019). The edition planned for Tokyo in 2021 as part of the Season of France in Japan could not be held because of the pandemic and has been postponed.
+This unparalleled event, co-organized by Ircam and French and international partners (major universities and research institutions, private and public institutes, art centers) has already been held with undeniable success in [New York (2012)](http://repmus.ircam.fr/improtechpny), [Philadelphia (2017)](http://ikparisphilly.ircam.fr), and [Athens (2019)](http://ikparisathina.ircam.fr). The edition planned for Tokyo in 2021 as part of the Season of France in Japan could not be held because of the pandemic and has been postponed.
 
 We wanted for a long time, after the American and European connections, to hold a major edition in France, and what better city than Marseille !
 
@@ -18,7 +18,7 @@ Improtech is dedicated to the explosive alliance between the age-old art of impr
 
 Exploring the relationships between music and science, composition and improvisation, writing and performance, music and other performance arts around the argument of shared creativity between human and digital devices, Improtech has established itself as one of the major events of contemporary research and creation.
 
-In the past, Improtech has linked the French research and creation scene to a major foreign metropolis such as New York or Athens, mixing the great masters of the improvised scene with the young artists of the most original underground scenes identified in each of the host cities.
+In the past, Improtech has linked the French research and creation scene to a major foreign city such as New York or Athens, mixing the great masters of the improvised scene with the young artists of the most original underground scenes identified in each of the host cities.
 
 For the first time, Improtech will be centered on a major French city: Improtech @ Marseille!
 
