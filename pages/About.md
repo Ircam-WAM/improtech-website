@@ -1,7 +1,7 @@
 Title: About
 
 
-<img src="./images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ## A Workshop-Festival of a new kind
 
 Improtech is both a musical festival and an interdisciplinary workshop that brings together actors and actresses of research and creation from all over the world around the question of musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity.
@@ -12,7 +12,7 @@ We wanted for a long time, after the American and European connections, to hold 
 
 Improtech @ Marseille will be held from October 22 to 24, 2022 at the Palais Carli, in the beautiful spaces of the Conservatoire National Pierre Barbizet, with satellite events in the city during the week of October 17.
 
-<img src="./images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
 ##An explosive alliance between Improvisation and Digital Intelligence
 Improtech is dedicated to the explosive alliance between the age-old art of improvisation and the emerging cultures of digital intelligence. It fosters the co-creative dynamics that can exist between humans and machines, and in so doing, creates new meeting grounds between people, artists and audiences of all backgrounds and levels.
 
@@ -22,7 +22,7 @@ In the past, Improtech has linked the French research and creation scene to a ma
 
 For the first time, Improtech will be centered on a major French city: Improtech @ Marseille!
 
-<img src="./images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
 ## New aesthetic and social patterns
 Improtech is a place for the emergence of new aesthetics linked to scientific and technological innovation, and to the way contemporary creators use them to install new social patterns of interaction and communication involving creative algorithms. With each new edition, Improtech allows the actors and the public to judge the great aesthetic, technological and sociological evolutions thanks to the impressive progress of digital intelligence, and in particular of Artificial Intelligence, at the service of the arts.
 
@@ -30,14 +30,14 @@ This is a rare opportunity for intercultural and interdisciplinary encounters at
 
 The meeting also allows each time to reveal the eminent position of the chosen city in the history of the improvised scenes, in that of the intercultural relations and hybridizations, even creolisations, proper to the genre. There is little doubt that in terms of dynamism, youthful inspiration, cultural mixes, aesthetic generosity and solidarity, Improtech @ Marseille ! will be a summit in the Improtech series.
 
-<img src="./images/IKPoster_frag4.jpg" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag4.jpg" width="125" style="float:left" hspace="10">
 ## On the Menu
 Improtech includes conferences, demonstrations, workshops, musical and multi-art performances (dance, media, mixed realities), installations and concerts bringing together the world's best improvising musicians in selected venues
 Artists, researchers, thinkers, students, inventors, DYI (Do It Yourself) enthusiasts come to Improtech to present their work, offer demonstrations and performances, and perform on the concert stages. The public meets personalities from major international research centers and remarkable artistic figures from contemporary, jazz, rock, electronic, traditional or underground music scenes. They are introduced to many scientific and technological fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities.
 
 Improtech @ Marseille ! centered on the Marseille Conservatory will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
 
-<img src="./images/IKPoster_frag5.jpg" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag5.jpg" width="125" style="float:left" hspace="10">
 ## The framework of Improtech
 Improtech provides an exceptional platform to challenge and question individual and collective creativity, joining forces in a buzz of experimentation, teaching, performance, and exchange.
 We witness the emergence of new aesthetics linked to scientific and technological innovation, and the way contemporary creators seize on it to install new social patterns of interaction and communication involving creative algorithms.
