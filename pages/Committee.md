@@ -11,8 +11,8 @@ Raphaël Imbert (Director of Marseille Conservatory)
 
 ### Organisation Committee
 
-Vasiliki Zachari, coordination IRCAM  
-Nicolas Journeau, coordination  Conservatoire  
+Vasiliki Zachari (IRCAM) coordination   
+Nicolas Journeau (Conservatoire) coordination  
 Beatrice Simonet (IFAMM) production  
 Garance Pichet (Conservatoire) chargée de production  
 Roseline Lansard (Conservatoire) communication  
