@@ -44,8 +44,8 @@ ikMA'22 comes after the  much praised [Paris - Athina edition](http://ikparisath
 <br>
 <br>
 <br>
-*[more about ikMA's participants...]*({filename}/pages/Bios.md)
+*[more about ikMA's participants...]({filename}/pages/Bios.md)*
 <br>
 <br>
 
-<img src="./images/IKPoster1b.jpg" width="500" style="float:left" hspace="10">
+<img src="./images/IKPoster1b.jpg" width="500" style="float:center" hspace="10">
