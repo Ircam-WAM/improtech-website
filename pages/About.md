@@ -60,3 +60,10 @@ Improtech is an ERC REACH action supported by the European Research Council with
 
 **Improtech 2019** gathered scholars, researchers, musicians, makers, around the idea of musical improvisation in interaction with digital intelligence, taking note of the important development of this new creative field.
 ikPA'19 created a link between the european and worlwide research and creation scenes through the symbolic matching of  Paris, where the event [originated at Ircam](http://recherche.ircam.fr/equipes/repmus/SMC04/), and an other emblematic city. This year Paris  connected with Athens, in a powerful arc between science and the art of improvisation, after the  [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr) last year, and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny) a few years ago.
+
+<br>
+<br>
+<br>
+
+<p style="text-align:center">
+<img src="./images/IKPoster1b.jpg" width="500">
