@@ -27,7 +27,7 @@ Supported by
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="150"> </a>
 <a target="_blank" href="https://www.ehess.fr/"> <img  src="../images/Logo_EHESS.png" width="140"> </a>
 <a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="170"> </a>
-<a target="_blank" href="hhttp://esadmm.fr/institut-beaux-arts/"> <img  src="../images/Logo_IFAMM.png" width="180x  "> </a>
+<a target="_blank" href="http://esadmm.fr/institut-beaux-arts/"> <img  src="../images/Logo_IFAMM.png" width="180x  "> </a>
 
 </p>
 <br>
