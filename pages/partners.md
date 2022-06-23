@@ -27,7 +27,6 @@ Supported by
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="150"> </a>
 <a target="_blank" href="https://www.ehess.fr/"> <img  src="../images/Logo_EHESS.png" width="150"> </a>
 <a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="170"> </a>
-
 </p>
 <br>
 
@@ -45,7 +44,9 @@ Under the high patronage of
 
 A Research & Creation action of
 
+<p align="center">
 <a target="_blank" href="https://repmus.ircam.fr/REACH"> <img  src="../images/Logo_REACH.png" width="180"> </a>
+</p>
 
 
 
