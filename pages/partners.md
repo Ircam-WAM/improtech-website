@@ -25,7 +25,7 @@ Supported by
 <a target="_blank" href="https://erc.europa.eu/"> <img  src="../images/LOGO_ERC.jpg" width="200"> </a>
 <a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/logo_collegiumMusicae_CMJN.png" width="230"> </a>
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="150"> </a>
-<a target="_blank" href="https://www.ehess.fr/"> <img  src="../images/Logo_EHESS.png" width="150"> </a>
+<a target="_blank" href="https://www.ehess.fr/"> <img  src="../images/Logo_EHESS.png" width="140"> </a>
 <a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="170"> </a>
 <a target="_blank" href="hhttp://esadmm.fr/institut-beaux-arts/"> <img  src="../images/Logo_IFAMM.png" width="180x  "> </a>
 
