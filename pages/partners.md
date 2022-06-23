@@ -27,6 +27,8 @@ Supported by
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="150"> </a>
 <a target="_blank" href="https://www.ehess.fr/"> <img  src="../images/Logo_EHESS.png" width="150"> </a>
 <a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="170"> </a>
+<a target="_blank" href="hhttp://esadmm.fr/institut-beaux-arts/"> <img  src="../images/Logo_IFAMM.png" width="180"> </a>
+
 </p>
 <br>
 
@@ -38,11 +40,12 @@ Under the high patronage of
 <a target="_blank" href="https://www.cnrs.fr"> <img  src="../images/LOGO_CNRS.png" width="120"> </a>
 <a target="_blank" href="https://www.sorbonne-universite.fr/"> <img  src="../images/Logo_SU.png" width="230"> </a>
 <a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCulture.jpg" width="120"> </a>
+<a target="_blank" href="http://esadmm.fr/"> <img  src="../images/Logo_INSEAMM.jpg" width="230"> </a>
 </p>
 
 <br>
 
-A Research & Creation action of
+A Research & Creation Action of
 
 <p align="center">
 <a target="_blank" href="https://repmus.ircam.fr/REACH"> <img  src="../images/Logo_REACH.png" width="180"> </a>
