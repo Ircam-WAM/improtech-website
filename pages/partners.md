@@ -2,21 +2,21 @@ Title: Credits
 
 ---
 
-Improtech @ Marseille ! already receives the support of Ircam, the Agence Nationale de la Recherche, the European Research Council, the CNRS, the Ministry of Culture, the French Institute, Sorbonne Center for Artificial Intelligence, Conservatoire National à Rayonnement Régional Pierre Barbizet de Marseille, INSEAMM, IFAMM, ...
+**Improtech @ Marseille !** already receives the support of Ircam, the Agence Nationale de la Recherche, the European Research Council, the CNRS, the Ministry of Culture, the French Institute, Sorbonne Center for Artificial Intelligence, Conservatoire National à Rayonnement Régional Pierre Barbizet de Marseille, INSEAMM, IFAMM, ...
 
 Improtech is an ERC REACH action supported by the European Research Council within the Horizon 2020 program (Convention No. 883313).
 
 
-IkPA'19 is brought by
+Produced by
 
 <br>
 <p align="center">
-<a target="_blank" href="https://www.ircam.fr"> <img  src="../images/LOGO.Ircam.jpg" width="150"> </a>
-<a target="_blank" href="http://esadmm.fr/conservatoire/presentation/presentation/"> <img  src="../images/Logo_CNRRM.jpg" width="240"> </a>
+<a target="_blank" href="https://www.ircam.fr"> <img  src="../images/Logo_Ircam.jpg" width="180"> </a>
+<a target="_blank" href="http://esadmm.fr/conservatoire/presentation/presentation/"> <img  src="../images/Logo_CNRRM.jpg" width="200"> </a>
 </p>
 <br>
 
-IkPA'19 is supported by
+Supported by
 
 <br>
 <p align="center">
@@ -31,15 +31,24 @@ IkPA'19 is supported by
 </p>
 <br>
 
-IkPA is under the high patronage of
+Under the high patronage of
 
 <br>
 
 <p align="center">
-<a target="_blank" href="http://www.ircam.fr"> <img  src="../images/LOGO_Tutelles_STMS.png" width="700"> </a>
+<a target="_blank" href="https://www.cnrs.fr"> <img  src="../images/Logo_CNRS.png" width="700"> </a>
+<a target="_blank" href="https://www.sorbonne-universite.fr/"> <img  src="../images/Logo_SU.png" width="700"> </a>
+<a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCC.jpg" width="700"> </a>
 </p>
 
 <br>
+
+A Research & Creation action of
+
+<a target="_blank" href="https://repmus.ircam.fr/REACH"> <img  src="../images/Logo_REACH.pdf" width="700"> </a>
+
+
+
 
 
  [IKPA Art Work]({filename}/pages/Visuals.md) and Graphic Design © Turner Williams
