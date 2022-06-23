@@ -11,7 +11,15 @@ Check the videos of [Improtech Paris-Athina](http://ikparisathina.ircam.fr/) 201
 * [full concerts  videos](https://vimeo.com/showcase/6364851)
 * [full musician interviews](https://vimeo.com/showcase/7276504)
 
+<br>
 
+
+<p align="center">
+  <img src="./images/Logo_improtech.png" width="300">
+</p>
+
+
+<br>
 <br>
 
 <p align="center">
