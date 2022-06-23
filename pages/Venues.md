@@ -6,5 +6,5 @@ title: Venues
 
 
 <p align="center">
-  <img src="../images/IKPoster1b.jpg" width="500">
+  <img src="./images/Logo_improtech_anniv.png" width="300">
 </p>

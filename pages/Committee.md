@@ -51,8 +51,8 @@ Robert Rowe, New York University
 Pierre Alexandre Tremblay, Huddersfield University  
 Atau Tanaka, Goldsmiths University of London
 
-
+<br>
 
 <p align="center">
-  <img src="../images/IKPoster1b.jpg" width="500">
+  <img src="./images/Logo_improtech_anniv.png" width="300">
 </p>

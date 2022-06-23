@@ -6,5 +6,5 @@ title: Visuals
 
 
 <p align="center">
-  <img src="../images/IKPoster1b.jpg" width="500">
+  <img src="../images/IKPoster1b.jpg" width="1000">
 </p>
