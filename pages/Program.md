@@ -1,4 +1,4 @@
-title: Program
+title: Activities
 
 ##  ... IN CONSTRUCTION ...
 
