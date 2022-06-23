@@ -38,7 +38,7 @@ Under the high patronage of
 <p align="center">
 <a target="_blank" href="https://www.cnrs.fr"> <img  src="../images/LOGO_CNRS.png" width="180"> </a>
 <a target="_blank" href="https://www.sorbonne-universite.fr/"> <img  src="../images/Logo_SU.png" width="180"> </a>
-<a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCC.jpg" width="180"> </a>
+<a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCulture.jpg" width="180"> </a>
 </p>
 
 <br>
