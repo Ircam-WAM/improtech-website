@@ -1,7 +1,6 @@
 title: Activities
 
 ##  ... IN CONSTRUCTION ...
-##  ... IN CONSTRUCTION ...
 
 
 <p align="center">
