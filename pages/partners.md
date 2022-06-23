@@ -52,7 +52,7 @@ A Research & Creation action of
 
 
 
- [IKPA Art Work]({filename}/pages/Visuals.md) and Graphic Design © Turner Williams
+ [Art Work & Graphic Design] ©[Turner Williams](https://turnerwilliamsjr.com/
 
  <br>
  <br>
