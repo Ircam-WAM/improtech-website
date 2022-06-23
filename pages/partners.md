@@ -27,7 +27,7 @@ Supported by
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="150"> </a>
 <a target="_blank" href="https://www.ehess.fr/"> <img  src="../images/Logo_EHESS.png" width="150"> </a>
 <a target="_blank" href="http://www.ifa.gr/fr/"> <img  src="../images/LOGO_Institut_Francais.png" width="170"> </a>
-<a target="_blank" href="hhttp://esadmm.fr/institut-beaux-arts/"> <img  src="../images/Logo_IFAMM.png" width="180"> </a>
+<a target="_blank" href="hhttp://esadmm.fr/institut-beaux-arts/"> <img  src="../images/Logo_IFAMM.png" width="180x  "> </a>
 
 </p>
 <br>
@@ -51,11 +51,13 @@ A Research & Creation Action of
 <a target="_blank" href="https://repmus.ircam.fr/REACH"> <img  src="../images/Logo_REACH.png" width="180"> </a>
 </p>
 
+<br>
 
+**Improtech** workshop-festival is an original creation by © Gérard Assayag and Marc Chemillier.
 
+<br>
 
-
- [Art Work & Graphic Design] ©[Turner Williams](https://turnerwilliamsjr.com/)
+[Art Work & Graphic Design] ©[Turner Williams](https://turnerwilliamsjr.com/)
 
  <br>
  <br>
