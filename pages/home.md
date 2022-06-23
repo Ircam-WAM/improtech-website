@@ -61,5 +61,5 @@ For the first time, Improtech will be centered on a major French city: **Improte
 <br>
 
 <p align="center">
-  <img src="./images/IKPoster1b.jpg" width="500">
+  <img src="./images/Logo_Improtech-anniv.png" width="300">
 </p>
