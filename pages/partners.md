@@ -21,8 +21,8 @@ Supported by
 <br>
 <p align="center">
 <a target="_blank" href="http://www.ircam.fr/recherche"> <img  src="../images/LOGO_STMS.jpg" width="230"> </a>
-<a target="_blank" href="https://anr.fr/"> <img  src="../images/Logo_ANR.jpg" width="180"> </a>
-<a target="_blank" href="https://erc.europa.eu/"> <img  src="../images/LOGO_ERC.jpg" width="230"> </a>
+<a target="_blank" href="https://anr.fr/"> <img  src="../images/Logo_ANR.jpg" width="150"> </a>
+<a target="_blank" href="https://erc.europa.eu/"> <img  src="../images/LOGO_ERC.jpg" width="200"> </a>
 <a target="_blank" href="http://collegium.musicae.sorbonne-universites.fr"> <img  src="../images/logo_collegiumMusicae_CMJN.png" width="230"> </a>
 <a target="_blank" href="http://digitaljazz.fr"> <img  src="../images/DjazzLOGO.png" width="150"> </a>
 <a target="_blank" href="https://www.ehess.fr/"> <img  src="../images/Logo_EHESS.png" width="150"> </a>
@@ -36,9 +36,9 @@ Under the high patronage of
 <br>
 
 <p align="center">
-<a target="_blank" href="https://www.cnrs.fr"> <img  src="../images/LOGO_CNRS.png" width="180"> </a>
-<a target="_blank" href="https://www.sorbonne-universite.fr/"> <img  src="../images/Logo_SU.png" width="180"> </a>
-<a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCulture.jpg" width="180"> </a>
+<a target="_blank" href="https://www.cnrs.fr"> <img  src="../images/LOGO_CNRS.png" width="150"> </a>
+<a target="_blank" href="https://www.sorbonne-universite.fr/"> <img  src="../images/Logo_SU.png" width="150"> </a>
+<a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCulture.jpg" width="150"> </a>
 </p>
 
 <br>
