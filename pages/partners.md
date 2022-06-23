@@ -57,7 +57,7 @@ A Research & Creation Action of
 
 <br>
 
-[Art Work & Graphic Design] ©[Turner Williams](https://turnerwilliamsjr.com/)
+[Art Work & Graphic Design] © [Turner Williams](https://turnerwilliamsjr.com/)
 
  <br>
  <br>

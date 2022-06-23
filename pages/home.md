@@ -13,7 +13,7 @@ Summary: Improtech Marseille gathers scholars, technologists, musicians, makers,
 
 After praised editions in New York, Philadelphia and Athens, **Improtech @ Marseille !** (ikMA'22) will be held from October 22 to 24, 2022 at the Palais Carli, in the beautiful spaces of the Conservatoire National Pierre Barbizet, along with satellite events in the city during the week of October 17.
 
-## An New alliance
+## A New alliance
 Improtech is dedicated to the explosive alliance between the age-old art of improvisation and the emerging cultures of digital intelligence. It fosters the co-creative dynamics that can exist between humans and machines, and in so doing, creates new meeting grounds between people, artists and audiences of all backgrounds and levels.
 
 Exploring the relationships between music and science, composition and improvisation, writing and performance, music and other performance arts in "cyber-human" settings, Improtech has established itself as one of the major events of contemporary research and creation.
