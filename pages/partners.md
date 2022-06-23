@@ -36,16 +36,16 @@ Under the high patronage of
 <br>
 
 <p align="center">
-<a target="_blank" href="https://www.cnrs.fr"> <img  src="../images/Logo_CNRS.png" width="700"> </a>
-<a target="_blank" href="https://www.sorbonne-universite.fr/"> <img  src="../images/Logo_SU.png" width="700"> </a>
-<a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCC.jpg" width="700"> </a>
+<a target="_blank" href="https://www.cnrs.fr"> <img  src="../images/LOGO_CNRS.png" width="180"> </a>
+<a target="_blank" href="https://www.sorbonne-universite.fr/"> <img  src="../images/Logo_SU.png" width="180"> </a>
+<a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCC.jpg" width="180"> </a>
 </p>
 
 <br>
 
 A Research & Creation action of
 
-<a target="_blank" href="https://repmus.ircam.fr/REACH"> <img  src="../images/Logo_REACH.pdf" width="700"> </a>
+<a target="_blank" href="https://repmus.ircam.fr/REACH"> <img  src="../images/Logo_REACH.png" width="180"> </a>
 
 
 
