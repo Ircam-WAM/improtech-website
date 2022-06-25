@@ -23,6 +23,7 @@ RIM (IRCAM)
 
 ### Collaborators and Partners
 
+Pierre Couprie, Programmation
 Jeff Joly, Popmyfilm,	Film maker  
 Regis Michel, Film Maker  
 ... in construction ...  
