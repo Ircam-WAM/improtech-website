@@ -49,7 +49,7 @@ A Research & Creation Action of
 
 <p align="center">
 
-<a target="_blank" href="https://repmus.ircam.f"> <img  src="../images/Logo_ERC_simple.png" width="50"> </a>
+<a target="_blank" href="https://repmus.ircam.f"> <img  src="../images/Logo_ERC_simple.png" width="65"> </a>
 <a target="_blank" href="https://repmus.ircam.fr/REACH"> <img  src="../images/Logo_REACH.png" width="180"> </a>
 
 </p>
