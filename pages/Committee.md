@@ -19,12 +19,12 @@ Roseline Lansard (Conservatoire) communication
 Jacques Corrazier (Conservatoire) régisseur  
 Ingénieur Son (IRCAM)  
 RIM (IRCAM)  
+
 ... in construction ...  
 
 ### Collaborators and Partners
 
-Pierre Couprie, Programmation
-Jeff Joly, Popmyfilm,	Film maker  
+Jeff Joly, Popmyfilm,	Film maker
 Regis Michel, Film Maker  
 ... in construction ...  
 
@@ -33,11 +33,12 @@ Regis Michel, Film Maker
 
 ### Science / Art  Advisory Board
 
+Pierre Couprie, U. Marne la Vallée  
 Emilios Cambouropulos, Aristotle University of Thessaloniki  
 Suguru Goto, Geidai University of the Arts, Tokyo  
 Brigitte d’Andréa-Novel, Ecole des Mines / Sorbonne Université  
 Eugene Lew, University of Pennsylvania  
-Turner Williams, Ars Nova Workshop  
+Turner Williams, Artist  
 Hugues Genevois, Sorbonne Université  
 Elaine Chew, Queen Mary University of London  
 Maxime Crochemore, King’s College of London  
