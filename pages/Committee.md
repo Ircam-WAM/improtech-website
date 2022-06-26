@@ -17,7 +17,7 @@ Beatrice Simonet (IFAMM) production
 Garance Pichet (Conservatoire) chargée de production  
 Roseline Lansard (Conservatoire) communication  
 Jacques Corrazier (Conservatoire) régisseur  
-Pierre Couprie (U. Marne-la-Vallée) programmation
+Pierre Couprie (U. Marne-la-Vallée) programmation  
 Ingénieur Son (IRCAM)  
 RIM (IRCAM)  
 
@@ -25,9 +25,9 @@ RIM (IRCAM)
 
 ### Collaborators and Partners
 
-Jeff Joly, Popmyfilm,	Film maker
+Jeff Joly, Popmyfilm,	Film maker  
 Regis Michel, Film Maker  
-Turner Williams Jr, Graphic Design
+Turner Williams Jr, Graphic Design  
 ... in construction ...  
 
 ### Volunteers
@@ -53,7 +53,7 @@ Peter Nelson, University of Edinburgh
 Tae Hong Park, New York University  
 Robert Rowe, New York University  
 Pierre Alexandre Tremblay, Huddersfield University  
-Atau Tanaka, Goldsmiths University of London
+Atau Tanaka, Goldsmiths University of London  
 
 <br>
 
