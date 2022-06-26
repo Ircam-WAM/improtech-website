@@ -36,3 +36,5 @@ Check the videos of [Improtech Paris-Athina](http://ikparisathina.ircam.fr/) 201
 </p>
 
 <br>
+
+[Art Work & Graphic Design] © [Turner Williams](https://turnerwilliamsjr.com/)

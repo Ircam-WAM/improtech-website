@@ -17,6 +17,7 @@ Beatrice Simonet (IFAMM) production
 Garance Pichet (Conservatoire) chargée de production  
 Roseline Lansard (Conservatoire) communication  
 Jacques Corrazier (Conservatoire) régisseur  
+Pierre Couprie (U. Marne-la-Vallée) programmation
 Ingénieur Son (IRCAM)  
 RIM (IRCAM)  
 
@@ -26,6 +27,7 @@ RIM (IRCAM)
 
 Jeff Joly, Popmyfilm,	Film maker
 Regis Michel, Film Maker  
+Turner Williams Jr, Graphic Design
 ... in construction ...  
 
 ### Volunteers
