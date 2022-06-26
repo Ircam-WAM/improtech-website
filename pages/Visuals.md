@@ -24,8 +24,15 @@ Check the videos of [Improtech Paris-Athina](http://ikparisathina.ircam.fr/) 201
 </p>
 
 <br>
+
 <br>
+
+<p align="center">
+  <img src="../images/IKPoster1a.jpg" width="1000">
+</p>
 
 <p align="center">
   <img src="../images/IKPoster1b.jpg" width="1000">
 </p>
+
+<br>
