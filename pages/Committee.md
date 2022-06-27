@@ -17,7 +17,7 @@ Beatrice Simonet (IFAMM) production
 Garance Pichet (Conservatoire) chargée de production  
 Roseline Lansard (Conservatoire) communication  
 Jacques Corrazier (Conservatoire) régisseur  
-Pierre Couprie (U. Marne-la-Vallée) programmation  
+Pierre Couprie (U. of Evry/Paris-Saclay) programmation  
 Ingénieur Son (IRCAM)  
 RIM (IRCAM)  
 
@@ -25,6 +25,7 @@ RIM (IRCAM)
 
 ### Collaborators and Partners
 
+Sylvie Benoit, Artistic advisor
 Jeff Joly, Popmyfilm,	Film maker  
 Regis Michel, Film Maker  
 Turner Williams Jr, Graphic Design  
@@ -35,7 +36,7 @@ Turner Williams Jr, Graphic Design
 
 ### Science / Art  Advisory Board
 
-Pierre Couprie, U. Marne la Vallée  
+Pierre Couprie, U. of Evry/Paris-Saclay  
 Emilios Cambouropulos, Aristotle University of Thessaloniki  
 Suguru Goto, Geidai University of the Arts, Tokyo  
 Brigitte d’Andréa-Novel, Ecole des Mines / Sorbonne Université  
