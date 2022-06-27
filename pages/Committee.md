@@ -18,7 +18,8 @@ Garance Pichet (Conservatoire) chargée de production
 Roseline Lansard (Conservatoire) communication  
 Jacques Corrazier (Conservatoire) régisseur  
 Pierre Couprie (U. of Evry/Paris-Saclay) programmation  
-Mikhail Malt (IRCAM), Creative Systems
+Mikhail Malt (IRCAM), Creative Systems  
+Georges Bloch (IRCAM), Creative Systems  
 Ingénieur Son (IRCAM)  
 RIM (IRCAM)  
 
