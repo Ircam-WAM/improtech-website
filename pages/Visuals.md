@@ -13,6 +13,12 @@ Check the videos of [Improtech Paris-Athina](http://ikparisathina.ircam.fr/) 201
 
 <br>
 
+*[Improtech 2022 Argument Leaflet (PDF) (French) ]({filename}/doc/IkMarseille_Argument.pdf)*
+
+*[Improtech 2022 Argument Leaflet (PDF) (Englisg) ]({filename}/doc/IkMarseille_Argument_EN.pdf)*
+
+<br>
+
 <p align="center">
   <img src="../images/Logo_improtech.jpg" width="300">
 </p>
