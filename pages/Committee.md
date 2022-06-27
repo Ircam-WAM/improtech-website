@@ -25,7 +25,7 @@ RIM (IRCAM)
 
 ### Collaborators and Partners
 
-Sylvie Benoit, Artistic advisor
+Sylvie Benoit, Artistic advisor  
 Jeff Joly, Popmyfilm,	Film maker  
 Regis Michel, Film Maker  
 Turner Williams Jr, Graphic Design  
