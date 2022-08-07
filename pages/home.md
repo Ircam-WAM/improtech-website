@@ -2,7 +2,7 @@ Title: Improtech @ Marseille !
 Status: hidden
 save_as: index.html
 Date: 2022-06-21 17:01
-Tags: ircam, improvisation, performance, human machine interaction, improtech, omax, artificial intelligence, digital intelligence, machine musicianship, artificial intelligence, computztional creativity, cybe human systems
+Tags: improtech, ircam, improvisation, marseille, cocreativity, computer music, performance, human machine interaction, omax, artificial intelligence, digital intelligence, machine musicianship, computational creativity, cyber human systems
 Authors: Gerard Assayag
 Summary: Improtech Marseille gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
