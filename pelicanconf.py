@@ -92,7 +92,7 @@ GALLERY_PATH = '/var/in/img/gallery/'
 PELICANGIT_SOURCE_REPO=PATH
 PELICANGIT_SOURCE_REMOTE="origin"
 PELICANGIT_SOURCE_BRANCH="master"
-PELICANGIT_SOURCE_BRANCHES=["ikparisphilly", "ikparisathina", "ikmarseille",]
+PELICANGIT_SOURCE_BRANCHES=["ikparisphilly", "ikparisathina", "ikmarseille", "master"]
 
 PELICANGIT_DEPLOY_REPO=OUTPUT_PATH
 PELICANGIT_DEPLOY_REMOTE="origin"
