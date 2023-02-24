@@ -2,24 +2,25 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "Improtech 2019"
-SITEURL = 'http://ikparisathina.ircam.fr'
+SITENAME = "Improtech 2022"
+SITEURL = 'http://ikmarseille.ircam.fr'
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 
 
+INPUT_PATH = '/var/in'
+OUTPUT_PATH = '/var/out'
+STATIC_PATHS = ['doc', 'images']
+
 #BOOTSTRAP_THEME = 'united'
 #BOOTSTRAP_THEME = 'yeti'
 BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
-PATH = '/var/in'
-OUTPUT_PATH = '/var/out/ikparisathina'
-STATIC_PATHS = ['doc', 'images']
+BANNER = '/images/IKPoster_Banner.png'
 
-BANNER = '/images/IKPoster_Banner1.png'
 BANNER_SUBTITLE = ''
 BANNER_ALL_PAGES = True
 
@@ -90,10 +91,12 @@ CC_LICENSE = "CC-BY"
 
 GALLERY_PATH = '/var/in/img/gallery/'
 
-PELICANGIT_SOURCE_REPO=PATH
+PELICANGIT_SOURCE_REPO=INPUT_PATH
 PELICANGIT_SOURCE_REMOTE="origin"
 PELICANGIT_SOURCE_BRANCH="master"
-PELICANGIT_SOURCE_BRANCHES=["ikparisphilly", "ikparisathina", "ikmarseille",]
+PELICANGIT_SOURCE_BRANCHES=["master", "ikparisphilly",
+                            "ikparisathina", "ikmarseille",
+                            "ikuzeste",]
 
 PELICANGIT_DEPLOY_REPO=OUTPUT_PATH
 PELICANGIT_DEPLOY_REMOTE="origin"
@@ -128,8 +131,8 @@ MARKDOWN = {
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 I18N_SUBSITES = {
-    'fr': {
-        'SITENAME': 'Improtech 2019',
+    'en': {
+        'SITENAME': 'Improtech 2022',
         }
     }
 
@@ -151,4 +154,6 @@ LOAD_CONTENT_CACHE = False
 
 ABOUT_ME = ''
 AVATAR = ''
+
+
 
