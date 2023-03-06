@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "Improtech 2022"
-SITEURL = 'http://ikmarseille.ircam.fr'
+SITENAME = "Improtech"
+SITEURL = 'https://improtech.ircam.fr'
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -11,7 +11,7 @@ THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 
 
 INPUT_PATH = '/var/in'
-OUTPUT_PATH = '/var/out'
+OUTPUT_PATH = '/var/out/master'
 STATIC_PATHS = ['doc', 'images']
 
 #BOOTSTRAP_THEME = 'united'
