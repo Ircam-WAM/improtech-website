@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "Improtech 2022"
-SITEURL = 'http://ikmarseille.ircam.fr'
+SITENAME = "Improtech 2019"
+SITEURL = 'https://improtech.ircam.fr/ikparisathina'
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
