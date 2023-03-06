@@ -3,7 +3,8 @@
 from __future__ import unicode_literals 
 
 SITENAME = "Improtech 2017"
-SITEURL = 'http://ikparisphilly.ircam.fr'
+BRANCH = ikparisphilly
+SITEURL = 'https://improtech.ircam.fr/' + BRANCH
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -16,7 +17,7 @@ BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
 PATH = '/var/in'
-OUTPUT_PATH = '/var/out'
+OUTPUT_PATH = '/var/out/' + BRANCH
 STATIC_PATHS = ['doc', 'images']
 
 BANNER = '/images/IKPoster_Banner.png'
@@ -96,7 +97,7 @@ PELICANGIT_SOURCE_BRANCH="master"
 
 PELICANGIT_DEPLOY_REPO=OUTPUT_PATH
 PELICANGIT_DEPLOY_REMOTE="origin"
-PELICANGIT_DEPLOY_BRANCH="master"
+PELICANGIT_DEPLOY_BRANCH=BRANCH
 PELICANGIT_DEPLOY_IS_LOCAL_DIR = True
 
 PELICANGIT_USER = "root"
