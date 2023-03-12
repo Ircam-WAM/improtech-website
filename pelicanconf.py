@@ -11,7 +11,7 @@ THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 
 
 INPUT_PATH = '/var/in'
-OUTPUT_PATH = '/var/out/master'
+OUTPUT_PATH = '/var/out'
 STATIC_PATHS = ['doc', 'images']
 
 #BOOTSTRAP_THEME = 'united'
