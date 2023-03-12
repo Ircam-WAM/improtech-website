@@ -9,9 +9,10 @@ SITEURL = 'http://ikmarseille.ircam.fr'
 RELATIVE_URLS = True
 THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 
-
+BRANCH = 'ikmarseille'
 INPUT_PATH = '/var/in'
-OUTPUT_PATH = '/var/out'
+OUTPUT_PATH = '/var/out/' + BRANCH
+
 STATIC_PATHS = ['doc', 'images']
 
 #BOOTSTRAP_THEME = 'united'
