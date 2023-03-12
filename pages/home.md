@@ -6,7 +6,7 @@ Tags: improtech, ircam, improvisation, marseille, cocreativity, computer music, 
 Authors: Gerard Assayag
 Summary: Improtech Marseille gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### Workshop - Festival, October 22 - 24, 2022 at Palais Carli, Marseille Conservatory
+#### Workshop - Festival, Uzeste
 <br>
 <br>
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
