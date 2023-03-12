@@ -8,7 +8,7 @@ Originally Created by Gérard Assayag (IRCAM) and Marc Chemillier (EHESS), Impro
 
 This unparalleled event, co-organized by Ircam and French and international partners (major universities and research institutions, private and public institutes, art centers, sponsors) has already been held with undeniable success in [New York (2012)](http://repmus.ircam.fr/improtechpny), [Philadelphia (2017)](http://ikparisphilly.ircam.fr), and [Athens (2019)](http://ikparisathina.ircam.fr). The edition planned for Tokyo in 2021 as part of the Season of France in Japan could not be held because of the pandemic and has been postponed.
 
-We wanted for a long time, after the American and European connections, to hold a major edition in France, and what better city than Marseille !
+We wanted for a long time, after the American and European connections, to hold a major edition in France, and what better city than Marseille!
 
 Improtech @ Marseille will be held from October 22 to 24, 2022 at the Palais Carli, in the beautiful spaces of the Conservatoire National Pierre Barbizet, with satellite events in the city during the week of October 17.
 
