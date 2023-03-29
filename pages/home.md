@@ -18,16 +18,16 @@ Improtech is dedicated to the explosive alliance between the age-old art of impr
 
 Exploring the relationships between music and science, composition and improvisation, writing and performance, music and other performance arts in "cyber-human" settings, Improtech has established itself as one of the major events of contemporary research and creation.
 
-For the first time, Improtech will be centered on a major French city: **Improtech @ Uzeste!**
+For the first time, Improtech will be held in France : **Improtech @ Uzeste!**
 
 ## On the Menu
-**ikMA'22** encompasses conferences, demonstrations, workshops, master classes, musical or multimedia performances / installations, and concerts bringing together some of the world's finest musicians and researchers in beautiful venues.
+**ikUzeste'23** encompasses conferences, demonstrations, workshops, master classes, musical or multimedia performances / installations, and concerts bringing together some of the world's finest musicians and researchers in beautiful venues.
 
-**ikMA'22** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene of Uzeste.
+**ikUzeste'23** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene of Uzeste.
 
-**ikMA'22** brings artists, researchers, engineers, thinkers, students, inventors, DYI enthusiasts covering a broad spectrum of knowledge fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities...
+**ikUzeste'23** brings artists, researchers, engineers, thinkers, students, inventors, DYI enthusiasts covering a broad spectrum of knowledge fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities...
 
-**Improtech @ Uzeste !** centered on the Uzeste Conservatory will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
+**Improtech @ Uzeste !** will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
 
 **[Read more about ImproTech philosophy and history]({filename}/pages/About.md)**
 
