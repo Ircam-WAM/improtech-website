@@ -1,7 +1,7 @@
 Title: Improtech Uzeste 2023
 Status: hidden
 save_as: index.html
-Date: 2022-06-21 17:01
+Date: 2023-06-21 17:01
 Tags: improtech, ircam, improvisation, Uzeste, cocreativity, computer music, performance, human machine interaction, omax, artificial intelligence, digital intelligence, machine musicianship, computational creativity, cyber human systems
 Authors: Gerard Assayag
 Summary: Improtech Uzeste gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
@@ -11,7 +11,7 @@ Summary: Improtech Uzeste gathers scholars, technologists, musicians, makers, ar
 <br>
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
-After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzeste !** (ikMA'22) will be held from October 22 to 24, 2022 at the Palais Carli, in the beautiful spaces of the Conservatoire National Pierre Barbizet, along with satellite events in the city during the week of October 17. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012.
+After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzeste !** (ikUzeste'22) will be held from August 10 to August 13, 2023 at Uzeste, the beautiful occitan village place of the mythical Hestajada de les arts, the music festival founded by Bernard Lubat. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012 (well anniversary should have been celebratedlast year, but was cancelled as the workshop didn't take place this year and was postponed to 2023)
 
 ## A New alliance
 Improtech is dedicated to the explosive alliance between the age-old art of improvisation and the emerging cultures of digital intelligence. It fosters the co-creative dynamics that can exist between humans and machines, and in so doing, creates new meeting grounds between people, artists and audiences of all backgrounds and levels.
