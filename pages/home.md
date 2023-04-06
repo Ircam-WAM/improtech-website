@@ -46,7 +46,6 @@ Go to the [Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste) web site.
 #### Opening, Keynote and Full Concerts
 Retrieve [movies on Vimeo](https://vimeo.com/showcase/6364851) or parse choose from the video menu below:
 
-<br>
 <iframe src="https://vimeo.com/showcase/6364851/embed" width="720" height="405" allowfullscreen frameborder="0"></iframe>
 <br>
 
