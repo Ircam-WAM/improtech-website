@@ -8,8 +8,20 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 
 #### This is the general Improtech Home Page
 
+## A New alliance
+Improtech is dedicated to the explosive alliance between the age-old art of improvisation and the emerging cultures of digital intelligence. It fosters the co-creative dynamics that can exist between humans and machines, and in so doing, creates new meeting grounds between people, artists and audiences of all backgrounds and levels.
+
+Exploring the relationships between music and science, composition and improvisation, writing and performance, music and other performance arts in "cyber-human" settings, Improtech has established itself as one of the major events of contemporary research and creation.
+
+## A Workshop - Festival
+**Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
+
+
+
 
 ### Next Improtech Editions
+
+After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzeste !** (ikUzeste'23) will be held from August 10 to August 13, 2023 at Uzeste, the beautiful occitan village place of the mythical Hestajada de les arts, the music festival founded by Bernard Lubat. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012 (well anniversary should have been celebratedlast year, but was cancelled as the workshop didn't take place this year and was postponed to 2023)
 
 [Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste) 10-13 August 2023  
 
