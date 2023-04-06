@@ -11,7 +11,7 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 
 ### Next Improtech Editions
 
-[Uzeste edition 2023](http://ikparisathina.ircam.fr) 10-13 August 2023
+[Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste) 10-13 August 2023  
 
 ### Previous Improtech Editions
 
