@@ -21,9 +21,9 @@ Exploring the relationships between music and science, composition and improvisa
 
 ### Next Improtech Editions
 
-After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzeste !** (ikUzeste'23) will be held from August 10 to August 13, 2023 at Uzeste, the beautiful occitan village place of the mythical Hestajada de les arts, the music festival founded by Bernard Lubat. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012 (well anniversary should have been celebratedlast year, but was cancelled as the workshop didn't take place this year and was postponed to 2023)
+After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzeste !** (ikUzeste'23) will be held from August 10 to August 13, 2023 at Uzeste, the beautiful occitan village place of the mythical Hestajada de les arts, the music festival founded by Bernard Lubat. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012 (well anniversary should have been celebrated last year, but was cancelled as the workshop didn't take place this year and was postponed to 2023)
 
-[Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste) 10-13 August 2023  
+Go to the [Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste) web site.
 
 ### Previous Improtech Editions
 
