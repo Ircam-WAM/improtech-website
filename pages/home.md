@@ -9,76 +9,22 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 #### This is the general Improtech Home Page
 
 
-[//]: # (Workshop - Festival, September 26th - 29th, 2019 at the  cultural center Onassis STEGI, and the University of Athens)  
+### Next Improtech Editions
+
+[Uzeste edition 2023](http://ikparisathina.ircam.fr) 10-13 August 2023
+
+### Previous Improtech Editions
+
+[Paris - Athina edition 2019](http://ikparisathina.ircam.fr)
+
+[Paris - Philadelphia edition 2017](http://ikparisphilly.ircam.fr)
+
+[Paris - New-york edition 2012](http://repmus.ircam.fr/improtechpny)
+
+[Ircam original workshop at SMC'04](http://recherche.ircam.fr/equipes/repmus/SMC04/)
 
 <br>
-<br>
 
-[*Announcement in The Huffington Post Greece, interview of the organisers (Greek)*](https://www.huffingtonpost.gr/entry/to-improtech-2019-sten-athena-technete-noemosene-kai-moesike_gr_5d7f6089e4b03b5fc8867c43)  
-[*Annoucement on the Ircam web, interview of Gérard Assayag (English)*](https://www.ircam.fr/article/detail/the-human-machine-co-creativity-will-change-radically-our-musical-experience/)
-
-<br>
-<br>
-
-<img src="./images/IKPoster_Frag12.png" width="125" style="float:left" hspace="10">
-##Improtech
-gathers scholars, researchers, musicians, makers, around the idea of **musical improvisation in interaction with digital intelligence**, taking note of the important development of this new creative field.
-ikPA'19 creates a link between the european and worlwide research and creation scenes through the symbolic matching of  Paris, where the event [originated at Ircam](http://recherche.ircam.fr/equipes/repmus/SMC04/), and an other emblematic city. **This year Paris will connect with Athens**, in a powerful arc between science and the art of improvisation, after the  [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr) last year, and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny) a few years ago.
-
-It is thus a unique opportunity for intercultural and interdisciplinary encounters among international research and creation communities.
-
-ImproTech is being held in 2019 with the support of [Onassis STEGI](https://www.onassis.org/onassis-stegi) and the [University of Athens](https://en.uoa.gr/) (UOA), in addition to the workshop's founding organisms, to allow the public to observe the aesthetic, technological and sociological developments that have taken place since previous editions.
-This meeting point in the heart of the  Hellenic capital is a stimulating destination because of the city's young and lively improvisation scene, the many men and women who promote research in music science and technology in the Greek universities, and of course the central position of Greek culture in the history of improvised music, from its practice to its theory.
-
-Scholars, students, musicians, will come from many places in world to talk about their work, demo, teach and perform. **ikPA'19** will flourish on the explosive encounter of prominent research labs and scholars, well established musical figures of Jazz, contemporary music, traditional music from the mediterranean area, and the  avant-garde scene of Greece .
-
-**ikPA'19** will combine, around the central theme of improvisation, a great diversity of aesthetic approaches while convening artists and experts covering many knowledge fields, including computer music, artificial intelligence, robotics, musicology / ethno-musicology, philosophy / anthropology, critical studies, acoustics and signal processing.
-<br>
-<br>
-<br>
-
-<img src="./images/IKPoster_frag22.png" width="125" style="float:left" hspace="10">
-##Highlights
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-### Lectures and Concerts
-**ikPA'19** brings together artists, musicians, composers and researchers from several continents, all motivated by the possibilities offered by creative improvised interactions between humans, machines and algorithms of all sorts. **ikPA'19** will take place from 26 to 29 September 2019, at Onassis STEGI and the UOA (University of Athens) with concerts, demos, workshops, conferences and **prestigious keynotes speakers** (George Lewis, Xavier Serra, George Tzanetakis, Gary L. Hagberg). **World-class improvisers** are expected, including George Lewis, Evan Parker, Mari Kimura, Sylvain Luc, Bernard Lubat, Jaap Blonk, Steve Lehman, Lara Morciano, Michelle-Agnes Magalhaes, Raphael Imbert, Hervé Sellin, Rémi Fox, Peter Evans, Mark Nauseef, Camel Zekri, Mark & Julie Wilson-Bokowiec, Orestis Karamanlis, Dimitri Vassilakis, Areti Andreopoulou, Anastasia Georgaki, and many others.
-
-###Participants
-
-**Evan Parker**, saxophonist is one of the **founding fathers of the European improvised music scene since the late 1960s**. Evan Parker transformed the language and techniques of the instrument in the late 1960s and has since become one of the most admired and influential saxophone improvisers on the planet. Parker has been rewriting the book on the sounds that can be made with a saxophone for almost half a century, developing a remarkable post-Coltrane technique that has allowed him to play counterpoint on what was designed as a single-line instrument, generate electronics-like textures acoustically, and build a personal soundscape that avoids conventional tunes but has its own arresting lyricism. Parker has worked with comparable revolutionaries like John Zorn and Anthony Braxton and singer-songwriter Robert Wyatt. **Parker is widely acknowledged as "one of the music's greatest living instrumentalists"** (The Times), "one of the world's finest ensemble improvisers" (Chicago Reader) and "one of the modern era's most original voices" (The Wire).  
-Evan Parker will perform with Trance Map+, his duo Trance Map with composer **Matt Wright** (live electronics) augmented with new guests (**Peter Evans** and **Mark Nauseef** on trumpet and percussionsq). “**[Trance Map richly repays repeated listening and intense concentration being invested in it […] it is mesmerizingly beautiful**.” (All About Jazz) “Evan Parker and Matthew Wright’s intriguing collaboration edits layers of live performance into a shimmering mist of undulating and unbroken sonic textures [...] the result enthrals and soothes in equal measure.” (The Financial Times)
-<br><br>
-**George Lewis** is the Edwin H. Case Professor of American Music at Columbia University. The recipient of a MacArthur Fellowship in 2002, an Alpert Award in the Arts in 1999, and fellowships from the National Endowment for the Arts, Lewis studied composition with Muhal Richard Abrams at the AACM School of Music. A member of the Association for the Advancement of Creative Musicians (AACM) since 1971, Lewis's internationally acclaimed work as composer, improvisor, performer and interpreter explores electronic and computer music, computer-based multimedia installations, text-sound works, and notated and improvisative forms, and is documented on more than 140 recordings. **His oral history is archived in Yale University’s collection of “Major Figures in American Music”**, and his compositions and installations have been commissioned and preformed by prestigious organisations and ensembles aroud the world such as IRCAM, Ensemble Intercontemporain, Deutschlandradio Kultur Berlin and others.His widely acclaimed book, A Power Stronger Than Itself: The AACM and American Experimental Music (University of Chicago Press, 2008) is **a recipient of the American Book Award**
-<br><br>
-**Jaap Blonk**, « the man that many critics have called **the world’s greatest living sound poet**. A category that can’t contain the multitudes of Blonk’s body of work: free jazz, math-inspired composition, confrontational comedy, radio plays, animation.» (the Orlando Weekly) As a vocalist, **Jaap Blonk is unique for his powerful stage presence and freedom in improvisation**, combined with a keen grasp of structure. He has performed around the world, on all continents, including work for radio and television . Besides working as a soloist, he collaborated with many musicians and ensembles in the field of contemporary and improvised music, like Maja Ratkje, Mats Gustafsson, Joan La Barbara, ..., or with visual computer artist Golan Levin. Blonk recordings appeared on various labels, such as Kontrans (his own lable), Staalplaat, Basta, VICTO, Ecstatic Peace, Monotype Records, Terp and Elegua Records. His appraised book/CD 'Traces of Speech' was published in 2012 by Hybriden-Verlag, Berlin.
-<br><br>
-**Michelle Agnes Magalhaes** is a Brazilian composer whose music explores the limits between gesture and writing, composition and improvisation, placing  a high premium on the engagement of the musician's body with her performance, as well as new approaches to traditional instruments and instrumentation. Her compositions are about sound production and physicality.
-After studying musical composition at the University of Sao Paulo, she received regular compositions lessons from Salvatore Sciarrino (Accademia Chigiana di Siena and Conservatorio Statale di Musica, Latina). **She has been awarded fellowships, residences and commissions from Radcliffe Institute (Harvard University), Fapesp, Unesco, Camargo Foundation, Villa Sträuli, Brazilian Culture Minister, Fondazione Giorgio Cini Venezia, Ernst-von-Siemens-Musikstiftung and IRCAM**. Right now she is artist in residence at IRCAM to develop an interactif collective work in collaboration with ISMM team and Frédéric Bevilacqua, with the support of the VERTIGO project (STARTS program of the European Commission).
-<br><br>
-**Sylvain Luc**, guitarist, “... **is undoubtedly one of the most important musicians of his generation, and not only in France**.” (Jazzman)  
-“What Keith Jarrett was able to accomplish with solo piano, Sylvain Luc achieves with so many risks and melodic discoveries.” (Michel Contat, Télérama)  
-“We have long known that he is in the leading pack of contemporary guitarists. With “Ambre” (Dreyfus), an impressive, subtly experimental solo disk, Sylvain Luc joins the club of performers (Ducret, Bailey) who are inventing a future for the most popular instrument in the world.” (Le Nouvel Observateur)  
-Sylvain Luc won the “Django d’Or” and the “Victoire de la musique Jazz” music awards for his achievements and played in the “String Quartet” band with Didier Lockwood, Victor Bailey and Billy Cobham. He toured with Richard Bona, Steve Gadd and  Didier Lockwood.  He also performed duets with Philip Catherine, Biréli Lagrène and Stéphane Belmondo and collaborated with Al Jarreau, Richard Galliano among other high profile musicians.
-<br><br>
-**Lara Morciano**, composer, was awarded a **PhD in Sciences, Arts, Creation and Research (SACRe) at PSL Research University**, ENS, CNSMDP and Ircam, under the direction of Gérard Assayag. Her compositions have been performed in many festivals including Philarmonie – Paris; Ircam - Centre Pompidou; Presences, Création Mondiale – Radio France; ZKM – Karlsruhe; The Venice Biennale; International Gaudeamus Music Week – Amsterdam; Warsaw Autumn Festival; Opera – Dijon; Musica – Strasbourg; Ultima – Oslo; Bifem – Australia; Nuova Consonanza – Rome… She works with ensembles such as the Ensemble Intercontemporain, Court Circuit and with performers including Hae Sun Kang, Mario Caroli, Claude Delangle and Garth Knox. Her music is broadcast by France Musique, Rai3-RadioTelevisione Italiana, ABC Classic FM, Louis Vuitton Foundation and other transmissions. She has received commissions from numerous institutions including the French Ministry of Culture, the Ensemble Intercontemporain, Ircam - Centre Pompidou, Radio France, the Venice Biennale, the ZKM of Karlsruhe. **She won the Tremplin 2008 competition (Ircam and Ensemble Intercontemporain) and in 2012 the International Composition Competition Giga-Hertz Award in Germany.**
-<br><br>
-**Dimitris Vassilakis**, “An internationally acclaimed, award winning Greek saxophonist/vocalist and composer”, Awarded **album of the month from BBC Music** magazine and **2nd jazz album of the year from the BBC** for "Labyrinth". Vassilakis Has presented his concept **“Jazz Democracy” at the United Nations** New York April 30th 2018, invited by the Permanent mission of Greece to the UN for International Jazz Day. Researcher and lecturer at the Athens Kapodistrian University, teaching at the Master Course in “Jazz and new Technologies” from fall 2017, presenting "jazz mapping AI & Robotics" for Singularity Summit Greece November 2018.
-<br><br>
-«  Described as “**a state-of-the-art musical thinker**” and a "dazzling saxophonist,” by The **New York Times**, **Steve Lehman** (b. New York City, 1978) is a composer, performer, educator, and scholar who works across a broad spectrum of experimental musical idioms...His recent recording, Mise en Abîme (Pi, 2014) was called the **#1 Jazz Album of the year** by NPR Music and The Los Angeles Times. And his previous recording, Travail, Transformation & Flow (Pi, 2009), was chosen as the **#1 Jazz Album of the year** by The New York Times...»
-<br><br>
-**Hervé Sellin**, Pianist, composer, **played alongside Art Farmer, Slide Hampton, Chet Baker, Dizzy Gillespie**, Clifford Jordan and was Johnny Griffin's official pianist for more than 15 years. **Accompanied Dee Dee Dee Bridgewater** from 1986 to 1990. Django Reinhardt Prize in 1990 for his activities as a soloist, composer and arranger. Recorded with Branford Marsalis in 1991 (Sony music). From 2002 to 2006, on tour with Richard Galliano's group "Piazzolla forever" :  300 concerts worldwide, a CD and DVD (2003/2006) at Dreyfus Jazz. **Invited by Wynton Marsalis to the Lincoln Center in New York** in October 2003 to create a suite for Tentet. In 2008, the album Hervé Sellin Tentet  "Marciac New York express"  (Cristal Records/dist. Harmonia Mundi) was unanimously acclaimed by critics. Awards : **Best French Jazz Record 2008 by the Académie du Jazz, Choc de l’année Jazzman, Disque d’émoi Jazz-Magazine, 4 Clés Télérama**. Hervé SELLIN was also awarded a "**Django D'or**" in December 2009, in the category confirmed artist. In 2017, his album "ALWAYS TOO SOON" (Tribute to Phil Woods), in quartet with Pierrick Pedron, Thomas Bramerie and Philippe Soirat **won the award  " CHOC " JazzMagazine**. In 2018 Sellin’s solo piano album "Claude Debussy, Jazz Impressions" won  the " CHOC " JazzMagazine.
-<br><br>
-**Mari Kimura** is a violinist/composer and a leading figure in the field of interactive computer music. As a violinist, Mari is renowned for her mastery of subharmonics—the production of pitches that sound up to an octave below the violin’s lowest string—as well as for her dynamic performances as an improviser and her premieres of many notable compositions by today’s composers, including **Luciano Berio and Salvadore Sciarrino**, as well as a soloist with such major orchestras including the **Tokyo Symphony and the Hamburg Symphony**. She has received numerous awards and grants including a Guggenheim Fellowship, a Fromm Commission Award, a residency at IRCAM, and at the Rockefeller Brothers Fund.
-<br><br>
-Born in Uzeste in 1945, **Bernard Lubat**, pianist, vibraphonist, keyboard and accordion player, singer, composer and actor, began studying piano in 1957, attending the Bordeaux Conservatory where he discovered the drums, jazz and Milt Jackson. In 1961, he entered the Paris Conservatory where in 1963 he was awarded the prize for best percussionist. He was then taken on by the Jef Gilson Orchestra (1965) where he came into contact with **Michel Portal**, Bernard Vitet, François Jeanneau, Jean-Louis Chautemps, Henri Texier… He worked with **Jean-Luc Ponty and Martial Solal**, as a vibraphonist and for **Stan Getz and Eddy Louiss** as a drummer. At the same time he worked in contemporary music with Diego Masson, playing Varèse, Bartok, Xenakis, he took part in the **premiere of Luciano Berio's work Chemin 2 at the Scala de Milan and in the recording of Laborintus**. Lubat has founded the world reknowned **Uzeste Music Festival**. He has also been a musical expert working on the **OMax**/ImproteK/Djazz project in collaboration with IRCAM and EHESS.<br>
-<br><br>
-**Raphaël Imbert** : "Jazz is the musical gesture that allows me to play with whomever I want, whenever I want." **Raphaël Imbert** developed a study project on the Sacred in Jazz, and became a winner of the **Villa Médicis Hors Les Murs**. He was a member of the Board of Directors of the National Jazz Orchestra from 2004 to 2007 and **won the 28th national Jazz de la Défense competition** in June 2005. He was an artist in residence in 2016 at the Festival d'Art Lyrique d'Aix en Provence. He joined Archie Shepp's Attica Blues Big Band (Jazz à la Villette 2012) and Harmonia Mundi's new label "Jazz Village", for which he published "Music is My Hope" in 2018, which won the *Victoires du Jazz 2018*. He was awarded the **IRCAM Artistic Research Residency** in 2018. He published in March 2014 the book "Jazz Supreme. Initiates, Mystics & Prophets » on the action of spirituality and masonry in Jazz history including Coltrane deep involvement in these issues.
-
-**[Read more about ikParisAthina's participants...]({filename}/pages/Bios.md)**  
-
----
+<p align="center">
+  <img src="../images/Logo_improtech_anniv.png" width="300">
+</p>
