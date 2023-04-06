@@ -19,7 +19,7 @@ STATIC_PATHS = ['doc', 'images']
 BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
-BANNER = '/images/IKPoster_Banner.png'
+BANNER = '/images/IKPoster_Banner.jpg'
 BANNER_SUBTITLE = ''
 BANNER_ALL_PAGES = True
 
@@ -153,6 +153,3 @@ LOAD_CONTENT_CACHE = False
 
 ABOUT_ME = ''
 AVATAR = ''
-
-
-
