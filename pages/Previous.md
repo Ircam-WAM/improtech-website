@@ -8,6 +8,10 @@ Title: Previous
 
 [Paris - Philadelphia edition 2017](http://ikparisphilly.ircam.fr)
 
+## Next Improtech Editions
+
+[Check the new, general Improtech web site](https://improtech.ircam.fr)
+
 
 ## ImproTech Paris-Philly Teaser
 
