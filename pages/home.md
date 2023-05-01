@@ -32,21 +32,23 @@ For the first time, Improtech will be held in France : **Improtech @ Uzeste!**
 **[Read more about ImproTech philosophy and history]({filename}/pages/About.md)**
 
 <br>
+
 <img src="./images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ##Highlights
 ...in construction...
 <br>
 
-Joëlle Léandre
-Evan Parker
-Bernard Lubat
-Benoit Delbeq
-Mari Kimura
-Josef Dumoulin
-Rob Frye
-Jaap Blonk
-Benny Sluchin
+Joëlle Léandre  
+Evan Parker  
+Bernard Lubat  
+Benoit Delbeq  
+Mari Kimura  
+Josef Dumoulin  
+Rob Frye  
+Jaap Blonk  
+Benny Sluchin  
 <br>
+
 <img src="./images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
 ### Lectures and Concerts
 ...in construction...
@@ -55,26 +57,26 @@ Benny Sluchin
 <br>
 <br>
 <br>
+
 <img src="./images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
 ###Participants
 ...in construction...
 <br>
-
-Joëlle Léandre
-Evan Parker, Jean Marc Foussat
-Mari Kimura
-Bernard Lubat
-Benoit Delbeq (pn) & Josef Dumoulin (tb) – 10 ou 11 Août –
-Rob Frye
-Benny Sluchin (tb), Mikhail Malt, Pavlos Antoniadis (pn)
-Rémi Fox (sx)
-Cyril Benhamou  (fl, pn, bass)
-Laurent Mariusse (perc)
-Hervé Sellin, Georges Bloch, Nurith Aviv (cinéaste), Jaap Blonk
-Pierre Couprie, Gyorgy Kurtag
-Turner Williams, Shahibaja
-Jean-Brice Godet, clarinettiste
-Marco Fiorini (guit) + Francesco Diodati (guit) + Lorenzo Colombo (perc.)
+Joëlle Léandre  
+Evan Parker, Jean Marc Foussat  
+Mari Kimura  
+Bernard Lubat  
+Benoit Delbeq (pn) & Josef Dumoulin (tb)   
+Rob Frye  
+Benny Sluchin (tb), Mikhail Malt, Pavlos Antoniadis (pn)  
+Rémi Fox (sx  
+Cyril Benhamou  (fl, pn, bass)  
+Laurent Mariusse (perc)  
+Hervé Sellin, Georges Bloch, Nurith Aviv (cinéaste), Jaap Blonk  
+Pierre Couprie, Gyorgy Kurtag  
+Turner Williams, Shahibaja  
+Jean-Brice Godet, cl.
+Marco Fiorini (guit) + Francesco Diodati (guit) + Lorenzo Colombo (perc.)  
 
 <br>
 <br>
