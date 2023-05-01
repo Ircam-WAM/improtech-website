@@ -6,8 +6,14 @@ Tags: ircam, improvisation, performance, human machine interaction, improtech, o
 Authors: Gerard Assayag
 Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
+##### COMING IN AUGUST 2023 :  [IMPROTECH @ UZESTE, FRANCE !](https://improtech.ircam.fr/ikuzeste).
+
+<br>
+<br>
+
 #### This is the general Improtech Home Page
 <br>
+
 
 ### A New alliance
 Improtech is dedicated to the explosive alliance between the age-old art of improvisation and the emerging cultures of digital intelligence. It fosters the co-creative dynamics that can exist between humans and machines, and in so doing, creates new meeting grounds between people, artists and audiences of all backgrounds and levels.
@@ -20,7 +26,7 @@ Exploring the relationships between music and science, composition and improvisa
 
 After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzeste !** (ikUzeste'23) will be held from August 10 to August 13, 2023 at Uzeste, the beautiful occitan village place of the mythical Hestajada de les arts, the music festival founded by Bernard Lubat. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012 (well anniversary should have been celebrated last year, but was cancelled as the workshop didn't take place this year and was postponed to 2023)
 
-Go to the [Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste) web site.
+Go to the [Uzeste edition 2023](https://improtech.ircam.fr/ikuzeste) web site.
 
 ### Previous Improtech Editions
 
