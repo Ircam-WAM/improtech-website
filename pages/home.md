@@ -6,9 +6,13 @@ Tags: improtech, ircam, improvisation, marseille, cocreativity, computer music, 
 Authors: Gerard Assayag
 Summary: Improtech Marseille gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### Workshop - Festival, October 22 - 24, 2022 at Palais Carli, Marseille Conservatory
+# CANCELLED - - IMPROTECH 2023 will be held in Uzeste, France 10-13 August 2023
+
+Got to [[ikUzeste'23 Home Page|https://improtech.ircam.fr/ikuzeste]]
+
 <br>
 <br>
+
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
 After praised editions in New York, Philadelphia and Athens, **Improtech @ Marseille !** (ikMA'22) will be held from October 22 to 24, 2022 at the Palais Carli, in the beautiful spaces of the Conservatoire National Pierre Barbizet, along with satellite events in the city during the week of October 17. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012.
