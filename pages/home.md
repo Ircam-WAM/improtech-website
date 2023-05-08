@@ -8,7 +8,7 @@ Summary: Improtech Marseille gathers scholars, technologists, musicians, makers,
 
 # CANCELLED - - IMPROTECH 2023 will be held in Uzeste, France 10-13 August 2023
 
-Got to [[ikUzeste'23 Home Page|https://improtech.ircam.fr/ikuzeste]]
+Got to [ikUzeste'23 Home Page](https://improtech.ircam.fr/ikuzeste)
 
 <br>
 <br>
