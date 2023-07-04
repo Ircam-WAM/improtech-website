@@ -15,14 +15,22 @@ After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzest
 
 [Get a glimpse at Athens concerts and events videos !](https://improtech.ircam.fr/)
 
+<br>
+<img src="./images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
 ## A New alliance
+<br>
+
 Improtech is dedicated to the explosive alliance between the age-old art of improvisation and the emerging cultures of digital intelligence. It fosters the co-creative dynamics that can exist between humans and machines, and in so doing, creates new meeting grounds between people, artists and audiences of all backgrounds and levels.
 
 Exploring the relationships between music and science, composition and improvisation, writing and performance, music and other performance arts in "cyber-human" settings, Improtech has established itself as one of the major events of contemporary research and creation.
 
 For the first time, Improtech will be held in France : **Improtech @ Uzeste!**
 
+<br>
+<img src="./images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
 ## On the Menu
+<br>
+
 **ikUzeste'23** encompasses conferences, demonstrations, workshops, master classes, musical or multimedia performances / installations, and concerts bringing together some of the world's finest musicians and researchers in beautiful venues.
 
 **ikUzeste'23** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene of Uzeste.
@@ -34,7 +42,6 @@ For the first time, Improtech will be held in France : **Improtech @ Uzeste!**
 **[Read more about ImproTech philosophy and history]({filename}/pages/About.md)**
 
 <br>
-
 <img src="./images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ##Highlights
 <br>
@@ -59,42 +66,6 @@ Héraut de la jeune scène marseillaise, Cyril Benhamou (flûte, claviers) tente
 
 IMPROTECH@ Uzeste ! :  c’est simplement de la dynamite !
 
-<br>
-
-<img src="./images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
-### Lectures and Concerts
-...in construction...
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="./images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
-###Participants
-...in construction...
-<br>
-Joëlle Léandre  
-Evan Parker, Jean Marc Foussat  
-Mari Kimura  
-Bernard Lubat  
-Benoit Delbeq (pn) & Josef Dumoulin (tb)   
-Rob Frye  
-Benny Sluchin (tb), Mikhail Malt, Pavlos Antoniadis (pn)  
-Rémi Fox (sx  
-Cyril Benhamou  (fl, pn, bass)  
-Laurent Mariusse (perc)  
-Hervé Sellin, Georges Bloch, Nurith Aviv (cinéaste), Jaap Blonk  
-Pierre Couprie, Gyorgy Kurtag  
-Turner Williams, Shahibaja  
-Jean-Brice Godet, cl.
-Marco Fiorini (guit) + Francesco Diodati (guit) + Lorenzo Colombo (perc.)  
-
-<br>
-<br>
-*[more about participants...]({filename}/pages/Bios.md)*
-<br>
-<br>
 
 <p align="center">
   <img src="./images/Logo_improtech_anniv.png" width="300">
