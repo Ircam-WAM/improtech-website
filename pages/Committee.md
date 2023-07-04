@@ -11,13 +11,13 @@ Bernard Lubat, Fabrice Vieira (Compagnie Lubat, Uzeste Musical)
 
 ### Organisation Committee
 
-Vasiliki Zachari (IRCAM) administration
-Martine Bois (Uzeste) administration
-Isabelle Pauly (Uzeste)  logement, transport
-Celine Rutaly (Uzeste) production 
-David Brunet (Uzeste) régisseur plateau
-Patrick Lafrance (Uzeste) ingénieur son
-Guillaume Prudon (Uzeste) Regisseur général
+Vasiliki Zachari (IRCAM) administration  
+Martine Bois (Uzeste) administration  
+Isabelle Pauly (Uzeste)  logement, transport  
+Celine Rutaly (Uzeste) production  
+David Brunet (Uzeste) régisseur plateau  
+Patrick Lafrance (Uzeste) ingénieur son  
+Guillaume Prudon (Uzeste) Regisseur général  
 
 ### Collaborators and Partners
 
@@ -29,8 +29,8 @@ Turner Williams Jr, Graphic Design
 
 ### Science / Art  Advisory Board
 
-Anastasia Georgakis, Kapodistrian University of Athens
-Cristos Carras, Onassis STEGI, Athens
+Anastasia Georgakis, Kapodistrian University of Athens  
+Cristos Carras, Onassis STEGI, Athens  
 Pierre Couprie, U. of Evry/Paris-Saclay  
 Emilios Cambouropulos, Aristotle University of Thessaloniki  
 Suguru Goto, Geidai University of the Arts, Tokyo  
