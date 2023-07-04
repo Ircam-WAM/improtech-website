@@ -1,14 +1,13 @@
 title: Activities
 
-##  ... IN CONSTRUCTION ...
 
 <p align="center">
-  <img src="../images/Logo_improtech_anniv.png" width="300">
+  <img src="../images/Logo_improtech_anniv.png" width="150">
 </p>
 
-Concerts
+#Concerts
 
-Concert #1 11 août																						
+## Concert #1 11 août																						
 
 Marco Fiorini (guitare, ordi Somax2), Francesco Diodati (guitare), Lorenzo Colombo (percussion.)
 
@@ -22,7 +21,8 @@ Benny Sluchin (trombone), Mikhail Malt (ordi Somax2), Pavlos Antoniadis (piano)
 
 Evan parker (Saxophones), Mari Kimura (Violon, électronique MUGI), Laurent Mariusse (percussion)											
 
-Concert #2  12 août
+
+## Concert #2  12 août
 
 Joëlle Léandre the Who/Men : Joëlle Léandre (contrebasse, voix) , Mikhail Malt, Marco Fiorini, Gérard Assayag (ordi Somax2), invité Jean-Brice Godet (Clarinette) : REACHing OUT !
 
@@ -37,7 +37,7 @@ Evan Parker (Saxophones), Jean-Marc Foussat (Synthétiseurs) : Duo
 Pierre Couprie (live electronics), Mari Kimura (Violon, électronique MUGI), Gyorgy Kurtag (Handsonic), Jean-Marc Montera (Guitares) : Rencontres du 7ème type																				
 
 
-Concert #3 13 août
+## Concert #3 13 août
 
 Evan Parker, (saxophones) Jean-Marc Foussat (synthétiseurs) / Joëlle Léandre (contrebasse, voix), Gérard Assayag (ordi Somax2) : Double duo																	
 Cyril Benhamou (flûte, Claviers), Stylianos Dimou (Live electronics), Jean-Brice Godet (Clarinette), Laurent Mariusse (percussions)
