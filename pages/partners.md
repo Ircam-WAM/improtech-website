@@ -1,17 +1,14 @@
 Title: Credits
 
 ---
-
-**Improtech @ Marseille !** already receives the support of Ircam, the Agence Nationale de la Recherche, the European Research Council, the CNRS, the Ministry of Culture, the French Institute, Sorbonne Center for Artificial Intelligence, Conservatoire National à Rayonnement Régional Pierre Barbizet de Marseille, INSEAMM, IFAMM, ...
-
-Improtech is an ERC REACH action supported by the European Research Council within the Horizon 2020 program (Convention No. 883313).
+Improtech is an ERC REACH action supported by the European Research Council within the Horizon 2020 program (Convention No. 883313) and by the Agence Nationale de la Recherche under grant MERCI ANR-19-CE33-0010
 
 
 Produced & supported by
 
 <br>
 <p align="center">
-  <img src="../images/ikUZESTE_logos.png" width="600">
+  <img src="../images/ikUZESTE_logos.png" width="1200">
 </p>
 <br>
 
