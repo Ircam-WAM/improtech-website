@@ -6,7 +6,7 @@ Tags: improtech, ircam, improvisation, Uzeste, cocreativity, computer music, per
 Authors: Gerard Assayag
 Summary: Improtech Uzeste gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### Workshop - Festival - Uzeste, France
+#### Workshop - Festival : Uzeste, France 11-13 August 2023
 <br>
 <br>
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
