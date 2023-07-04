@@ -1,5 +1,11 @@
 title: Activities
 
+<br>
+<p align="center">
+  <img src="../images/Logo_improtech_anniv.png" width="150">
+</p>
+<br>
+
 
 #Concerts
 
@@ -112,7 +118,8 @@ Rob Frye
 
 # Conférences, keynotes
 
-Suivre le programme en formation sur : improtech.ircam.fr/ikuzeste
+...en construction...
+
 
 <br>
 <p align="center">
