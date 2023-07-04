@@ -7,12 +7,11 @@ Title: Credits
 Improtech is an ERC REACH action supported by the European Research Council within the Horizon 2020 program (Convention No. 883313).
 
 
-Produced by
+Produced & supported by
 
 <br>
 <p align="center">
-<a target="_blank" href="https://www.ircam.fr"> <img  src="../images/Logo_Ircam.jpg" width="180"> </a>
-<a target="_blank" href="http://esadmm.fr/conservatoire/presentation/presentation/"> <img  src="../images/Logo_CNRRM.jpg" width="200"> </a>
+  <img src="../images/kUZESTE_logos.png" width="600">
 </p>
 <br>
 

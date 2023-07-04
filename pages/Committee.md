@@ -6,38 +6,31 @@ title: Committee
 
 Gérard Assayag (Research Director, IRCAM)  
 Marc Chemillier (Research Director, EHESS)  
-Raphaël Imbert (Director of Marseille Conservatory)  
+Bernard Lubat, Fabrice Vieira (Compagnie Lubat, Uzeste Musical)
 
 
 ### Organisation Committee
 
-Vasiliki Zachari (IRCAM) coordination   
-Nicolas Journeau (Conservatoire) coordination  
-Beatrice Simonet (IFAMM) production  
-Garance Pichet (Conservatoire) chargée de production  
-Roseline Lansard (Conservatoire) communication  
-Jacques Corrazier (Conservatoire) régisseur  
-Pierre Couprie (U. of Evry/Paris-Saclay) programmation  
-Mikhail Malt (IRCAM), Creative Systems  
-Georges Bloch (IRCAM), Creative Systems  
-Ingénieur Son (IRCAM)  
-RIM (IRCAM)  
-
-... in construction ...  
+Vasiliki Zachari (IRCAM) administration
+Martine Bois (Uzeste) administration
+Isabelle Pauly (Uzeste)  logement, transport
+Celine Rutaly (Uzeste) production 
+David Brunet (Uzeste) régisseur plateau
+Patrick Lafrance (Uzeste) ingénieur son
+Guillaume Prudon (Uzeste) Regisseur général
 
 ### Collaborators and Partners
 
 Sylvie Benoit, Artistic advisor  
 Jeff Joly, Popmyfilm,	Film maker  
-Regis Michel, Film Maker  
 Turner Williams Jr, Graphic Design  
-... in construction ...  
 
 ### Volunteers
-... in construction ...  
 
 ### Science / Art  Advisory Board
 
+Anastasia Georgakis, Kapodistrian University of Athens
+Cristos Carras, Onassis STEGI, Athens
 Pierre Couprie, U. of Evry/Paris-Saclay  
 Emilios Cambouropulos, Aristotle University of Thessaloniki  
 Suguru Goto, Geidai University of the Arts, Tokyo  
