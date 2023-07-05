@@ -44,7 +44,7 @@ For the first time, Improtech will be held in France : **Improtech @ Uzeste!**
 <br>
 <img src="./images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ##Highlights
-<br>
+<br><br><br>
 
 ### Concerts
 
@@ -69,6 +69,8 @@ Héraut de la jeune scène marseillaise, Cyril Benhamou (flûte, claviers) tente
 IMPROTECH@ Uzeste ! :  c’est simplement de la dynamite !
 
 ### Workshops and conferences
+
+.... coming ....
 
 <br>
 <br>
