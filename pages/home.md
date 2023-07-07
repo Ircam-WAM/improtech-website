@@ -67,16 +67,10 @@ Héraut de la jeune scène marseillaise, Cyril Benhamou (flûte, claviers) tente
 
 Outre les concerts du soir, Improtech propose un riche programme de conférences Keynotes, de présentations, de workshops et performances expérimentales dans la journée.
 
-Consultez le [programme complet](filename}/pages/Program.md).
+Consultez le [programme complet]({filename}/pages/Program.md).
 
 
 IMPROTECH@ Uzeste ! :  c’est simplement de la dynamite !
-
-
-
-### Workshops and conferences
-
-.... coming ....
 
 <br>
 <br>
