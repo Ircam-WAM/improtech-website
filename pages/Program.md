@@ -62,7 +62,9 @@ Roscoe Mitchell (Sax)
 <br>
 
 
-#Keynotes / Workshops / Démos / Performances
+#Keynotes / Workshops / Présentations / Performances
+
+<br>
 
 ##REACH : Raising Co-Creativity in Cyber-Human Musicianship	(Keynote)
 Shlomo Dubnov (UC San Diego)
