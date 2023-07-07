@@ -87,10 +87,10 @@ Du côté industriel, les technologies EMG ou EEG appliquées à la musique et a
 
 
 ##Somax2, hommage à Xenakis
-Marco Fiorini (Ircam), Mikhail Malt (Ircam), Lorenzo Colombo (percussioniste), Pavlos Antonisadis (Université de Thessalonique)
+Marco Fiorini (Ircam), Mikhail Malt (Ircam), Lorenzo Colombo (percussioniste), Pavlos Antoniadis (Université de Ioannina)
 
 Somax2 est un logiciel  pour la co-improvisation musicien - machine basé sur une écoute automatique, un moteur réactif et un modèle génératif qui fournissent une improvisation stylistiquement cohérente tout en s'adaptant continuellement au musicien (ou à d’autres agents Somax2). Somax2 utilise un modèle de mémoire cognitive et des algorithmes d’IA pour apprendre des matériaux musicaux et trouver les correspondances avec les éléments mélodiques, texturaux et rythmiques du mmusicien.
-A partir de leur pièce "A.I. Komboï “ (Hommage à Iannis Xenakis) Marco Fiorini et Lorenzo Colombo montreront comment l’IA peut aider à créer un morceau de musique cohérent après avoir été instruite pour utiliser le matériel de clavecin composé par Xenakis, réagir au matériel de percussion par une écoute active, créer une musique improvisée cohérente en temps réel. Mikhail Malt parlera de même de ses hommage à Keren pour trombone (avec Benny Sluchin) ou Evryiali pour piano (avec Pavlos Antoniadis) de Xenakis.
+A partir de leur pièce "A.I. Komboï “ (Hommage à Iannis Xenakis) Marco Fiorini et Lorenzo Colombo montreront comment l’IA peut aider à créer un morceau de musique cohérent après avoir été instruite pour utiliser le matériel de clavecin composé par Xenakis, réagir au matériel de percussion par une écoute active, créer une musique improvisée cohérente en temps réel. Mikhail Malt parlera de même de ses hommage à Keren pour trombone (avec Benny Sluchin) ou Evryali pour piano (avec Pavlos Antoniadis) de Xenakis.
 
 
 ##FAUST et l’Improvisation
@@ -108,7 +108,7 @@ MUGIC est présenté par son inventrice, Mari Kimura, violoniste à l'avant-gard
 
 
 ##Sardine Live Coding
-Raphael Forment (Paris 8) et Rémi Georges (Live codeur)
+Raphael Forment (U. Jean Monnet et Paris 8) et Rémi Georges (Live codeur)
 
 Sardine est un environnement pour l'improvisation musicale algorithmique (live coding) conçu en Python 3.10+. Sardine transforme l'interpréteur Python en instrument de musique réactif permettant l'écriture de motifs rythmiques et mélodiques interprétés au vol. L'environnement est conçu de manière modulaire, permettant au musicien de lier Sardine à n'importe quel instrument électronique (MIDI/OSC/SuperCollider) ou d'étendre l'environnement de jeu en utilisant toutes les ressources de Python et de l'ordinateur. Sardine propose une approche multimodale de l'improvisation. Plusieurs langages pensés pour la manipulation de patterns algorithmiques peuvent être utilisés conjointement, facilitant la manipulation des objets musicaux et le flux des idées lors du jeu sur l'instrument. Sardine peut également se synchroniser au travers de divers protocoles (MIDI, Ableton Link) afin de s'intégrer au sein d'un ensemble musical plus vaste.
 
