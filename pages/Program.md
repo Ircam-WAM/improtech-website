@@ -21,7 +21,7 @@ Benoit Delbeq (claviers, électronique) &  Josef Dumoulin (claviers ,électroniq
 
 Benny Sluchin (trombone), Mikhail Malt (ordi Somax2), Pavlos Antoniadis (piano)
 
-Evan parker (Saxophones), Mari Kimura (Violon, électronique MUGI), Laurent Mariusse (percussion)											
+Evan parker (Saxophones), Mari Kimura (Violon, électronique MUGIC), Laurent Mariusse (percussion)											
 
 
 ## Concert #2  12 août
@@ -36,7 +36,7 @@ Rob Frye (percussions, vents), Laurent Mariusse (percussion), Turner Williams (S
 
 Evan Parker (Saxophones), Jean-Marc Foussat (Synthétiseurs) : Duo
 
-Pierre Couprie (live electronics), Mari Kimura (Violon, électronique MUGI), Gyorgy Kurtag (Handsonic), Jean-Marc Montera (Guitares) : Rencontres du 7ème type																				
+Pierre Couprie (live electronics), Mari Kimura (Violon, électronique MUGIC), Gyorgy Kurtag (Handsonic), Jean-Marc Montera (Guitares) : Rencontres du 7ème type																				
 
 
 ## Concert #3 13 août
