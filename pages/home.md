@@ -44,9 +44,7 @@ For the first time, Improtech will be held in France : **Improtech @ Uzeste!**
 <br>
 <img src="./images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ##Highlights
-<br><br><br>
-
-### Concerts
+<br>
 
 Cette édition d’IMPROTECH à Uzeste met notamment à l’honneur trois légendes de l’improvisation libre, Evan Parker, Joëlle Léandre et Roscoe Mitchell. Le premier apparaît dans trois situations : en trio avec la violoniste virtuose américaine Mari Kimura et le percussionniste Laurent Mariusse, en duo avec son vieux compagnon Jean-Marc-Foussat aux synthétiseurs, et dans un double duo invitant outre ce dernier, Joëlle Léandre et Gérard Assayag opérant le logiciel d’IA musicale Somax2 pour une co-improvisation machinique dans l’esprit d'IMPROTECH. Joëlle Léandre donne une version spéciale pour Uzeste du spectacle REACHing OUT qui a enflammé le centre Georges Pompidou en juin, avec les “Who/Men” de l’IRCAM opérant Somax2. Enfin Roscoe Mitchell, figure mythique de l’Art ensemble of Chicago présent pour la première fois à Uzeste, jouera en duo avec lui-même et son chien à travers une vidéo tournée à son domicile par son épouse vidéaste Wendy et recombinée par l’IA de Djazz et son extension visuelle.
 
@@ -64,9 +62,17 @@ Spécialistes de cette musique dite « savante » (l’improvisation est savante
 
 Le saxophoniste Maciek Lasserre s’acoquine avec le rappeur sénégalais Gaston Bandimic et la langue Wolof : tous deux sont membres de la formation Sélébéyone (portée par Steve Lehman, musicien majeur de la nouvelle génération jazz américaine).
 
-Héraut de la jeune scène marseillaise, Cyril Benhamou (flûte, claviers) tente une fusion impromptue avec le compositeur et performer numérique Stylianos Dimou, le clarinettiste Jean-Brice Godet et l’inévitable Laurent Mariusse.
+Héraut de la jeune scène marseillaise, Cyril Benhamou (flûte, claviers) tente une fusion impromptue avec le compositeur et performer numérique Stylianos Dimou, le clarinettiste Jean-Brice Godet et l’inévitable Laurent Mariusse. Shlomo Dubnov chercheur et compositeur tente de son côté une fusion des résultats les plus récents de l’IA générative et de la performance.
+
+
+Outre les concerts du soir, Improtech propose un riche programme de conférences Keynotes, de présentations, de workshops et performances expérimentales dans la journée.
+
+Consultez le [programme complet]().
+
 
 IMPROTECH@ Uzeste ! :  c’est simplement de la dynamite !
+
+
 
 ### Workshops and conferences
 
