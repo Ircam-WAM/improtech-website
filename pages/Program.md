@@ -16,8 +16,8 @@ Marco Fiorini (guitare, ordi Somax2), Francesco Diodati (guitare), Lorenzo Colom
 Maciek Lasserre (saxophone), gaston Bandimic (Rap)
 
 Justin Vali (Cithare), Charles Kely Zana-Rotsy (guitare , Voix), Marc Chemillier (ordi Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (Video): Collectif Trans(e)-musical
-		
-Benoit Delbeq (claviers, électronique) &  Josef Dumoulin (claviers ,électronique) : Plug & Pray :
+
+Benoit Delbeq (claviers, électronique) &  Josef Dumoulin (claviers ,électronique) : Plug & Pray
 
 Benny Sluchin (trombone), Mikhail Malt (ordi Somax2), Pavlos Antoniadis (piano)
 
@@ -30,7 +30,7 @@ Joëlle Léandre the Who/Men : Joëlle Léandre (contrebasse, voix) , Mikhail Ma
 
 Raphael Forment et Rémi Georges (ordi, Sardine live-coding) : Sardine !
 
-Jaap Blonk (voix), Hervé Sellin (piano), Georges Bloch (Ordi Omax et Somax2, Voix), Nurith Aviv (Video) : Paris bout-à-bout en abyme 
+Jaap Blonk (voix), Hervé Sellin (piano), Georges Bloch (Ordi Omax et Somax2, Voix), Nurith Aviv (Video) : Paris bout-à-bout en abyme
 
 Rob Frye (percussions, vents), Laurent Mariusse (percussion), Turner Williams (Shahibaja)
 
@@ -77,11 +77,11 @@ Pierre Saint-Gernier (Ircam , CNRS)
 Si l'on prend au sérieux les recherches menées en sciences cognitives sous la bannière de l'Embodied Cognition Program les approches strictement logicielles en IA musicale, par opposition aux approches robotiques, semblent souffrir d'une limitation intrinsèque en se coupant des ressources que représente l'incarnation des agents. L'utilisation de techniques d'apprentissage automatique permettant à des agents artificiels d'improviser dans le style d'un corpus défini relance cependant cette question en suggérant la possibilité que certaines propriétés cruciales de l'incarnation soit transmises via le corpus d'apprentissage, s'il est lui-même produit par des agents incarnés. Cette présentation vise d'une part à explorer cette hypothèse d'un point de vue théorique en isolant conceptuellement deux dimensions de l'incarnation des agents musicaux qui sont souvent confondues, et en présentant un protocole permettant de la tester expérimentalement.
 
 
-##BBDMI Body Brain Digital Music Instrument	
+##BBDMI Body Brain Digital Music Instrument
 Alain Bonardi (Paris 8), Atau Tanaka (Goldsmith college), Stephen Whitmarsh (Institut du cerveau)
 
 Faire de la musique à partir des signaux électriques des muscles et du cerveau en s’appuyant sur les technologies EMG et EEG.
-	
+
 L’utilisation des signaux physiologiques du cerveau et du corps humains dans l’interaction homme-machine est devenue majeure, constituant le domaine de recherche de l’informatique physiologique. Les musiciens ont été à l’avant-garde du développement d’instruments de musique numériques adoptant des interfaces physiologiques, mais leurs efforts sont restés au niveau de l’expérimentation,  souvent isolés des communautés scientifiques concernées.
 Du côté industriel, les technologies EMG ou EEG appliquées à la musique et aux arts numériques sont en général développées de façon propriétaire, sans donner accès aux savoirs ni aux technologies mises en œuvre. Dans une perspective de sciences ouvertes étendue à l’industrie, BBDMI vise le développement libre d’un instrument de musique physiologique robuste et utilisable par des musiciens et des artistes sans connaissances spécialisées dans les domaines des neurosciences et de l’analyse du signal.
 
@@ -100,20 +100,20 @@ FAUST (acronyme anglais de Functional AUdio STream) est un langage de programmat
 Inventé par Yann Orlarey, il y a une vingtaine d’années, ce langage permettant la synthèse et le traitement du son, a rendu le développement du calcul numérique pour le signal musical  plus accessible, avec notamment un système de déploiement vers un grand nombre de plate-formes.
 Il connait un succès majeur dans l’ensemble des lieux de recherche et de création dans le monde.
 
-##MUGIC	
+##MUGIC
 Mari Kimura (U.C. Irvine)
 
 MUGIC est un capteur en forme de gant WIFI facile à utiliser, adapté à l'apprentissage et à l'enseignement de la musique électronique, des graphiques interactifs et à la création de sons, au contrôle des effets, à la modification des paramètres d'éclairage, à la génération de visuels et à bien d'autres choses encore. MUGIC permet d'étendre le contrôle sur le système musical numérique et de traduire les mouvements en données musicalement significatives.
 MUGIC est présenté par son inventrice, Mari Kimura, violoniste à l'avant-garde des capacités techniques et expressives de l'instrument. En tant qu'interprète, compositrice, chercheuse et entrepreneuse, Mari a ouvert de nouveaux mondes sonores et de nouvelles possibilités musicales pour le violon, notamment à l’aide du contrôle gestuel numérique présenté ici.
 
 
-##Sardine Live Coding	
+##Sardine Live Coding
 Raphael Forment (Paris 8) et Rémi Georges (Live codeur)
 
 Sardine est un environnement pour l'improvisation musicale algorithmique (live coding) conçu en Python 3.10+. Sardine transforme l'interpréteur Python en instrument de musique réactif permettant l'écriture de motifs rythmiques et mélodiques interprétés au vol. L'environnement est conçu de manière modulaire, permettant au musicien de lier Sardine à n'importe quel instrument électronique (MIDI/OSC/SuperCollider) ou d'étendre l'environnement de jeu en utilisant toutes les ressources de Python et de l'ordinateur. Sardine propose une approche multimodale de l'improvisation. Plusieurs langages pensés pour la manipulation de patterns algorithmiques peuvent être utilisés conjointement, facilitant la manipulation des objets musicaux et le flux des idées lors du jeu sur l'instrument. Sardine peut également se synchroniser au travers de divers protocoles (MIDI, Ableton Link) afin de s'intégrer au sein d'un ensemble musical plus vaste.
 
 
-##Jardim das Cartas	
+##Jardim das Cartas
 Jonatas Manzoli
 
 L'installation Jardim das Cartas réunit des instruments, des vidéos, de la danse, de la poésie, des voix et des paysages sonores pour exprimer une écologie de la présence. Les visiteurs y sont immergés dans des rhizomes de médias numériques pour stimuler leur imagination avec des sensations multimodales. Il s'agit d'une introduction à l'interaction multimodale à l'aide de la technologie numérique, présentée par Jonatas Manzoli, qui a dirigé le NICS, le Núcleo Interdisciplinar de Comunicação Sonora de l’université de Campinas au Brésil.
@@ -123,7 +123,7 @@ L'installation Jardim das Cartas réunit des instruments, des vidéos, de la dan
 
 Rob Frye
 
-«  Mes instruments sont les bois (saxes, flûtes, clarinettes), des guitares, des percussions, un échantillonneur et un synthétiseur. C'est plutôt conventionnel. J'utilise également des micros de contact pour amplifier les petits sons d'objets quotidiens, ce qui fait de n'importe quel objet un instrument amplifié. Cela m'a conduit à jouer de la musique répétitive et rythmique sur des roues ou des pneus de bicyclettes [Flux Bikes]. Non, ce n'est pas comme Frank Zappa. Pas du tout. L'acquisition (ou la découverte) de nouveaux instruments est un moyen amusant pour moi de trouver de nouveaux sons et de faire une pause par rapport aux axes que je joue souvent. L'une des façons dont j'aime travailler est de me lancer un défi et de voir quel processus je peux trouver pour obtenir des résultats. Par exemple, j'essaie de voir à quel point je peux rendre groovy et polyrythmique le son d'une roue de vélo, qui n'a que quelques sons. » 
+«  Mes instruments sont les bois (saxes, flûtes, clarinettes), des guitares, des percussions, un échantillonneur et un synthétiseur. C'est plutôt conventionnel. J'utilise également des micros de contact pour amplifier les petits sons d'objets quotidiens, ce qui fait de n'importe quel objet un instrument amplifié. Cela m'a conduit à jouer de la musique répétitive et rythmique sur des roues ou des pneus de bicyclettes [Flux Bikes]. Non, ce n'est pas comme Frank Zappa. Pas du tout. L'acquisition (ou la découverte) de nouveaux instruments est un moyen amusant pour moi de trouver de nouveaux sons et de faire une pause par rapport aux axes que je joue souvent. L'une des façons dont j'aime travailler est de me lancer un défi et de voir quel processus je peux trouver pour obtenir des résultats. Par exemple, j'essaie de voir à quel point je peux rendre groovy et polyrythmique le son d'une roue de vélo, qui n'a que quelques sons. »
 
 
 ##La mainvielle à roue
@@ -136,4 +136,3 @@ La mainvielle à roue projette des sons venus d'ailleurs en tournant la manivell
   <img src="../images/Logo_improtech_anniv.png" width="150">
 </p>
 <br>
-
