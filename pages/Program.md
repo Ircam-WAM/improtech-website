@@ -28,7 +28,7 @@ Evan parker (Saxophones), Mari Kimura (Violon, électronique MUGI), Laurent Mari
 
 Joëlle Léandre the Who/Men : Joëlle Léandre (contrebasse, voix) , Mikhail Malt, Marco Fiorini, Gérard Assayag (ordi Somax2), invité Jean-Brice Godet (Clarinette) : REACHing OUT !
 
-Raphael Forment et Georges Rémy (ordi, Sardine live-coding) : Sardine !
+Raphael Forment et Rémi Georges (ordi, Sardine live-coding) : Sardine !
 
 Jaap Blonk (voix), Hervé Sellin (piano), Georges Bloch (Ordi Omax et Somax2, Voix), Nurith Aviv (Video) : Paris bout-à-bout en abyme 
 
