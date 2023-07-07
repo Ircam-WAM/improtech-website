@@ -108,7 +108,7 @@ MUGIC est présenté par son inventrice, Mari Kimura, violoniste à l'avant-gard
 ##Sardine Live Coding	
 Raphael Forment (Paris 8) et Rémi Georges (Live codeur)
 
-Sardine est une bibliothèque Python conviviale pour les hackers, conçue pour l'improvisation musicale, la composition algorithmique et les constructions visuelles. Sardine transforme votre interpréteur Python en un instrument de musique qui vous permet d'écrire des motifs mélodiques et rythmiques de toutes sortes et de les mapper à n'importe quel instrument électronique : MIDI, OSC et/ou SuperCollider. Sardine peut dialoguer avec n'importe quel appareil MIDI/OSC et avec le moteur audio de SuperCollider. Sardine se lie à SuperDirt, un moteur de synthèse bien connu utilisé par les codeurs live.
+Sardine est un environnement pour l'improvisation musicale algorithmique (live coding) conçu en Python 3.10+. Sardine transforme l'interpréteur Python en instrument de musique réactif permettant l'écriture de motifs rythmiques et mélodiques interprétés au vol. L'environnement est conçu de manière modulaire, permettant au musicien de lier Sardine à n'importe quel instrument électronique (MIDI/OSC/SuperCollider) ou d'étendre l'environnement de jeu en utilisant toutes les ressources de Python et de l'ordinateur. Sardine propose une approche multimodale de l'improvisation. Plusieurs langages pensés pour la manipulation de patterns algorithmiques peuvent être utilisés conjointement, facilitant la manipulation des objets musicaux et le flux des idées lors du jeu sur l'instrument. Sardine peut également se synchroniser au travers de divers protocoles (MIDI, Ableton Link) afin de s'intégrer au sein d'un ensemble musical plus vaste.
 
 
 ##Jardim das Cartas	
