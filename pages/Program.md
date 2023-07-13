@@ -125,10 +125,8 @@ Shlomo Dubnov (ordinateur IA générative et participative)
 Duo avec soi-même
 Roscoe Mitchell (saxophones), Marc Chemillier (ordinateurs), Georges Bloch (ordinateurs, vidéo)
 
-00h – Tonnelle Café du Sport – dance floor live remix
+###00h – Tonnelle Café du Sport – dance floor live remix
 Bal d'improtech Entremélimélomélant acoustic-électropanik pour danser en dehors des clous.
-
-
 
 
 
