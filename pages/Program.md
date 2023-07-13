@@ -20,8 +20,10 @@ par Pierre Saint-Gernier (Ircam, CNRS), conférencier invité
 ###15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
 Voix au naturel ou à l'électronique
 par Jaap Blonk (voix), Fabrice Vieira (voix)
+
 Jardim das Cartas
 par Jonatas Manzoli
+
 Sardine Live Coding
 par Raphaël Forment, Rémi Georges
 
