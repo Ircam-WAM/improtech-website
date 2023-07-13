@@ -142,7 +142,7 @@ Bal d'improtech Entremélimélomélant acoustic-électropanik pour danser en deh
 <br>
 
 ##REACH : Raising Co-Creativity in Cyber-Human Musicianship	(Keynote)
-Shlomo Dubnov (UC San Diego)
+Shlomo Dubnov (directeur de recherche au Qualcomm Institute à l'Université de Californie à San Diego)
 
 Le projet REACH vise à comprendre, modéliser et développer la co-créativité musicale entre les humains et les machines par le biais d'interactions improvisées, permettant aux musiciens de tout niveau de formation de développer leurs compétences et d'accroître leur potentiel créatif individuel et social. Shlomo dubnov en présente les aspects liés au machine learning et l'intelligence artificielle, qui permettent de voir une co-improvisation par un agent digital comme un transfert continu d'information à partir d'un signal de contrôle (le musicien humain), en maximisant l'information mutuelle  (concept de théorie de l'information) de sorte à garder une cohérence et une pertinence dans la polyphonie des voix. Shlomo montrera aussi les applications les plus récentes de l’IA en matière de générativité musicale.
 
