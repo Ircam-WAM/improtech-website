@@ -7,51 +7,106 @@ title: Activities
 <br>
 
 
-#Concerts
 
-## Concert #1 11 août																						
+##Vendredi 11 août
+###11h – Théâtre Amusicien l'Estaminet – performance / débat
+Artisticiel
+par Bernard Lubat, Marc Chemillier, Gérard Assayag
 
-Marco Fiorini (guitare, ordi Somax2), Francesco Diodati (guitare), Lorenzo Colombo (percussion.)
+###12h30 – Théâtre Amusicien l'Estaminet – conférence
+Co-présence et incarnation dans les interactions improvisées cyber-humaines
+par Pierre Saint-Gernier (Ircam, CNRS), conférencier invité
 
-Maciek Lasserre (saxophone), gaston Bandimic (Rap)
+###15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
+Voix au naturel ou à l'électronique
+par Jaap Blonk (voix), Fabrice Vieira (voix)
+Jardim das Cartas
+par Jonatas Manzoli
+Sardine Live Coding
+par Raphaël Forment, Rémi Georges
 
-Justin Vali (Cithare), Charles Kely Zana-Rotsy (guitare , Voix), Marc Chemillier (ordi Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (Video): Collectif Trans(e)-musical
+###21h 30 – Chapiteau Marie Lubat – concert IMPROTECH N° 1
+Trio
+Marco Fiorini (guitare, ordinateur Somax2), Francesco Diodati (guitare), Lorenzo Colombo (percussions)
+Maciek Lasserre MCK [S] feat. Gaston Bandimic (Sénégal)
+Maciek Lasserre (saxophone, percussions, sampler), Gaston Bandimic (rap)
+Collectif Trans(e)-musical
+Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (vidéo)
+Plug & Pray
+Benoît Delbeq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
+Trio
+Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (piano)
+Duo vocal
+Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
+Trio
+Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
 
-Benoit Delbeq (claviers, électronique) &  Josef Dumoulin (claviers ,électronique) : Plug & Pray
+##Samedi 12 août
+10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
+FAUST et l’Improvisation
+par Yann Orlarey (INRIA, équipe EMERAUDE)
+Flux Bikes
+par Rob Frye
+La mainvielle à roue
+par André Minvielle
 
-Benny Sluchin (trombone), Mikhail Malt (ordi Somax2), Pavlos Antoniadis (piano)
-
-Evan parker (Saxophones), Mari Kimura (Violon, électronique MUGIC), Laurent Mariusse (percussion)											
-
-
-## Concert #2  12 août
-
-Joëlle Léandre the Who/Men : Joëlle Léandre (contrebasse, voix) , Mikhail Malt, Marco Fiorini, Gérard Assayag (ordi Somax2), invité Jean-Brice Godet (Clarinette) : REACHing OUT !
-
-Raphael Forment et Rémi Georges (ordi, Sardine live-coding) : Sardine !
-
-Jaap Blonk (voix), Hervé Sellin (piano), Georges Bloch (Ordi Omax et Somax2, Voix), Nurith Aviv (Video) : Paris bout-à-bout en abyme
-
-Rob Frye (percussions, vents), Laurent Mariusse (percussion), Turner Williams (Shahibaja)
-
-Evan Parker (Saxophones), Jean-Marc Foussat (Synthétiseurs) : Duo
-
-Pierre Couprie (live electronics), Mari Kimura (Violon, électronique MUGIC), Gyorgy Kurtag (Handsonic), Jean-Marc Montera (Guitares) : Rencontres du 7ème type																				
+15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
+MUGIC, contrôle gestuel
+par Mari Kimura (University of California, Irvine)
+Somax2, hommage à Xenakis
+par Marco Fiorini (Ircam), Mikhail Malt (Ircam), Lorenzo Colombo (percussionniste), Pavlos Antoniadis (Université de Ioannina)
+BBDMI Body Brain Digital Music Instrument
+par Alain Bonardi (Université Paris 8), Atau Tanaka (Goldsmith College), Stephen Whitmarsh (Institut du cerveau)
 
 
-## Concert #3 13 août
+21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n°2
+REACHing OUT !
+Joëlle Léandre the Who/Men : Joëlle Léandre (contrebasse, voix), Mikhail Malt, Marco Fiorini, Gérard Assayag (ordinateurs Somax2), invité Jean-Brice Godet (clarinette)
+Sardine !
+Raphaël Forment et Rémi Georges (ordinateurs, Sardine live coding)
+Paris bout-à-bout en abyme
+Jaap Blonk (voix), Hervé Sellin (piano), Georges Bloch (ordinateur OMax et Somax2, voix), Nurith Aviv (vidéo)
+Trio
+Rob Frye (percussions, vents), Laurent Mariusse (percussion), Turner Williams (shahibaja)
+Duo
+Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs)
+Rencontres du 7ème type
+Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), György Kurtag (handsonic), Jean-Marc Montera (guitares)
 
-Evan Parker, (saxophones) Jean-Marc Foussat (synthétiseurs) / Joëlle Léandre (contrebasse, voix), Gérard Assayag (ordi Somax2) : Double duo																	
+00h – Tonnelle Café du Sport – projection
 
-Cyril Benhamou (flûte, Claviers), Stylianos Dimou (Live electronics), Jean-Brice Godet (Clarinette), Laurent Mariusse (percussions)
+##Dimanche 13 août
+10h – Théâtre Amusicien l'Estaminet – table ronde
+« Musique à voir », avec le soutien de Culture connectée région Nouvelle-Aquitaine
+entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
 
-André Minvielle (voix) et Camel Zecri (guitare augmentée)
+15h – Théâtre Amusicien l'Estaminet – conférence
+REACH : Raising Co-Creativity in Cyber-Human Musicianship
+par Shlomo Dubnov (University of California, San Diego), conférencier invité
 
-Bernard Lubat (piano, Voix), Sylvain Luc (Guitare), Marc Chemillier, Gérard Assayag (Ordi) : Lubax Lux
+16h – Théâtre Amusicien l'Estaminet – table ronde
+« De quoi l'intelligence artificielle est-elle le nom ? »
+ingénieurs de l'UJICT, représentants artistiques...
+Fabien Barontini, Bernard Lubat, Shlomo Dubnov
 
-Shlomo Dubnov (ordi IA générative) : Aïe l’IA !
+21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3
+Double duo
+Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs) / Joëlle Léandre (contrebasse, voix), Gérard Assayag (ordinateur Somax2)
+Quatuor
+Cyril Benhamou (flûte, claviers), Stylianos Dimou (électronique), Jean-Brice Godet (clarinette), Laurent Mariusse (percussions)
+Duo
+André Minvielle (voix) et Camel Zekri (guitare augmentée)
+Lubax Lux
+Bernard Lubat (piano, voix), Sylvain Luc (guitare), Marc Chemillier, Gérard Assayag (ordinateurs)
+Aïe l’IA !
+Shlomo Dubnov (ordinateur IA générative)
+Duo avec soi-même
+Roscoe Mitchell (saxophones), Marc Chemillier (ordinateurs), Georges Bloch (ordinateurs, vidéo)
 
-Roscoe Mitchell (Sax)
+00h – Tonnelle Café du Sport – dance floor live remix
+Bal d'improteck Entremélimélomélant acoustic-électropanik pour danser en dehors des clous.
+
+
 
 
 
