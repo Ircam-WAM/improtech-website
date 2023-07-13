@@ -60,7 +60,8 @@ La jeune scène est comme toujours bienvenue dans IMPROTECH avec des live-codeur
 
 Spécialistes de cette musique dite « savante » (l’improvisation est savante en un autre sens) Benny Sluchin de l’Ensemble Intercontemporain fondé par Pierre Boulez, Pavlos Antoniadis, pianiste virtuose et chercheur à l’université de Thessalonique, et Mikhail Malt, un des Who/Men de l’IRCAM, mettent l’improvisation sur un plan inédit en l’instituant prolongation versatile et infinie de ce répertoire notamment Xenakis, Cage mais aussi Eliane Radigue ou Pauline Oliveiros.
 
-Le saxophoniste Maciek Lasserre s’acoquine avec le rappeur sénégalais Gaston Bandimic et la langue Wolof : tous deux sont membres de la formation Sélébéyone (portée par Steve Lehman, musicien majeur de la nouvelle génération jazz américaine).
+Le saxophoniste et compositeur Maciek Lasserre invite son partenaire pro-verbe wolof, le rappeur sénégalais Gaston Bandimic, pour un duo alliant sampling, écriture jazz contemporaine et rap expérimental. 
+Tous deux sont membres du MCK Projekt et du collectif avant-rap Sélébéyone (portée par Steve Lehman, musicien majeur de la nouvelle scène jazz américaine).
 
 Héraut de la jeune scène marseillaise, Cyril Benhamou (flûte, claviers) tente une fusion impromptue avec le compositeur et performer numérique Stylianos Dimou, le clarinettiste Jean-Brice Godet et l’inévitable Laurent Mariusse. Shlomo Dubnov chercheur et compositeur tente de son côté une fusion des résultats les plus récents de l’IA générative et de la performance.
 
