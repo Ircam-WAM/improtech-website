@@ -30,16 +30,22 @@ par Raphaël Forment, Rémi Georges
 ###21h 30 – Chapiteau Marie Lubat – concert IMPROTECH N° 1
 Trio
 Marco Fiorini (guitare, ordinateur Somax2), Francesco Diodati (guitare), Lorenzo Colombo (percussions)
+
 Maciek Lasserre MCK [S] feat. Gaston Bandimic (Sénégal)
 Maciek Lasserre (saxophone, percussions, sampler), Gaston Bandimic (rap)
+
 Collectif Trans(e)-musical
 Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (vidéo)
+
 Plug & Pray
 Benoît Delbeq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
+
 Trio
 Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (piano)
+
 Duo vocal
 Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
+
 Trio
 Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
 
