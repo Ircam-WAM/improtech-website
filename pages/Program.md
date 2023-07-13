@@ -50,69 +50,83 @@ Trio
 Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
 
 ##Samedi 12 août
-10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
+###10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
 FAUST et l’Improvisation
 par Yann Orlarey (INRIA, équipe EMERAUDE)
+
 Flux Bikes
 par Rob Frye
+
 La mainvielle à roue
 par André Minvielle
 
-15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
+###15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
 MUGIC, contrôle gestuel
 par Mari Kimura (University of California, Irvine)
+
 Somax2, hommage à Xenakis
 par Marco Fiorini (Ircam), Mikhail Malt (Ircam), Lorenzo Colombo (percussionniste), Pavlos Antoniadis (Université de Ioannina)
+
 BBDMI Body Brain Digital Music Instrument
 par Alain Bonardi (Université Paris 8), Atau Tanaka (Goldsmith College), Stephen Whitmarsh (Institut du cerveau)
 
 
-21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n°2
+###21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n°2
 REACHing OUT !
 Joëlle Léandre the Who/Men : Joëlle Léandre (contrebasse, voix), Mikhail Malt, Marco Fiorini, Gérard Assayag (ordinateurs Somax2), invité Jean-Brice Godet (clarinette)
+
 Sardine !
 Raphaël Forment et Rémi Georges (ordinateurs, Sardine live coding)
+
 Paris bout-à-bout en abyme
 Jaap Blonk (voix), Hervé Sellin (piano), Georges Bloch (ordinateur OMax et Somax2, voix), Nurith Aviv (vidéo)
+
 Trio
 Rob Frye (percussions, vents), Laurent Mariusse (percussion), Turner Williams (shahibaja)
+
 Duo
 Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs)
+
 Rencontres du 7ème type
 Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), György Kurtag (handsonic), Jean-Marc Montera (guitares)
 
 00h – Tonnelle Café du Sport – projection
 
 ##Dimanche 13 août
-10h – Théâtre Amusicien l'Estaminet – table ronde
+###10h – Théâtre Amusicien l'Estaminet – table ronde
 « Musique à voir », avec le soutien de Culture connectée région Nouvelle-Aquitaine
 entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
 
-15h – Théâtre Amusicien l'Estaminet – conférence
+###15h – Théâtre Amusicien l'Estaminet – conférence
 REACH : Raising Co-Creativity in Cyber-Human Musicianship
 par Shlomo Dubnov (University of California, San Diego), conférencier invité
 
-16h – Théâtre Amusicien l'Estaminet – table ronde
+###16h – Théâtre Amusicien l'Estaminet – table ronde
 « De quoi l'intelligence artificielle est-elle le nom ? »
 ingénieurs de l'UJICT, représentants artistiques...
 Fabien Barontini, Bernard Lubat, Shlomo Dubnov
 
-21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3
+###21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3
 Double duo
 Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs) / Joëlle Léandre (contrebasse, voix), Gérard Assayag (ordinateur Somax2)
+
 Quatuor
 Cyril Benhamou (flûte, claviers), Stylianos Dimou (électronique), Jean-Brice Godet (clarinette), Laurent Mariusse (percussions)
+
 Duo
 André Minvielle (voix) et Camel Zekri (guitare augmentée)
+
 Lubax Lux
 Bernard Lubat (piano, voix), Sylvain Luc (guitare), Marc Chemillier, Gérard Assayag (ordinateurs)
+
 Aïe l’IA !
-Shlomo Dubnov (ordinateur IA générative)
+Shlomo Dubnov (ordinateur IA générative et participative)
+
 Duo avec soi-même
 Roscoe Mitchell (saxophones), Marc Chemillier (ordinateurs), Georges Bloch (ordinateurs, vidéo)
 
 00h – Tonnelle Café du Sport – dance floor live remix
-Bal d'improteck Entremélimélomélant acoustic-électropanik pour danser en dehors des clous.
+Bal d'improtech Entremélimélomélant acoustic-électropanik pour danser en dehors des clous.
 
 
 
@@ -125,7 +139,7 @@ Bal d'improteck Entremélimélomélant acoustic-électropanik pour danser en deh
 <br>
 
 
-#Keynotes / Workshops / Présentations / Performances
+# Workshops et conférences
 
 <br>
 
