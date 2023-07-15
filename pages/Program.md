@@ -224,6 +224,8 @@ André Minvielle (voix, mainvielle)
 
 La mainvielle à roue projette des sons venus d'ailleurs en tournant la manivelle. C'est le retour de manivelle. Oralité, agencement des timbres, du rythme, de l'harmonie, du chaos comme de la création ! J’ai proposé à Jacques Granchamp facteur d’instruments toulousain, de me fabriquer une vielle à roue comme Marcel Duchamp aurait fait un tableau. C’est avec enthousiasme que Jacques me fabriquait une « main-vielle à roue » avec « tapier ». C’est en suivant que j’eus l’idée de projeter au rythme de sa manivelle de la lumière et des images. C’est Arno Tartary le compagnon des premiers pas du projet « Suivez l’accent » qui se chargea de trouver un procédé, élaboré ensuite par Pierre Boulant…
 
+
+###Voix au naturel ou à l'électronique
 par Jaap Blonk (voix), Fabrice Vieira (voix)
 
 
