@@ -11,27 +11,22 @@ title: Activities
 
 ##Vendredi 11 août
 <br>
-####11h – Théâtre Amusicien l'Estaminet – performance / débat
-**Artisticiel**
-
+####*11h – *Théâtre Amusicien l'Estaminet – performance / débat*
+**Artisticiel**  
 par Bernard Lubat, Marc Chemillier, Gérard Assayag
 
 ####12h30 – Théâtre Amusicien l'Estaminet – conférence
-**Co-présence et incarnation dans les interactions improvisées cyber-humaines**
-
+**Co-présence et incarnation dans les interactions improvisées cyber-humaines**  
 par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
 
 ####15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
-**Voix au naturel ou à l'électronique**
-
+**Voix au naturel ou à l'électronique**  
 par Jaap Blonk (voix), Fabrice Vieira (voix)
 
-**Flux Bikes**
-
+**Flux Bikes**  
 par Rob Frye
 
-**Sardine Live Coding**
-
+**Sardine Live Coding**  
 par Raphaël Forment, Rémi Georges
 
 ####21h 30 – Chapiteau Marie Lubat – concert IMPROTECH N° 1
