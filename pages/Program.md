@@ -1,13 +1,6 @@
 title: Programme
 
-#Programme Improtech @ Uzeste ! 2023
-
-<br>
-<p align="center">
-  <img src="../images/Logo_improtech_anniv.png" width="150">
-</p>
-<br>
-
+<br><br>
 
 ##Vendredi 11 août
 <br>
