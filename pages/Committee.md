@@ -78,8 +78,8 @@ Atau Tanaka, Goldsmiths University of London
 <a target="_blank" href="https://www.cnrs.fr"> <img  src="../images/LOGO_CNRS.png" width="120"> </a>
 <a target="_blank" href="https://www.sorbonne-universite.fr/"> <img  src="../images/Logo_SU.png" width="230"> </a>
 <a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCulture.jpg" width="120"> </a>
-<a target="_blank" href="https://ucsd.edu/"> <img  src="../images/Logo_UCSD.png" width="120"> </a>
-<a target="_blank" href="https://qi.ucsd.edu/"> <img  src="../images/Logo_Qualcomm.jpg" width="120"> </a>
+<a target="_blank" href="https://ucsd.edu/"> <img  src="../images/Logo_UCSD.png" width="240"> </a>
+<a target="_blank" href="https://qi.ucsd.edu/"> <img  src="../images/Logo_Qualcomm.jpg" width="240"> </a>
 
 </p>
 
