@@ -1,4 +1,4 @@
-title: Medias
+title: Visuals
 
 ---
 <br>
