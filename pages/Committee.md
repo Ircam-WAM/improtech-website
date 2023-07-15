@@ -1,4 +1,4 @@
-title: Committee
+title: Organisation
 
 ---
 
