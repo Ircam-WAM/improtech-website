@@ -13,42 +13,54 @@ title: Activities
 <br>
 ####11h – Théâtre Amusicien l'Estaminet – performance / débat
 Artisticiel
+
 par Bernard Lubat, Marc Chemillier, Gérard Assayag
 
 ####12h30 – Théâtre Amusicien l'Estaminet – conférence
 Co-présence et incarnation dans les interactions improvisées cyber-humaines
+
 par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
 
-###15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
+####15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
 Voix au naturel ou à l'électronique
+
 par Jaap Blonk (voix), Fabrice Vieira (voix)
 
 Flux Bikes
+
 par Rob Frye
 
 Sardine Live Coding
+
 par Raphaël Forment, Rémi Georges
 
-###21h 30 – Chapiteau Marie Lubat – concert IMPROTECH N° 1
+####21h 30 – Chapiteau Marie Lubat – concert IMPROTECH N° 1
 Trio
+
 Marco Fiorini (guitare, ordinateur Somax2), Francesco Diodati (guitare), Lorenzo Colombo (percussions)
 
 Maciek Lasserre MCK [S] feat. Gaston Bandimic (Sénégal)
+
 Maciek Lasserre (saxophone, percussions, sampler), Gaston Bandimic (rap)
 
 Collectif Trans(e)-musical
+
 Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (vidéo)
 
 Plug & Pray
+
 Benoît Delbeq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
 
 Trio
+
 Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (piano)
 
 Duo vocal
+
 Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
 
 Trio
+
 Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
 
 <br>
