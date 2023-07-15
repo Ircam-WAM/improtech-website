@@ -1,46 +1,56 @@
 title: Records and Media
 
 ---
-<br>
-### ... in  construction ...
+### Previous Improtech Editions
 
-Check the videos of [Improtech Paris-Athina](http://ikparisathina.ircam.fr/) 2019 on Vimeo
+[Paris - Athina edition 2019](http://ikparisathina.ircam.fr)
+
+[Paris - Philadelphia edition 2017](http://ikparisphilly.ircam.fr)
+
+[Paris - New-york edition 2012](http://repmus.ircam.fr/improtechpny)
+
+[Ircam original workshop at SMC'04](http://recherche.ircam.fr/equipes/repmus/SMC04/)
+
+
+### Check the videos of Improtech Paris-Athina 2019
+
+Improtech Paris-Athina [is here](http://ikparisathina.ircam.fr/)
 
 * [best-of concerts in Athènes](https://vimeo.com/428831250)
 * [the documentary](https://vimeo.com/432057132)
-* [full concerts  videos](https://vimeo.com/showcase/6364851)
-* [full musician interviews](https://vimeo.com/showcase/7276504)
+* [all concerts videos](https://vimeo.com/showcase/6364851)
+* [musician interviews](https://vimeo.com/showcase/7276504)
+
+### Improtech @ Uzeste ! Press kit
+
+*[Improtech 2023 Argument (PDF) (French) ]({filename}/doc/IkUzeste_Argument.pdf)*
 
 <br>
 
-*[Improtech 2022 Argument Doc (PDF) (French) ]({filename}/doc/IkMarseille_Argument.pdf)*
 
-*[Improtech 2022 Argument Doc (PDF) (English) ]({filename}/doc/IkMarseille_Argument_EN.pdf)*
+### Improtech @ Uzeste ! Logos
 
 <br>
-
 <p align="center">
   <img src="../images/Logo_improtech.jpg" width="300">
 </p>
-
 <br>
-
 <p align="center">
   <img src="../images/Logo_improtech_anniv.png" width="300">
 </p>
-
 <br>
 
-<br>
+### Improtech @ Uzeste ! Poster
 
+<br>
 <p align="center">
-  <img src="../images/IKPoster1a.jpg" width="1000">
+  <img src="../images/ikUZESTE_poster.6Mo.jpg" width="1000">
 </p>
-
+<br>
+<br>
 <p align="center">
   <img src="../images/IKPoster1b.jpg" width="1000">
 </p>
-
 <br>
 
 [Art Work & Graphic Design] © [Turner Williams](https://turnerwilliamsjr.com/)
