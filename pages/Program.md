@@ -7,7 +7,6 @@ title: Activities
 <br>
 
 
-
 ##Vendredi 11 août
 ###11h – Théâtre Amusicien l'Estaminet – performance / débat
 Artisticiel
@@ -15,14 +14,14 @@ par Bernard Lubat, Marc Chemillier, Gérard Assayag
 
 ###12h30 – Théâtre Amusicien l'Estaminet – conférence
 Co-présence et incarnation dans les interactions improvisées cyber-humaines
-par Pierre Saint-Gernier (Ircam, CNRS), conférencier invité
+par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
 
 ###15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
 Voix au naturel ou à l'électronique
 par Jaap Blonk (voix), Fabrice Vieira (voix)
 
-Jardim das Cartas
-par Jonatas Manzoli
+Flux Bikes
+par Rob Frye
 
 Sardine Live Coding
 par Raphaël Forment, Rémi Georges
@@ -54,8 +53,8 @@ Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mari
 FAUST et l’Improvisation
 par Yann Orlarey (INRIA, équipe EMERAUDE)
 
-Flux Bikes
-par Rob Frye
+Jardim das Cartas
+par Jonatas Manzoli
 
 La mainvielle à roue
 par André Minvielle
@@ -116,14 +115,12 @@ Cyril Benhamou (flûte, claviers), Stylianos Dimou (électronique), Jean-Brice G
 Duo
 André Minvielle (voix) et Camel Zekri (guitare augmentée)
 
-Lubax Lux
-Bernard Lubat (piano, voix), Sylvain Luc (guitare), Marc Chemillier, Gérard Assayag (ordinateurs)
-
 Aïe l’IA !
 Shlomo Dubnov (ordinateur IA générative et participative)
 
-Duo avec soi-même
-Roscoe Mitchell (saxophones), Marc Chemillier (ordinateurs), Georges Bloch (ordinateurs, vidéo)
+Lubax Lux
+Bernard Lubat (piano, voix), Sylvain Luc (guitare), Marc Chemillier, Gérard Assayag (ordinateurs)
+
 
 ###00h – Tonnelle Café du Sport – dance floor live remix
 Bal d'improtech Entremélimélomélant acoustic-électropanik pour danser en dehors des clous.
@@ -189,22 +186,26 @@ Sardine est un environnement pour l'improvisation musicale algorithmique (live c
 
 
 ##Jardim das Cartas
-Jonatas Manzoli
+Jonatas Manzoli (U. Campinas, Brésil)
 
 L'installation Jardim das Cartas réunit des instruments, des vidéos, de la danse, de la poésie, des voix et des paysages sonores pour exprimer une écologie de la présence. Les visiteurs y sont immergés dans des rhizomes de médias numériques pour stimuler leur imagination avec des sensations multimodales. Il s'agit d'une introduction à l'interaction multimodale à l'aide de la technologie numérique, présentée par Jonatas Manzoli, qui a dirigé le NICS, le Núcleo Interdisciplinar de Comunicação Sonora de l’université de Campinas au Brésil.
 
 
 ##Flux Bikes
 
-Rob Frye
+Rob Frye (multi-instrumentiste)
 
 «  Mes instruments sont les bois (saxes, flûtes, clarinettes), des guitares, des percussions, un échantillonneur et un synthétiseur. C'est plutôt conventionnel. J'utilise également des micros de contact pour amplifier les petits sons d'objets quotidiens, ce qui fait de n'importe quel objet un instrument amplifié. Cela m'a conduit à jouer de la musique répétitive et rythmique sur des roues ou des pneus de bicyclettes [Flux Bikes]. Non, ce n'est pas comme Frank Zappa. Pas du tout. L'acquisition (ou la découverte) de nouveaux instruments est un moyen amusant pour moi de trouver de nouveaux sons et de faire une pause par rapport aux axes que je joue souvent. L'une des façons dont j'aime travailler est de me lancer un défi et de voir quel processus je peux trouver pour obtenir des résultats. Par exemple, j'essaie de voir à quel point je peux rendre groovy et polyrythmique le son d'une roue de vélo, qui n'a que quelques sons. »
 
 
 ##La mainvielle à roue
-André Minvielle
+André Minvielle (voix, mainvielle)
 
 La mainvielle à roue projette des sons venus d'ailleurs en tournant la manivelle. C'est le retour de manivelle. Oralité, agencement des timbres, du rythme, de l'harmonie, du chaos comme de la création ! J’ai proposé à Jacques Granchamp facteur d’instruments toulousain, de me fabriquer une vielle à roue comme Marcel Duchamp aurait fait un tableau. C’est avec enthousiasme que Jacques me fabriquait une « main-vielle à roue » avec « tapier ». C’est en suivant que j’eus l’idée de projeter au rythme de sa manivelle de la lumière et des images. C’est Arno Tartary le compagnon des premiers pas du projet « Suivez l’accent » qui se chargea de trouver un procédé, élaboré ensuite par Pierre Boulant…
+
+##Voix au naturel ou à l'électronique
+par Jaap Blonk (voix), Fabrice Vieira (voix)
+
 
 <br>
 <p align="center">
