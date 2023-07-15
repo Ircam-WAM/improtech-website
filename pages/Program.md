@@ -33,32 +33,25 @@ par Raphaël Forment, Rémi Georges
 
 <br>
 ####*21h 30 – Chapiteau Marie Lubat – concert IMPROTECH N° 1*
-**Trio**
-
+**Trio**  
 Marco Fiorini (guitare, ordinateur Somax2), Francesco Diodati (guitare), Lorenzo Colombo (percussions)
 
-**Maciek Lasserre MCK [S] feat. Gaston Bandimic (Sénégal)**
-
+**Maciek Lasserre MCK [S] feat. Gaston Bandimic (Sénégal)**  
 Maciek Lasserre (saxophone, percussions, sampler), Gaston Bandimic (rap)
 
-**Collectif Trans(e)-musical**
-
+**Collectif Trans(e)-musical**  
 Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (vidéo)
 
-**Plug & Pray**
-
+**Plug & Pray**  
 Benoît Delbeq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
 
-**Trio**
-
+**Trio**  
 Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (piano)
 
-**Duo vocal**
-
+**Duo vocal**  
 Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
 
-**Trio**
-
+**Trio**  
 Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
 
 <br>
@@ -69,47 +62,49 @@ Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mari
 
 ##Samedi 12 août
 <br>
-####10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
-FAUST et l’Improvisation
+####*10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
+**FAUST et l’Improvisation**  
 par Yann Orlarey (INRIA, équipe EMERAUDE)
 
-Jardim das Cartas
+**Jardim das Cartas**  
 par Jonatas Manzoli
 
-La mainvielle à roue
+**La mainvielle à roue**  
 par André Minvielle
 
-####15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
-MUGIC, contrôle gestuel
+<br>
+####*15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
+MUGIC, contrôle gestuel**  
 par Mari Kimura (University of California, Irvine)
 
-Somax2, hommage à Xenakis
+**Somax2, hommage à Xenakis**  
 par Marco Fiorini (Ircam), Mikhail Malt (Ircam), Lorenzo Colombo (percussionniste), Pavlos Antoniadis (Université de Ioannina)
 
-BBDMI Body Brain Digital Music Instrument
+**BBDMI Body Brain Digital Music Instrument**    
 par Alain Bonardi (Université Paris 8), Atau Tanaka (Goldsmith College), Stephen Whitmarsh (Institut du cerveau)
 
 
-####21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n°2
-REACHing OUT !
+<br>
+####*21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n°2*
+**REACHing OUT !**  
 Joëlle Léandre the Who/Men : Joëlle Léandre (contrebasse, voix), Mikhail Malt, Marco Fiorini, Gérard Assayag (ordinateurs Somax2), invité Jean-Brice Godet (clarinette)
 
-Sardine !
+**Sardine !**  
 Raphaël Forment et Rémi Georges (ordinateurs, Sardine live coding)
 
-Paris bout-à-bout en abyme
+**Paris bout-à-bout en abyme**  
 Jaap Blonk (voix), Hervé Sellin (piano), Georges Bloch (ordinateur OMax et Somax2, voix), Nurith Aviv (vidéo)
 
-Trio
+**Trio**  
 Rob Frye (percussions, vents), Laurent Mariusse (percussion), Turner Williams (shahibaja)
 
-Duo
+**Duo**  
 Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs)
 
-Rencontres du 7ème type
+**Rencontres du 7ème type**  
 Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), György Kurtag (handsonic), Jean-Marc Montera (guitares)
 
-00h – Tonnelle Café du Sport – projection
+####*00h – Tonnelle Café du Sport – projection*
 
 <br>
 <p align="center">
@@ -119,38 +114,43 @@ Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), Gy�
 
 ##Dimanche 13 août
 <br>
-####10h – Théâtre Amusicien l'Estaminet – table ronde
-« Musique à voir », avec le soutien de Culture connectée région Nouvelle-Aquitaine
-entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
+####*10h – Théâtre Amusicien l'Estaminet – table ronde*
+**« Musique à voir »**  
+avec le soutien de Culture connectée région Nouvelle-Aquitaine, entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
 
-####15h – Théâtre Amusicien l'Estaminet – conférence
-REACH : Raising Co-Creativity in Cyber-Human Musicianship
+<br>
+####*15h – Théâtre Amusicien l'Estaminet – conférence*
+**REACH : Raising Co-Creativity in Cyber-Human Musicianship**  
 par Shlomo Dubnov (University of California, San Diego), conférencier invité
 
-####16h – Théâtre Amusicien l'Estaminet – table ronde
-« De quoi l'intelligence artificielle est-elle le nom ? »
-ingénieurs de l'UJICT, représentants artistiques...
-Fabien Barontini, Bernard Lubat, Shlomo Dubnov
+<br>
+####*16h – Théâtre Amusicien l'Estaminet – table ronde*
+**« De quoi l'intelligence artificielle est-elle le nom ? »**  
+avec les ingénieurs de l'UJICT, représentants artistiques...
+Fabien Barontini, Bernard Lubat, Shlomo Dubnov, ...
 
-####21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3
-Double duo
+<br>
+####*21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3*
+**Double duo**  
 Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs) / Joëlle Léandre (contrebasse, voix), Gérard Assayag (ordinateur Somax2)
 
-Quatuor
+**Quatuor**  
 Cyril Benhamou (flûte, claviers), Stylianos Dimou (électronique), Jean-Brice Godet (clarinette), Laurent Mariusse (percussions)
 
-Duo
+**Duo**  
 André Minvielle (voix) et Camel Zekri (guitare augmentée)
 
-Aïe l’IA !
+**Aïe l’IA !**  
 Shlomo Dubnov (ordinateur IA générative et participative)
 
-Lubax Lux
+**Lubax Lux**
 Bernard Lubat (piano, voix), Sylvain Luc (guitare), Marc Chemillier, Gérard Assayag (ordinateurs)
 
 
-###00h – Tonnelle Café du Sport – dance floor live remix
-Bal d'improtech Entremélimélomélant acoustic-électropanik pour danser en dehors des clous.
+<br>
+###*00h – Tonnelle Café du Sport – dance floor live remix*
+**Bal d'improtech**  
+ Entremélimélomélant acoustic-électropanik pour danser en dehors des clous.
 
 
 
@@ -165,7 +165,7 @@ Bal d'improtech Entremélimélomélant acoustic-électropanik pour danser en deh
 
 <br>
 
-##REACH : Raising Co-Creativity in Cyber-Human Musicianship	(Keynote)
+###REACH : Raising Co-Creativity in Cyber-Human Musicianship	(Keynote)
 Shlomo Dubnov (directeur de recherche au Qualcomm Institute à l'Université de Californie à San Diego)
 
 Le projet REACH vise à comprendre, modéliser et développer la co-créativité musicale entre les humains et les machines par le biais d'interactions improvisées, permettant aux musiciens de tout niveau de formation de développer leurs compétences et d'accroître leur potentiel créatif individuel et social. Shlomo dubnov en présente les aspects liés au machine learning et l'intelligence artificielle, qui permettent de voir une co-improvisation par un agent digital comme un transfert continu d'information à partir d'un signal de contrôle (le musicien humain), en maximisant l'information mutuelle  (concept de théorie de l'information) de sorte à garder une cohérence et une pertinence dans la polyphonie des voix. Shlomo montrera aussi les applications les plus récentes de l’IA en matière de générativité musicale.
