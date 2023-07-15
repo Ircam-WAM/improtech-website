@@ -1,4 +1,5 @@
 title: Participants
+status: Hidden
 
 ## ... In Construction ...
 
