@@ -14,54 +14,54 @@ title: Activities
 ####11h – Théâtre Amusicien l'Estaminet – performance / débat
 Artisticiel
 
-par Bernard Lubat, Marc Chemillier, Gérard Assayag
+*par Bernard Lubat, Marc Chemillier, Gérard Assayag*
 
 ####12h30 – Théâtre Amusicien l'Estaminet – conférence
 Co-présence et incarnation dans les interactions improvisées cyber-humaines
 
-par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
+*par Pierre Saint-Germier (Ircam, CNRS), conférencier invité*
 
 ####15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
 Voix au naturel ou à l'électronique
 
-par Jaap Blonk (voix), Fabrice Vieira (voix)
+*par Jaap Blonk (voix), Fabrice Vieira (voix)*
 
 Flux Bikes
 
-par Rob Frye
+*par Rob Frye*
 
-Sardine Live Coding
+*Sardine Live Coding*
 
-par Raphaël Forment, Rémi Georges
+*par Raphaël Forment, Rémi Georges*
 
 ####21h 30 – Chapiteau Marie Lubat – concert IMPROTECH N° 1
 Trio
 
-Marco Fiorini (guitare, ordinateur Somax2), Francesco Diodati (guitare), Lorenzo Colombo (percussions)
+*Marco Fiorini (guitare, ordinateur Somax2), Francesco Diodati (guitare), Lorenzo Colombo (percussions)*
 
 Maciek Lasserre MCK [S] feat. Gaston Bandimic (Sénégal)
 
-Maciek Lasserre (saxophone, percussions, sampler), Gaston Bandimic (rap)
+*Maciek Lasserre (saxophone, percussions, sampler), Gaston Bandimic (rap)*
 
 Collectif Trans(e)-musical
 
-Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (vidéo)
+*Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (vidéo)*
 
 Plug & Pray
 
-Benoît Delbeq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
+*Benoît Delbeq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)*
 
 Trio
 
-Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (piano)
+*Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (piano)*
 
 Duo vocal
 
-Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
+*Jaap Blonk (voix), Fabrice Vieira (voix, électronique)*
 
 Trio
 
-Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
+*Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)*
 
 <br>
 <p align="center">
@@ -71,7 +71,7 @@ Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mari
 
 ##Samedi 12 août
 <br>
-###10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
+####10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
 FAUST et l’Improvisation
 par Yann Orlarey (INRIA, équipe EMERAUDE)
 
@@ -81,7 +81,7 @@ par Jonatas Manzoli
 La mainvielle à roue
 par André Minvielle
 
-###15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
+####15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
 MUGIC, contrôle gestuel
 par Mari Kimura (University of California, Irvine)
 
@@ -92,7 +92,7 @@ BBDMI Body Brain Digital Music Instrument
 par Alain Bonardi (Université Paris 8), Atau Tanaka (Goldsmith College), Stephen Whitmarsh (Institut du cerveau)
 
 
-###21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n°2
+####21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n°2
 REACHing OUT !
 Joëlle Léandre the Who/Men : Joëlle Léandre (contrebasse, voix), Mikhail Malt, Marco Fiorini, Gérard Assayag (ordinateurs Somax2), invité Jean-Brice Godet (clarinette)
 
@@ -121,20 +121,20 @@ Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), Gy�
 
 ##Dimanche 13 août
 <br>
-###10h – Théâtre Amusicien l'Estaminet – table ronde
+####10h – Théâtre Amusicien l'Estaminet – table ronde
 « Musique à voir », avec le soutien de Culture connectée région Nouvelle-Aquitaine
 entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
 
-###15h – Théâtre Amusicien l'Estaminet – conférence
+####15h – Théâtre Amusicien l'Estaminet – conférence
 REACH : Raising Co-Creativity in Cyber-Human Musicianship
 par Shlomo Dubnov (University of California, San Diego), conférencier invité
 
-###16h – Théâtre Amusicien l'Estaminet – table ronde
+####16h – Théâtre Amusicien l'Estaminet – table ronde
 « De quoi l'intelligence artificielle est-elle le nom ? »
 ingénieurs de l'UJICT, représentants artistiques...
 Fabien Barontini, Bernard Lubat, Shlomo Dubnov
 
-###21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3
+####21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3
 Double duo
 Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs) / Joëlle Léandre (contrebasse, voix), Gérard Assayag (ordinateur Somax2)
 
@@ -151,7 +151,7 @@ Lubax Lux
 Bernard Lubat (piano, voix), Sylvain Luc (guitare), Marc Chemillier, Gérard Assayag (ordinateurs)
 
 
-###00h – Tonnelle Café du Sport – dance floor live remix
+####00h – Tonnelle Café du Sport – dance floor live remix
 Bal d'improtech Entremélimélomélant acoustic-électropanik pour danser en dehors des clous.
 
 
