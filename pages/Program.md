@@ -226,7 +226,10 @@ La mainvielle à roue projette des sons venus d'ailleurs en tournant la manivell
 
 
 ###Voix au naturel ou à l'électronique
-par Jaap Blonk (voix), Fabrice Vieira (voix)
+par Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
+
+Workshop sur la poésie sonore par Jaap Blonk, qui présentera un historique de la poésie sonore depuis le cabaret Voltaire, ainsi que quelques techniques spécifiques. Fabrice Vieira se joindra à Jaap Blonk pour montrer comme il utilise la technologie pour ses performances vocales en solo et l’atelier se terminera par un duo vocal Jaap Blonk et Fabrice Vieira.
+
 
 
 <br>
