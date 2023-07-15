@@ -12,7 +12,7 @@ title: Records and Media
 [Ircam original workshop at SMC'04](http://recherche.ircam.fr/equipes/repmus/SMC04/)
 
 
-### Check the videos of Improtech Paris-Athina 2019
+### Watch the videos of Improtech Paris-Athina 2019
 
 Improtech Paris-Athina [is here](http://ikparisathina.ircam.fr/)
 
@@ -26,7 +26,6 @@ Improtech Paris-Athina [is here](http://ikparisathina.ircam.fr/)
 *[Improtech 2023 Argument (PDF) (French) ]({filename}/doc/IkUzeste_Argument.pdf)*
 
 <br>
-
 
 ### Improtech @ Uzeste ! Logos
 
