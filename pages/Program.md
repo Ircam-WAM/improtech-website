@@ -1,5 +1,7 @@
 title: Activities
 
+#Programme Improtech @ Uzeste ! 2023
+
 <br>
 <p align="center">
   <img src="../images/Logo_improtech_anniv.png" width="150">
@@ -8,11 +10,12 @@ title: Activities
 
 
 ##Vendredi 11 août
-###11h – Théâtre Amusicien l'Estaminet – performance / débat
+<br>
+####11h – Théâtre Amusicien l'Estaminet – performance / débat
 Artisticiel
 par Bernard Lubat, Marc Chemillier, Gérard Assayag
 
-###12h30 – Théâtre Amusicien l'Estaminet – conférence
+####12h30 – Théâtre Amusicien l'Estaminet – conférence
 Co-présence et incarnation dans les interactions improvisées cyber-humaines
 par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
 
@@ -48,7 +51,14 @@ Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
 Trio
 Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
 
+<br>
+<p align="center">
+  <img src="../images/Logo_improtech_anniv.png" width="150">
+</p>
+<br>
+
 ##Samedi 12 août
+<br>
 ###10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances
 FAUST et l’Improvisation
 par Yann Orlarey (INRIA, équipe EMERAUDE)
@@ -91,7 +101,14 @@ Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), Gy�
 
 00h – Tonnelle Café du Sport – projection
 
+<br>
+<p align="center">
+  <img src="../images/Logo_improtech_anniv.png" width="150">
+</p>
+<br>
+
 ##Dimanche 13 août
+<br>
 ###10h – Théâtre Amusicien l'Estaminet – table ronde
 « Musique à voir », avec le soutien de Culture connectée région Nouvelle-Aquitaine
 entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
@@ -134,7 +151,7 @@ Bal d'improtech Entremélimélomélant acoustic-électropanik pour danser en deh
 <br>
 
 
-# Workshops et conférences
+# Contenu Workshops et conférences
 
 <br>
 
