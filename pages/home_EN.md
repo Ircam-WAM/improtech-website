@@ -6,46 +6,40 @@ Tags: improtech, ircam, improvisation, Uzeste, cocreativity, computer music, per
 Authors: Gerard Assayag
 Summary: Improtech Uzeste gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### Workshop - Festival : Uzeste, France 11-13 Août 2023
+#### Workshop - Festival : Uzeste, France 11-13 August 2023
 <br>
-*English version [here]({filename}/pages/Home_EN.md)*
 <br>
+**Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
+After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzeste !** (ikUzeste'23) will be held from August 10 to August 13, 2023 at Uzeste, the beautiful occitan village place of the mythical Hestajada de les arts, the music festival founded by Bernard Lubat. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012 (well anniversary should have been celebrated last year, but was cancelled as the workshop didn't take place this year and was postponed to 2023)
 
-**Improtech** est à la fois un **festival** musical et un **workshop** interdisciplinaire réunissant des acteurs de la recherche et de la création du monde entier favorisant l'**improvisation musicale** en interaction avec les **intelligences numériques**, dans une démarche assumée de co-créativité homme-machine.
-
-Après des éditions remarquées à New York, Philadelphie et Athènes, Improtech @ Uzeste ! (ikUzeste'23) se tiendra du 11 au 13 août 2023 à Uzeste, le beau village gascon où se déroule la mythique [Hestajada de las arts](http://uzeste.org/), le festival de musique fondé par Bernard Lubat auquel s’associe Improtech cette année. De plus, ce sera le dixième anniversaire (reporté à cette année) de la création d’Improtech à NYC en 2012.
-
-Cette année, Joëlle Léandre, Evan Parker, Benoit Delbecq, Jozef Dumoulin, Jaap Blonk, Justin Vali, Jean-Marc Montera, 	Rob Frye, Maciek Lasserre, Gaston Bandimic, André Minvielle, Bernard Lubat, Sylvain Luc, Nurith Aviv, Mari Kimura, Gyorgy Kurtag, Hervé Sellin, Benny Sluchin et bien d’autres offrent une scène éblouissante ! et la fête continue avec la Hestajada dès le lundi 14 août jusqu’au 19.
-
-**[Regarder les videos d'Improtech @ Athènes](https://improtech.ircam.fr/)**
+[Get a glimpse at Athens concerts and events videos !](https://improtech.ircam.fr/)
 
 <br>
 <img src="./images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
-
-## Une nouvelle alliance
+## A New alliance
 <br>
 
-Improtech se consacre à l'alliance explosive entre l'art séculaire de l'improvisation et les cultures émergentes de l'intelligence numérique. Elle encourage la dynamique de co-création qui peut exister entre les humains et les machines et, ce faisant, crée de nouveaux terrains de rencontre entre les personnes, les artistes et les publics de tous horizons et de tous niveaux.
+Improtech is dedicated to the explosive alliance between the age-old art of improvisation and the emerging cultures of digital intelligence. It fosters the co-creative dynamics that can exist between humans and machines, and in so doing, creates new meeting grounds between people, artists and audiences of all backgrounds and levels.
 
-En explorant les relations entre la musique et la science, la composition et l'improvisation, l'écriture et la performance, la musique et les autres arts de la scène dans des contextes "cyber-humains", Improtech s'est imposé comme l'un des événements majeurs de la recherche et de la création contemporaines.
+Exploring the relationships between music and science, composition and improvisation, writing and performance, music and other performance arts in "cyber-human" settings, Improtech has established itself as one of the major events of contemporary research and creation.
 
-Pour la première fois, Improtech se tiendra en France : **Improtech @ Uzeste !**
-
+For the first time, Improtech will be held in France : **Improtech @ Uzeste!**
 
 <br>
 <img src="./images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
-
-## Au Menu d'Improtech
+## On the Menu
 <br>
-**ikUzeste'23** comprend des conférences, des démonstrations, des ateliers, des performances musicales ou multimédias et des concerts réunissant certains des meilleurs musiciens et chercheurs du monde dans des lieux magnifiques.
 
-**ikUzeste'23** combine une grande diversité d'esthétiques, mêlant des musiciens issus de la scène internationale du jazz, du contemporain, de l'électronique en direct ou du traditionnel, et de la jeune scène d'avant-garde familière du festival d'Uzeste.
+**ikUzeste'23** encompasses conferences, demonstrations, workshops, master classes, musical or multimedia performances / installations, and concerts bringing together some of the world's finest musicians and researchers in beautiful venues.
 
-**ikUzeste'23** réunit des artistes, des chercheurs, des ingénieurs, des penseurs, des étudiants, des inventeurs, des passionnés de bricolage couvrant un large spectre de domaines de connaissances, de l'informatique à l'anthropologie, de la musicologie aux études critiques, de la philosophie à l'intelligence artificielle, de l'acoustique aux réalités mixtes...
+**ikUzeste'23** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene of Uzeste.
 
-**[En savoir plus sur la philosophie et l'histoire de l’ImproTech]({filename}/pages/About.md)**
+**ikUzeste'23** brings artists, researchers, engineers, thinkers, students, inventors, DYI enthusiasts covering a broad spectrum of knowledge fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities...
 
+**Improtech @ Uzeste !** will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
+
+**[Read more about ImproTech philosophy and history]({filename}/pages/About.md)**
 
 <br>
 <img src="./images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
@@ -73,9 +67,9 @@ Héraut de la jeune scène marseillaise, **Cyril Benhamou** (flûte, claviers) t
 
 Outre les concerts du soir, Improtech propose un riche programme de conférences Keynotes, de présentations, de workshops et performances expérimentales dans la journée.
 
-**Consultez le [programme complet]({filename}/pages/Program.md)**
+Consultez le [programme complet]({filename}/pages/Program.md).
 
-<br>
+
 IMPROTECH@ Uzeste ! :  c’est simplement de la dynamite !
 
 <br>
