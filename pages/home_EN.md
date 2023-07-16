@@ -11,7 +11,7 @@ After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzest
 [Get a glimpse at Athens concerts and events videos !](https://improtech.ircam.fr/)
 
 <br>
-<img src="./images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
 ## A New alliance
 <br>
 
@@ -22,7 +22,7 @@ Exploring the relationships between music and science, composition and improvisa
 For the first time, Improtech will be held in France : **Improtech @ Uzeste!**
 
 <br>
-<img src="./images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
 ## On the Menu
 <br>
 
@@ -37,7 +37,7 @@ For the first time, Improtech will be held in France : **Improtech @ Uzeste!**
 **[Read more about ImproTech philosophy and history]({filename}/pages/About.md)**
 
 <br>
-<img src="./images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
+<img src="../images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ##Highlights
 <br>
 
@@ -68,9 +68,9 @@ Consultez le [programme complet]({filename}/pages/Program.md).
 IMPROTECH@ Uzeste ! :  c’est simplement de la dynamite !
 
 <br>
-<br>
+<br>X
 
 
 <p align="center">
-  <img src="./images/Logo_improtech_anniv.png" width="300">
+  <img src="../images/Logo_improtech_anniv.png" width="300">
 </p>
