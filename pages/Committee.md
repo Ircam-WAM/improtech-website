@@ -12,12 +12,12 @@ Bernard Lubat, Fabrice Vieira (Compagnie Lubat, Uzeste Musical)
 ### Organisation Committee
 
 Vasiliki Zachari (IRCAM) administration  
-Martine Bois (Uzeste) administration  
+Martine Bois (Uzeste) administration, communication
 Isabelle Pauly (Uzeste)  logement, transport  
 Celine Rutaly (Uzeste) production  
 David Brunet (Uzeste) régisseur plateau  
-Patrick Lafrance (Uzeste) ingénieur son  
 Guillaume Prudon (Uzeste) Regisseur général  
+Damien Duleau, (uzeste)ingénieur son
 
 ### Collaborators and Partners
 
