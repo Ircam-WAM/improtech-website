@@ -1,10 +1,5 @@
 Title: Improtech Uzeste 2023
 Status: hidden
-save_as: index.html
-Date: 2023-06-21 17:01
-Tags: improtech, ircam, improvisation, Uzeste, cocreativity, computer music, performance, human machine interaction, omax, artificial intelligence, digital intelligence, machine musicianship, computational creativity, cyber human systems
-Authors: Gerard Assayag
-Summary: Improtech Uzeste gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
 #### Workshop - Festival : Uzeste, France 11-13 August 2023
 <br>
