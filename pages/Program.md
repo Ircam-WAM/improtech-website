@@ -10,8 +10,8 @@ par Bernard Lubat, Marc Chemillier, Gérard Assayag
 
 <br>
 ####*12h30 – Théâtre Amusicien l'Estaminet – conférence*
-**Co-présence et incarnation dans les interactions improvisées cyber-humaines**  
-par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
+**REACH : Raising Co-Creativity in Cyber-Human Musicianship**  
+par Shlomo Dubnov (Directeur de recherche au Qualcomm Institute, University of California at San Diego), conférencier invité
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
@@ -40,9 +40,6 @@ Benoît Delbeq (claviers, électronique) & Josef Dumoulin (claviers ,électroniq
 
 **Trio**  
 Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (piano)
-
-**Duo vocal**  
-Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
 
 **Trio**  
 Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
@@ -110,23 +107,26 @@ Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), Gy�
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – table ronde*
 **« Musique à voir »**  
-avec le soutien de Culture connectée région Nouvelle-Aquitaine, entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
+avec le soutien du pôle numérique de la région Nouvelle-Aquitaine, entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférence*
-**REACH : Raising Co-Creativity in Cyber-Human Musicianship**  
-par Shlomo Dubnov (Directeur de recherche au Qualcomm Institute, University of California at San Diego), conférencier invité
+**Co-présence et incarnation dans les interactions improvisées cyber-humaines**  
+par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
 
 <br>
 ####*16h – Théâtre Amusicien l'Estaminet – table ronde*
 **« De quoi l'intelligence artificielle est-elle le nom ? »**  
 avec les ingénieurs de l'UJICT, représentants artistiques...
-Fabien Barontini, Bernard Lubat, Shlomo Dubnov, ...
+Fabien Barontini, Bernard Lubat, Shlomo Dubnov, Pierre Saint-Germier
 
 <br>
 ####*21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3*
 **Double duo**  
 Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs) / Joëlle Léandre (contrebasse, voix), Gérard Assayag (ordinateur Somax2)
+
+**Duo vocal**  
+Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
 
 **Quatuor**  
 Cyril Benhamou (flûte, claviers), Stylianos Dimou (électronique), Jean-Brice Godet (clarinette), Laurent Mariusse (percussions)
