@@ -11,7 +11,8 @@ par Bernard Lubat, Marc Chemillier, Gérard Assayag
 <br>
 ####*12h30 – Théâtre Amusicien l'Estaminet – conférence*
 **REACH : Raising Co-Creativity in Cyber-Human Musicianship**  
-par Shlomo Dubnov (Directeur de recherche au Qualcomm Institute, University of California at San Diego), conférencier invité
+par Shlomo Dubnov (Directeur du Center for Research in Entertainment and Learning, Qualcomm Institute, Calit2
+University of California, San Diego)
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
@@ -160,7 +161,8 @@ Bernard Lubat (piano, voix), Sylvain Luc (guitare), Marc Chemillier, Gérard Ass
 <br>
 
 ###REACH : Raising Co-Creativity in Cyber-Human Musicianship	(Keynote)
-Shlomo Dubnov (directeur de recherche au Qualcomm Institute, University of Californie at San Diego)
+Shlomo Dubnov (Directeur du Center for Research in Entertainment and Learning, Qualcomm Institute, Calit2
+University of California, San Diego)
 
 Le projet REACH vise à comprendre, modéliser et développer la co-créativité musicale entre les humains et les machines par le biais d'interactions improvisées, permettant aux musiciens de tout niveau de formation de développer leurs compétences et d'accroître leur potentiel créatif individuel et social. Shlomo Dubnov en présente les aspects liés au machine learning et l'intelligence artificielle, qui permettent de voir une co-improvisation par un agent digital comme un transfert continu d'information à partir d'un signal de contrôle (le musicien humain), en maximisant l'information mutuelle  (concept de théorie de l'information) de sorte à garder une cohérence et une pertinence dans la polyphonie des voix. Shlomo montrera aussi les applications les plus récentes de l’IA en matière de générativité musicale.
 
