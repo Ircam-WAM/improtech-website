@@ -1,5 +1,6 @@
 Title: Improtech @ Uzeste 2023 !
 Status: hidden
+Lang: en
 
 #### Workshop - Festival : Uzeste, France 11-13 August 2023
 <br>
@@ -64,7 +65,7 @@ IMPROTECH@ Uzeste! is simply dynamite!
 
 
 <br>
-<br>X
+<br>
 
 
 <p align="center">
