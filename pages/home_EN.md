@@ -1,5 +1,4 @@
 Title: Improtech @ Uzeste 2023 !
-Status: hidden
 Lang: en
 
 #### Workshop - Festival : Uzeste, France 11-13 August 2023
@@ -49,7 +48,7 @@ IMPROTECH's "American star" is Mari Kimura, a violinist at the cutting edge of t
 
 Jaap Blonk is a world-renowned figure in sound poetry and new vocality, freely exploring the possibilities of electronics and algorithms. With pianist Hervé Sellin, Django d'or, who has played and recorded with Michel Legrand, Chet Baker, Dizzy Gillespie and Dee Dee Dee Bridgewater, and filmmaker Nurith Aviv, collaborator of Agnes Varda, France's first female cinematographer and a renowned figure of experimental documentary cinema, Jaap diabolically embodies Georges Bloch's open multimedia piece "Paris bout-à-bout en abyme".
 
-The Uzest fiber is active in IMPROTECH with André Minvielle (in duet with guitarist Camel Zekri, who synthesizes African traditions such as the Diwan of Biskra and free improvisation with technology), the Bernard Lubat quartet, Sylvain Luc, Marc Chemillier and Gérard Assayag in their now classic performance "Lubax Lux", articulating in a frenzied whirlwind instrumental improvisation and machinic (machiavellian?) elaborations.
+The Uzeste fiber is active in IMPROTECH with André Minvielle (in duet with guitarist Camel Zekri, who synthesizes African traditions such as the Diwan of Biskra and free improvisation with technology), the Bernard Lubat quartet, Sylvain Luc, Marc Chemillier and Gérard Assayag in their now classic performance "Lubax Lux", articulating in a frenzied whirlwind instrumental improvisation and machinic (machiavellian?) elaborations.
 
 As always, IMPROTECH welcomes the young scene, with live-coders (Raphaël Forment and Rémi Georges) projecting the code of their constructions in real time, the Italian school of Marco Fiorini (one of the Who/Men), Francesco Diodati and Lorenzo Colombo, young musicians at the frontiers of instrumental and digital intelligence, Rob Frye and Turner Williams, other guests from America exploring new electric lutheries in resonance with the brilliant percussionist Laurent Mariusse already mentioned. Mariusse is no stranger to the repertoire of twentieth-century composers and contemporary music, yet he is also a keen explorer of improvisation and digital interaction.
 
