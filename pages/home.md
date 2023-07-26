@@ -1,4 +1,5 @@
 Title: Improtech @ Uzeste 2023 !
+Lang: fr
 Status: hidden
 save_as: index.html
 Date: 2023-06-21 17:01
