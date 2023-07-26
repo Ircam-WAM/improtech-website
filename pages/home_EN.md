@@ -1,11 +1,12 @@
 Title: Improtech @ Uzeste 2023 !
+Lang: en
 Status: hidden
 
 
 #### Workshop - Festival : Uzeste, France 11-13 August 2023
 <br>
 <br>
-**Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
+**Improtech** is boss a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
 After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzeste !** (ikUzeste'23) will be held from August 10 to August 13, 2023 at Uzeste, the beautiful occitan village place of the mythical Hestajada de les arts, the music festival founded by Bernard Lubat. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012 (well anniversary should have been celebrated last year, but was cancelled as the workshop didn't take place this year and was postponed to 2023)
 
