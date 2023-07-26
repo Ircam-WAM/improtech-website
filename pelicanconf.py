@@ -60,7 +60,8 @@ TWITTER_USERNAME = 'ircam'
 TWITTER_WIDGET_ID = '516222825451888640'
 
 PLUGIN_PATHS = ['/srv/lib/pelican-plugins']
-PLUGINS = ['assets', 'i18n_subsites', 'jinja2content', 'sitemap', 'gallery',
+PLUGINS = ['assets', 'jinja2content', 'sitemap', 'gallery',
+        #     'i18n_subsites',
         #     'neighbors',
         #    'liquid_tags.img', 'liquid_tags.video',
         #    'liquid_tags.youtube', 'liquid_tags.vimeo',
@@ -127,7 +128,7 @@ MARKDOWN = {
 }
 
 
-JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
+#JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 #I18N_SUBSITES = {
 #    'en': {
@@ -135,7 +136,7 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 #        }
 #    }
 
-I18N_TEMPLATES_LANG = 'en'
+#I18N_TEMPLATES_LANG = 'en'
 
 DISPLAY_PAGES_ON_MENU = True
 
