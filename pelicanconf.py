@@ -48,7 +48,7 @@ SOCIAL = (
 #          ('Twitter', 'https://twitter.com/Ircam/'),
 #          ('GitHub', 'https://github.com/Ircam-RnD/'),
 
-         ('FaceBook', 'https://www.facebook.com/erc.reach/'),
+#         ('FaceBook', 'https://www.facebook.com/erc.reach/'),
 
 #          ('Youtube', 'https://www.youtube.com/user/Ircam75'),
 #          ('DailyMotion', 'https://www.dailymotion.com/RepMus'),
