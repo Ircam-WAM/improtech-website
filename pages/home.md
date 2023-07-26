@@ -1,6 +1,5 @@
 Title: Improtech @ Uzeste 2023 !
 Status: hidden
-lang: fr
 save_as: index.html
 Date: 2023-06-21 17:01
 Tags: improtech, ircam, improvisation, Uzeste, cocreativity, computer music, performance, human machine interaction, omax, artificial intelligence, digital intelligence, machine musicianship, computational creativity, cyber human systems
