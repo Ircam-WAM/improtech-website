@@ -1,5 +1,5 @@
 title: Infos
-lang: fr
+
 ---
 
 ### Conferences, workshops and concerts
