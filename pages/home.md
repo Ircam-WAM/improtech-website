@@ -16,7 +16,7 @@ Après des éditions remarquées à New York, Philadelphie et Athènes, Improtec
 Cette année, Joëlle Léandre, Evan Parker, Benoit Delbecq, Jozef Dumoulin, Jaap Blonk, Justin Vali, Jean-Marc Montera, 	Rob Frye, Maciek Lasserre, Gaston Bandimic, André Minvielle, Bernard Lubat, Sylvain Luc, Nurith Aviv, Mari Kimura, Gyorgy Kurtag, Hervé Sellin, Benny Sluchin et bien d’autres offrent une scène éblouissante ! et la fête continue avec la Hestajada dès le lundi 14 août jusqu’au 19.
 
 **[Regarder les videos d'Improtech @ Athènes](https://improtech.ircam.fr/)**
-
+ 
 <br>
 <img src="./images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
 
