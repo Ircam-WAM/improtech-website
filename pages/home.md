@@ -11,7 +11,7 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 <br>
 <br>
 
-#### This is the general Improtech Home Page
+#### This is the general Improtech Home Pages
 <br>
 
 
