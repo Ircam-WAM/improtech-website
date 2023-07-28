@@ -1,6 +1,5 @@
-title: Infos_EN
-slug: Infos_ml
-translation: true
+title: Infos_en
+slug: infos
 
 ---
 
