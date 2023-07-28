@@ -128,7 +128,7 @@ MARKDOWN = {
 }
 
 
-#JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 #I18N_SUBSITES = {
 #    'en': {
