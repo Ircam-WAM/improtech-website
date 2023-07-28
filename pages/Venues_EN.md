@@ -23,6 +23,9 @@ Uzeste, Tonnelle Café du sport
 
 The closest train station is Langon, accessible through Bordeaux, 15km from Uzeste.
 For accomodations, check all the villages around Uzeste on airbnb, booking, etc. Car / bike is recommended.
+La gare la plus proche est celle de Langon, accessible par Bordeaux, à 15 km d'Uzeste.
+Pour l'hébergement, consultez tous les villages autour d'Uzeste sur airbnb, booking, etc. Il est recommandé d'utiliser une voiture ou un vélo.
+
 <br><br>
 
 <p align="center">
