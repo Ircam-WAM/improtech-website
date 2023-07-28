@@ -71,7 +71,7 @@ Une réservation en ligne sera bientôt disponible sur Festik.
 
 <br><br>
 <p align="center">
-<iframe style="border:none" src="https://www.togetzer.com/widget.php?params=YTo0OntzOjExOiJhcHBsaWVkVHlwZSI7czo1OiJldmVudCI7czo0OiJ0eXBlIjtzOjU6ImNhcnJlIjtzOjI6ImlkIjtzOjU6IjQwNzM1IjtzOjc6Im9wdGlvbnMiO086Mjk6IklsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uIjoxOntzOjg6IgAqAGl0ZW1zIjthOjI6e3M6NToiY29sb3IiO3M6NDoibm9pciI7czo2OiJib3JkZXIiO3M6NzoiYXJyb25kaSI7fX19" ></iframe>
+<iframe style="border:none" src="https://www.togetzer.com/widget.php?params=YTo0OntzOjExOiJhcHBsaWVkVHlwZSI7czo1OiJldmVudCI7czo0OiJ0eXBlIjtzOjU6ImNhcnJlIjtzOjI6ImlkIjtzOjU6IjQwNzM1IjtzOjc6Im9wdGlvbnMiO086Mjk6IklsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uIjoxOntzOjg6IgAqAGl0ZW1zIjthOjI6e3M6NToiY29sb3IiO3M6NDoibm9pciI7czo2OiJib3JkZXIiO3M6NzoiYXJyb25kaSI7fX19" width="600"  height="350"></iframe>
 </p>
 
 
