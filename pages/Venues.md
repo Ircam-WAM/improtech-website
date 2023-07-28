@@ -66,7 +66,7 @@ Une réservation en ligne sera bientôt disponible sur Festik.
 <br><br>
 <p align="center">
 <iframe src="https://www.google.com/maps/d/embed?mid=11NTJ075iW8k85UU7baAxsby6N9mB-Bw&ehbc=2E312F" width="960" height="540"></iframe>
-</p>
+</p> 
 
 
 <br><br>
