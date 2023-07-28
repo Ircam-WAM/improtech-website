@@ -1,5 +1,5 @@
 Title: About
-
+lang: en
 
 <img src="../images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ## A Workshop-Festival of a new kind
