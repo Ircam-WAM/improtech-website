@@ -25,7 +25,7 @@ BANNER_ALL_PAGES = True
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'fr'
 DEFAULT_DATE = 'fs'
 
 SUMMARY_MAX_LENGTH = 127
@@ -129,11 +129,11 @@ MARKDOWN = {
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
-I18N_SUBSITES = {
-    'en': {
-        'SITENAME': 'Improtech 2023',
-        }
-    }
+# I18N_SUBSITES = {
+#     'en': {
+#         'SITENAME': 'Improtech 2023',
+#         }
+#     }
 
 #I18N_TEMPLATES_LANG = 'en'
 
