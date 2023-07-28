@@ -1,6 +1,6 @@
 title: Infos_EN
-status: hidden
 slug: Infos_ml
+translation: true
 
 ---
 
