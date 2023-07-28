@@ -60,13 +60,13 @@ par Yann Orlarey (INRIA, équipe EMERAUDE)
 **Jardim das Cartas**  
 par Jonatas Manzoli
 
-**La mainvielle à roue**  
-par André Minvielle
+**MUGIC, contrôle gestuel**  
+par Mari Kimura (University of California, Irvine)
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
-**MUGIC, contrôle gestuel**  
-par Mari Kimura (University of California, Irvine)
+**La mainvielle à roue**  
+par André Minvielle
 
 **Somax2, hommage à Xenakis**  
 par Marco Fiorini (Ircam), Mikhail Malt (Ircam), Lorenzo Colombo (percussionniste), Pavlos Antoniadis (Université de Ioannina)
