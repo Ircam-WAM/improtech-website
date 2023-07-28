@@ -19,13 +19,13 @@ STATIC_PATHS = ['doc', 'images']
 BOOTSTRAP_THEME = 'readable'
 # CUSTOM_CSS = 'themes/bootswatch/slate/slate/bootstrap.css'
 
-BANNER = '/images/IKPoster_Banner.png'
+BANNER = '/images/IKPoster_Banner.jpg'
 BANNER_SUBTITLE = ''
 BANNER_ALL_PAGES = True
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = 'fr'
+DEFAULT_LANG = 'en'
 DEFAULT_DATE = 'fs'
 
 SUMMARY_MAX_LENGTH = 127
