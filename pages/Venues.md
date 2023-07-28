@@ -1,5 +1,4 @@
 Title: Infos
-Lang: en
 
  ---
 
