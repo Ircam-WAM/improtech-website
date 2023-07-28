@@ -2,10 +2,12 @@ title: Infos
 
  ---
 
-titr een français
 
 
 ### Conferences, workshops and concerts
+
+titr een français 
+
 
 <br>
 #### Concerts
