@@ -60,8 +60,7 @@ TWITTER_USERNAME = 'ircam'
 TWITTER_WIDGET_ID = '516222825451888640'
 
 PLUGIN_PATHS = ['/srv/lib/pelican-plugins']
-PLUGINS = ['assets', 'jinja2content', 'sitemap', 'gallery',
-        #     'i18n_subsites',
+PLUGINS = ['assets', 'i18n_subsites', 'jinja2content', 'sitemap', 'gallery',
         #     'neighbors',
         #    'liquid_tags.img', 'liquid_tags.video',
         #    'liquid_tags.youtube', 'liquid_tags.vimeo',
