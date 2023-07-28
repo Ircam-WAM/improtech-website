@@ -2,7 +2,7 @@ Title: Infos
 
  ---
 
-### Conferences, workshops, concerts
+### Lieux conferences, workshops, concerts
 
 <br>
 #### Concerts
@@ -16,6 +16,9 @@ Uzeste, Théâtre amusicien l'Estaminet
 <br>
 #### Electro-panic jazz, Free taxe Taxi, Bal d'Improtech,
 Uzeste, Tonnelle Café du sport
+
+<br>
+### Accès, hébergement, restauration
 
 <br>
 #### Accès
@@ -44,14 +47,14 @@ Pour plus d'informations : [Office du tourisme du Sud Gironde](https://www.touri
 <br>
 #### Restauration
 
-Pour la restauration il y aura de quoi manger à l’Estaminet, Café du Sport et boulangerie, food trucks.
+Il y aura de quoi manger à l’Estaminet, Café du Sport et boulangerie, food trucks.
 
 <br>
 #### Tarifs
 
 Seuls les concerts du soir au Chapiteau Marie Lubat sont payants (20 €, 15€ tarif réduit), toutes les autres activités sont gratuites.
 
-Pour ceux qui souhaitent assister à l'ensemble du festival Hestejada après Improtech (14-19 août), consultez les conditions (tickets, pass 6 jours, etc.) dans le [Programme de l'Hestejada] ({filename}/doc/Hestejada46Program.pdf).
+Pour ceux qui souhaitent assister à l'ensemble du festival Hestejada après Improtech (14-19 août), consultez les conditions (tickets, pass 6 jours, etc.) dans le [Programme complet de la 46e Hestejada]({filename}/doc/Hestejada46Program.pdf).
 
 Une réservation en ligne sera bientôt disponible sur Festik.
 
@@ -68,18 +71,11 @@ Une réservation en ligne sera bientôt disponible sur Festik.
 
 <br><br>
 <p align="center">
-<iframe style="border:none; width:412px; height:172px" src="https://www.togetzer.com/widget.php?params=YTo0OntzOjExOiJhcHBsaWVkVHlwZSI7czo1OiJldmVudCI7czo0OiJ0eXBlIjtzOjU6ImNhcnJlIjtzOjI6ImlkIjtzOjU6IjQwNzM1IjtzOjc6Im9wdGlvbnMiO086Mjk6IklsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uIjoxOntzOjg6IgAqAGl0ZW1zIjthOjI6e3M6NToiY29sb3IiO3M6NDoibm9pciI7czo2OiJib3JkZXIiO3M6NzoiYXJyb25kaSI7fX19"></iframe>
+<iframe style="border:none; width:960px; height:300px" src="https://www.togetzer.com/widget.php?params=YTo0OntzOjExOiJhcHBsaWVkVHlwZSI7czo1OiJldmVudCI7czo0OiJ0eXBlIjtzOjU6ImNhcnJlIjtzOjI6ImlkIjtzOjU6IjQwNzM1IjtzOjc6Im9wdGlvbnMiO086Mjk6IklsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uIjoxOntzOjg6IgAqAGl0ZW1zIjthOjI6e3M6NToiY29sb3IiO3M6NDoibm9pciI7czo2OiJib3JkZXIiO3M6NzoiYXJyb25kaSI7fX19"></iframe>
 </p>
 
 
-
-<p align="center">
-  <img src="../images/Logo_improtech_anniv.png" width="300">
-</p>
-
-
-
-
+<br><br>
 
 <p align="center">
   <img src="../images/Logo_improtech_anniv.png" width="300">
