@@ -1,13 +1,8 @@
-title: Infos
+Title: Infos
 
  ---
 
-
-
 ### Conferences, workshops and concerts
-
-titr een français 
-
 
 <br>
 #### Concerts

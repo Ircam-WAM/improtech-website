@@ -1,5 +1,6 @@
-title: Infos_en
+Title: Infos_en
 Status: hidden
+
 ---
 
 ### Conferences, workshops and concerts
