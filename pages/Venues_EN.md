@@ -1,5 +1,5 @@
-Title: Infos_en
-Status: hidden
+Title: Infos
+Lang: fr
 
 ---
 
