@@ -54,13 +54,13 @@ Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mari
 ##Samedi 12 août
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
-**FAUST et l’Improvisation**  
+**Programmation Faust et improvisation collective**  
 par Yann Orlarey (INRIA, équipe EMERAUDE)
 
 **Jardim das Cartas**  
 par Jonatas Manzoli
 
-**MUGIC, contrôle gestuel**  
+**MUGIC, contrôle gestuel**
 par Mari Kimura (University of California, Irvine)
 
 <br>
@@ -188,9 +188,10 @@ Somax2 est un logiciel  pour la co-improvisation musicien - machine basé sur un
 A partir de leur pièce "A.I. Komboï “ (Hommage à Iannis Xenakis) Marco Fiorini et Lorenzo Colombo montreront comment l’IA peut aider à créer un morceau de musique cohérent après avoir été instruite pour utiliser le matériel de clavecin composé par Xenakis, réagir au matériel de percussion par une écoute active, créer une musique improvisée cohérente en temps réel. Mikhail Malt parlera de même de ses hommage à Keren pour trombone (avec Benny Sluchin) ou Evryali pour piano (avec Pavlos Antoniadis) de Xenakis.
 
 
-###FAUST et l’Improvisation
+### Programmation Faust et improvisation collective
 Yann Orlarey (INRIA, équipe EMERAUDE)
 
+Vous ne connaissez rien à la programmation, c’est l’occasion d’apprendre ! Plongez dans la création sonore et venez découvrir comment produire et transformer des sons grâce au langage de programmation Faust. Aucune expérience préalable en programmation requise, venez simplement avec un ordinateur portable.
 FAUST (acronyme anglais de Functional AUdio STream) est un langage de programmation dédié purement fonctionnel, conçu pour les applications de traitement du signal audio et permettant notamment le live coding.
 Inventé par Yann Orlarey, il y a une vingtaine d’années, ce langage permettant la synthèse et le traitement du son, a rendu le développement du calcul numérique pour le signal musical  plus accessible, avec notamment un système de déploiement vers un grand nombre de plate-formes.
 Il connait un succès majeur dans l’ensemble des lieux de recherche et de création dans le monde.
