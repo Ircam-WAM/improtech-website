@@ -57,7 +57,7 @@ Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mari
 **Programmation Faust et improvisation collective**  
 par Yann Orlarey (INRIA, équipe EMERAUDE)
 
-**Jardim das Cartas**  
+**Jardim das Cartas: écologie de la présence**  
 par Jonatas Manzoli
 
 **MUGIC, contrôle gestuel**
@@ -209,10 +209,14 @@ Raphael Forment (U. Jean Monnet et Paris 8) et Rémi Georges (Live codeur)
 Sardine est un environnement pour l'improvisation musicale algorithmique (live coding) conçu en Python 3.10+. Sardine transforme l'interpréteur Python en instrument de musique réactif permettant l'écriture de motifs rythmiques et mélodiques interprétés au vol. L'environnement est conçu de manière modulaire, permettant au musicien de lier Sardine à n'importe quel instrument électronique (MIDI/OSC/SuperCollider) ou d'étendre l'environnement de jeu en utilisant toutes les ressources de Python et de l'ordinateur. Sardine propose une approche multimodale de l'improvisation. Plusieurs langages pensés pour la manipulation de patterns algorithmiques peuvent être utilisés conjointement, facilitant la manipulation des objets musicaux et le flux des idées lors du jeu sur l'instrument. Sardine peut également se synchroniser au travers de divers protocoles (MIDI, Ableton Link) afin de s'intégrer au sein d'un ensemble musical plus vaste.
 
 
-###Jardim das Cartas
-Jonatas Manzoli (U. Campinas, Brésil)
+###Jardim das Cartas : Ecologie de la Présence
+Jônatas Manzoli (NICS, Centre interdisciplinaire de communication sonore de l'Université de Campinas au Brésil) et Micael Antunes (chercheur doctorant au NICS)
 
-L'installation Jardim das Cartas réunit des instruments, des vidéos, de la danse, de la poésie, des voix et des paysages sonores pour exprimer une écologie de la présence. Les visiteurs y sont immergés dans des rhizomes de médias numériques pour stimuler leur imagination avec des sensations multimodales. Il s'agit d'une introduction à l'interaction multimodale à l'aide de la technologie numérique, présentée par Jonatas Manzoli, qui a dirigé le NICS, le Núcleo Interdisciplinar de Comunicação Sonora de l’université de Campinas au Brésil.
+L'installation Jardim das Cartas rassemble des vidéos, de la danse, de la poésie, des voix et des paysages sonores dans des performances vidéo et des improvisations homme-ordinateur, permettant des interactions entre le son, l'image et le mouvement. Les visiteurs y sont immergés dans des rhizomes de médium numériques pour stimuler leur imagination avec des sensations multimodales.  
+L'atelier présente le processus créatif et une nouvelle méthode de co-improvisation, intégrant le corpus sonore et les appareils mobiles de Jardim das Cartas aux outils d'écoute et d'apprentissage de Somax2.  
+Jônatas Manzoli, qui a dirigé le NICS, le Centre interdisciplinaire de communication sonore de l'Université de Campinas au Brésil, et Micael Antunes, chercheur doctorant au NICS, dirigeront la présentation.
+
+
 
 
 ###Flux Bikes
