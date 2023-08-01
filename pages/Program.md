@@ -37,7 +37,7 @@ Maciek Lasserre (saxophone, percussions, sampler), Gaston Bandimic (rap)
 Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (vidéo)
 
 **Plug & Pray**  
-Benoît Delbeq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
+Benoît Delbecq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
 
 **Trio**  
 Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (piano)
