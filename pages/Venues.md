@@ -65,7 +65,7 @@ IL est possible d'[acheter tous vos billets en ligne sur Festik.](https://billet
 
 <br><br>
 <p align="center">
-<iframe src="https://www.google.com/maps/d/embed?mid=11NTJ075iW8k85UU7baAxsby6N9mB-Bw&ehbc=2E312F" width="960" height="540"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=11NTJ075iW8k85UU7baAxsby6N9mB-Bw&ehbc=2E312F" width="640" ></iframe>
 </p>
 
 
