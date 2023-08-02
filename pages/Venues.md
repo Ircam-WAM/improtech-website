@@ -56,7 +56,7 @@ Seuls les concerts du soir au Chapiteau Marie Lubat sont payants (20 €, 15€ 
 
 Pour ceux qui souhaitent assister à l'ensemble du festival Hestejada après Improtech (14-19 août), consultez les conditions (tickets, pass 6 jours, etc.) dans le [Programme complet de la 46e Hestejada]({filename}/doc/Hestejada46Program.pdf).
 
-Une réservation en ligne sera bientôt disponible sur Festik.
+IL est possible d'[acheter tous vos billets en ligne sur Festik.](https://billetterie.festik.net/um/tab/spectacle/)
 
 
 <br>

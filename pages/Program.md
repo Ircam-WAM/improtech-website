@@ -83,7 +83,7 @@ par Alain Bonardi (Université Paris 8), Atau Tanaka (Goldsmith College), Stephe
 
 
 <br>
-####*20h – Tonnelle Café du Sport – apéro mélimélo *
+####*20h – Tonnelle Café du Sport – apéro mélimélo*
 Electro-panic jazz  
 Fabrice Vieira (électro voix), François Corneloup (saxophone), Bernard Lubat (électro drums)
 
