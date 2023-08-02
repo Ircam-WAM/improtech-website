@@ -96,7 +96,15 @@ Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs)
 Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), György Kurtag (handsonic), Jean-Marc Montera (guitares)
 
 <br>
+####*20h – Tonnelle Café du Sport – apéro mélimélo *
+Electro-panic jazz  
+Fabrice Vieira (électro voix), François Corneloup (saxophone), Bernard Lubat (électro drums)
+
+
+<br>
 ####*00h – Tonnelle Café du Sport – projection*
+
+
 
 <br>
 <p align="center">
@@ -140,6 +148,13 @@ Shlomo Dubnov (ordinateur IA générative et participative)
 
 **Lubax Lux**
 Bernard Lubat (piano, voix), Sylvain Luc (guitare), Marc Chemillier, Gérard Assayag (ordinateurs)
+
+
+<br>
+####*20h – Tonnelle Café du Sport – apéro canto*
+Free Taxe Taxi  
+Bernard Lubat et les élèves du Conservatoire National Supérieur de Paris
+
 
 
 <br>
