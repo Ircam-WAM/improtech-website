@@ -45,6 +45,13 @@ Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (p
 **Trio**  
 Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
 
+
+<br>
+####*00h – Tonnelle Café du Sport – projection*
+Captations des concerts Improtech à New York & Philadelphie & Athènes
+
+
+
 <br>
 <p align="center">
   <img src="../images/Logo_improtech_anniv.png" width="150">
@@ -76,6 +83,12 @@ par Alain Bonardi (Université Paris 8), Atau Tanaka (Goldsmith College), Stephe
 
 
 <br>
+####*20h – Tonnelle Café du Sport – apéro mélimélo *
+Electro-panic jazz  
+Fabrice Vieira (électro voix), François Corneloup (saxophone), Bernard Lubat (électro drums)
+
+
+<br>
 ####*21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n°2*
 **REACHing OUT !**  
 Joëlle Léandre the Who/Men : Joëlle Léandre (contrebasse, voix), Mikhail Malt, Marco Fiorini, Gérard Assayag (ordinateurs Somax2), invité Jean-Brice Godet (clarinette)
@@ -95,14 +108,10 @@ Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs)
 **Rencontres du 7ème type**  
 Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), György Kurtag (handsonic), Jean-Marc Montera (guitares)
 
-<br>
-####*20h – Tonnelle Café du Sport – apéro mélimélo *
-Electro-panic jazz  
-Fabrice Vieira (électro voix), François Corneloup (saxophone), Bernard Lubat (électro drums)
-
 
 <br>
 ####*00h – Tonnelle Café du Sport – projection*
+Captations des concerts Improtech à New York & Philadelphie & Athènes
 
 
 
@@ -116,7 +125,7 @@ Fabrice Vieira (électro voix), François Corneloup (saxophone), Bernard Lubat (
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – table ronde*
 **« Musique à voir »**  
-avec le soutien du pôle numérique de la région Nouvelle-Aquitaine, entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
+avec le soutien du pôle numérique de la région Nouvelle-Aquitaine, présentation des musiciens lauréats de Culture connectée, discussion
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférence*
@@ -128,6 +137,12 @@ par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
 **« De quoi l'intelligence artificielle est-elle le nom ? »**  
 avec les ingénieurs de l'UJICT, représentants artistiques...
 Fabien Barontini, Bernard Lubat, Shlomo Dubnov, Pierre Saint-Germier
+
+<br>
+####*20h – Tonnelle Café du Sport – apéro canto*
+Free Taxe Taxi  
+Bernard Lubat et les élèves du Conservatoire National Supérieur de Paris
+
 
 <br>
 ####*21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3*
@@ -148,13 +163,6 @@ Shlomo Dubnov (ordinateur IA générative et participative)
 
 **Lubax Lux**
 Bernard Lubat (piano, voix), Sylvain Luc (guitare), Marc Chemillier, Gérard Assayag (ordinateurs)
-
-
-<br>
-####*20h – Tonnelle Café du Sport – apéro canto*
-Free Taxe Taxi  
-Bernard Lubat et les élèves du Conservatoire National Supérieur de Paris
-
 
 
 <br>
