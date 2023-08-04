@@ -125,7 +125,15 @@ Captations des concerts Improtech à New York & Philadelphie & Athènes
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – table ronde*
 **« Musique à voir »**  
-avec le soutien du pôle numérique de la région Nouvelle-Aquitaine, présentation des musiciens lauréats de Culture connectée, discussion
+Présentation des projets musique-technologie lauréats de Culture connectée organisée avec le souti
+
+* *10h-10h15* Shlomo Dubnov (introduction sur l’intelligence artificielle dans les arts du spectacle)
+* *10h15-10h30* Jean-Marie Collin (demo live d’interaction sons-images avec karlax)
+* *10h30-10h45* Damien Skoracki (projet Ekosystem), ballade dans une installation sonore organique.
+* *10h45-11h15* Youri Fernandez, Dôme Studio Bayonne, projet KYF!, batteur Fred Faure, concert augmenté d'interaction musique-vidéo-lumières, projet HAL2000
+* *11h15-11h30* Christelle Derré (projet Shangri-La Or norme), concert immersif d'après une bande-dessinée
+* *11h30-12h* débat sur musique et visuel avec Georges Bloch et Sabina Covarrubias
+
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférence*
