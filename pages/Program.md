@@ -125,7 +125,7 @@ Captations des concerts Improtech à New York & Philadelphie & Athènes
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – table ronde*
 **« Musique à voir »**  
-Présentation des projets musique-technologie lauréats de Culture connectée organisée avec le souti
+Présentation des projets musique-technologie lauréats de Culture connectée organisée avec le soutien de la région Nouvelle-Aquitaine et la participation de Shlomo Dubnov, table ronde animée par Marc Chemillier
 
 * *10h-10h15* Shlomo Dubnov (introduction sur l’intelligence artificielle dans les arts du spectacle)
 * *10h15-10h30* Jean-Marie Collin (demo live d’interaction sons-images avec karlax)
