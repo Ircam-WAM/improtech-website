@@ -8,6 +8,7 @@ Summary: Improtech Uzeste gathers scholars, technologists, musicians, makers, ar
 
 #### Workshop - Festival : Uzeste, France 11-13 Août 2023
 <br>
+*[Facebook](https://www.facebook.com/erc.reach/) ** [Instagram](https://www.instagram.com/erc_reach/)*
 <br>
 **Improtech** est à la fois un **festival** musicale et un **workshop** interdisciplinaire réunissant des acteurs de la recherche et de la création du monde entier favorisant l'**improvisation musicale** en interaction avec les **intelligences numériques**, dans une démarche assumée de co-créativité homme-machine.
 
