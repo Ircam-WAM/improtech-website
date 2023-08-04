@@ -9,7 +9,7 @@ title: Programme
 par Bernard Lubat, Marc Chemillier, Gérard Assayag
 
 <br>
-####*12h30 – Théâtre Amusicien l'Estaminet – conférence*
+####*12h00 – Théâtre Amusicien l'Estaminet – conférence*
 **REACH : Raising Co-Creativity in Cyber-Human Musicianship**  
 par Shlomo Dubnov (Directeur du Center for Research in Entertainment and Learning, Qualcomm Institute, Calit2
 University of California, San Diego)
