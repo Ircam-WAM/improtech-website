@@ -120,7 +120,7 @@ Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), Gy�
 Captations des concerts Improtech à New York & Philadelphie & Athènes
 
 
-
+ 
 <br>
 <p align="center">
   <img src="../images/Logo_improtech_anniv.png" width="150">
