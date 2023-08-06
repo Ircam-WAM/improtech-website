@@ -9,7 +9,7 @@ title: Programme
 par Bernard Lubat, Marc Chemillier, Gérard Assayag
 
 <br>
-####*12h30 – Théâtre Amusicien l'Estaminet – conférence*
+####*12h00 – Théâtre Amusicien l'Estaminet – conférence*
 **REACH : Raising Co-Creativity in Cyber-Human Musicianship**  
 par Shlomo Dubnov (Directeur du Center for Research in Entertainment and Learning, Qualcomm Institute, Calit2
 University of California, San Diego)
@@ -39,13 +39,20 @@ Maciek Lasserre (saxophone, percussions, sampler), Gaston Bandimic (rap)
 Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (vidéo)
 
 **Plug & Pray**  
-Benoît Delbeq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
+Benoît Delbecq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
 
 **Trio**  
 Benny Sluchin (trombone), Mikhail Malt (ordinateur Somax2), Pavlos Antoniadis (piano)
 
 **Trio**  
 Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mariusse (percussion)
+
+
+<br>
+####*00h – Tonnelle Café du Sport – projection*
+Captations des concerts Improtech à New York & Philadelphie & Athènes
+
+
 
 <br>
 <p align="center">
@@ -61,7 +68,7 @@ chair: Sabina Covarrubias
 **Programmation Faust et improvisation collective**  
 par Yann Orlarey (INRIA, équipe EMERAUDE)
 
-**Jardim das Cartas**  
+**Jardim das Cartas: écologie de la présence**  
 par Jonatas Manzoli
 
 **MUGIC, contrôle gestuel**
@@ -79,6 +86,12 @@ par Marco Fiorini (Ircam), Mikhail Malt (Ircam), Lorenzo Colombo (percussionnist
 
 **BBDMI Body Brain Digital Music Instrument**    
 par Alain Bonardi (Université Paris 8), Atau Tanaka (Goldsmith College), Stephen Whitmarsh (Institut du cerveau)
+
+
+<br>
+####*20h – Tonnelle Café du Sport – apéro mélimélo*
+Electro-panic jazz  
+Fabrice Vieira (électro voix), François Corneloup (saxophone), Bernard Lubat (électro drums)
 
 
 <br>
@@ -101,8 +114,12 @@ Evan Parker (saxophones), Jean-Marc Foussat (synthétiseurs)
 **Rencontres du 7ème type**  
 Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), György Kurtag (handsonic), Jean-Marc Montera (guitares)
 
+
 <br>
 ####*00h – Tonnelle Café du Sport – projection*
+Captations des concerts Improtech à New York & Philadelphie & Athènes
+
+
 
 <br>
 <p align="center">
@@ -114,7 +131,15 @@ Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), Gy�
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – table ronde*
 **« Musique à voir »**  
-avec le soutien du pôle numérique de la région Nouvelle-Aquitaine, entretien avec Roscoe Mitchell, présentation des musiciens lauréats de Culture connectée (liste à venir), discussion
+Présentation des projets musique-technologie lauréats de Culture connectée organisée avec le soutien de la région Nouvelle-Aquitaine et la participation de Shlomo Dubnov, table ronde animée par Marc Chemillier
+
+* *10h-10h15* Shlomo Dubnov (introduction sur l’intelligence artificielle dans les arts du spectacle)
+* *10h15-10h30* Jean-Marie Collin (demo live d’interaction sons-images avec karlax)
+* *10h30-10h45* Damien Skoracki (projet Ekosystem), ballade dans une installation sonore organique.
+* *10h45-11h15* Youri Fernandez, Dôme Studio Bayonne, projet KYF!, batteur Fred Faure, concert augmenté d'interaction musique-vidéo-lumières, projet HAL2000
+* *11h15-11h30* Christelle Derré (projet Shangri-La Or norme), concert immersif d'après une bande-dessinée
+* *11h30-12h* débat sur musique et visuel avec Georges Bloch et Sabina Covarrubias
+
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférence*
@@ -130,6 +155,12 @@ par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
 **« De quoi l'intelligence artificielle est-elle le nom ? »**  
 avec les ingénieurs de l'UJICT, représentants artistiques...
 Fabien Barontini, Bernard Lubat, Shlomo Dubnov, Pierre Saint-Germier
+
+<br>
+####*20h – Tonnelle Café du Sport – apéro canto*
+Free Taxe Taxi  
+Bernard Lubat et les élèves du Conservatoire National Supérieur de Paris
+
 
 <br>
 ####*21h 30 – Chapiteau Marie Lubat – concert IMPROTECH n° 3*
@@ -219,10 +250,14 @@ Raphael Forment (U. Jean Monnet et Paris 8) et Rémi Georges (Live codeur)
 Sardine est un environnement pour l'improvisation musicale algorithmique (live coding) conçu en Python 3.10+. Sardine transforme l'interpréteur Python en instrument de musique réactif permettant l'écriture de motifs rythmiques et mélodiques interprétés au vol. L'environnement est conçu de manière modulaire, permettant au musicien de lier Sardine à n'importe quel instrument électronique (MIDI/OSC/SuperCollider) ou d'étendre l'environnement de jeu en utilisant toutes les ressources de Python et de l'ordinateur. Sardine propose une approche multimodale de l'improvisation. Plusieurs langages pensés pour la manipulation de patterns algorithmiques peuvent être utilisés conjointement, facilitant la manipulation des objets musicaux et le flux des idées lors du jeu sur l'instrument. Sardine peut également se synchroniser au travers de divers protocoles (MIDI, Ableton Link) afin de s'intégrer au sein d'un ensemble musical plus vaste.
 
 
-###Jardim das Cartas
-Jonatas Manzoli (U. Campinas, Brésil)
+###Jardim das Cartas : Ecologie de la Présence
+Jônatas Manzoli (NICS, Centre interdisciplinaire de communication sonore de l'Université de Campinas au Brésil) et Micael Antunes (chercheur doctorant au NICS)
 
-L'installation Jardim das Cartas réunit des instruments, des vidéos, de la danse, de la poésie, des voix et des paysages sonores pour exprimer une écologie de la présence. Les visiteurs y sont immergés dans des rhizomes de médias numériques pour stimuler leur imagination avec des sensations multimodales. Il s'agit d'une introduction à l'interaction multimodale à l'aide de la technologie numérique, présentée par Jonatas Manzoli, qui a dirigé le NICS, le Núcleo Interdisciplinar de Comunicação Sonora de l’université de Campinas au Brésil.
+L'installation Jardim das Cartas rassemble des vidéos, de la danse, de la poésie, des voix et des paysages sonores dans des performances vidéo et des improvisations homme-ordinateur, permettant des interactions entre le son, l'image et le mouvement. Les visiteurs y sont immergés dans des rhizomes de médium numériques pour stimuler leur imagination avec des sensations multimodales.  
+L'atelier présente le processus créatif et une nouvelle méthode de co-improvisation, intégrant le corpus sonore et les appareils mobiles de Jardim das Cartas aux outils d'écoute et d'apprentissage de Somax2.  
+Jônatas Manzoli, qui a dirigé le NICS, le Centre interdisciplinaire de communication sonore de l'Université de Campinas au Brésil, et Micael Antunes, chercheur doctorant au NICS, dirigeront la présentation.
+
+
 
 
 ###Flux Bikes
