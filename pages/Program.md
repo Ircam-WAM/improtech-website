@@ -16,6 +16,8 @@ University of California, San Diego)
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
+Chair : Pierre Couprie
+
 **Voix au naturel ou à l'électronique**  
 par Jaap Blonk (voix), Fabrice Vieira (voix)
 
@@ -54,6 +56,8 @@ Evan Parker (saxophones), Mari Kimura (violon, électronique MUGI), Laurent Mari
 ##Samedi 12 août
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
+chair: Sabina Covarrubias
+
 **Programmation Faust et improvisation collective**  
 par Yann Orlarey (INRIA, équipe EMERAUDE)
 
@@ -65,6 +69,8 @@ par Mari Kimura (University of California, Irvine)
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
+Chair : Daniel Brown
+
 **La mainvielle à roue**  
 par André Minvielle
 
@@ -112,6 +118,10 @@ avec le soutien du pôle numérique de la région Nouvelle-Aquitaine, entretien 
 
 <br>
 ####*15h – Théâtre Amusicien l'Estaminet – conférence*
+
+**Titre à déterminer**  
+par Miller Puckette (U. California at San Diego, inventeur du langage Max et PD), conférencier invité
+
 **Co-présence et incarnation dans les interactions improvisées cyber-humaines**  
 par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
 
