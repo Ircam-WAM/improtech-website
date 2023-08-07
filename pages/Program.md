@@ -151,7 +151,7 @@ Avec le soutien de <img src="../images/logo_nouvelle_aquitaine.jpg" width="150">
 ####*14h – Théâtre Amusicien l'Estaminet – conférence*
 Chair : Mikhail Malt
 
-**Surprise and unpredictability**  
+**La Surprise et l'imprévu**  
 par Miller Puckette (U. California at San Diego, créateur du logiciel Max), conférencier invité
 
 **Co-présence et incarnation dans les interactions improvisées cyber-humaines**  
