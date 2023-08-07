@@ -140,6 +140,10 @@ Présentation des projets musique-technologie lauréats de l'appel à projets Cu
 * *11h15-11h30* Christelle Derré (projet Shangri-La Or norme), concert immersif d'après une bande-dessinée
 * *11h30-12h* débat sur musique et visuel avec Georges Bloch et Sabina Covarrubias
 
+<br>
+
+Avec le soutien de <img src="../images/logo_nouvelle_aquitaine.jpg" width="150">
+
 
 <br>
 ####*14h – Théâtre Amusicien l'Estaminet – conférence*
