@@ -291,6 +291,6 @@ Workshop sur la poésie sonore par Jaap Blonk, qui présentera un historique de 
 
 <br>
 <p align="center">
-  <img src="../images/ikUZESTE_logos.png" width="2400">
+  <img src="../images/ikUZESTE_logos.png" width="2800">
 </p>
 <br>
