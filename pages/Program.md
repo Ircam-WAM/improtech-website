@@ -285,12 +285,14 @@ par Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
 
 Workshop sur la poésie sonore par Jaap Blonk, qui présentera un historique de la poésie sonore depuis le cabaret Voltaire, ainsi que quelques techniques spécifiques. Fabrice Vieira se joindra à Jaap Blonk pour montrer comme il utilise la technologie pour ses performances vocales en solo et l’atelier se terminera par un duo vocal Jaap Blonk et Fabrice Vieira.
 
-###Surprise et imprévisibilité
+###La Surprise et l'imprévu
 
 par Miller Puckette (U. Californie à San Diego, créateur du logiciel Max)
 
 L'une des raisons possibles d'utiliser l'improvisation dans les spectacles musicaux est sa capacité à surprendre, à se dérouler de manière imprévisible. Mais la capacité à surprendre ne dépend pas du tout de l'imprévisibilité : nous pouvons être surpris à nouveau par un enregistrement que nous connaissons bien. L'imprévisibilité ne garantit pas non plus la surprise : une séquence de notes aléatoire sans mémoire est maximalement imprévisible mais peu surprenante.
 Que se passe-t-il alors ?
+
+Surprise and unpredictability
 
 One possible reason to use improvisation in musical performances is its capacity to surprise, to play out unpredictably.  But the capacity to surprise doesn't depend at all on unpredictability: we can be surprised anew by a recording we already know well.  Nor does unpredictability guarantee surprise: a memoryless, random sequence of notes is maximally unpredictable but not very surprising.
 What is going on here?
