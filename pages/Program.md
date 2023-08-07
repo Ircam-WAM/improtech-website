@@ -286,3 +286,11 @@ Workshop sur la poésie sonore par Jaap Blonk, qui présentera un historique de 
   <img src="../images/Logo_improtech_anniv.png" width="150">
 </p>
 <br>
+
+<br>
+
+<br>
+<p align="center">
+  <img src="../images/ikUZESTE_logos.png" width="2400">
+</p>
+<br>
