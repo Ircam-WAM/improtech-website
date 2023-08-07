@@ -131,7 +131,7 @@ Captations des concerts Improtech à New York & Philadelphie & Athènes
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – table ronde*
 **« Musique à voir »**  
-Présentation des projets musique-technologie lauréats de l'appel à projets Cultures connectées organisée avec le soutien de la région Nouvelle-Aquitaine et les participations exceptionnelles de Miller Puckette, inventeur du langage Max et de Shlomo Dubnov chercheur reconnu en intelligence artificielle, table ronde animée par Marc Chemillier
+Présentation des projets musique-technologie lauréats de l'appel à projets Cultures connectées organisée avec le soutien de la région Nouvelle-Aquitaine et les participations exceptionnelles de Miller Puckette, inventeur du célèbre langage informatique Max pour l'interaction audio-visuelle et de Shlomo Dubnov chercheur internationalement reconnu en intelligence artificielle, table ronde animée par Marc Chemillier
 
 * *10h-10h15* Shlomo Dubnov (introduction sur l’intelligence artificielle dans les arts du spectacle)
 * *10h15-10h30* Jean-Marie Collin (demo live d’interaction sons-images avec karlax)
