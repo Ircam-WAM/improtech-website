@@ -131,7 +131,7 @@ Captations des concerts Improtech à New York & Philadelphie & Athènes
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – table ronde*
 **« Musique à voir »**  
-Présentation des projets musique-technologie lauréats de l'appel à projets Cultures connectées organisée avec le soutien de la région Nouvelle-Aquitaine et les participations exceptionnelles de Miller Puckette, inventeur du célèbre langage informatique Max pour l'interaction audio-visuelle et de Shlomo Dubnov chercheur internationalement reconnu en intelligence artificielle, table ronde animée par Marc Chemillier
+Présentation des projets musique-technologie lauréats de l'appel à projets Cultures connectées organisée avec le soutien de la région Nouvelle-Aquitaine et les participations exceptionnelles de Miller Puckette, créateur du célèbre logiciel Max pour l'interaction audio-visuelle et de Shlomo Dubnov chercheur internationalement reconnu en intelligence artificielle, table ronde animée par Marc Chemillier
 
 * *10h-10h15* Shlomo Dubnov (introduction sur l’intelligence artificielle dans les arts du spectacle)
 * *10h15-10h30* Jean-Marie Collin (demo live d’interaction sons-images avec karlax)
@@ -149,8 +149,8 @@ Avec le soutien de <img src="../images/logo_nouvelle_aquitaine.jpg" width="150">
 ####*14h – Théâtre Amusicien l'Estaminet – conférence*
 Chair : Mikhail Malt
 
-**Titre à déterminer**  
-par Miller Puckette (U. California at San Diego, inventeur du langage Max et PD), conférencier invité
+**Surprise and unpredictability**  
+par Miller Puckette (U. California at San Diego, créateur du logiciel Max), conférencier invité
 
 **Co-présence et incarnation dans les interactions improvisées cyber-humaines**  
 par Pierre Saint-Germier (Ircam, CNRS), conférencier invité
@@ -282,6 +282,17 @@ La mainvielle à roue projette des sons venus d'ailleurs en tournant la manivell
 par Jaap Blonk (voix), Fabrice Vieira (voix, électronique)
 
 Workshop sur la poésie sonore par Jaap Blonk, qui présentera un historique de la poésie sonore depuis le cabaret Voltaire, ainsi que quelques techniques spécifiques. Fabrice Vieira se joindra à Jaap Blonk pour montrer comme il utilise la technologie pour ses performances vocales en solo et l’atelier se terminera par un duo vocal Jaap Blonk et Fabrice Vieira.
+
+###Surprise and unpredictability
+par Miller Puckette (U. Californie à San Diego, créateur du logiciel Max)
+
+One possible reason to use improvisation in musical performances is its capacity
+to surprise, to play out unpredictably.  But the capacity to surprise doesn't
+depend at all on unpredictability: we can be surprised anew by a recording we
+already know well.  Nor does unpredictability guarantee surprise: a memoryless,
+random sequence of notes is maximally unpredictable but not very surprising.
+What is going on here?
+
 
 ...
 
