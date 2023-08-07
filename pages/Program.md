@@ -63,7 +63,7 @@ Captations des concerts Improtech à New York & Philadelphie & Athènes
 ##Samedi 12 août
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – conférences / ateliers / performances*
-chair: Sabina Covarrubias
+Chair: Sabina Covarrubias
 
 **Programmation Faust et improvisation collective**  
 par Yann Orlarey (INRIA, équipe EMERAUDE)
@@ -120,7 +120,7 @@ Pierre Couprie (live electronics), Mari Kimura (violon, électronique MUGI), Gy�
 Captations des concerts Improtech à New York & Philadelphie & Athènes
 
 
- 
+
 <br>
 <p align="center">
   <img src="../images/Logo_improtech_anniv.png" width="150">
@@ -131,7 +131,7 @@ Captations des concerts Improtech à New York & Philadelphie & Athènes
 <br>
 ####*10h – Théâtre Amusicien l'Estaminet – table ronde*
 **« Musique à voir »**  
-Présentation des projets musique-technologie lauréats de Culture connectée organisée avec le soutien de la région Nouvelle-Aquitaine et la participation de Shlomo Dubnov, table ronde animée par Marc Chemillier
+Présentation des projets musique-technologie lauréats de l'appel à projets Cultures connectées organisée avec le soutien de la région Nouvelle-Aquitaine et les participations exceptionnelles de Miller Puckette, inventeur du langage Max et de Shlomo Dubnov chercheur reconnu en intelligence artificielle, table ronde animée par Marc Chemillier
 
 * *10h-10h15* Shlomo Dubnov (introduction sur l’intelligence artificielle dans les arts du spectacle)
 * *10h15-10h30* Jean-Marie Collin (demo live d’interaction sons-images avec karlax)
@@ -142,7 +142,8 @@ Présentation des projets musique-technologie lauréats de Culture connectée or
 
 
 <br>
-####*15h – Théâtre Amusicien l'Estaminet – conférence*
+####*14h – Théâtre Amusicien l'Estaminet – conférence*
+Chair : Mikhail Malt
 
 **Titre à déterminer**  
 par Miller Puckette (U. California at San Diego, inventeur du langage Max et PD), conférencier invité
