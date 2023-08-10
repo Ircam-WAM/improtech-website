@@ -139,7 +139,7 @@ Présentation des projets musique-technologie lauréats de l'appel à projets Cu
 * *10h15-10h30* Jean-Marie Collin (demo live d’interaction sons-images avec karlax)
 * *10h30-10h45* Damien Skoracki (projet Ekosystem), ballade dans une installation sonore organique.
 * *10h45-11h15* Youri Fernandez, Dômes Studio Bayonne, projet KYF! avec le batteur Fred Faure, concert augmenté d'interaction musique-vidéo-lumières, projet HAL2000
-* *11h15-11h30* Christelle Derré (projet Shangri-La Or norme), concert immersif d'après une bande-dessinée
+* *11h15-11h30*  David Couturier (projet Shangri-La Or norme), concert immersif d'après une bande-dessinée
 * *11h30-12h* débat sur musique et visuel avec Georges Bloch et Sabina Covarrubias
 
 <br>
