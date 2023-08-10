@@ -38,7 +38,7 @@ Marco Fiorini (guitare, ordinateur Somax2), Francesco Diodati (guitare), Lorenzo
 Maciek Lasserre (saxophone, percussions, sampler), Gaston Bandimic (rap)
 
 **Collectif Trans(e)-musical**  
-Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Yves Chaudouët, Sabina Covarrubias (vidéo)
+Justin Vali (cithare, voix), Charles Kely Zana-Rotsy (guitare, voix), Marc Chemillier (ordinateur Djazz), Lucas Lemoine (électronique), Sabina Covarrubias (vidéo)
 
 **Plug & Pray**  
 Benoît Delbecq (claviers, électronique) & Josef Dumoulin (claviers ,électronique)
@@ -73,7 +73,7 @@ par Yann Orlarey (INRIA, équipe EMERAUDE)
 **Jardim das Cartas: écologie de la présence**  
 par Jonatas Manzoli
 
-**MUGIC, contrôle gestuel**
+**MUGIC, contrôle gestuel**  
 par Mari Kimura (University of California, Irvine)
 
 <br>
@@ -138,7 +138,7 @@ Présentation des projets musique-technologie lauréats de l'appel à projets Cu
 * *10h-10h15* Shlomo Dubnov (introduction sur l’intelligence artificielle dans les arts du spectacle)
 * *10h15-10h30* Jean-Marie Collin (demo live d’interaction sons-images avec karlax)
 * *10h30-10h45* Damien Skoracki (projet Ekosystem), ballade dans une installation sonore organique.
-* *10h45-11h15* Youri Fernandez, Dôme Studio Bayonne, projet KYF!, batteur Fred Faure, concert augmenté d'interaction musique-vidéo-lumières, projet HAL2000
+* *10h45-11h15* Youri Fernandez, Dômes Studio Bayonne, projet KYF! avec le batteur Fred Faure, concert augmenté d'interaction musique-vidéo-lumières, projet HAL2000
 * *11h15-11h30* Christelle Derré (projet Shangri-La Or norme), concert immersif d'après une bande-dessinée
 * *11h30-12h* débat sur musique et visuel avec Georges Bloch et Sabina Covarrubias
 
