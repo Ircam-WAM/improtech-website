@@ -87,7 +87,7 @@ par André Minvielle
 par Marco Fiorini (Ircam), Mikhail Malt (Ircam), Lorenzo Colombo (percussionniste), Pavlos Antoniadis (Université de Ioannina)
 
 **BBDMI Body Brain Digital Music Instrument**    
-par Alain Bonardi (Université Paris 8), Atau Tanaka (Goldsmith College), Stephen Whitmarsh (Institut du cerveau)
+Alain Bonardi (Université Paris 8), David Fierro (Université Paris 8), Atau Tanaka (Goldsmith College), Stephen Whitmarsh (Paris Brain Institute - ICM)
 
 
 <br>
@@ -221,7 +221,7 @@ Si l'on prend au sérieux les recherches menées en sciences cognitives sous la 
 
 
 ###BBDMI Body Brain Digital Music Instrument
-Alain Bonardi (Paris 8), Atau Tanaka (Goldsmith college), Stephen Whitmarsh (Institut du cerveau)
+Alain Bonardi (Université Paris 8), David Fierro (Université Paris 8), Atau Tanaka (Goldsmith College), Stephen Whitmarsh (Paris Brain Institute - ICM)
 
 Faire de la musique à partir des signaux électriques des muscles et du cerveau en s’appuyant sur les technologies EMG et EEG.
 
