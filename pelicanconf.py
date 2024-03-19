@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 SITENAME = "Improtech 2024"
-SITEURL = 'https://improtech.ircam.fr/ikuzeste'
+SITEURL = 'https://improtech.ircam.fr/ikparistokyo'
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -11,7 +11,7 @@ THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 
 
 INPUT_PATH = '/var/in'
-OUTPUT_PATH = '/var/out/ikuzeste'
+OUTPUT_PATH = '/var/out/ikparistokyo'
 STATIC_PATHS = ['doc', 'images']
 
 #BOOTSTRAP_THEME = 'united'
@@ -95,7 +95,7 @@ PELICANGIT_SOURCE_REMOTE="origin"
 PELICANGIT_SOURCE_BRANCH="master"
 PELICANGIT_SOURCE_BRANCHES=["master", "ikparisphilly",
                             "ikparisathina", "ikmarseille",
-                            "ikuzeste",]
+                            "ikuzeste","ikparistokyo"]
 
 PELICANGIT_DEPLOY_REPO=OUTPUT_PATH
 PELICANGIT_DEPLOY_REMOTE="origin"
