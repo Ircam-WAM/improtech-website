@@ -131,7 +131,7 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n',]}
 
 # I18N_SUBSITES = {
 #     'en': {
-#         'SITENAME': 'Improtech 2023',
+#         'SITENAME': 'Improtech 2024',
 #         }
 #     }
 
