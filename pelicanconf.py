@@ -10,6 +10,8 @@ SITEURL = 'https://improtech.ircam.fr/' + BRANCH
 RELATIVE_URLS = True
 THEME = '/srv/lib/pelican-themes/pelican-bootstrap3'
 
+
+
 INPUT_PATH = '/var/in'
 OUTPUT_PATH = '/var/out/' + BRANCH
 STATIC_PATHS = ['doc', 'images']
