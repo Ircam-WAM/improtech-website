@@ -14,8 +14,6 @@ INPUT_PATH = '/var/in'
 OUTPUT_PATH = '/var/out/' + BRANCH
 STATIC_PATHS = ['doc', 'images']
 
-
-
 #BOOTSTRAP_THEME = 'united'
 #BOOTSTRAP_THEME = 'yeti'
 BOOTSTRAP_THEME = 'readable'
