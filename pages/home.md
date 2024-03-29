@@ -7,12 +7,12 @@ Authors: Gerard Assayag
 Summary: Improtech Tokyo gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
 
-#### Workshop - Festival in Tokyo  july 29  - august 2  2024
+#### Workshop - Festival in Tokyo -- july 29 to august 2, 2024
 <br>
 <br>
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
-After praised editions in New York, Philadelphia and Athens, **Improtech @ Tokyo !** (ikTokyo'24) will be held from July 29 to August 2, 2024 in Tokyo, the beautiful occitan village place of the mythical Hestajada de les arts, the music festival founded by Bernard Lubat. Furthermore, it will be the **tenth anniversary** of the creation of Improtech, in NYC in 2012 (well anniversary should have been celebrated last year, but was cancelled as the workshop didn't take place this year and was postponed to 2024)
+After praised editions in New York, Philadelphia, Athens and Uzeste, **Improtech Paris-Tokyo** (ikTokyo'24) will land down in Tokyo, the sizzling japanese metropolis on july 29.
 
 [Get a glimpse at Athens concerts and events videos !](https://improtech.ircam.fr/)
 
@@ -38,7 +38,7 @@ For the first time, Improtech will be held in France : **Improtech @ Tokyo!**
 
 **ikTokyo'24** brings artists, researchers, engineers, thinkers, students, inventors, DYI enthusiasts covering a broad spectrum of knowledge fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities...
 
-**Improtech @ Tokyo !** will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
+**Improtech Paris-Tokyo** will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
 
 **[Read more about ImproTech philosophy and history]({filename}/pages/About.md)**
 
