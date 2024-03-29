@@ -6,7 +6,7 @@ Tags: ircam, improvisation, performance, human machine interaction, improtech, o
 Authors: Gerard Assayag
 Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-## COMING SOON : Improtech Paris-Tokyo 2024, from July 29 to August 2 in Tokyo -
+## COMING SOON : Improtech Paris-Tokyo 2024, from July 29 to August 2 in Tokyo 
 
 <br>
 <br>
