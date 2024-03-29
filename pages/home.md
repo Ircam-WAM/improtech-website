@@ -6,7 +6,7 @@ Tags: improtech, ircam, improvisation, Uzeste, cocreativity, computer music, per
 Authors: Gerard Assayag
 Summary: Improtech Uzeste gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### Workshop - Festival : Uzeste, France 11-13 Août 2023
+#### Workshopp - Festival : Uzeste, France 11-13 Août 2023
 *[Facebook](https://www.facebook.com/erc.reach/) / [Instagram](https://www.instagram.com/erc_reach/)*
 <br>
 <br>
@@ -17,7 +17,7 @@ Après des éditions remarquées à New York, Philadelphie et Athènes, Improtec
 Cette année, Joëlle Léandre, Evan Parker, Benoit Delbecq, Jozef Dumoulin, Jaap Blonk, Justin Vali, Jean-Marc Montera, 	Rob Frye, Maciek Lasserre, Gaston Bandimic, André Minvielle, Bernard Lubat, Sylvain Luc, Nurith Aviv, Mari Kimura, Gyorgy Kurtag, Hervé Sellin, Benny Sluchin et bien d’autres offrent une scène éblouissante ! et la fête continue avec la Hestajada dès le lundi 14 août jusqu’au 19.
 
 **[Regarder les videos d'Improtech @ Athènes](https://improtech.ircam.fr/)**
- 
+
 <br>
 <img src="./images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
 
@@ -83,5 +83,5 @@ IMPROTECH@ Uzeste ! :  c’est simplement de la dynamite !
 
 
 <p align="center">
-  <img src="./images/Logo_improtech_anniv.png" width="300">
+<img src="./images/Logo_improtech_anniv.png" width="300">
 </p>
