@@ -18,6 +18,8 @@ This course will present a set of tools that enable interactive improvisation be
 
 **Marc Chemillier** (EHESS) & al, Keeping the swing, AI cocreative musicianship in collective idiomatic settings
 
+<br><br>
+
 ##30 July, Tuesday 
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #2
@@ -30,6 +32,8 @@ This course will focus on the cocreative AI improvisation environment Somax2, de
 
 **Nicolas Brochec**, **Marco Fiorini** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
 
+<br><br>
+
 ##31 July, Wednesday 
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #3
@@ -38,9 +42,11 @@ Somax2 advanced course
 This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
 
 ###18:00 - 19:30 Improtech lecture session #3
-Mari Kimura (UC Irvine), Natural Gestural Control in Instrumental Interaction with Generative Live Electronics
+**Mari Kimura** (UC Irvine), Natural Gestural Control in Instrumental Interaction with Generative Live Electronics
 
-Jose-Miguel Fernandes and Lara Morciano (Ircam) The Somax2Collider environment for Spatial Interactive Agents. The making of Lara Morciano’s Lithophonics for ensemble.
+**Jose-Miguel Fernandes and Lara Morciano** (Ircam) The Somax2Collider environment for Spatial Interactive Agents. The making of Lara Morciano’s Lithophonics for ensemble.
+
+<br><br>
 
 ##1 August, Thursday 
 
@@ -50,61 +56,68 @@ Somax2 under the hood
 The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
 
 ###18:00 - 19:30 Improtech lecture session #4
-Nao Tokui (Qosmo Inc.), Surfing Human Creativity with AI
+**Nao Tokui** (Qosmo Inc.), Surfing Human Creativity with AI
 
-Suguru Goto (Geidai), On Creation of a New Piece with Generative Electronics
+**Suguru Goto** (Geidai), On Creation of a New Piece with Generative Electronics
+
+<br><br>
 
 ##2 August, Friday
 
 ###16:00 IMPROTECH CONCERT #1
 
-REACHing OUT!
+*REACHing OUT!*
 
-Joëlle Léandre (Bass) and the Who/Men (G. Assayag, M. Fiorini, M. Malt, generative electronics) 
-Collectif Trans(e)-musical
+**Joëlle Léandre* (Bass) and *the Who/Men* (G. Assayag, M. Fiorini, M. Malt, generative electronics) 
 
-Justin Vali (Malagasy zither, voice), Marc Chemillier (Generative electronics), and friends.
 
-Knock
+*Trans(e)-musical*
 
-Miller Puckette (live electronics),  Irwin (percussion, live electronics)
+**Justin Vali** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), and friends.
 
-Strings
+*Knock*
 
-Jean-Marc Montera (Table Guitar), Turner Williams Jr (Shahi Baaja), and friends.
+**Miller Puckette** (live electronics),  **Irwin** (percussion, live electronics)
 
-Collider
+*Strings*
 
-Lara Morciano (composer, pianist),  Jose-Miguel Fernandez (generative electronics)
+**Jean-Marc Montera** (Table Guitar), **Turner Williams Jr** (Shahi Baaja), and friends.
+
+*Collider*
+
+**Lara Morciano** (composer, pianist),  **Jose-Miguel Fernandez** (generative electronics)
+
+<br><br>
 
 ### 20:00 IMPROTECH CONCERT #2
 
-Piece1
+*Piece1*
 
-Suguru Goto (composer, generative electronics)
+**Suguru Goto** (composer, generative electronics)
 
-Piece2
+*Piece2*
 
-Ko Sahara (composer, generative electronics)
+**Ko Sahara** (composer, generative electronics)
 
-Spectral Light
-Steve Lehman (Saxophone, live electronics) and friends
+*Spectral Light*
 
-Mugix
+**Steve Lehman** (Saxophone, live electronics) and friends
 
-Mari Kimura (Violin, generative electronics) and Friends
+*Mugix*
 
-Tokyo Bout à Bout
+**Mari Kimura** (Violin, generative electronics) and Friends
 
-Georges Bloch (composer, generative electronics) and Friends
-P
-iece3
+*Tokyo Bout à Bout*
 
-Takeyoshi Mori (composer, generative electronics)
+**Georges Bloch** (composer, generative electronics) and Friends
 
-Piece4
+*Piece3*
 
-Nicolas Brochec (composer, generative electronics)
+**Takeyoshi Mori** (composer, generative electronics)
+
+*Piece4*
+
+**Nicolas Brochec** (composer, generative electronics)
 
 
 
