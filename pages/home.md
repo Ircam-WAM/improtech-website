@@ -14,7 +14,10 @@ Summary: Improtech Tokyo gathers scholars, technologists, musicians, makers, aro
 
 After praised editions in New York, Philadelphia, Athens and Uzeste, **Improtech Paris-Tokyo** (ikTokyo'24) will land down in Tokyo, the sizzling japanese metropolis on july 29.
 
-[Get a glimpse at previous editions concerts and events !](https://improtech.ircam.fr/)
+This year, Improtech is associated  with a momentous event, the **Max Summer School**, which gathers every year a large community of computer music enthusiasts at the **Tokyo University of the Arts** (Geidai). The Workshop thread of Improtech will merge with the daily MSS advanced Max course, providing the attendees with unique insight on CoCreative Artificial Intelligence tools based on Max and other environments, completed with keynote lectures in the evening and two high-profile concerts on the last day of the study week.
+
+To attend, **participants should register** for the Max Summer School / Improtech week here. The **concerts are public and free** upon reservation (reservation site under construction).
+
 
 <br>
 <img src="../images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
@@ -24,6 +27,8 @@ After praised editions in New York, Philadelphia, Athens and Uzeste, **Improtech
 Improtech is dedicated to the explosive alliance between the age-old art of improvisation and the emerging cultures of digital intelligence. It fosters the co-creative dynamics that can exist between humans and machines, and in so doing, creates new meeting grounds between people, artists and audiences of all backgrounds and levels.
 
 Exploring the relationships between music and science, composition and improvisation, writing and performance, music and other performance arts in "cyber-human" settings, Improtech has established itself as one of the major events of contemporary research and creation.
+
+[Get a glimpse at previous editions concerts and events !](https://improtech.ircam.fr/)
 
 For the first time, Improtech will be held in Japan : **Improtech Paris- Tokyo!**
 
