@@ -18,7 +18,18 @@ This year, Improtech is associated  with a momentous event, the **[Max Summer Sc
 
 To attend, **participants should register** for the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. The **concerts are public and free** upon reservation (reservation site under construction).
 
+<br>
+<img src="../images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
+##Highlights
+<br>
 
+This edition of IMPROTECH in Tokyo features some legends of improvisation, Steve Lehman, Joëlle Léandre, Jim O'Rourke (from the legendary band Sonic Youth), Justin Vali, Mari Kimura, Aikira Sakata, Michiyo Yagi, Tamami Tono, and composers Suguru Goto, Lara Morciano, Jose-Miguel Fernandez, Mikhail Malt, and many others.
+
+In addition to the concerts, Improtech offers a rich program of keynotes lectures, workshops, demos, experimental performances.
+
+See the [full program there.]({filename}/pages/Program.md)
+
+ 
 <br>
 <img src="../images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
 ## A New alliance
@@ -47,18 +58,6 @@ For the first time, Improtech will be held in Japan : **Improtech Paris- Tokyo!*
 
 **[Read more about ImproTech philosophy and history]({filename}/pages/About.md)**
 
-<br>
-<img src="../images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
-##Highlights
-<br>
-
-This edition of IMPROTECH in Tokyo features some legends of improvisation, Steve Lehman, Joëlle Léandre, Jim O'Rourke (from the legendary band Sonic Youth), Justin Vali, Mari Kimura, Aikira Sakata, Michiyo Yagi, Tamami Tono, and composers Suguru Goto, Lara Morciano, Jose-Miguel Fernandez, Mikhail Malt, and many others.
-
-In addition to the concerts, Improtech offers a rich program of keynotes lectures, workshops, demos, experimental performances.
-
-See the [full program there.]({filename}/pages/Program.md)
-
-IMPROTECH Paris - Tokyo is simply dynamite!
 
 
 <br>
