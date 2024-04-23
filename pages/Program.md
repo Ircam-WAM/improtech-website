@@ -5,23 +5,20 @@ title: Programme
 <br>
 
 
-Improtech Paris - Tokyo 2024
-during the Max Summer School 2024 – Tokyo University of the Arts
 
-Cocreative Improvised Interaction Ecosystems
+##29 July, Monday
 
-MSS advanced course / Improtech Workshop #1 to #4 by the REACH project team :  Marco Fiorini, Mikhail Malt, Marc Chemillier, Gérard Assayag, Nicolas Brochec, Jose-Miguel Fernandes.
-
-29 July, Monday
-
-16:30 - 18:00 MSS advanced course / IK Workshop  #1
+###16:30 - 18:00 MSS advanced course / IK Workshop  #1
 Introduction to REACH co-creative software.
+
 This course will present a set of tools that enable interactive improvisation between the human and the machine. Tools such as Omax, Somax2, Djazz, Dicy2 allow Max to improvise in collaboration with humans by capturing human performances, navigating through music corpuses and latent spaces of musical features, and adapting continuously to the evolving musical context using generative model and audio / midi rendering.
-18:00 - 19:30 Improtech lecture session #1
+
+###18:00 - 19:30 Improtech lecture session #1
 Miller Puckette (Ircam), Advanced improvised interaction systems
+
 Marc Chemillier (EHESS) & al, Keeping the swing, AI cocreative musicianship in collective idiomatic settings
 
-30 July, Tuesday 
+##30 July, Tuesday 
 
 16:30 - 18:00 MSS advanced course / IK Workshop #2
 Introduction to Somax2
