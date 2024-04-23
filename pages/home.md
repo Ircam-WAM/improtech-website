@@ -23,9 +23,7 @@ To attend, **participants should register** for the Max Summer School / Improtec
 ##Highlights
 <br>
 
-This edition of IMPROTECH in Tokyo features some legends of improvisation, Steve Lehman, Joëlle Léandre, Jim O'Rourke (from the legendary band Sonic Youth), Justin Vali, Mari Kimura, Aikira Sakata, Michiyo Yagi, Tamami Tono, and composers Suguru Goto, Lara Morciano, Jose-Miguel Fernandez, Mikhail Malt, and many others.
-
-In addition to the concerts, Improtech offers a rich program of keynotes lectures, workshops, demos, experimental performances.
+This edition of IMPROTECH in Tokyo features some legends of improvisation, Steve Lehman, Joëlle Léandre, Jim O'Rourke (from the legendary band Sonic Youth), Justin Vali, Mari Kimura, Aikira Sakata, Michiyo Yagi, Tamami Tono, and composers Suguru Goto, Lara Morciano, Jose-Miguel Fernandez, Mikhail Malt, and many others. In addition to the concerts, Improtech offers a rich program of keynotes lectures, workshops, demos, experimental performances.
 
 See the [full program there.]({filename}/pages/Program.md)
 
