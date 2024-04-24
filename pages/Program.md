@@ -42,7 +42,7 @@ Somax2 advanced course
 This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
 
 ###18:00 - 19:30 Improtech lecture session #3
-**Mari Kimura** (UC Irvine), Natural Gestural Control in Instrumental Interaction with Generative Live Electronics
+**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), Natural Gestural Control in Instrumental Interaction with Generative Live Electronics
 
 **Jose-Miguel Fernandes and Lara Morciano** (Ircam) The Somax2Collider environment for Spatial Interactive Agents. The making of Lara Morciano’s Lithophonics for ensemble.
 
@@ -58,7 +58,10 @@ The internal technical parts of Somax2 will be explained, including the client -
 ###18:00 - 19:30 Improtech lecture session #4
 **Nao Tokui** (Qosmo Inc.), Surfing Human Creativity with AI
 
-**Suguru Goto** (Geidai), On Creation of a New Piece with Generative Electronics
+**[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))**, musician, A Sonic Life Journey 
+
+
+
 
 <br><br>
 
@@ -68,23 +71,23 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *REACHing OUT!*
 
-**Joëlle Léandre** (Bass) and **the Who/Men**(G. Assayag, M. Fiorini, M. Malt, generative electronics) 
+**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Bass) and **the Who/Men**(G. Assayag, M. Fiorini, M. Malt, generative electronics) 
 
 *Trans(e)-musical*
 
-**Justin Vali** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), and friends.
+**[Justin Vali](https://www.katebushencyclopedia.com/vali-justin/)** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), and friends.
 
 *Knock*
  
-**Miller Puckette** (PD live electronics),  **Irwin** (percussion, live electronics)
+**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (PD live electronics),  **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)** (percussion, live electronics)
 
 *Strings*
 
-**[Jim O'Rourke](https://www.mouvement.net/musique/jim-o-rourke)**, **Jean-Marc Montera**, **Mari Kimura**, **Turner Williams** (Guitars, violin, Shahi Bajaa, live and generative electronics)
+**[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))**, **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)**, **[Mari Kimura](https://www.marikimura.com/)**, **T[urner Williams](https://allnightflightrecords.com/products/turner-williams-jr-ensoleillee)** (Guitars, violin, Shahi Bajaa, live and generative electronics)
 
 *Collider*
 
-**Lara Morciano** (composer, pianist),  **Jose-Miguel Fernandez** (generative electronics)
+**[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  **Jose-Miguel Fernandez** (generative electronics)
 
 
 <br><br>
@@ -94,15 +97,15 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Compositions by Geidai Artists*
 
-**Suguru Goto**, **Ko Sahara**, **Takeyoshi Mori**, **Nicolas Brochec** (composers, generative electronics)
+**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)**, **Ko Sahara**, **Takeyoshi Mori**, **Nicolas Brochec** (composers, generative electronics)
 
 *Spectral Light*
 
-**Steve Lehman** (Saxophone, live electronics) and friends
+**[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics) and friends
 
 *Les Dragonnes Mugixent*
 
-**Mari Kimura** (Violin, generative electronics), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho), **[Michiyo Yagi](https://www.citizenjazz.com/Michiyo-Yagi-modernise-la-tradition.html)** (Koto, electronics), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (sax)
+**[Mari Kimura](https://www.marikimura.com/)** (Violin, generative electronics), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho), **[Michiyo Yagi](https://www.citizenjazz.com/Michiyo-Yagi-modernise-la-tradition.html)** (Koto, electronics), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (sax)
 
 *Tokyo Bout à Bout*
 
