@@ -80,7 +80,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Strings*
 
-**Jim O'Rourke**, **Jean-Marc Montera**, **Mari Kimura**, **Turner Williams** (Guitars, violin, Shahi Bajaa, live and generative electronics)
+**[Jim O'Rourke](https://www.mouvement.net/musique/jim-o-rourke)**, **Jean-Marc Montera**, **Mari Kimura**, **Turner Williams** (Guitars, violin, Shahi Bajaa, live and generative electronics)
 
 *Collider*
 
@@ -102,7 +102,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Les Dragonnes Mugixent*
 
-**Mari Kimura** (Violin, generative electronics), **Tamami Tono** (Sho), **Michiyo Yagi** (Koto, electronics)
+**Mari Kimura** (Violin, generative electronics), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho), **[Michiyo Yagi](https://www.citizenjazz.com/Michiyo-Yagi-modernise-la-tradition.html)** (Koto, electronics), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (sax)
 
 *Tokyo Bout à Bout*
 
