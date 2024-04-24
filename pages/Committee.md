@@ -44,13 +44,6 @@ Jean-Baptiste Barrière, Artist
 Miller Puckette, IRCAM
 
 
-<br>
-
-<p align="center">
-  <img src="../images/Logo_improtech_anniv.png" width="300">
-</p>
-
-
 #Credits
 
 ###Produced & supported by
@@ -60,7 +53,6 @@ Miller Puckette, IRCAM
   <img src="../images/ikUZESTE_logos.png" width="2400">
 </p>
 <br>
-
 
 
 ###Under the high patronage of

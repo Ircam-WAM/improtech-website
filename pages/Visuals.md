@@ -3,7 +3,9 @@ title: Records and Media
 ---
 ### Previous Improtech Editions
 
-[Paris - Athina edition 2019](http://ikparisathina.ircam.fr)
+[Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste)
+
+[Paris - Athina edition 2019](http://ikparisathina.ircam.fr) (with high quality concerts and documentaries videos)
 
 [Paris - Philadelphia edition 2017](http://ikparisphilly.ircam.fr)
 
@@ -12,22 +14,7 @@ title: Records and Media
 [Ircam original workshop at SMC'04](http://recherche.ircam.fr/equipes/repmus/SMC04/)
 
 
-### Watch the videos of Improtech Paris-Athina 2019
-
-Improtech Paris-Athina [is here](http://ikparisathina.ircam.fr/)
-
-* [best-of concerts in Athènes](https://vimeo.com/428831250)
-* [the documentary](https://vimeo.com/432057132)
-* [all concerts videos](https://vimeo.com/showcase/6364851)
-* [musician interviews](https://vimeo.com/showcase/7276504)
-
-### Improtech @ Uzeste ! Press kit
-
-*[Improtech 2023 Argument (PDF) (French) ]({filename}/doc/IkUzeste_Argument.pdf)*
-
-<br>
-
-### Improtech @ Uzeste ! Logos
+### Improtech Logos and posters
 
 <br>
 <p align="center">
@@ -39,7 +26,11 @@ Improtech Paris-Athina [is here](http://ikparisathina.ircam.fr/)
 </p>
 <br>
 
-### Improtech @ Uzeste ! Poster
+<p align="center">
+  <img src="../images/IKPoster1b.jpg" width="1000">
+</p>
+<br>
+
 
 <br>
 <p align="center">
@@ -47,9 +38,26 @@ Improtech Paris-Athina [is here](http://ikparisathina.ircam.fr/)
 </p>
 <br>
 <br>
+
+<br>
 <p align="center">
-  <img src="../images/IKPoster1b.jpg" width="1000">
+  <img src="../images/IKpromo_front_draft3.jpg" width="1000">
 </p>
 <br>
+<br>
+
+
+br>
+<p align="center">
+  <img src="../images/ikPoster_ParisAthina.png" width="1000">
+</p>
+<br>
+<br>
+
+
+
+
+
+
 
 [Art Work & Graphic Design] © [Turner Williams](https://turnerwilliamsjr.com/)
