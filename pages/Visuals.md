@@ -7,7 +7,7 @@ title: Archives
 
 [General Improtech Page](http://improtech.ircam.fr) (with high quality concerts and documentaries videos archives)
 
-Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste)
+[Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste)
 
 [Paris - Athina edition 2019](http://ikparisathina.ircam.fr) 
 
