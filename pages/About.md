@@ -5,11 +5,10 @@ Title: About
 
 Originally Created by Gérard Assayag (IRCAM) and Marc Chemillier (EHESS), Improtech is both a musical festival and an interdisciplinary workshop that brings together actors of research and creation from all over the world around the question of musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity.
 
-This unparalleled event, co-organized by Ircam and French and international partners (major universities and research institutions, private and public institutes, art centers, sponsors) has already been held with undeniable success in [New York (2012)](http://repmus.ircam.fr/improtechpny), [Philadelphia (2017)](http://ikparisphilly.ircam.fr), and [Athens (2019)](http://ikparisathina.ircam.fr). The edition planned for Tokyo in 2021 as part of the Season of France in Japan could not be held because of the pandemic and has been postponed.
+This unparalleled event, co-organized by Ircam and French and international partners (major universities and research institutions, private and public institutes, art centers, sponsors) has already been held with undeniable success in [New York (2012)](http://repmus.ircam.fr/improtechpny), [Philadelphia (2017)](http://ikparisphilly.ircam.fr),  [Athens (2019)](http://ikparisathina.ircam.fr) and [Uzeste](https://improtech.ircam.fr/ikuzeste]. Also check the [generic Improtech web site](https://improtech.irvam.fr)for concerts and documentaries video archives and much more.
 
-We wanted for a long time, after the American and European connections, to hold a major edition in France, and what better city than Marseille !
+The edition planned for Tokyo in 2021 as part of the Season of France in Japan could not be held because of the pandemic and has been postponed and will take place in 2024.
 
-Improtech @ Marseille will be held from October 22 to 24, 2022 at the Palais Carli, in the beautiful spaces of the Conservatoire National Pierre Barbizet, with satellite events in the city during the week of October 17.
 
 <img src="../images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
 ##An explosive alliance between Improvisation and Digital Intelligence
@@ -19,7 +18,6 @@ Exploring the relationships between music and science, composition and improvisa
 
 In the past, Improtech has linked the French research and creation scene to a major foreign city such as New York or Athens, mixing the great masters of the improvised scene with the young artists of the most original underground scenes identified in each of the host cities.
 
-For the first time, Improtech will be centered on a major French city: Improtech @ Marseille!
 
 <img src="../images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
 ## New aesthetic and social patterns
@@ -27,14 +25,12 @@ Improtech is a place for the emergence of new aesthetics linked to scientific an
 
 This is a rare opportunity for intercultural and interdisciplinary encounters at the junction of the arts and sciences between research and creative communities, revealing unique opportunities for new personal and institutional collaborations, to introduce a wide audience to new directions that they suspect but have very little opportunity to discover in a creative and playful setting.
 
-The meeting also allows each time to reveal the eminent position of the chosen city in the history of the improvised scenes, as well as in that of the intercultural relations and hybridizations, even sometimes creolisations. There is little doubt that in terms of dynamism, youthful inspiration, cultural mixes, aesthetic generosity and solidarity, Improtech @ Marseille ! will be a summit in the Improtech series.
+The meeting also allows each time to reveal the eminent position of the chosen city in the history of the improvised scenes, as well as in that of the intercultural relations and hybridizations, even sometimes creolisations. There is little doubt that in terms of dynamism, youthful inspiration, cultural mixes, aesthetic generosity and solidarity, Improtech Paris - Tokyo will be a summit in the Improtech series.
 
 <img src="../images/IKPoster_frag4.jpg" width="125" style="float:left" hspace="10">
 ## On the Menu
 Improtech includes conferences, demonstrations, workshops, musical and multi-art performances (dance, media, mixed realities), installations and concerts bringing together the world's best improvising musicians in selected venues
 Artists, researchers, thinkers, students, inventors, DYI (Do It Yourself) enthusiasts come to Improtech to present their work, offer demonstrations and performances, and perform on the concert stages. The public meets personalities from major international research centers and remarkable artistic figures from contemporary, jazz, rock, electronic, traditional or underground music scenes. They are introduced to many scientific and technological fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities.
-
-Improtech @ Marseille ! centered on the Marseille Conservatory will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
 
 <img src="../images/IKPoster_frag5.jpg" width="125" style="float:left" hspace="10">
 ## The framework of Improtech
@@ -46,8 +42,6 @@ Improtech capitalizes on each edition and creates its legacy by setting up colla
 Improtech has already brought together some of the best improvisers in the world including Evan Parker, George Lewis, Steve Coleman, Bernard Lubat, Roscoe Mitchell, Geri Allen, Raphael Imbert, Vijay Iyer, Sun Ra, Steve Lehman, Rudresh Manhantappa, Bob Ostertag, Jaap Blonk, David Rosenboom, Matmos, Sylvain Luc, D.mHotep, to name a few.
 
 Improtech was made possible thanks to the commitment of ircam, EHESS, the Onassis STEGI Center and the University of Athens, New York University, Columbia University, University of Pennsylvania, Drexel University, Institut Fançais, Sorbonne University, Région Nouvelle Aquitaine, Princeton University, CalArts, Stanford University, Hyvibe Company, Yamaha Disklavier, Université de Bordeaux, FACE, Uzeste Musical and Compagnie Lubat.
-
-Improtech @ Marseille ! already receives the support of Ircam, the Agence Nationale de la Recherche, the European Research Council, the CNRS, the Ministry of Culture, the French Institute, Sorbonne Center for Artificial Intelligence, Conservatoire National à Rayonnement Régional Pierre Barbizet de Marseille, INSEAMM, IFAMM, ...
 
 Improtech is an ERC REACH action supported by the European Research Council within the Horizon 2020 program (Convention No. 883313).
 
@@ -61,6 +55,11 @@ Improtech is an ERC REACH action supported by the European Research Council with
 
 **Improtech 2019** gathered scholars, researchers, musicians, makers, around the idea of musical improvisation in interaction with digital intelligence, taking note of the important development of this new creative field.
 ikPA'19 created a link between the european and worlwide research and creation scenes through the symbolic matching of  Paris, where the event [originated at Ircam](http://recherche.ircam.fr/equipes/repmus/SMC04/), and an other emblematic city. This year Paris  connected with Athens, in a powerful arc between science and the art of improvisation, after the  [Paris - Philadelphia edition](http://ikparisphilly.ircam.fr) last year, and the [Paris - New-york edition](http://repmus.ircam.fr/improtechpny) a few years ago...
+
+
+**Improtech 2023** took place from August 11 to 13, 2023 in Uzeste, the beautiful Gascon village where the mythical Hestajada de las arts takes place, the music festival founded by Bernard Lubat, with which Improtech was associated this year. What's more, it wasthe tenth anniversary (postponed until this year) of Improtech's creation in NYC in 2012. This year, Joëlle Léandre, Evan Parker, Benoit Delbecq, Jozef Dumoulin, Jaap Blonk, Justin Vali, Jean-Marc Montera, Rob Frye, Maciek Lasserre, Gaston Bandimic, André Minvielle, Bernard Lubat, Sylvain Luc, Nurith Aviv, Mari Kimura, Gyorgy Kurtag, Hervé Sellin, Benny Sluchin and many others offered a dazzling stage! And the party continued with the Hestajada from Monday August 14 to the 19th.
+
+
 
 <br>
 <br>
