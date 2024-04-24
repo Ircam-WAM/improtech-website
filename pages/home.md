@@ -23,7 +23,7 @@ After praised editions in New York, Philadelphia, Athens and Uzeste, **Improtech
 
 This year, Improtech is associated  with a momentous event, the **[Max Summer School](https://maxsummer2024.geidai.ac.jp/en/)**, which gathers every year a large community of computer music enthusiasts at the **Tokyo University of the Arts (Geidai)** in the [Musical Creativity Department](https://www.geidai.ac.jp/english/music/musical-creativity-and-the-environment) at [Senju campus](https://maps.app.goo.gl/h2yencZ3Nyi3g7VAA)
 
-. The Workshop thread of Improtech will merge with the daily MSS advanced Max course, providing the attendees with unique insight on CoCreative Artificial Intelligence tools based on Max and other environments, completed with keynote lectures in the evening and two high-profile concerts on the last day of the study week.
+The Workshop thread of Improtech will merge with the daily MSS advanced Max course, providing the attendees with unique insight on CoCreative Artificial Intelligence tools based on Max and other environments, completed with keynote lectures in the evening and two high-profile concerts on the last day of the study week.
 
 To attend, **participants should register** for the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. The **concerts are public and free** upon reservation (reservation site under construction).
 
