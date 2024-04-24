@@ -73,9 +73,9 @@ Retrieve [movies on Vimeo](https://vimeo.com/showcase/7276504) or parse through 
 
 <br>
 <p align="center">
-   <img src="../doc/ImproTech_Poster_1.jpg" width="600" hspace="20">
+   <img src="../doc/ImproTech_Poster_1.jpg" width="1000" hspace="20">
   <br><br>
-  <img src="../doc/ImproTech_Poster_2.jpg" width="600" hspace="20">
+  <img src="../doc/ImproTech_Poster_2.jpg" width="1000" hspace="20">
   <br><br>
 </p>
 
