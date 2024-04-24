@@ -105,7 +105,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Les Dragonnes Mugixent*
 
-**[Mari Kimura](https://www.marikimura.com/)** (Violin, generative electronics), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho), **[Michiyo Yagi](https://www.citizenjazz.com/Michiyo-Yagi-modernise-la-tradition.html)** (Koto, electronics), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (sax)
+**[Mari Kimura](https://www.marikimura.com/)** (Violin, generative electronics), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Koto, electronics), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (sax)
 
 *Tokyo Bout à Bout*
 
