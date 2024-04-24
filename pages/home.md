@@ -61,8 +61,6 @@ For the first time, Improtech will be held in Japan : **Improtech Paris- Tokyo!*
 <br>
 <br>
 
-
-
 <p align="center">
-  <img src="../images/Logo_improtech_anniv.png" width="300">
+  <img src="../images/Logo_improtech_anniv.png" width="200">
 </p>
