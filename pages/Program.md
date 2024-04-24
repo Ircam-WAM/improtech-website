@@ -5,16 +5,16 @@ title: Programme
 <br>
 
 
-
 ##29 July, Monday
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop  #1
 Introduction to REACH co-creative software.
+**Marco Fiorini** and **Mikhail Malt**
 
 This course will present a set of tools that enable interactive improvisation between the human and the machine. Tools such as Omax, Somax2, Djazz, Dicy2 allow Max to improvise in collaboration with humans by capturing human performances, navigating through music corpuses and latent spaces of musical features, and adapting continuously to the evolving musical context using generative model and audio / midi rendering.
 
 ###18:00 - 19:30 Improtech lecture session #1
-**Miller Puckette** (Ircam), Advanced improvised interaction systems
+**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (Ircam), Advanced improvised interaction systems
 
 **Marc Chemillier** (EHESS) & al, Keeping the swing, AI cocreative musicianship in collective idiomatic settings
 
@@ -24,11 +24,12 @@ This course will present a set of tools that enable interactive improvisation be
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #2
 Introduction to Somax2
+**Marco Fiorini** and **Mikhail Malt**
 
 This course will focus on the cocreative AI improvisation environment Somax2, detailing its basic concepts, the applicative user interface, the main controls, interaction strategies and musical scenarios, with concrete musical examples and demos..
 
 ###18:00 - 19:30 Improtech lecture session #2
-**Shlomo Dubnov** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
+**[Shlomo Dubnov](https://en.wikipedia.org/wiki/Shlomo_Dubnov)** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
 
 **Nicolas Brochec**, **Marco Fiorini** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
 
@@ -38,13 +39,14 @@ This course will focus on the cocreative AI improvisation environment Somax2, de
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #3
 Somax2 advanced course
+**Marco Fiorini** and **Mikhail Malt**
 
 This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
 
 ###18:00 - 19:30 Improtech lecture session #3
 **[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), Natural Gestural Control in Instrumental Interaction with Generative Live Electronics
 
-**Jose-Miguel Fernandes and Lara Morciano** (Ircam) The Somax2Collider environment for Spatial Interactive Agents. The making of Lara Morciano’s Lithophonics for ensemble.
+**Jose-Miguel Fernandes** and **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) The Somax2Collider environment for Spatial Interactive Agents. The making of Lara Morciano’s Lithophonics for ensemble.
 
 <br><br>
 
@@ -52,11 +54,12 @@ This course will dive into the advanced use of Somax2, including mastering of ex
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #4
 Somax2 under the hood
+**Marco Fiorini** and **Mikhail Malt**
 
 The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
 
 ###18:00 - 19:30 Improtech lecture session #4
-**Nao Tokui** (Qosmo Inc.), Surfing Human Creativity with AI
+**[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing Human Creativity with AI
 
 **[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))**, musician, A Sonic Life Journey 
 
