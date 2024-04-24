@@ -4,18 +4,18 @@ title: Organisation
 
 ###  General Chair
 
-Gérard Assayag, DR IRCAM
-Pr Marc Chemillier, EHESS
-Pr Suguru Goto, Geidai
+Gérard Assayag, DR IRCAM  
+Pr Marc Chemillier, EHESS  
+Pr Suguru Goto, Geidai  
 
 
 ### Organisation Committee
-
-Marco Fiorini, IRCAM
-Nicolas Brochec, Geidai
-Vasiliki Zachari, IRCAM
-Mikhail Malt, IRCAM
-Jose-Miguel Fernandez,IRCAM
+ 
+Marco Fiorini, IRCAM  
+Nicolas Brochec, Geidai  
+Vasiliki Zachari, IRCAM  
+Mikhail Malt, IRCAM  
+Jose-Miguel Fernandez,IRCAM  
 
 
 ### Science / Art  Advisory Board / Steering 
@@ -26,7 +26,7 @@ Emilios Cambouropulos, Aristotle University of Thessaloniki
 Suguru Goto, Geidai University of the Arts, Tokyo  
 Brigitte d’Andréa-Novel, Ecole des Mines / Sorbonne Université  
 Eugene Lew, University of Pennsylvania  
-Fabrice Vieira, Uzeste Musical
+Fabrice Vieira, Uzeste Musical  
 Hugues Genevois, Sorbonne Université  
 Elaine Chew, Queen Mary University of London  
 Maxime Crochemore, King’s College of London  
@@ -41,6 +41,8 @@ Robert Rowe, New York University
 Pierre Alexandre Tremblay, Huddersfield University  
 Atau Tanaka, Goldsmiths University of London  
 Jean-Baptiste Barrière, Artist
+Miller Puckette, IRCAM
+
 
 <br>
 
