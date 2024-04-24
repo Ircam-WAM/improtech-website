@@ -1,4 +1,6 @@
 title: Venues
+Status: Hidden
+
 
 ---
 

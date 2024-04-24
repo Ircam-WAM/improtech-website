@@ -1,4 +1,5 @@
 Title: Previous
+Status: Hidden
 
 ## Previous and Next Improtech Editions
 
