@@ -4,39 +4,29 @@ title: Organisation
 
 ###  General Chair
 
-Gérard Assayag (Research Director, IRCAM)  
-Marc Chemillier (Research Director, EHESS)  
-Bernard Lubat, Fabrice Vieira (Compagnie Lubat, Uzeste Musical)
+Gérard Assayag, DR IRCAM
+Pr Marc Chemillier, EHESS
+Pr Suguru Goto, Geidai
 
 
 ### Organisation Committee
 
-Vasiliki Zachari (IRCAM) administration  
-Martine Bois (Uzeste) administration, communication
-Isabelle Pauly (Uzeste)  logement, transport  
-Celine Rutaly (Uzeste) production  
-David Brunet (Uzeste) régisseur plateau  
-Guillaume Prudon (Uzeste) Regisseur général  
-Damien Duleau, (uzeste)ingénieur son
+Marco Fiorini, IRCAM
+Nicolas Brochec, Geidai
+Vasiliki Zachari, IRCAM
+Mikhail Malt, IRCAM
+Jose-Miguel Fernandez,IRCAM
 
-### Collaborators and Partners
 
-Sylvie Benoit, Artistic advisor  
-Jeff Joly, Popmyfilm,	Film maker  
-Turner Williams Jr, Graphic Design  
-
-### Volunteers
-
-### Science / Art  Advisory Board
+### Science / Art  Advisory Board / Steering 
 
 Anastasia Georgakis, Kapodistrian University of Athens  
-Cristos Carras, Onassis STEGI, Athens  
 Pierre Couprie, U. of Evry/Paris-Saclay  
 Emilios Cambouropulos, Aristotle University of Thessaloniki  
 Suguru Goto, Geidai University of the Arts, Tokyo  
 Brigitte d’Andréa-Novel, Ecole des Mines / Sorbonne Université  
 Eugene Lew, University of Pennsylvania  
-Turner Williams, Artist  
+Fabrice Vieira, Uzeste Musical
 Hugues Genevois, Sorbonne Université  
 Elaine Chew, Queen Mary University of London  
 Maxime Crochemore, King’s College of London  
@@ -44,12 +34,13 @@ Shlomo Dubnov, University of California at San Diego
 Andrew Hugill, Bath Spa University  
 György Kurtág, University of Bordeaux   
 George Lewis, Columbia University   
-Bernard Lubat, Compagnie Lubat  
+Bernard Lubat, Uzeste Musical 
 Peter Nelson, University of Edinburgh  
 Tae Hong Park, New York University  
 Robert Rowe, New York University  
 Pierre Alexandre Tremblay, Huddersfield University  
 Atau Tanaka, Goldsmiths University of London  
+Jean-Baptiste Barrière, Artist
 
 <br>
 
