@@ -34,6 +34,17 @@ Retrieve [movies on Vimeo](https://vimeo.com/showcase/7276504) or parse through 
 <p align="center">
   <img src="../images/Logo_improtech.jpg" width="300">
 </p>
+
+
+
+
+<br>
+<p align="center">
+  <img src="../images/Logo_improtech_10anniv.png" width="300">
+</p>
+<br>
+
+
 <br>
 <p align="center">
   <img src="../images/Logo_improtech_anniv.png" width="300">
@@ -67,5 +78,15 @@ Retrieve [movies on Vimeo](https://vimeo.com/showcase/7276504) or parse through 
   <img src="../doc/ImproTech_Poster_2.jpg" width="600" hspace="20">
   <br><br>
 </p>
+
+<br>
+---
+<br>
+
+[Art Work & Graphic Design] © [Turner Williams](https://turnerwilliamsjr.com/)
+
+
+
+
 
 
