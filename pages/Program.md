@@ -120,7 +120,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 <br>
 <p align="center">
-  <img src="../images/Logo_improtech_anniv.png" width="200">
+  <img src="../images/Logo_improtech_anniv.png" width="300">
 </p>
 <br>
 
