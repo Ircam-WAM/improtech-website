@@ -10,7 +10,7 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 
 <br>
 
-####  *~~ NEWS ~~ [Improtech Paris-Tokyo 2024](https://improtech.ircam.fr/ikparistokyo), will be held from July 29 to August 2 in Tokyo*
+#### NEWS ! Goto the  [Improtech Paris-Tokyo 2024](https://improtech.ircam.fr/ikparistokyo) page.
 
 <br>
 
