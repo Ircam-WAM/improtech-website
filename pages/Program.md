@@ -68,8 +68,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *REACHing OUT!*
 
-**Joëlle Léandre* (Bass) and *the Who/Men* (G. Assayag, M. Fiorini, M. Malt, generative electronics) 
-
+**Joëlle Léandre** (Bass) and **the Who/Men**(G. Assayag, M. Fiorini, M. Malt, generative electronics) 
 
 *Trans(e)-musical*
 
@@ -77,47 +76,37 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Knock*
 
-**Miller Puckette** (live electronics),  **Irwin** (percussion, live electronics)
+**Miller Puckette** (PD live electronics),  **Irwin** (percussion, live electronics)
 
 *Strings*
 
-**Jean-Marc Montera** (Table Guitar), **Turner Williams Jr** (Shahi Baaja), and friends.
+**Jim O'Rourke**, **Jean-Marc Montera**, **Mari Kimura**, **Turner Williams** (Guitars, violin, Shahi Bajaa, live and generative electronics)
 
 *Collider*
 
 **Lara Morciano** (composer, pianist),  **Jose-Miguel Fernandez** (generative electronics)
 
+
 <br><br>
 
 ### 20:00 IMPROTECH CONCERT #2
 
-*Piece1*
 
-**Suguru Goto** (composer, generative electronics)
+*Compositions by Geidai Artists*
 
-*Piece2*
-
-**Ko Sahara** (composer, generative electronics)
+**Suguru Goto**, **Ko Sahara**, **Takeyoshi Mori**, **Nicolas Brochec** (composers, generative electronics)
 
 *Spectral Light*
 
 **Steve Lehman** (Saxophone, live electronics) and friends
 
-*Mugix*
+*Les Dragonnes Mugixent*
 
-**Mari Kimura** (Violin, generative electronics) and Friends
+**Mari Kimura** (Violin, generative electronics), **Tamami Tono** (Sho), **Michiyo Yagi** (Koto, electronics)
 
 *Tokyo Bout à Bout*
 
 **Georges Bloch** (composer, generative electronics) and Friends
-
-*Piece3*
-
-**Takeyoshi Mori** (composer, generative electronics)
-
-*Piece4*
-
-**Nicolas Brochec** (composer, generative electronics)
 
 
 
