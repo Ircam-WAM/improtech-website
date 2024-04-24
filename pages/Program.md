@@ -75,7 +75,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 **Justin Vali** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), and friends.
 
 *Knock*
-
+ 
 **Miller Puckette** (PD live electronics),  **Irwin** (percussion, live electronics)
 
 *Strings*
