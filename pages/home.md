@@ -27,6 +27,9 @@ The Workshop thread of Improtech will merge with the daily MSS advanced Max cour
 
 To attend, **participants should register** for the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. The **concerts are public and free** upon reservation (reservation site under construction).
 
+See [a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJjA?si=eKsWqqIexg2e5q54) by the Improtech Paris - Tokyo / Max Summer School teams on Youtube.
+
+
 <br>
 <img src="../images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ##Highlights
