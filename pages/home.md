@@ -27,7 +27,7 @@ The Workshop thread of Improtech will merge with the daily MSS advanced Max cour
 
 To attend, **participants should register** for the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. The **concerts are public and free** upon reservation (reservation site under construction).
 
-See [a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJjA?si=eKsWqqIexg2e5q54) by the Improtech Paris - Tokyo / Max Summer School teams on Youtube.
+See **[a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJjA?si=eKsWqqIexg2e5q54)** by the Improtech Paris - Tokyo / Max Summer School teams on Youtube.
 
 
 <br>
@@ -37,7 +37,7 @@ See [a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJjA
 
 This edition of IMPROTECH in Tokyo features some legends of improvisation, Steve Lehman, Joëlle Léandre, Jim O'Rourke (from the legendary band Sonic Youth), Justin Vali, Mari Kimura, Aikira Sakata, Michiyo Yagi, Tamami Tono, and composers Suguru Goto, Lara Morciano, Jose-Miguel Fernandez, Mikhail Malt, and many others. In addition to the concerts, Improtech offers a rich program of keynotes lectures, workshops, demos, experimental performances.
 
-See the [full program there.]({filename}/pages/Program.md)
+See the **[full program there.]({filename}/pages/Program.md)**
 
  
 <br>
@@ -49,7 +49,7 @@ Improtech is dedicated to the explosive alliance between the age-old art of impr
 
 Exploring the relationships between music and science, composition and improvisation, writing and performance, music and other performance arts in "cyber-human" settings, Improtech has established itself as one of the major events of contemporary research and creation.
 
-[Get a glimpse at previous editions concerts and events !](https://improtech.ircam.fr/)
+**[Get a glimpse at previous editions concerts and events here!](https://improtech.ircam.fr/)**
 
 For the first time, Improtech will be held in Japan : **Improtech Paris- Tokyo!**
 
