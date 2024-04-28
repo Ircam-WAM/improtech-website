@@ -23,7 +23,7 @@ After praised editions in New York, Philadelphia, Athens and Uzeste, **Improtech
 
 This year, Improtech is associated  with a momentous event, the **[Max Summer School](https://maxsummer2024.geidai.ac.jp/en/)**, which gathers every year a large community of computer music enthusiasts at the **Tokyo University of the Arts (Geidai)** in the [Musical Creativity Department](https://www.geidai.ac.jp/english/music/musical-creativity-and-the-environment) at [Senju campus](https://maps.app.goo.gl/h2yencZ3Nyi3g7VAA)
 
-The Workshop thread of Improtech will merge with the daily MSS advanced Max course, providing the attendees with unique insight on CoCreative Artificial Intelligence tools based on Max and other environments, completed with keynote lectures in the evening and two high-profile concerts on the last day of the study week.
+The Workshop thread of Improtech will merge with the daily MSS advanced Max course, providing the attendees with unique insight on CoCreative Artificial Intelligence software tools based on Max and other environments, completed with keynote lectures in the evening and two high-profile concerts on the last day of the study week.
 
 To attend, **participants should register** for the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. The **concerts are public and free** upon reservation (reservation site under construction).
 
@@ -35,9 +35,12 @@ See **[a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJ
 ##Highlights
 <br>
 
-This edition of IMPROTECH in Tokyo features some legends of improvisation, Steve Lehman, Joëlle Léandre, Jim O'Rourke (from the legendary band Sonic Youth), Justin Vali, Mari Kimura, Aikira Sakata, Michiyo Yagi, Tamami Tono, and composers Suguru Goto, Lara Morciano, Jose-Miguel Fernandez, Mikhail Malt, and many others. In addition to the concerts, Improtech offers a rich program of keynotes lectures, workshops, demos, experimental performances.
+This edition of IMPROTECH in Tokyo will welcome a number of truly exceptional personalities, including multi-award jazzman Steve Lehman, Jim O'Rourke (ex-Sonic Youth) and contemporary electronic music legend, Joëlle Léandre, the double-bass diva of improvisation, contemporary classical composer Lara Morciano exploring the limits of hybrid acoustic/electronic composition, the immense Malagasy zither virtuoso Justin Vali, as well as Japanese artists Suguru Goto, composer, Michiyo Yagi, who is renewing the art of the Koto in the contemporary electronic field, Mari Kimura, a visionary virtuoso violinist developing gestural interaction systems, Akira Sakata, a cherished veteran of the japanese free scene, and many others remarkable musicians and researchers. 
+Miller Puckette, Inventor of the Max software system and Venice Silver Lion for his life in computer music, also graces us with a keynote lecture and a musical performance with his musical partner Irwin.
 
-See the **[full program there.]({filename}/pages/Program.md)**
+Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, without ignoring esthetical and epistemological questions.
+
+See the **[full program here.]({filename}/pages/Program.md)**
 
  
 <br>
