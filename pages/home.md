@@ -35,10 +35,9 @@ See **[a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJ
 ##Highlights
 <br>
 
-This edition of IMPROTECH in Tokyo will welcome a number of truly exceptional personalities, including multi-award jazzman Steve Lehman, Jim O'Rourke (ex-Sonic Youth) and contemporary electronic music legend, Joëlle Léandre, the double-bass diva of improvisation, contemporary classical composer Lara Morciano exploring the limits of hybrid acoustic/electronic composition, the immense Malagasy zither virtuoso Justin Vali, as well as Japanese artists Suguru Goto, composer, Michiyo Yagi, who is renewing the art of the Koto in the contemporary electronic field, Mari Kimura, a visionary virtuoso violinist developing gestural interaction systems, Akira Sakata, a cherished veteran of the japanese free scene, and many others remarkable musicians and researchers. 
+This edition of IMPROTECH in Tokyo will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman Steve Lehman, Jim O'Rourke from the legendary Sonic Youth group and avant-garde beacon, Joëlle Léandre, the double-bass diva with life time achievement award, contemporary classical composer Lara Morciano exploring the limits of hybrid acoustic/digital composition, the immense Malagasy zither virtuoso Justin Vali, as well as Japanese artists Suguru Goto, new media artist and director of Geidai Musical Creativity, Michiyo Yagi, renewing the art of the Koto in the electronic esthetic, Mari Kimura, visionary virtuoso violinist creating gestural interaction systems, Akira Sakata, a cherished veteran of the japanese free scene, and many others remarkable musicians and researchers. 
 Miller Puckette, Inventor of the Max software system and Venice Silver Lion for his life in computer music, also graces us with a keynote lecture and a musical performance with his musical partner Irwin.
-
-Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, without ignoring esthetical and epistemological questions.
+Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions.
 
 See the **[full program here.]({filename}/pages/Program.md)**
 
