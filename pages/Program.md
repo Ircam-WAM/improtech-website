@@ -61,7 +61,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 ###18:00 - 19:30 Improtech lecture session #4
 **[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing Human Creativity with AI
 
-**[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))**, musician, A Sonic Life Journey 
+**[Steve Lehman](https://www.stevelehman.com/)** , musician, CalArts, Computer-Driven Interactivity with Tempo-Based rhythm : where are we ?
 
 
 
