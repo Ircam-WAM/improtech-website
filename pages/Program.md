@@ -86,7 +86,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Quartet*
 
-****[Mari Kimura](https://www.marikimura.com/)**, (Violin, live electronics) [Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))** (improviser, composer and producer),  **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (saxophone), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics)
+***[Mari Kimura](https://www.marikimura.com/)**, (Violin, live electronics) [Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))** (improviser, composer and producer),  **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (saxophone), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics)
 
 *Collider*
 
