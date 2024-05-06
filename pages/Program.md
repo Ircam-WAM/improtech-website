@@ -84,9 +84,9 @@ The internal technical parts of Somax2 will be explained, including the client -
  
 **[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (PD live electronics),  **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)** (percussion, live electronics)
 
-*Strings*
+*Quartet*
 
-**[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))**, **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)**, **[Mari Kimura](https://www.marikimura.com/)**, **T[urner Williams](https://allnightflightrecords.com/products/turner-williams-jr-ensoleillee)** (Guitars, violin, Shahi Bajaa, live and generative electronics)
+****[Mari Kimura](https://www.marikimura.com/)**, (Violin, live electronics) [Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))** (improviser, composer and producer),  **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (saxophone), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics)
 
 *Collider*
 
@@ -106,9 +106,9 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 **[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics) and friends
 
-*Les Dragonnes Mugixent*
+*Dragon Ladies*
 
-**[Mari Kimura](https://www.marikimura.com/)** (Violin, generative electronics), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Koto, electronics), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (sax)
+**[Mari Kimura](https://www.marikimura.com/)** (Violin, generative electronics), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Koto, electronics)
 
 *Tokyo Bout à Bout*
 
