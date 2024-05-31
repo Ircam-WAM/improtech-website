@@ -15,7 +15,7 @@ Closest JR/metro station: Kitasenju
 
 Improtech Lecture Sessions (July 29 - August 1, 18:00 - 19:30) and Concerts (August 2) are free and open to the public upon reservation.
 
-**Register here:** https://forms.gle/nLY3JRfrGdYgzuYV8
+**Register here:**(https://forms.gle/nLY3JRfrGdYgzuYV8)
 
 <br>
 
