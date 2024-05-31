@@ -1,7 +1,7 @@
 title: Programme
 
-<br>
 ---
+
 <br>
 
 
@@ -74,24 +74,23 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *REACHing OUT!*
 
-**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Bass) and **the Who/Men**(G. Assayag, M. Fiorini, M. Malt, generative electronics) 
+**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Bass) and **the Who/Men **(G. Assayag, M. Fiorini, M. Malt, generative electronics) 
 
 *Trans(e)-musical*
 
 **[Justin Vali](https://www.katebushencyclopedia.com/vali-justin/)** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), and friends.
 
 *Knock*
- 
+
 **[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (PD live electronics),  **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)** (percussion, live electronics)
 
 *Quartet*
 
-***[Mari Kimura](https://www.marikimura.com/)**, (Violin, live electronics) [Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))** (improviser, composer and producer),  **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (saxophone), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics)
+**[Mari Kimura](https://www.marikimura.com/)** (Violin, live electronics), **[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))** (improviser, composer and producer), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (saxophone), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics)
 
 *Collider*
 
 **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  **Jose-Miguel Fernandez** (generative electronics)
-
 
 <br><br>
 
