@@ -4,6 +4,8 @@ title: Programme
 
  Register to Improtech events **[here.]({filename}/pages/Venues.md)**
 
+<br>
+
 ##29 July, Monday
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop  #1
