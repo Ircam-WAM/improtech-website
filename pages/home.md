@@ -25,7 +25,8 @@ This year, Improtech is associated  with a momentous event, the **[Max Summer Sc
 
 The Workshop thread of Improtech will merge with the daily MSS advanced Max course, providing the attendees with unique insight on CoCreative Artificial Intelligence software tools based on Max and other environments, completed with keynote lectures in the evening and two high-profile concerts on the last day of the study week.
 
-To attend, **participants should register** for the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. The **concerts are public and free** upon reservation. Register **[here.]({filename}/pages/Venues.md)**
+To attend, **participants should register** for the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. 
+The **concerts are public and free** upon reservation. Register **[here.]({filename}/pages/Venues.md)**
 
 See **[a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJjA?si=eKsWqqIexg2e5q54)** by the Improtech Paris - Tokyo / Max Summer School teams on Youtube (English starting at 39').
 
