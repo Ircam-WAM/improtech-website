@@ -2,6 +2,7 @@ title: Programme
 
 ---
 
+ Register to Improtech events **[here.]({filename}/pages/Venues.md)**
 
 ##29 July, Monday
 
