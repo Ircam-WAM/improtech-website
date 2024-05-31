@@ -2,8 +2,6 @@ title: Programme
 
 ---
 
-<br>
-
 
 ##29 July, Monday
 
