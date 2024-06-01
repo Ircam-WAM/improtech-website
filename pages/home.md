@@ -10,6 +10,10 @@ Summary: Improtech Tokyo gathers scholars, technologists, musicians, makers, aro
 #### Workshop - Festival in Tokyo -- july 29 to august 2, 2024
 <br>
 <br>
+
+**[--> Click to RESERVE NOW your free access to concerts and conferences ! <-- ]({filename}/pages/Venues.md)**
+
+
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
 After praised editions in New York, Philadelphia, Athens and Uzeste, **Improtech Paris-Tokyo** (ikTokyo'24) will land down in Tokyo, the sizzling japanese metropolis on july 29.

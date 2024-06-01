@@ -77,11 +77,8 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 **[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Bass) and **the Who/Men **(G. Assayag, M. Fiorini, M. Malt, generative electronics) 
 
-*Trans(e)-musical*
 
-**[Justin Vali](https://www.katebushencyclopedia.com/vali-justin/)** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), and friends.
-
-*Knock*
+*Rigbiss*
 
 **[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (PD live electronics),  **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)** (percussion, live electronics)
 
@@ -92,6 +89,10 @@ The internal technical parts of Somax2 will be explained, including the client -
 *Collider*
 
 **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  **Jose-Miguel Fernandez** (generative electronics)
+
+Trans(e)-musical*
+
+**[Justin Vali](https://www.katebushencyclopedia.com/vali-justin/)** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), **[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Generative Electronics)
 
 <br><br>
 
@@ -113,6 +114,12 @@ The internal technical parts of Somax2 will be explained, including the client -
 *Tokyo Bout à Bout*
 
 **Georges Bloch** (composer, generative electronics) and Friends
+
+*string*
+
+**[Turner Williams](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics) Anaïs del Sordo (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), Marco Fiorini (Generative Electroics)
+
+
 
 
 
