@@ -119,7 +119,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *string*
 
-**[Turner Williams](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics) Anaïs del Sordo (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), **Marco Fiorini** (Generative Electroics)
+**[Turner Williams](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics), **Anaïs del Sordo** (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), **Marco Fiorini** (Generative Electroics)
 
 
 
