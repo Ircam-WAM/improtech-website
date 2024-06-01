@@ -92,7 +92,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  **Jose-Miguel Fernandez** (generative electronics)
 
-Trans(e)-musical*
+*Trans(e)-musical*
 
 **[Justin Vali](https://www.katebushencyclopedia.com/vali-justin/)** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), **[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Generative Electronics)
 
@@ -119,8 +119,7 @@ Trans(e)-musical*
 
 *string*
 
-**[Turner Williams](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics) Anaïs del Sordo (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), Marco Fiorini (Generative Electroics)
-
+**[Turner Williams](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics) Anaïs del Sordo (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), **Marco Fiorini** (Generative Electroics)
 
 
 
