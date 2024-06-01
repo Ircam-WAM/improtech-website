@@ -12,7 +12,7 @@ Access to afternoon workshop / advanced courses is only upon registration to max
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop  #1
 Introduction to REACH co-creative software  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **Mikhail Malt**
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
 
 This course will present a set of tools that enable interactive improvisation between the human and the machine. Tools such as Omax, Somax2, Djazz, Dicy2 allow Max to improvise in collaboration with humans by capturing human performances, navigating through music corpuses and latent spaces of musical features, and adapting continuously to the evolving musical context using generative model and audio / midi rendering.
 
@@ -27,7 +27,7 @@ This course will present a set of tools that enable interactive improvisation be
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #2
 Introduction to Somax2  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **Mikhail Malt**
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
 
 This course will focus on the cocreative AI improvisation environment Somax2, detailing its basic concepts, the applicative user interface, the main controls, interaction strategies and musical scenarios, with concrete musical examples and demos..
 
@@ -42,7 +42,7 @@ This course will focus on the cocreative AI improvisation environment Somax2, de
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #3
 Somax2 advanced course  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **Mikhail Malt**
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
 
 This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
 
@@ -57,7 +57,7 @@ This course will dive into the advanced use of Somax2, including mastering of ex
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #4
 Somax2 under the hood  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **Mikhail Malt**
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
 
 The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
 
@@ -77,7 +77,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *REACHing OUT!*
 
-**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Bass) and **the Who/Men **(Gérard Assayag, [Marco Fiorini](https://forum.ircam.fr/profile/fiorini/), Mikhail Malt, generative electronics) 
+**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Double Bass) and **the Who/Men **(**Gérard Assayag**,** [Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**,** [Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**, generative electronics) 
 
 
 *Rigbiss*
