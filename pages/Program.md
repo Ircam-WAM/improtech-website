@@ -2,7 +2,7 @@ title: Programme
 
 ---
 
- 
+
 Access to concerts and evening lectures is free, but reservation is mandatory **[here.]({filename}/pages/Venues.md)**
 Access to afternoon workshop / advanced courses is only upon registration to max Summer School **[here](https://maxsummer2024.geidai.ac.jp/en/)**
 
@@ -12,7 +12,7 @@ Access to afternoon workshop / advanced courses is only upon registration to max
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop  #1
 Introduction to REACH co-creative software  
-**Marco Fiorini** and **Mikhail Malt**
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **Mikhail Malt**
 
 This course will present a set of tools that enable interactive improvisation between the human and the machine. Tools such as Omax, Somax2, Djazz, Dicy2 allow Max to improvise in collaboration with humans by capturing human performances, navigating through music corpuses and latent spaces of musical features, and adapting continuously to the evolving musical context using generative model and audio / midi rendering.
 
@@ -27,14 +27,14 @@ This course will present a set of tools that enable interactive improvisation be
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #2
 Introduction to Somax2  
-**Marco Fiorini** and **Mikhail Malt**
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **Mikhail Malt**
 
 This course will focus on the cocreative AI improvisation environment Somax2, detailing its basic concepts, the applicative user interface, the main controls, interaction strategies and musical scenarios, with concrete musical examples and demos..
 
 ###18:00 - 19:30 Improtech lecture session #2
 **[Shlomo Dubnov](https://en.wikipedia.org/wiki/Shlomo_Dubnov)** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
 
-**Nicolas Brochec**, **Marco Fiorini** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
+**[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
 
 <br><br>
 
@@ -42,7 +42,7 @@ This course will focus on the cocreative AI improvisation environment Somax2, de
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #3
 Somax2 advanced course  
-**Marco Fiorini** and **Mikhail Malt**
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **Mikhail Malt**
 
 This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
 
@@ -57,7 +57,7 @@ This course will dive into the advanced use of Somax2, including mastering of ex
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #4
 Somax2 under the hood  
-**Marco Fiorini** and **Mikhail Malt**
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **Mikhail Malt**
 
 The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
 
@@ -77,7 +77,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *REACHing OUT!*
 
-**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Bass) and **the Who/Men **(G. Assayag, M. Fiorini, M. Malt, generative electronics) 
+**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Bass) and **the Who/Men **(Gérard Assayag, [Marco Fiorini](https://forum.ircam.fr/profile/fiorini/), Mikhail Malt, generative electronics) 
 
 
 *Rigbiss*
@@ -103,7 +103,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Compositions by Geidai Artists*
 
-**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)**, **Ko Sahara**, **Takeyoshi Mori**, **Nicolas Brochec** (composers, generative electronics)
+**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)**, **Ko Sahara**, **Takeyoshi Mori**, **[Nicolas Brochec](https://nicolasbrochec.com)** (composers, generative electronics)
 
 *Spectral Light*
 
@@ -119,7 +119,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *string*
 
-**[Turner Williams](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics), **Anaïs del Sordo** (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), **Marco Fiorini** (Generative Electroics)
+**[Turner Williams](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics), **[Anaïs del Sordo](https://www.instagram.com/siananaisnin/)** (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative Electroics)
 
 
 
