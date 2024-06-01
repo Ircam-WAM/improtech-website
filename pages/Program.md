@@ -2,7 +2,9 @@ title: Programme
 
 ---
 
- Register to Improtech events **[here.]({filename}/pages/Venues.md)**
+ 
+Access to concerts and evening lectures is free, but reservation is mandatory **[here.]({filename}/pages/Venues.md)**
+Access to afternoon Workshop / Advanced courses is only upon registration to max Summer School **[here](https://maxsummer2024.geidai.ac.jp/en/)**
 
 <br>
 

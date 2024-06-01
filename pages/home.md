@@ -9,9 +9,9 @@ Summary: Improtech Tokyo gathers scholars, technologists, musicians, makers, aro
 
 #### Workshop - Festival in Tokyo -- july 29 to august 2, 2024
 <br>
-<br>
-
 **[--> Click to RESERVE NOW your free access to concerts and conferences ! <-- ]({filename}/pages/Venues.md)**
+<br>
+<br>
 
 
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
@@ -27,11 +27,11 @@ After praised editions in New York, Philadelphia, Athens and Uzeste, **Improtech
 
 This year, Improtech is associated  with a momentous event, the **[Max Summer School](https://maxsummer2024.geidai.ac.jp/en/)**, which gathers every year a large community of computer music enthusiasts at the **Tokyo University of the Arts (Geidai)** in the [Musical Creativity Department](https://www.geidai.ac.jp/english/music/musical-creativity-and-the-environment) at [Senju campus](https://maps.app.goo.gl/h2yencZ3Nyi3g7VAA)
 
-The Workshop thread of Improtech will merge with the daily MSS advanced Max course, providing the attendees with unique insight on CoCreative Artificial Intelligence software tools based on Max and other environments, completed with keynote lectures in the evening and two high-profile concerts on the last day of the study week.
+The Workshop thread of Improtech will merge with the daily MSS advanced Max course, providing the attendees with unique insight on CoCreative Artificial Intelligence software tools based on Max and other environments, completed with  lectures sessions in the evening and two high-profile concerts on the last day.
 
-To attend, **participants should register** for the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. 
+To attend, **participants should register** to the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. 
 
-The **concerts are public and free** upon reservation. Register **[here.]({filename}/pages/Venues.md)**
+However, the **2 concerts and evening lectures are public and free** upon reservation. Reserve **[here.]({filename}/pages/Venues.md)**
 
 See **[a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJjA?si=eKsWqqIexg2e5q54)** by the Improtech Paris - Tokyo / Max Summer School teams on Youtube (English starting at 39').
 
