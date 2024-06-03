@@ -47,7 +47,7 @@ Somax2 advanced course
 This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
 
 ###18:00 - 19:30 Improtech lecture session #3
-**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), Natural Gestural Control in Instrumental Interaction with Generative Live Electronics
+**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: Achieving a harmonious integration of human and machine interaction
 
 **Jose-Miguel Fernandes** and **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) The Somax2Collider environment for Spatial Interactive Agents. The making of Lara Morciano’s Lithophonics for ensemble.
 
@@ -86,7 +86,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Quartet*
 
-**[Mari Kimura](https://www.marikimura.com/)** (Violin, live electronics), **[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))** (improviser, composer and producer), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (saxophone), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics)
+**[Mari Kimura](https://www.marikimura.com/)** (Violin, [MUGIC®](https://www.mugicmotion.com/) motion sensor), **[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))** (improviser, composer and producer), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (Saxophone, Clarinet, Voice and Bells), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics)
 
 *Collider*
 
@@ -109,9 +109,9 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 **[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics) and friends
 
-*Dragon Ladies*
+*TRIO*
 
-**[Mari Kimura](https://www.marikimura.com/)** (Violin, generative electronics), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Koto, electronics)
+**[Mari Kimura](https://www.marikimura.com/)** (Violin,  [MUGIC®](https://www.mugicmotion.com/) motion sensor), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Electric 21-string Koto), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho, Kugo)
 
 *Tokyo Bout à Bout*
 
