@@ -109,7 +109,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 **[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics) and friends
 
-*TRIO*
+*Trio*
 
 **[Mari Kimura](https://www.marikimura.com/)** (Violin,  [MUGIC®](https://www.mugicmotion.com/) motion sensor), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Electric 21-string Koto), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho, Kugo)
 
