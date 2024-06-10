@@ -107,7 +107,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Spectral Light*
 
-**[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**
+**[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative electronics)
 
 *Trio*
 
