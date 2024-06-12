@@ -17,9 +17,10 @@ Introduction to REACH co-creative software
 This course will present a set of tools that enable interactive improvisation between the human and the machine. Tools such as Omax, Somax2, Djazz, Dicy2 allow Max to improvise in collaboration with humans by capturing human performances, navigating through music corpuses and latent spaces of musical features, and adapting continuously to the evolving musical context using generative model and audio / midi rendering.
 
 ###18:00 - 19:30 Improtech lecture session #1
-**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (Ircam), Advanced improvised interaction systems
+**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (Ircam), **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)**, An inside view of an instrument
 
-**Marc Chemillier** (EHESS) & al, Keeping the swing, AI cocreative musicianship in collective idiomatic settings
+
+**Marc Chemillier** (EHESS), Keeping the swing, AI cocreative musicianship in collective idiomatic settings
 
 <br><br>
 
@@ -80,9 +81,10 @@ The internal technical parts of Somax2 will be explained, including the client -
 **[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Double Bass) and **the Who/Men **(**Gérard Assayag**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**,** [Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**, generative electronics) 
 
 
+
 *Rigbiss*
 
-**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (PD live electronics),  **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)** (percussion, live electronics)
+**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (PD live electronics),  **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)** (Aliboma_2014, live electronics)
 
 *Quartet*
 
@@ -90,7 +92,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Collider*
 
-**[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  **Jose-Miguel Fernandez** (generative electronics)
+**[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  Thierry Miroglio (percussion), **Jose-Miguel Fernandez** (generative electronics)
 
 *Trans(e)-musical*
 
@@ -115,12 +117,23 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Tokyo Bout à Bout*
 
-**Georges Bloch** (composer, generative electronics), with singer and percussion.
+**Georges Bloch** (composer, generative electronics), Thierry Miroglio (percussion), Singer
 
 *Strings*
 
 **[Turner Williams Jr](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics), **[Anaïs del Sordo](https://www.instagram.com/siananaisnin/)** (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative Electronics)
 
+
+
+
+## Abstracts
+
+
+
+**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (Ircam), **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)**, An inside view of an instrument
+
+
+Signal delays are very bothersome to live musicians, especially percussionists.  As a duo using percussion, we have worked out a way to avoid having to send audio signals between computers, which would always add some delay.  Instead, we  work as a duo within one computer by making plug-ins that can be remotely controlled. The plug-ins can be any kind of patch, either Max or Pure Data, and can be hosted by any digital audio workstation.  The result is a single software percussion instrument played live by a musician but simultaneously played by a second performer using controllers that act within one or several plug-ins in a single signal chain.
 
 
 
