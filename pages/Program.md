@@ -65,8 +65,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 ###18:00 - 19:30 Improtech lecture session #4
 **[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing Human Creativity with AI
 
-**[Steve Lehman](https://www.stevelehman.com/)** , musician, CalArts, Computer-Driven Interactivity with Tempo-Based rhythm : where are we ?
-
+**[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm 
 
 
 
@@ -136,6 +135,12 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 
 Signal delays are very bothersome to live musicians, especially percussionists.  As a duo using percussion, we have worked out a way to avoid having to send audio signals between computers, which would always add some delay.  Instead, we  work as a duo within one computer by making plug-ins that can be remotely controlled. The plug-ins can be any kind of patch, either Max or Pure Data, and can be hosted by any digital audio workstation.  The result is a single software percussion instrument played live by a musician but simultaneously played by a second performer using controllers that act within one or several plug-ins in a single signal chain.
+
+
+**[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm 
+
+
+Steve Lehman will present a survey of current trends in experimental musics that draw from tempo-based modalities of rhythm, with a particular focus on their application to computer-driven models for real-time interaction. 
 
 
 
