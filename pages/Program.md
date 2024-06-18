@@ -9,9 +9,9 @@ Access to afternoon workshop / advanced courses is only upon registration to max
 <br>
 
 
-- [Workshops and Conferences](#29-July-Monday)
-- [Concerts](#2-August-Friday)
-- [Abstracts](#Abstracts)
+- [Workshops and Conferences](#29-july-monday)
+- [Concerts](##2-august-friday)
+- [Abstracts](#abstracts)
 
 <br>
 
