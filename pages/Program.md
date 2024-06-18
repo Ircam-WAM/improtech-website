@@ -8,7 +8,16 @@ Access to afternoon workshop / advanced courses is only upon registration to max
 
 <br>
 
-##29 July, Monday
+
+- [Workshops and Conferences](#29-July-Monday)
+- [Concerts](#2-August-Friday)
+- [Abstracts](#Abstracts)
+
+<br>
+
+
+
+## 29 July Monday
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop  #1
 Introduction to REACH co-creative software  
@@ -16,7 +25,7 @@ Introduction to REACH co-creative software
 
 This course will present a set of tools that enable interactive improvisation between the human and the machine. Tools such as Omax, Somax2, Djazz, Dicy2 allow Max to improvise in collaboration with humans by capturing human performances, navigating through music corpuses and latent spaces of musical features, and adapting continuously to the evolving musical context using generative model and audio / midi rendering.
 
-###18:00 - 19:30 Improtech lecture session #1
+### 18:00 - 19:30 Improtech lecture session #1
 **[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (Ircam), **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)**, An inside view of an instrument
 
 
@@ -24,7 +33,7 @@ This course will present a set of tools that enable interactive improvisation be
 
 <br><br>
 
-##30 July, Tuesday 
+## 30 July, Tuesday 
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #2
 Introduction to Somax2  
@@ -32,14 +41,14 @@ Introduction to Somax2
 
 This course will focus on the cocreative AI improvisation environment Somax2, detailing its basic concepts, the applicative user interface, the main controls, interaction strategies and musical scenarios, with concrete musical examples and demos..
 
-###18:00 - 19:30 Improtech lecture session #2
+### 18:00 - 19:30 Improtech lecture session #2
 **[Shlomo Dubnov](https://en.wikipedia.org/wiki/Shlomo_Dubnov)** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
 
 **[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
 
 <br><br>
 
-##31 July, Wednesday 
+## 31 July, Wednesday 
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #3
 Somax2 advanced course  
@@ -54,7 +63,7 @@ This course will dive into the advanced use of Somax2, including mastering of ex
 
 <br><br>
 
-##1 August, Thursday 
+## 1 August, Thursday 
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #4
 Somax2 under the hood  
@@ -71,9 +80,9 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 <br><br>
 
-##2 August, Friday
+## 2 August Friday
 
-###16:00 IMPROTECH CONCERT #1
+### 16:00 IMPROTECH CONCERT #1
 
 *REACHing OUT!*
 
@@ -99,7 +108,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 <br><br>
 
-### 20:00 IMPROTECH CONCERT #2
+### 19:00 IMPROTECH CONCERT #2
 
 
 *Compositions by Geidai Artists*
