@@ -48,9 +48,9 @@ Somax2 advanced course
 This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
 
 ###18:00 - 19:30 Improtech lecture session #3
-**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: Achieving a harmonious integration of human and machine interaction
+**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: endless possibilities extending musical expression
 
-**Jose-Miguel Fernandes** and **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) The Somax2Collider environment for Spatial Interactive Agents. The making of Lara Morciano’s Lithophonics for ensemble.
+**Jose-Miguel Fernandez** and **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) Composition and Interaction with Somax2
 
 <br><br>
 
@@ -63,7 +63,7 @@ Somax2 under the hood
 The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
 
 ###18:00 - 19:30 Improtech lecture session #4
-**[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing Human Creativity with AI
+**[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing musical creativity with AI — what DJing with AI taught me
 
 **[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm 
 
@@ -89,7 +89,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 **[Mari Kimura](https://www.marikimura.com/)** (Violin, [MUGIC®](https://www.mugicmotion.com/) motion sensor), **[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))** (improviser, composer and producer), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (Saxophone, Clarinet, Voice and Bells), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics)
 
-*Collider*
+*Taideji*
 
 **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  Thierry Miroglio (percussion), **Jose-Miguel Fernandez** (generative electronics)
 
@@ -130,17 +130,51 @@ The internal technical parts of Somax2 will be explained, including the client -
 ## Abstracts
 
 
-
 **[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (Ircam), **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)**, An inside view of an instrument
 
 
 Signal delays are very bothersome to live musicians, especially percussionists.  As a duo using percussion, we have worked out a way to avoid having to send audio signals between computers, which would always add some delay.  Instead, we  work as a duo within one computer by making plug-ins that can be remotely controlled. The plug-ins can be any kind of patch, either Max or Pure Data, and can be hosted by any digital audio workstation.  The result is a single software percussion instrument played live by a musician but simultaneously played by a second performer using controllers that act within one or several plug-ins in a single signal chain.
 
 
-**[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm 
+**Marc Chemillier** (EHESS), Keeping the swing, AI cocreative musicianship in collective idiomatic settings
+
+
+Artificial intelligence can be seen as antagonistic to certain traditional activities, particularly music. We are going to criticize this stereotype by showing how machine learning can be used for music with an oral tradition. During the REACH project, we developed an improvisation software programmed in Max/MSP, which has the particularity of taking a regular pulse into account. All pulse-based musical sequences captured by the software can be reused after the learning phase, retaining the same culturally relevant rhythmic position. The improvisation software is thus able to play in the style of native players. The outputs of the program are good enough to allow duets between a musician and the computer. Musicians reacting to the outputs of the machine can shed new light on the analysis of their repertoires. By refining the generation parameters, we can get closer to an optimal characterization of the music studied. We’ll show examples of experiments with musicians from Madagascar. Moreover, the system can also explore various degres of hybridation. One can inject in the context of Malagasy music generated solos from other traditions (for instance jazz) and study how it fits the musical context according to the native musicians point of view, which can shed new light on the boundaries of a given musical tradition.
+
+
+**[Shlomo Dubnov](https://en.wikipedia.org/wiki/Shlomo_Dubnov)** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
+
+In the talk Shlomo Dubnov will survey his recent research on advanced generative music AI methods with emphasis on diffusion methods and information theory. He will then describe creative applications of text-to-music, voice conversion and multi-track synthesis, and analysis of polyphonic music in terms of multi-information dynamics. Questions of co-creativity, artistic sensibility and Kansei in AI will be discussed.
+
+
+**[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
+
+
+We are going to detail the techniques, methodologies, and outcomes that led to the development of an interactive system based on real-time Instrumental Playing Technique (IPT) recognition. Starting from exploratory studies on the flute, we will discuss soundbank recording, data format, and data augmentation, as well as state-of-the-art machine learning model architectures developed in our research. By connecting our model to the co-creative AI system Somax2, we are able to interact with generative agents by means of real-time recognition of IPT classes, adding a new dimension to its interaction paradigm and addressing potential scenarios of co-creative human-machine interaction in mixed music for improvisation and composition.
+
+
+**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: endless possibilities extending musical expression
+
+MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors available on the market. However, what sets MUGIC® apart is its comprehensive, user-friendly design. Created by violinist and composer Mari Kimura, MUGIC® is a turnkey product that allows musicians to create their art immediately without requiring extensive programming or electrical engineering skills. The first version of MUGIC® sold out following a significant bulk order from the Lincoln Center in NYC this spring. As MUGIC® v.2 is under development, Kimura will demonstrate the importance of fostering a community around new technology and how MUGIC® users are expanding its application not only in music but also in other forms of art and beyond.
+
+
+**Jose-Miguel Fernandez** and **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) Composition and Interaction with Somax2
+
+
+In this presentation, we will discuss the integration of Somax2 into musical composition through the works of Lara Morciano and José Miguel Fernández. We will also present the Somax2Collider environment for Spatial Interactive Agents, which is a preliminary approach to using agents in the context of spatialized improvisation using the SuperCollider software and a system of wireless connected speakers.
+
+
+**[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing musical creativity with AI — what DJing with AI taught me
+
+
+Nao Tokui discusses the progression of his AI DJ project, which incorporates machine learning systems for live performances, and shares the insights he gained from it. He also explores the potential implications of the latest AI technology in music improvisation.
+
+
+**[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm
 
 
 Steve Lehman will present a survey of current trends in experimental musics that draw from tempo-based modalities of rhythm, with a particular focus on their application to computer-driven models for real-time interaction. 
+
 
 
 
