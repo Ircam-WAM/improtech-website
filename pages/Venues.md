@@ -2,15 +2,23 @@ Title: Infos
 
 ---
 
-### Venue
+### Venues
 
-Tokyo University of the Arts, Senju Campus, Hall 7
+#### Tokyo University of the Arts, Senju Campus, Hall 7
 
 Japan, 〒120-0034 Tokyo, Adachi City, Senju, 1 Chome−25−1 東京芸術大学 千住キャンパス
 
 [https://maps.app.goo.gl/QhEMQbdgJMJujx7d7](https://maps.app.goo.gl/QhEMQbdgJMJujx7d7)
 
 Closest JR/metro station: Kitasenju
+
+### Konno Hashimangu
+
+[Konnoh Hachimangu Shrine](https://www.konno-hachimangu.jp/history.html)
+
+3-5-12, Shibuya, Shibuya-ku, Tokyo 150-0002 
+
+
 
 <br>
 
