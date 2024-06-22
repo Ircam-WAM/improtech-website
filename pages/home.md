@@ -51,17 +51,22 @@ As usual in Improtech series, the floor is wide open to artists from the host co
 **Miller Puckette**, Inventor of the Max software system and Venice Silver Lion for his life in computer music, also graces us with a keynote lecture and a musical performance in duo with the celebrated electronic musician **Irwin**.
 
 
-Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions, notably with **Pr Shlomo Dubnov** world-class specialist in Machine Learning and Information Theory and the Ircam and Geidai [REACH](https://reach.ircam.fr) project members.
+Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions, notably with **Pr Shlomo Dubnov**, world-class specialist in Machine Learning and Information Theory and several members of the Ircam and Geidai [REACH](https://reach.ircam.fr) project group.
 
-In addition to the regular programme, a truly exceptional event will enlight this year's Improtech with a a performance at **[Konnoh Hachimangu Shrine](https://www.konno-hachimangu.jp/history.html)** in Shibuya, a one thousand year old cultural milestone linked to the Shibuya clan and Japan's tumultuous 12th century history, also known as one  of Tokyo's rare early Edo architectural jewels.
+<br>
+<p align="center">
+  <img src="./images/Hashimangu1.png" width="500">
+</p>
+<br>
+
+In addition to the regular programme, a truly exceptional event will enlight this year's Improtech with a a performance at **[Konnoh Hachimangu Shrine](https://www.konno-hachimangu.jp/history.html)** in Shibuya, a one thousand year old cultural milestone linked to the Shibuya clan and Japan's tumultuous  medieval history, also known as one  of Tokyo's rarest early Edo architectural jewels.
 
 Composer **Georges Bloch** will perform in the shrine with the Butoh dancer **Taketeru Kudo** who renews the Butoh genre and opens it to contemporary music, along with the bass player **Takashi Seo** who unleashed all the power of free impro on his instrument.
 
 
 <br>
 <p align="center">
-  <img src="./images/Hashimangu1.png" width="400">
-  <img src="./images/Hashimangu2.png" width="400">
+  <img src="./images/Hashimangu2.png" width="500">
 </p>
 <br>
 
