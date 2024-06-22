@@ -45,10 +45,10 @@ This edition of IMPROTECH in Tokyo will welcome a number of truly exceptional pe
 
 The **Who/Men** from Ircam (Marco Fiorini, Mikhail Malt, Gérard Assayag) along with **Marc Chemillier** will create a sonic space thanks to the cocreative AI tools from the [REACH](https://reach.ircam.fr) project.
 
-As usual in Improtech seris, the floor is wide open to artists from the host country. This year we welcome **Suguru Goto**, new media artist and director of Geidai Musical Creativity, **Michiyo Yagi**, renewing the art of the Koto in the electronic esthetic, **Mari Kimura**, visionary virtuoso violinist creating her own gestural interaction systems, **Akira Sakata**, a cherished veteran of the japanese free scene, **Tamami Tono** celebrated Shō player, Gagaku and computer music composer, **Nao Tokui** both musician and researcher exploring AI potentialities in electronic music and live coding, and many others remarkable musicians and researchers. 
+As usual in Improtech series, the floor is wide open to artists from the host country. This year we welcome **Suguru Goto**, new media artist and director of Geidai Musical Creativity, **Michiyo Yagi**, renewing the art of the Koto in the electronic esthetic, **Mari Kimura**, visionary virtuoso violinist creating her own gestural interaction systems, **Akira Sakata**, a cherished veteran of the japanese free scene, **Tamami Tono** celebrated Shō player, Gagaku and computer music composer, **Nao Tokui** both musician and researcher exploring AI potentialities in electronic music and live coding, and many others remarkable musicians and researchers. 
 
 
-**Miller Puckette**, Inventor of the Max software system and Venice Silver Lion for his life in computer music, also graces us with a keynote lecture and a musical performance induo with the celebrated electronic musician**Irwin**.
+**Miller Puckette**, Inventor of the Max software system and Venice Silver Lion for his life in computer music, also graces us with a keynote lecture and a musical performance in duo with the celebrated electronic musician **Irwin**.
 
 
 Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions, notably with **Pr Shlomo Dubnov** world-class specialist in Machine Learning and Information Theory and the Ircam and Geidai [REACH](https://reach.ircam.fr) project members.
