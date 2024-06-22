@@ -80,6 +80,18 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 <br><br>
 
+
+## 1 August Thursday
+### 19:00 Exceptional performance at Konnoh Hashimangu Shrine in Shibuya
+
+
+*Tokyo Bout à Bout*
+
+**Georges Bloch** (composer, generative electronics), **[Taketeru Kudo] (http://archive.tedxtokyo.com/en/talk/kudo/)** (Butoh dancer), **[Takashi Seo](https://seotakashi.theblog.me)** (Bass)
+
+
+
+
 ## 2 August Friday
 
 ### 16:00 IMPROTECH CONCERT #1
@@ -108,7 +120,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 <br><br>
 
-### 19:00 IMPROTECH CONCERT #2
+### 19:30 IMPROTECH CONCERT #2
 
 
 *Compositions by Geidai Artists*
@@ -123,9 +135,6 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 **[Mari Kimura](https://www.marikimura.com/)** (Violin,  [MUGIC®](https://www.mugicmotion.com/) motion sensor), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Electric 21-string Koto), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho, Kugo)
 
-*Tokyo Bout à Bout*
-
-**Georges Bloch** (composer, generative electronics), Thierry Miroglio (percussion), Singer
 
 *Strings*
 
@@ -134,6 +143,8 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 
 <br>
+
+
 <br>
 
 ## Abstracts

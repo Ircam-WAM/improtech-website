@@ -12,11 +12,11 @@ Japan, 〒120-0034 Tokyo, Adachi City, Senju, 1 Chome−25−1 東京芸術大�
 
 Closest JR/metro station: Kitasenju
 
-### Konno Hashimangu
+#### Konno Hashimangu
 
 [Konnoh Hachimangu Shrine](https://www.konno-hachimangu.jp/history.html)
 
-3-5-12, Shibuya, Shibuya-ku, Tokyo 150-0002 
+[3-5-12, Shibuya, Shibuya-ku, Tokyo 150-0002](https://maps.app.goo.gl/MBaGWwWyUQ69Ktf26)
 
 
 
@@ -24,13 +24,16 @@ Closest JR/metro station: Kitasenju
 
 ### Reservations
 
-Improtech Lecture Sessions (July 29 - August 1, 18:00 - 19:30) and Concerts (August 2) are free and open to the public upon reservation.
+Improtech Lecture Sessions (July 29 - August 1, 18:00 - 19:30) and Concerts (August 2) are open to all and free upon reservation.
 
 **Register here:** [https://forms.gle/nLY3JRfrGdYgzuYV8](https://forms.gle/nLY3JRfrGdYgzuYV8)
 
+Concert at Konnoh Hachimangu Shrine on August 1 is open to all free.
+
+
 <br>
 
-To attend Max Summer School advanced courses (July 29 - August 1, 16:30 - 18:00), registration to the Max Summer School is required: [https://maxsummer2024.geidai.ac.jp](https://maxsummer2024.geidai.ac.jp)
+To attend Max Summer School advanced courses (July 29 - August 1, 16:30 - 18:00), registration to the Max Summer School is required: [https://maxsummer2024.geidai.ac.jp](https://maxsummer2024.geidai.ac.jp/en)
 
 <br><br>
 
