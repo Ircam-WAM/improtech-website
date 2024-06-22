@@ -81,8 +81,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Tokyo Bout à Bout*
 
-**Georges Bloch** (composer, generative electronics), **[Taketeru Kudo] (http://archive.tedxtokyo.com/en/talk/kudo/)** (Butoh dancer), **[Takashi Seo](https://seotakashi.theblog.me)** (Bass)
-
+**[Georges Bloch](http://repmus.ircam.fr/bloch)** (composer, generative electronics), **[Taketeru Kudo](http://archive.tedxtokyo.com/en/talk/kudo/)** (Butoh dancer), **[Takashi Seo](https://seotakashi.theblog.me)** (Bass)
 
 
 

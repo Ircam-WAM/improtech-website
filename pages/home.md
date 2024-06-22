@@ -41,11 +41,32 @@ See **[a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJ
 ##Highlights
 <br>
 
-This edition of IMPROTECH in Tokyo will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman Steve Lehman, Jim O'Rourke from the legendary Sonic Youth group and avant-garde beacon, Joëlle Léandre, the double-bass diva with life time achievement award, contemporary classical composer Lara Morciano exploring the limits of hybrid acoustic/digital composition, the immense Malagasy zither virtuoso Justin Vali, as well as Japanese artists Suguru Goto, new media artist and director of Geidai Musical Creativity, Michiyo Yagi, renewing the art of the Koto in the electronic esthetic, Mari Kimura, visionary virtuoso violinist creating gestural interaction systems, Akira Sakata, a cherished veteran of the japanese free scene, and many others remarkable musicians and researchers. 
-Miller Puckette, Inventor of the Max software system and Venice Silver Lion for his life in computer music, also graces us with a keynote lecture and a musical performance with his musical partner Irwin.
-Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions.
+This edition of IMPROTECH in Tokyo will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman **Steve Lehman**, **Jim O'Rourke** from the legendary Sonic Youth group and avant-garde beacon, **Joëlle Léandre**, the double-bass diva with life time achievement award, contemporary classical composer **Lara Morciano** exploring the limits of hybrid acoustic/digital composition with composer and computer music designer **Jose-Miguel Fernandez**, the immense Malagasy zither virtuoso **Justin Vali**, **Jean-marc Montera**, avant-garde guitarist specializing in free improvisation and sound experimentation, **Turner Williams Jr** the the spirited musician  playing the syncretic orient-occident instrument shahibaaja. 
 
-See the **[full program here.]({filename}/pages/Program.md)**
+The **Who/Men** from Ircam (Marco Fiorini, Mikhail Malt, Gérard Assayag) along with **Marc Chemillier** will create a sonic space thanks to the cocreative AI tools from the [REACH](https://reach.ircam.fr) project.
+
+As usual in Improtech seris, the floor is wide open to artists from the host country. This year we welcome **Suguru Goto**, new media artist and director of Geidai Musical Creativity, **Michiyo Yagi**, renewing the art of the Koto in the electronic esthetic, **Mari Kimura**, visionary virtuoso violinist creating her own gestural interaction systems, **Akira Sakata**, a cherished veteran of the japanese free scene, **Tamami Tono** celebrated Shō player, Gagaku and computer music composer, **Nao Tokui** both musician and researcher exploring AI potentialities in electronic music and live coding, and many others remarkable musicians and researchers. 
+
+
+**Miller Puckette**, Inventor of the Max software system and Venice Silver Lion for his life in computer music, also graces us with a keynote lecture and a musical performance induo with the celebrated electronic musician**Irwin**.
+
+
+Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions, notably with **Pr Shlomo Dubnov** world-class specialist in Machine Learning and Information Theory and the Ircam and Geidai [REACH](https://reach.ircam.fr) project members.
+
+In addition to the regular programme, a truly exceptional event will enlight this year's Improtech with a a performance at **[Konnoh Hachimangu Shrine](https://www.konno-hachimangu.jp/history.html)** in Shibuya, a one thousand year old cultural milestone linked to the Shibuya clan and Japan's tumultuous 12th century history, also known as one  of Tokyo's rare early Edo architectural jewels.
+
+Composer **Georges Bloch** will perform in the shrine with the Butoh dancer **Taketeru Kudo** who renews the Butoh genre and opens it to contemporary music, along with the bass player **Takashi Seo** who unleashed all the power of free impro on his instrument.
+
+
+<br>
+<p align="center">
+  <img src="./images/Hashimangu1.png" width="400">
+  <img src="./images/Hashimangu2.png" width="400">
+</p>
+<br>
+
+
+See the **[full Improtech program here.]({filename}/pages/Program.md)**
 
 
 <br>
