@@ -65,23 +65,17 @@ This course will dive into the advanced use of Somax2, including mastering of ex
 
 ## 1 August, Thursday 
 
-###16:30 - 18:00 MSS advanced course / IK Workshop #4
+### 16:30 - 18:00 MSS advanced course / IK Workshop #4
 Somax2 under the hood  
 **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
 
 The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
 
-###18:00 - 19:30 Improtech lecture session #4
+### 18:00 - 19:30 Improtech lecture session #4
 **[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing musical creativity with AI — what DJing with AI taught me
 
 **[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm 
 
-
-
-<br><br>
-
-
-## 1 August Thursday
 ### 19:00 Exceptional performance at Konnoh Hashimangu Shrine in Shibuya
 
 
