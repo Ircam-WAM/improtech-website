@@ -10,7 +10,8 @@ Access to afternoon workshop / advanced courses is only upon registration to max
 
 
 - [Workshops and Lectures](#29-july-monday)
-- [Concerts](#2-august-friday)
+- [Performance at Hashimangu Shrine](#19h00-Performance-at-Konnoh-Hashimangu-Shrine-in-Shibuya)
+- [Improtech Concerts #1 and #2](#2-august-friday)
 - [Lectures Abstracts](#abstracts)
 
 <br>
@@ -76,13 +77,14 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 **[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm 
 
-### 19:00 Exceptional performance at Konnoh Hashimangu Shrine in Shibuya
-
+### 19h00 Performance at Konnoh Hashimangu Shrine in Shibuya
 
 *Tokyo Bout à Bout*
 
 **[Georges Bloch](http://repmus.ircam.fr/bloch)** (composer, generative electronics), **[Taketeru Kudo](http://archive.tedxtokyo.com/en/talk/kudo/)** (Butoh dancer), **[Takashi Seo](https://seotakashi.theblog.me)** (Bass)
 
+
+<br><br>
 
 
 ## 2 August Friday
