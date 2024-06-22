@@ -43,15 +43,14 @@ See **[a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJ
 
 This edition of IMPROTECH in Tokyo will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman **Steve Lehman**, **Jim O'Rourke** from the legendary Sonic Youth group and avant-garde beacon, **Joëlle Léandre**, the double-bass diva with life time achievement award, contemporary classical composer **Lara Morciano** exploring the limits of hybrid acoustic/digital composition with composer and computer music designer **Jose-Miguel Fernandez**, the immense Malagasy zither virtuoso **Justin Vali**, **Jean-marc Montera**, avant-garde guitarist specializing in free improvisation and sound experimentation, **Turner Williams Jr** the the spirited musician  playing the syncretic orient-occident instrument shahibaaja. 
 
+**Miller Puckette**, Inventor of the Max software system and **Venice Silver Lion** for his life in computer music, also graces us with a keynote lecture and a musical performance in duo with the celebrated electronic musician **Irwin**.
+
 The **Who/Men** from Ircam (Marco Fiorini, Mikhail Malt, Gérard Assayag) along with **Marc Chemillier** will create a sonic space thanks to the cocreative AI tools from the [REACH](https://reach.ircam.fr) project.
 
-As usual in Improtech series, the floor is wide open to artists from the host country. This year we welcome **Suguru Goto**, new media artist and director of Geidai Musical Creativity, **Michiyo Yagi**, renewing the art of the Koto in the electronic esthetic, **Mari Kimura**, visionary virtuoso violinist creating her own gestural interaction systems, **Akira Sakata**, a cherished veteran of the japanese free scene, **Tamami Tono** celebrated Shō player, Gagaku and computer music composer, **Nao Tokui** both musician and researcher exploring AI potentialities in electronic music and live coding, and many others remarkable musicians and researchers. 
+As usual in Improtech series, the floor is wide open to major artists from the host country. This year we welcome **Suguru Goto**, new media artist and director of Geidai Musical Creativity Dpt with young composers from Geidai **Ko Sahara, Takeyoshi Mori, Nicolas Brochec** ;  **Michiyo Yagi**, renewing the art of the Koto in the electronic esthetic, **Mari Kimura**, visionary virtuoso violinist creating her own gestural interaction systems, **Akira Sakata**, a cherished veteran of the japanese free scene, **Tamami Tono** celebrated Shō player, Gagaku and computer music composer, **Nao Tokui** both musician and researcher exploring AI potentialities in electronic music and live coding, and many others remarkable musicians and researchers. 
 
 
-**Miller Puckette**, Inventor of the Max software system and Venice Silver Lion for his life in computer music, also graces us with a keynote lecture and a musical performance in duo with the celebrated electronic musician **Irwin**.
-
-
-Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions, notably with **Pr Shlomo Dubnov**, world-class specialist in Machine Learning and Information Theory and several members of the Ircam and Geidai [REACH](https://reach.ircam.fr) project group.
+Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions, notably with **Pr Shlomo Dubnov**, world-class specialist in Machine Learning and Information Theory and several members of the **Ircam and Geidai [REACH](https://reach.ircam.fr) project** group.
 
 <br>
 <p align="center">
@@ -59,7 +58,8 @@ Workshops and lectures will cover a vast panorama of advanced machine learning a
 </p>
 <br>
 
-In addition to the regular programme, a truly exceptional event will enlight this year's Improtech with a a performance at **[Konnoh Hachimangu Shrine](https://www.konno-hachimangu.jp/history.html)** in Shibuya, a one thousand year old cultural milestone linked to the Shibuya clan and Japan's tumultuous  medieval history, also known as one  of Tokyo's rarest early Edo architectural jewels.
+In addition to the regular programme, a truly exceptional event will enlight this year's Improtech with a a performance at **[Konnoh Hachimangu Shrine](https://www.konno-hachimangu.jp/history.html)** in Shibuya, a one thousand year old cultural milestone linked to the Shibuya clan and Japan's tumultuous  medieval history, also known as one  of Tokyo's rarest early Edo architectural jewels. The shrine is also associated with the life of the great writer Yukio **Mishima **who was a regular here. This crazy adventure was made possible thanks to **Joni Waka** (Johnny Walker), a character in **Murakami**’s novel Kafka on the shore who happens to be very real and part of Tokyo’s living legends.
+
 
 Composer **Georges Bloch** will perform in the shrine with the Butoh dancer **Taketeru Kudo** who renews the Butoh genre and opens it to contemporary music, along with the bass player **Takashi Seo** who unleashed all the power of free impro on his instrument.
 
