@@ -98,7 +98,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *REACHing OUT!*
 
-**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Double Bass) and **the Who/Men **(**Gérard Assayag**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**,** [Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**, generative electronics) 
+**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Double Bass) and **the Who/Men **(**[Gérard Assayag](https://www.stms-lab.fr/person/gerard-assayag)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**,** [Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**, generative electronics) 
 
 
 

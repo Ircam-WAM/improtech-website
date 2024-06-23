@@ -9,13 +9,15 @@ Pr Marc Chemillier, EHESS
 Pr Suguru Goto, Geidai  
 
 
-### Organisation Committee
+### Organisation Team
  
-Marco Fiorini, IRCAM  
-Nicolas Brochec, Geidai  
 Vasiliki Zachari, IRCAM  
-Mikhail Malt, IRCAM  
+Marco Fiorini, IRCAM  
 Jose-Miguel Fernandez,IRCAM  
+Nicolas Brochec, Geidai  
+Akiyama-San, Geidai
+Lim Hyunmook, Geidai
+
 
 
 ### Science / Art  Advisory Board / Steering 
