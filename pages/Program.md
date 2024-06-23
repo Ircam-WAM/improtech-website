@@ -76,11 +76,11 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 ### 18:00 - 19:30 Improtech lecture session #4
 
-**Jose-Miguel Fernandez** (Ircam) Composition and Interaction with Somax2
+**Jose-Miguel Fernandez**, **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) Composition and Interaction with Somax2
 
 **[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
 
-
+ 
 
 ### 19h00 Performance at Konnoh Hashimangu Shrine in Shibuya
 
