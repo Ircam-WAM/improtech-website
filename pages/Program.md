@@ -45,22 +45,24 @@ This course will focus on the cocreative AI improvisation environment Somax2, de
 ### 18:00 - 19:30 Improtech lecture session #2
 **[Shlomo Dubnov](https://en.wikipedia.org/wiki/Shlomo_Dubnov)** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
 
-**[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
+**[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm
 
 <br><br>
 
-## 31 July, Wednesday 
+## 31 July, Wednesday
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #3
-Somax2 advanced course  
+Somax2 advanced course
 **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
 
 This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
 
 ###18:00 - 19:30 Improtech lecture session #3
+
+**[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing musical creativity with AI — what DJing with AI taught me
+
 **[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: endless possibilities extending musical expression
 
-**Jose-Miguel Fernandez** and **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) Composition and Interaction with Somax2
 
 <br><br>
 
@@ -73,9 +75,12 @@ Somax2 under the hood
 The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
 
 ### 18:00 - 19:30 Improtech lecture session #4
-**[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing musical creativity with AI — what DJing with AI taught me
 
-**[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm 
+**Jose-Miguel Fernandez** (Ircam) Composition and Interaction with Somax2
+
+**[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
+
+
 
 ### 19h00 Performance at Konnoh Hashimangu Shrine in Shibuya
 
