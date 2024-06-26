@@ -10,7 +10,7 @@ Access to afternoon workshop / advanced courses is only upon registration to max
 
 
 - [Workshops and Lectures](#29-july-monday)
-- [Performance at Hashimangu Shrine](#19h00-Performance-at-Konnoh-Hashimangu-Shrine-in-Shibuya)
+- [Performance at Hachimangu Shrine](#19h00-Performance-at-Konnoh-Hachimangu-Shrine-in-Shibuya)
 - [Improtech Concerts #1 and #2](#2-august-friday)
 - [Lectures Abstracts](#abstracts)
 
@@ -87,7 +87,6 @@ The internal technical parts of Somax2 will be explained, including the client -
 *Tokyo Bout à Bout*
 
 **[Georges Bloch](http://repmus.ircam.fr/bloch)** (composer, generative electronics), **[Taketeru Kudo](http://archive.tedxtokyo.com/en/talk/kudo/)** (Butoh dancer), **[Takashi Seo](https://seotakashi.theblog.me)** (Bass)
-
 
 <br><br>
 
