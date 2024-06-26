@@ -115,7 +115,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Traversée II*
 
-**[Nicolas Brochec](https://nicolasbrochec.com)** (composer, generative electronics)
+**[Nicolas Brochec](https://nicolasbrochec.com)** (composer, generative electronics), Kanami Koga (flute)
 
 *Trans(e)-musical*
 
