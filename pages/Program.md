@@ -82,7 +82,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
  
 
-### 19h00 Performance at Konnoh Hashimangu Shrine in Shibuya
+### 19h00 Performance at Konnoh Hachimangu Shrine in Shibuya
 
 *Tokyo Bout à Bout*
 
