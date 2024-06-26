@@ -113,6 +113,10 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  Thierry Miroglio (percussion), **Jose-Miguel Fernandez** (generative electronics)
 
+*Traversée II*
+
+**[Nicolas Brochec](https://nicolasbrochec.com)** (composer, generative electronics)
+
 *Trans(e)-musical*
 
 **[Justin Vali](https://www.katebushencyclopedia.com/vali-justin/)** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), **[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Generative Electronics)
@@ -124,7 +128,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Compositions by Geidai Artists*
 
-**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)**, **Ko Sahara**, **Takeyoshi Mori**, **[Nicolas Brochec](https://nicolasbrochec.com)** (composers, generative electronics)
+**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)**, **Ko Sahara**, **Takeyoshi Mori** (composers, generative electronics)
 
 *Spectral Light*
 
