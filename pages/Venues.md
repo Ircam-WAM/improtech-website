@@ -12,7 +12,7 @@ Japan, 〒120-0034 Tokyo, Adachi City, Senju, 1 Chome−25−1 東京芸術大�
 
 Closest JR/metro station: Kitasenju
 
-#### Konno Hashimangu
+#### Konno Hachimangu Shrine
 
 [Konnoh Hachimangu Shrine](https://www.konno-hachimangu.jp/history.html)
 

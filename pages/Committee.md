@@ -10,13 +10,13 @@ Pr Suguru Goto, Geidai
 
 
 ### Organisation Team
- 
+
 Vasiliki Zachari, IRCAM  
 Marco Fiorini, IRCAM  
-Jose-Miguel Fernandez,IRCAM  
+José-Miguel Fernandez, IRCAM  
 Nicolas Brochec, Geidai  
-Akiyama-San, Geidai
-Lim Hyunmook, Geidai
+Akiyama Daichi, Geidai  
+Lim Hyun-Mook, Geidai
 
 
 
