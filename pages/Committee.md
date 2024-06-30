@@ -52,7 +52,7 @@ Miller Puckette, IRCAM
 
 <br>
 <p align="center">
-  <img src="../images/ikUZESTE_logos.png" width="2400">
+  <img src="../images/ikUZESTE_logos.png" width="2400"> 
 </p>
 <br>
 
