@@ -64,7 +64,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 **[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: endless possibilities extending musical expression
 
 
-<br><br>
+<br><br> 
 
 ## 1 August, Thursday 
 
