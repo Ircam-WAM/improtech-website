@@ -7,7 +7,7 @@ Authors: Gerard Assayag
 Summary: Improtech Tokyo gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
 
-#### Workshop - Festival in Tokyo -- july 29 to august 2, 2024 
+#### Workshop - Festival in Tokyo -- july 29 to august 2, 2024
 <br>
 **[--> Click to RESERVE NOW your free access to concerts and conferences ! <-- ]({filename}/pages/Venues.md)**
 <br>
