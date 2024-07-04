@@ -137,13 +137,14 @@ Integration of Somax2 into real-size composition for ensembles, presentation of 
  **[Nicolas Brochec](https://nicolasbrochec.com)**, for Flute and Electronics, Kanami Koga (flute)
 
 
-*Spectral Light*
-
-**[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative electronics)
-
 *Trio*
 
 **[Mari Kimura](https://www.marikimura.com/)** (Violin,  [MUGIC®](https://www.mugicmotion.com/) motion sensor), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Electric 21-string Koto), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho, Kugo)
+
+
+*Spectral Light*
+
+**[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative electronics)
 
 
 *String Theory*
