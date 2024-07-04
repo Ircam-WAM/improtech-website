@@ -117,10 +117,25 @@ Integration of Somax2 into real-size composition for ensembles, presentation of 
 
 ### 19:30 IMPROTECH CONCERT #2
 
+*Collidepiano II*
 
-*Compositions by Geidai Artists*
+**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)** for Piano and SoMax2. Piano: Hyun-Mook Lim, Computer: Suguru Goto
 
-**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)**, **Ko Sahara**, **Takeyoshi Mori**, **[Nicolas Brochec](https://nicolasbrochec.com)** (composers, generative electronics)
+
+*Antiphonie*
+
+**Ko Sahara**, for Pianist, Player Piano and Electronics. Piano: Satsuki Hoshino, Computer: Ko Sahara
+
+
+*Sedimentation*  
+
+**Takeyoshi Mori**, for Cello and SoMax2. Cello: Asami Mori, Computer: Takeyoshi Mori
+
+
+*Traversée II*
+
+ **[Nicolas Brochec](https://nicolasbrochec.com)**, for Flute and Electronics, Kanami Koga (flute)
+
 
 *Spectral Light*
 
@@ -131,7 +146,7 @@ Integration of Somax2 into real-size composition for ensembles, presentation of 
 **[Mari Kimura](https://www.marikimura.com/)** (Violin,  [MUGIC®](https://www.mugicmotion.com/) motion sensor), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Electric 21-string Koto), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho, Kugo)
 
 
-*Strings*
+*String Theory*
 
 **[Turner Williams Jr](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics), **[Anaïs del Sordo](https://www.instagram.com/siananaisnin/)** (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative Electronics)
 
