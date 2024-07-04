@@ -10,7 +10,7 @@ Access to afternoon workshop / advanced courses is only upon registration to max
 
 
 - [Workshops and Lectures](#29-july-monday)
-- [Performance at Hachimangu Shrine](#19h00-Performance-at-Konnoh-Hachimangu-Shrine-in-Shibuya)
+- [Performance at Hashimangu Shrine](#19h00-Performance-at-Konnoh-Hashimangu-Shrine-in-Shibuya)
 - [Improtech Concerts #1 and #2](#2-august-friday)
 - [Lectures Abstracts](#abstracts)
 
@@ -22,9 +22,9 @@ Access to afternoon workshop / advanced courses is only upon registration to max
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop  #1
 Introduction to REACH co-creative software  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**, **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
 
-This course will present a set of tools that enable interactive improvisation between the human and the machine. Tools such as Omax, Somax2, Djazz, Dicy2 allow Max to improvise in collaboration with humans by capturing human performances, navigating through music corpuses and latent spaces of musical features, and adapting continuously to the evolving musical context using generative model and audio / midi rendering.
+TThis course will present the REACH Project on cocreative interaction with AI, and the Somax2 system, detailing its basic concepts, the applicative user interface, the main controls, the interaction strategies and musical scenarios. Somax2 allow Max to improvise in collaboration with humans by capturing human performances, navigating through music corpuses and latent spaces of musical features, and adapting continuously to the evolving musical context using generative model and audio / midi rendering.
 
 ### 18:00 - 19:30 Improtech lecture session #1
 **[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (Ircam), **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)**, An inside view of an instrument
@@ -37,10 +37,10 @@ This course will present a set of tools that enable interactive improvisation be
 ## 30 July, Tuesday 
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #2
-Introduction to Somax2  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
+Somax2 advanced course  
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**
 
-This course will focus on the cocreative AI improvisation environment Somax2, detailing its basic concepts, the applicative user interface, the main controls, interaction strategies and musical scenarios, with concrete musical examples and demos..
+This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
 
 ### 18:00 - 19:30 Improtech lecture session #2
 **[Shlomo Dubnov](https://en.wikipedia.org/wiki/Shlomo_Dubnov)** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
@@ -52,10 +52,10 @@ This course will focus on the cocreative AI improvisation environment Somax2, de
 ## 31 July, Wednesday
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop #3
-Somax2 advanced course
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
+Somax2 under the hood  
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**
 
-This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
+The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
 
 ###18:00 - 19:30 Improtech lecture session #3
 
@@ -64,29 +64,25 @@ This course will dive into the advanced use of Somax2, including mastering of ex
 **[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: endless possibilities extending musical expression
 
 
-<br><br>
+<br><br> 
 
 ## 1 August, Thursday 
 
 ### 16:30 - 18:00 MSS advanced course / IK Workshop #4
-Somax2 under the hood  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** and **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
+Using Somax2 in advanced research and creation  
+**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**, **[Nicolas Brochec](https://nicolasbrochec.com)**, **[Jose-Miguel Fernandez](https://brahms.ircam.fr/en/jose-miguel-fernandez)**
 
-The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
+Interacting with Somax2 agents by means of automatic recognition of complex  Instrumental Playing Technique and state of the art Machine Learning.
+Integration of Somax2 into real-size composition for ensembles, presentation of Somax2Collider for Spatial Interactive Agents
 
-### 18:00 - 19:30 Improtech lecture session #4
-
-**Jose-Miguel Fernandez**, **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) Composition and Interaction with Somax2
-
-**[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
-
+### 18:00 END of Workshop and Lecture Program at Geidai
  
-
-### 19h00 Performance at Konnoh Hachimangu Shrine in Shibuya
+### 19h00 Performance at Konnoh Hashimangu Shrine in Shibuya
 
 *Tokyo Bout à Bout*
 
 **[Georges Bloch](http://repmus.ircam.fr/bloch)** (composer, generative electronics), **[Taketeru Kudo](http://archive.tedxtokyo.com/en/talk/kudo/)** (Butoh dancer), **[Takashi Seo](https://seotakashi.theblog.me)** (Bass)
+
 
 <br><br>
 
@@ -111,11 +107,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Taideji*
 
-**[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  Thierry Miroglio (percussion), **Jose-Miguel Fernandez** (generative electronics)
-
-*Traversée II*
-
-**[Nicolas Brochec](https://nicolasbrochec.com)** (composer, generative electronics), Kanami Koga (flute)
+**[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  Thierry Miroglio (percussion), **[Jose-Miguel Fernandez](https://brahms.ircam.fr/en/jose-miguel-fernandez)** (generative electronics)
 
 *Trans(e)-musical*
 
@@ -128,7 +120,7 @@ The internal technical parts of Somax2 will be explained, including the client -
 
 *Compositions by Geidai Artists*
 
-**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)**, **Ko Sahara**, **Takeyoshi Mori** (composers, generative electronics)
+**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)**, **Ko Sahara**, **Takeyoshi Mori**, **[Nicolas Brochec](https://nicolasbrochec.com)** (composers, generative electronics)
 
 *Spectral Light*
 
@@ -181,7 +173,7 @@ We are going to detail the techniques, methodologies, and outcomes that led to t
 MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors available on the market. However, what sets MUGIC® apart is its comprehensive, user-friendly design. Created by violinist and composer Mari Kimura, MUGIC® is a turnkey product that allows musicians to create their art immediately without requiring extensive programming or electrical engineering skills. The first version of MUGIC® sold out following a significant bulk order from the Lincoln Center in NYC this spring. As MUGIC® v.2 is under development, Kimura will demonstrate the importance of fostering a community around new technology and how MUGIC® users are expanding its application not only in music but also in other forms of art and beyond.
 
 
-**Jose-Miguel Fernandez** and **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) Composition and Interaction with Somax2
+**[Jose-Miguel Fernandez](https://brahms.ircam.fr/en/jose-miguel-fernandez)** and **[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (Ircam) Composition and Interaction with Somax2
 
 
 In this presentation, we will discuss the integration of Somax2 into musical composition through the works of Lara Morciano and José Miguel Fernández. We will also present the Somax2Collider environment for Spatial Interactive Agents, which is a preliminary approach to using agents in the context of spatialized improvisation using the SuperCollider software and a system of wireless connected speakers.
