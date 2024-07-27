@@ -1,22 +1,20 @@
-title: Programoff
+title: Improtech Festival off
 status: Hidden
 
 ---
 
-This is the Improtech Paris - Tokyo Off programs  : Gigs in clubs and small venues by Improtech musicians
+This is the Improtech Paris - Tokyo Off program  : Gigs in clubs and small venues by Improtech musicians
 
 
 ## July 27
 
-Joëlle Léandre, , Min Tahala  
+Joëlle Léandre, Min Tahala  
 Egg Farm, Saitama
 
 
 Jean-Marc MONTERA [g]  
 YOKOGAWA Tadahiko [vn]  
 FUKUOKA Yutaka [vox] artiste invité  
-
-
 Nanahari, Tokyo  
 19h30  
 https://maps.app.goo.gl/PLEjUd13boQZFCnU8
@@ -24,7 +22,7 @@ https://maps.app.goo.gl/PLEjUd13boQZFCnU8
 
 
 Turner Williams, Rob Noyes
-Give me a little more
+Give me a little more  
 Nagoya
 
 
@@ -32,7 +30,7 @@ Nagoya
 
 
 Marco Fiorini + Anaïs del Sordo, Turner Williams Jr, Rob Noyes  
-hako gallery - Yoyogi-Uehara  
+Hako gallery - Yoyogi-Uehara, Tokyo  
 19h  
 https://www.tokyogigguide.com/en/gigs/event/32313-marco-fiorini-anais-del-sordo-turner-williams-jr-rob-noyes
 
@@ -42,40 +40,40 @@ https://www.tokyogigguide.com/en/gigs/event/32313-marco-fiorini-anais-del-sordo-
 Joelle Léandre Solo Improvisaiton  
 Barber Fuji, Tokyo  
 19h  
-https://barberfuji.sakura.ne.jp/
+https://barberfuji.sakura.ne.jp/  
 
 
 ##July 30
 
 JUSTIN VALI, MARC CHEMILLIER, Nao Tokui  
-Bar Isshee, Sendagi  
-http://www.bloc.jp/barisshee/
+Bar Isshee, Sendagi, Tokyo  
+http://www.bloc.jp/barisshee/  
 
 
 
 JOELLE LEANDRE/OTOMO YOSHIHIDE  
-Polaris, Ogawamachi  
+Polaris, Ogawamachi, Tokyo  
 https://polaristokyo.com/schedule/20240730  
 
 
 
 ## July 31
+
 Ciné-concert de Justin Vali, Marc Chemillier et le cinéaste Takeshi Kamei  
-au World Kitchen Baobab, Tokyo  
+World Kitchen Baobab, Tokyo  
 
 
-## August 1 
+## August 1
 
 GEORGES BLOCH/TAKETERU KUDO/TAKASHI SEO  
-Konnoh Hashimangu Shrine, Shibuya  
+Konnoh Hashimangu Shrine, Shibuya, Tokyo  
 19h  
-
 
 
 ## August 3
 
 Jean-Marc Montera meets MIYA & Kota Arai  
-Koen-Dori Classics - Shibuya  
+Koen-Dori Classics - Shibuya, Tokyo  
 19:00  
 https://www.tokyogigguide.com/en/gigs/event/32254-jean-marc-montera-meets-miya-kota-arai
 
@@ -85,10 +83,8 @@ Anaïs del Sordo [voice]
 Marco Fiorini [electric guitar, Somax2 generative electronics]  
 Turner Williams Jr [Shaahi baaja]  
 Rob Noyes [12 strings acoustic guitar]  
-
-Permian, Shinagawa  
+Permian, Shinagawa, Tokyo
 8pm  
-
 https://permian.tokyo/schedule/august/
 
 
@@ -102,12 +98,11 @@ https://metisse.jp/en/program/239/
 
 ## August 4 
 
-
 ■Anaïs del Sordo (voice)  
 ■Marco Fiorini (electric guitar, Somax2 generative electronics)  
 ■Turner Williams Jr (Shaahi baaja)  
 ■Rob Noyes (12 strings acoustic guitar)  
-Otooto, Kitazawa    
+Otooto, Kitazawa, Tokyo
 1:30pm  
 http://www.otooto.jp/event  
 
