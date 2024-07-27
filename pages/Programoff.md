@@ -98,8 +98,8 @@ https://metisse.jp/en/program/239/
 
 ## August 4 
 
-■Anaïs del Sordo (voice)  
-■Marco Fiorini (electric guitar, Somax2 generative electronics)  
+Anaïs del Sordo (voice)  
+Marco Fiorini (electric guitar, Somax2 generative electronics)  
 ■Turner Williams Jr (Shaahi baaja)  
 ■Rob Noyes (12 strings acoustic guitar)  
 Otooto, Kitazawa, Tokyo
