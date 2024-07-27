@@ -17,7 +17,7 @@ YOKOGAWA Tadahiko [vn]
 FUKUOKA Yutaka [vox] artiste invité  
 Nanahari, Tokyo  
 19h30  
-https://maps.app.goo.gl/PLEjUd13boQZFCnU8
+[More Info at](https://maps.app.goo.gl/PLEjUd13boQZFCnU8)  
 
 
 
@@ -32,7 +32,7 @@ Nagoya
 Marco Fiorini + Anaïs del Sordo, Turner Williams Jr, Rob Noyes  
 Hako gallery - Yoyogi-Uehara, Tokyo  
 19h  
-https://www.tokyogigguide.com/en/gigs/event/32313-marco-fiorini-anais-del-sordo-turner-williams-jr-rob-noyes
+[More Info at](https://www.tokyogigguide.com/en/gigs/event/32313-marco-fiorini-anais-del-sordo-turner-williams-jr-rob-noyes)  
 
 
 ## July 29
@@ -40,20 +40,20 @@ https://www.tokyogigguide.com/en/gigs/event/32313-marco-fiorini-anais-del-sordo-
 Joelle Léandre Solo Improvisaiton  
 Barber Fuji, Tokyo  
 19h  
-https://barberfuji.sakura.ne.jp/  
+[More Info at](https://barberfuji.sakura.ne.jp/)  
 
 
 ##July 30
 
 JUSTIN VALI, MARC CHEMILLIER, Nao Tokui  
 Bar Isshee, Sendagi, Tokyo  
-http://www.bloc.jp/barisshee/  
+[More Info at](http://www.bloc.jp/barisshee/)  
 
 
 
 JOELLE LEANDRE/OTOMO YOSHIHIDE  
 Polaris, Ogawamachi, Tokyo  
-https://polaristokyo.com/schedule/20240730  
+h[More Info at](ttps://polaristokyo.com/schedule/20240730)  
 
 
 
@@ -75,7 +75,7 @@ Konnoh Hashimangu Shrine, Shibuya, Tokyo
 Jean-Marc Montera meets MIYA & Kota Arai  
 Koen-Dori Classics - Shibuya, Tokyo  
 19:00  
-https://www.tokyogigguide.com/en/gigs/event/32254-jean-marc-montera-meets-miya-kota-arai
+[More Info at](https://www.tokyogigguide.com/en/gigs/event/32254-jean-marc-montera-meets-miya-kota-arai)  
 
 
 
@@ -85,14 +85,14 @@ Turner Williams Jr [Shaahi baaja]
 Rob Noyes [12 strings acoustic guitar]  
 Permian, Shinagawa, Tokyo
 8pm  
-https://permian.tokyo/schedule/august/
+[More Info at](https://permian.tokyo/schedule/august/)  
 
 
 
 Justin Vali et Marc Chemillier  
 Métisse live! vol.4 Justin Vali & Marc Chemillier / Bamboo harp “Valiha” and the front line of Malagasy vibes  
 Metisse Festival, Nanto, Toyama Prececture  
-https://metisse.jp/en/program/239/  
+[More Info at](https://metisse.jp/en/program/239/)  
 
 
 
@@ -104,12 +104,12 @@ Turner Williams Jr (Shaahi baaja)
 Rob Noyes (12 strings acoustic guitar)  
 Otooto, Kitazawa, Tokyo  
 1:30pm  
-http://www.otooto.jp/event  
+[More Info at](http://www.otooto.jp/event)  
 
 
 
-Projection du film Vata de Takeshi Kamei (https://2020.nipponconnection.com/en/film/2382/vata) suivie de Justin Vali en solo
-https://www.facebook.com/kameitakeshi/
+Projection du [film Vata de Takeshi Kamei](https://2020.nipponconnection.com/en/film/2382/vata) suivie de Justin Vali en solo
+[More Info at](https://www.facebook.com/kameitakeshi/)
 
 
 <br>
