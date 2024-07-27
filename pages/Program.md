@@ -13,6 +13,7 @@ Access to afternoon workshop / advanced courses is only upon registration to max
 - [Performance at Hashimangu Shrine](#19h00-Performance-at-Konnoh-Hashimangu-Shrine-in-Shibuya)
 - [Improtech Concerts #1 and #2](#2-august-friday)
 - [Lectures Abstracts](#abstracts)
+- [Improtech Festival OFF : Gigs in town]({filename}/pages/Programoff.md)
 
 <br>
 
