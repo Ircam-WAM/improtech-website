@@ -104,12 +104,12 @@ Turner Williams Jr (Shaahi baaja)
 Rob Noyes (12 strings acoustic guitar)  
 Otooto, Kitazawa, Tokyo  
 1:30pm  
-[More Info at](http://www.otooto.jp/event)  
+[More Info](http://www.otooto.jp/event)  
 
 
 
 Projection du [film Vata de Takeshi Kamei](https://2020.nipponconnection.com/en/film/2382/vata) suivie de Justin Vali en solo
-[More Info at](https://www.facebook.com/kameitakeshi/)
+[More Info](https://www.facebook.com/kameitakeshi/)
 
 
 <br>
