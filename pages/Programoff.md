@@ -17,7 +17,7 @@ YOKOGAWA Tadahiko [vn]
 FUKUOKA Yutaka [vox] artiste invité  
 Nanahari, Tokyo  
 19h30  
-[More Info at](https://maps.app.goo.gl/PLEjUd13boQZFCnU8)  
+[More Info](https://maps.app.goo.gl/PLEjUd13boQZFCnU8)  
 
 
 
@@ -32,7 +32,7 @@ Nagoya
 Marco Fiorini + Anaïs del Sordo, Turner Williams Jr, Rob Noyes  
 Hako gallery - Yoyogi-Uehara, Tokyo  
 19h  
-[More Info at](https://www.tokyogigguide.com/en/gigs/event/32313-marco-fiorini-anais-del-sordo-turner-williams-jr-rob-noyes)  
+[More Info](https://www.tokyogigguide.com/en/gigs/event/32313-marco-fiorini-anais-del-sordo-turner-williams-jr-rob-noyes)  
 
 
 ## July 29
@@ -40,20 +40,20 @@ Hako gallery - Yoyogi-Uehara, Tokyo
 Joelle Léandre Solo Improvisaiton  
 Barber Fuji, Tokyo  
 19h  
-[More Info at](https://barberfuji.sakura.ne.jp/)  
+[More Info](https://barberfuji.sakura.ne.jp/)  
 
 
 ##July 30
 
 JUSTIN VALI, MARC CHEMILLIER, Nao Tokui  
-Bar Isshee, Sendagi, Tokyo  
-[More Info at](http://www.bloc.jp/barisshee/)  
+Bar Isshee, Sendagi, Tokyo
+[More Info](http://www.bloc.jp/barisshee/)  
 
 
 
 JOELLE LEANDRE/OTOMO YOSHIHIDE  
 Polaris, Ogawamachi, Tokyo  
-h[More Info at](ttps://polaristokyo.com/schedule/20240730)  
+[More Info](ttps://polaristokyo.com/schedule/20240730)  
 
 
 
@@ -75,7 +75,7 @@ Konnoh Hashimangu Shrine, Shibuya, Tokyo
 Jean-Marc Montera meets MIYA & Kota Arai  
 Koen-Dori Classics - Shibuya, Tokyo  
 19:00  
-[More Info at](https://www.tokyogigguide.com/en/gigs/event/32254-jean-marc-montera-meets-miya-kota-arai)  
+[More Info](https://www.tokyogigguide.com/en/gigs/event/32254-jean-marc-montera-meets-miya-kota-arai)  
 
 
 
@@ -85,7 +85,7 @@ Turner Williams Jr [Shaahi baaja]
 Rob Noyes [12 strings acoustic guitar]  
 Permian, Shinagawa, Tokyo
 8pm  
-[More Info at](https://permian.tokyo/schedule/august/)  
+[More Info](https://permian.tokyo/schedule/august/)  
 
 
 
