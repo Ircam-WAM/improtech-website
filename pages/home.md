@@ -70,6 +70,14 @@ Composer **Georges Bloch** will perform in the shrine with the Butoh dancer **Ta
 </p>
 <br>
 
+<br>
+<p align="center">
+  <img src="./images/Hashimangu_Flyer.jpg width="750">
+</p>
+<br>
+
+
+
 
 See the **[full Improtech program here.]({filename}/pages/Program.md)**
 
