@@ -46,7 +46,10 @@ This course will dive into the advanced use of Somax2, including mastering of ex
 ### 18:00 - 19:30 Improtech lecture session #2
 **[Shlomo Dubnov](https://en.wikipedia.org/wiki/Shlomo_Dubnov)** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
 
-**[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm
+CANCELLED - - **[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm
+
+Steve Lehman's presentation is replaced by a live Q & A session swith Pr. Miller Puckette.
+
 
 <br><br>
 
@@ -145,7 +148,7 @@ Integration of Somax2 into real-size composition for ensembles, presentation of 
 
 *Spectral Light*
 
-**[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative electronics)
+CANCELLED - - **[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative electronics)
 
 
 *String Theory*
