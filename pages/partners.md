@@ -39,7 +39,7 @@ A Research & Creation Action of
 
 Special thanks to 
 
-<br>
+<br> 
 <p align="center">
   <img src="../images/Moet_Logo.jpg" width="350">
 </p>
