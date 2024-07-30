@@ -87,7 +87,7 @@ Special thanks to
 
 <br> 
 <p align="center">
-  <img src="../images/Moet_Logo.jpg" width="120">
+  <img src="../images/Moet_Logo.jpg" width="200">
 </p>
 <br>
 
