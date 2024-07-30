@@ -83,6 +83,19 @@ Miller Puckette, IRCAM
 
 <br>
 
+Special thanks to 
+
+<br> 
+<p align="center">
+  <img src="../images/Moet_Logo.jpg" width="120">
+</p>
+<br>
+
+
+
+
+<br>
+
 **Improtech** workshop-festival is an original creation by © Gérard Assayag and Marc Chemillier.  
 Improtech is an ERC REACH action supported by the European Research Council within the Horizon 2020 program (Convention No. 883313) and by the Agence Nationale de la Recherche under grant MERCI ANR-19-CE33-0010
 
