@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "Improtech 2024"
-BRANCH = "ikparistokyo"
+SITENAME = "Improtech 2025"
+BRANCH = "ikparis"
 SITEURL = 'https://improtech.ircam.fr/' + BRANCH
 # AUTHOR = 'ikPP'
 # Uncomment following line if you want document-relative URLs when developing
@@ -95,7 +95,7 @@ PELICANGIT_SOURCE_REMOTE="origin"
 PELICANGIT_SOURCE_BRANCH="master"
 PELICANGIT_SOURCE_BRANCHES=["master", "ikparisphilly",
                             "ikparisathina", "ikmarseille",
-                            "ikuzeste", "ikparistokyo",]
+                            "ikuzeste", "ikparistokyo", "ikparis"]
 
 PELICANGIT_DEPLOY_REPO=OUTPUT_PATH
 PELICANGIT_DEPLOY_REMOTE="origin"
