@@ -8,11 +8,6 @@ Summary: Improtech Paris gathers scholars, technologists, musicians, makers, aro
 
 
 #### Workshop - Festival in Paris -- December 2 to 7, 2025
-<br>
-**[--> Click to RESERVE NOW your free access to concerts and conferences ! <-- ]({filename}/pages/Venues.md)**
-<br>
-<br>
-
 
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
@@ -56,11 +51,6 @@ In addition to the  programme at Ircam an exceptional event will enlight this ye
 <br>
 <p align="center">
   <img src="./images/ESPRO.png" width="500">
-</p>
-<br>
-
-<br>
-<p align="center">
   <img src="./images/MAQUETTE.png" width="500">
 </p>
 <br>
