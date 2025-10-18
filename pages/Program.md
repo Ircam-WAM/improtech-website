@@ -15,15 +15,15 @@ Access to Dynamo is through the Dynamo web page.
 
 <br>
 
-## December 2 tuesday
+## December 2 Tuesday
 
-### 20:00 IMPROTECH CONCERT #1
+### 20:00 IMPROTECH CONCERT #1 at Espace de Projection, Ircam
 
 **Psappho, after Iannis Xenakis**  
 Lorenzo Colombo percussions  
 Marco Fiorini   AI-Agents Somax2, live  electronics
 
-***Décembre - premier livre du cycle Arc’**  
+**Décembre - premier livre du cycle Arc’**  
 Marco Suárez-Cifuentes composition, AI-Agents Somax2  
 Johanna Vargas voice  
 Nicolas Crosse bass  
@@ -41,16 +41,55 @@ Jean-Marc Montera guitars, electronics
 The Who/Men (Gerard Assayag, Mikhail Malt, Marco Fiorini AI-Agents Somax2)  
 Feat.Mari Kimura, violon, Pierre Couprie, live électronics  
 
-**Deleph**
+**Deleph**  
 Jaap Blonk voice, sound poetry  
-Benny Sluchin , rombone  
+Benny Sluchin trombone  
 Georges Bloch AI-Agents Omax5, Somax2  
 
-**In albireo luogo…**
+**In albireo luogo…**  
 Lara Morciano composition  
-Joëlle Léandre, Nicolas Crosse : bass  
-José-Miguel Fernandez, AI-Agents Somax2Collider, immersive electronics    
+Joëlle Léandre, Nicolas Crosse bass  
+José-Miguel Fernandez AI-Agents Somax2Collider, immersive electronics  
 
+<br> <br>
+
+## December 5 Friday
+
+### 20:00 IMPROTECH CONCERT #2 at Espace de Projection, Ircam
+
+
+**Artisticiel**  
+Bernard Lubat piano, voice  
+Gérard Assayag AI-Agents Omax & Somax2  
+Marc Chemillier AI-Agents Djazz  
+
+**Solo for sliding Trombone**  
+After John Cage composition  
+Benny Sluchin trombone  
+Mikhail Malt AI-Agents Somax2,  immersive electronics  
+
+**Taideji**  
+Lara Morciano compposition, piano  
+Thierry Miroglio percussions  
+Jose-Miguel Fernandez AI-Agents Somax2, immersive electronics  
+
+**Transe III**  
+Justin Vali Malagasy Zither, voice  
+Marc Chemillier AI-Agents Djazz  
+NSDOS electronic hack, live coding, dance  
+
+**NaN - Not a Number**  
+Alberto Gatti composition, immersive electronics, AI-Agents Somax2  
+Anaïs del Sordo voice  
+
+**in memoriam Susan Alcorn**  
+Miya Masaoka composition, koto  
+
+**SoVo II**
+George Lewis composition  
+Joëlle Léandre bass, voice
+Miya Masaoka koto  
+Marco Fiorini, SoVo AI system, pianos Disklavier, immersive audio
 
 
 ## 29 July Monday
