@@ -179,46 +179,54 @@ Raphaël Forment, Rémi Georges, live coding
 ## December 4, Thursday  
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
-Ken Deguernel Méthodes Co-Créatives pour des Partenariats Musicaux Humain-IA de Longue Durée  (ANR MICCDroP)  
-Alain Bonardi Generative Spatial Synthesis of Sound and Music (ERC G3S)  
-Makis Solomos Xenakis Reloaded in the age of AI, the case of Psappho  
-BREAK   
-Pierre Saint Germier  Inside Artificial Improvisation (ANR InAI)  
-Pierre Couprie  Advances in Interactive Electroacoustic improvisation  
-Nicolas Brochec, Marco Fiorini  Extended Instrumental Techniques Recognition for Generative Coimprovisation  
+**Méthodes Co-Créatives pour des Partenariats Musicaux Humain-IA de Longue Durée  (ANR MICCDroP)**  
+Ken Deguernel, Université de Lille  
+
+**Generative Spatial Synthesis of Sound and Music (ERC G3S)**  
+Alain Bonardi, Université Paris 8  
+
+**Xenakis Reloaded in the age of AI, the case of Psappho**  
+Makis Solomos, Université Paris 8  
+
+**Inside Artificial Improvisation (ANR InAI)**  
+Pierre Saint-Germier, CNRS, Ircam  
+
+**Advances in Interactive Electroacoustic improvisation**  
+Pierre Couprie, Univerfsité Evry Marne-la-Vallée  
+
+**Extended Instrumental Techniques Recognition for Generative Coimprovisation**  
+Nicolas Brochec, Geidai University Tokyo  
+Marco Fiorini, Ircam, Collegium Musicae  
 
 
 ## December 5, Friday  
-### 14h - 19h Lectures in Stravinsky hall, Ircam 
-Sivan Eldar, Jean-Louis Giavitto, Augustin Muller Like Flesh, Nine Jewel Deers, composition and improvisation  
-Oded Ben Tal , David Dolan  "The Odd Couple - Human & AI  
-Making Music in the Moment"  
-Daniel Brown  Unity interface to Generative Improvisation Agents  
-Jean-Rémy Guédon  ArchiMusic Reloaded wit no-code generative AI  
-Gilbert Nouno, Christophe Fellay  Evaluation of AI based improvisation systems  
-Nicolas Souchal, Diemo Schwartz Extense : collective and human-machine agentivity  
+### 14h - 19h Lectures in Stravinsky hall, Ircam
 
+**Like Flesh, Nine Jewel Deers, composition and improvisation**  
+Sivan Eldar, composer  
+Jean-Louis Giavitto, CNRS Ircam  
+Augustin Muller, Ircam   
 
-<br>
+**The Odd Couple - Human & AI Making Music in the Moment**  
+Oded Ben Tal, Kingston University, London  
+David Dolan, pianist, Guildhall School of Music & Drama London  
+
+**Unity interface to Generative Improvisation Agents**  
+Daniel Brown, University de Picardie  
+
+**ArchiMusic Reloaded with no-code generative AI**  
+Jean-Rémy Guédon, composer, musician  
+
+**Evaluation of AI based improvisation systems**  
+Gilbert Nouno, Haute Ecole de Musique de Genève (HEM)
+Christophe Fellay, École de design et Haute école d'art du Valais (EDHEA) 
+
+Extense : collective and human-machine agentivity  
+Nicolas Souchal, Diemo Schwartz, Ircam
+
 
 ## Abstracts
 
-
-**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (Ircam), **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)**, An inside view of an instrument
-
-
-Signal delays are very bothersome to live musicians, especially percussionists.  As a duo using percussion, we have worked out a way to avoid having to send audio signals between computers, which would always add some delay.  Instead, we  work as a duo within one computer by making plug-ins that can be remotely controlled. The plug-ins can be any kind of patch, either Max or Pure Data, and can be hosted by any digital audio workstation.  The result is a single software percussion instrument played live by a musician but simultaneously played by a second performer using controllers that act within one or several plug-ins in a single signal chain.
-
-
-**Marc Chemillier** (EHESS), Keeping the swing, AI cocreative musicianship in collective idiomatic settings
-
-
-Artificial intelligence can be seen as antagonistic to certain traditional activities, particularly music. We are going to criticize this stereotype by showing how machine learning can be used for music with an oral tradition. During the REACH project, we developed an improvisation software programmed in Max/MSP, which has the particularity of taking a regular pulse into account. All pulse-based musical sequences captured by the software can be reused after the learning phase, retaining the same culturally relevant rhythmic position. The improvisation software is thus able to play in the style of native players. The outputs of the program are good enough to allow duets between a musician and the computer. Musicians reacting to the outputs of the machine can shed new light on the analysis of their repertoires. By refining the generation parameters, we can get closer to an optimal characterization of the music studied. We’ll show examples of experiments with musicians from Madagascar. Moreover, the system can also explore various degres of hybridation. One can inject in the context of Malagasy music generated solos from other traditions (for instance jazz) and study how it fits the musical context according to the native musicians point of view, which can shed new light on the boundaries of a given musical tradition.
-
-
-**[Shlomo Dubnov](https://en.wikipedia.org/wiki/Shlomo_Dubnov)** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
-
-In the talk Shlomo Dubnov will survey his recent research on advanced generative music AI methods with emphasis on diffusion methods and information theory. He will then describe creative applications of text-to-music, voice conversion and multi-track synthesis, and analysis of polyphonic music in terms of multi-information dynamics. Questions of co-creativity, artistic sensibility and Kansei in AI will be discussed.
 
 
 **[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
@@ -238,11 +246,6 @@ MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors availa
 In this presentation, we will discuss the integration of Somax2 into musical composition through the works of Lara Morciano and José Miguel Fernández. We will also present the Somax2Collider environment for Spatial Interactive Agents, which is a preliminary approach to using agents in the context of spatialized improvisation using the SuperCollider software and a system of wireless connected speakers.
 
 
-**[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing musical creativity with AI — what DJing with AI taught me
-
-
-Nao Tokui discusses the progression of his AI DJ project, which incorporates machine learning systems for live performances, and shares the insights he gained from it. He also explores the potential implications of the latest AI technology in music improvisation.
-
 
 **[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm
 
@@ -256,7 +259,7 @@ Steve Lehman will present a survey of current trends in experimental musics that
 
 <br>
 <p align="center">
-  <img src="../images/Logo_improtech_anniv.png" width="300">
+  <img src="../images/"Logo_ikPT_MSS.png" width="400">
 </p>
 <br>
 
