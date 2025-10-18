@@ -21,10 +21,6 @@ This year, Ircam will host Improtech  concerts in its unique concert hall, Espac
 
 <br>
 <br>
-
-
-
-<br>
 <img src="../images/IKPoster_frag1.jpg" width="125" style="float:left" hspace="10">
 ##Highlights
 <br>

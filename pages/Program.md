@@ -21,32 +21,36 @@ Access to Dynamo is through the Dynamo web page.
 
 **Psappho, after Iannis Xenakis**  
 Lorenzo Colombo percussions  
-Marco Fiorini   AI-Agents Somax2, électronique live immersive  
+Marco Fiorini   AI-Agents Somax2, live  electronics
 
 ***Décembre - premier livre du cycle Arc’**  
 Marco Suárez-Cifuentes composition, AI-Agents Somax2  
-Johanna Vargas voix  
-Nicolas Crosse contrebasse  
-Aurélien Gignoux batterie  
-Nieto textes  
+Johanna Vargas voice  
+Nicolas Crosse bass  
+Aurélien Gignoux drums  
+Nieto texts  
 
-Traversée III
-Nicolas Brochec composition, AI-Agents Somax2 
-Kanami Koga flûte 
-REACHin’ Marseille  
+**Traversée III**  
+Nicolas Brochec composition, AI-Agents Somax2  
+Kanami Koga flute  
+
+**REACHin’ Marseille**  
 Turner Williams Jr shahi baaja  
-György Kurtág Jr synthétiseurs  
-Jean-Marc Montera guitares  
+György Kurtág Jr synthetisers  
+Jean-Marc Montera guitars, electronics  
 The Who/Men (Gerard Assayag, Mikhail Malt, Marco Fiorini AI-Agents Somax2)  
-Feat.Mari Kimura, violon, Pierre Couprie  électronique live 
-Deleph  
-Jaap Blonk voix, poésie sonore  
-Benny Sluchin trombone  
-Georges Bloch AI-Agents Omax5, Somax2 
-In albireo luogo… 
-Lara Morciano composition 
-Joëlle Léandre, Nicolas Crosse contrebasses 
-José-Miguel Fernandez AI-Agents Somax2Collider, électronique immersive  
+Feat.Mari Kimura, violon, Pierre Couprie, live électronics  
+
+**Deleph**
+Jaap Blonk voice, sound poetry  
+Benny Sluchin , rombone  
+Georges Bloch AI-Agents Omax5, Somax2  
+
+**In albireo luogo…**
+Lara Morciano composition  
+Joëlle Léandre, Nicolas Crosse : bass  
+José-Miguel Fernandez, AI-Agents Somax2Collider, immersive electronics    
+
 
 
 ## 29 July Monday
