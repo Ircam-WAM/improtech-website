@@ -1,13 +1,13 @@
-Title: Improtech Paris-Tokyo 2024
+Title: Improtech Paris 2025
 Status: hidden
 save_as: index.html
-Date: 2024-06-21 17:01
-Tags: improtech, ircam, improvisation, Tokyo, cocreativity, computer music, performance, human machine interaction, omax, somax, djazz, artificial intelligence, digital intelligence, machine musicianship, computational creativity, cyber human systems
+Date: 2025-10-18 17:01
+Tags: improtech, ircam, improvisation, cocreativity, computer music, performance, human machine interaction, omax, somax, djazz, artificial intelligence, digital intelligence, machine musicianship, computational creativity, cyber human systems, Reach
 Authors: Gerard Assayag
-Summary: Improtech Tokyo gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
+Summary: Improtech Paris gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
 
-#### Workshop - Festival in Tokyo -- july 29 to august 2, 2024
+#### Workshop - Festival in Paris -- December 2 to 7, 2025
 <br>
 **[--> Click to RESERVE NOW your free access to concerts and conferences ! <-- ]({filename}/pages/Venues.md)**
 <br>
@@ -16,7 +16,7 @@ Summary: Improtech Tokyo gathers scholars, technologists, musicians, makers, aro
 
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
-After praised editions in New York, Philadelphia, Athens and Uzeste, **Improtech Paris-Tokyo** (ikTokyo'24) will land down in Tokyo, the sizzling japanese metropolis on july 29.
+After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Pariso** (ikParis'25) will land down in Paris, at Ircam, where the concept was created, for the first time !
 
 <br>
 <p align="center">
@@ -24,16 +24,10 @@ After praised editions in New York, Philadelphia, Athens and Uzeste, **Improtech
 </p>
 <br>
 
+Organized as part of the European REACH project (reach.ircam.fr), the Improtech international workshop-festival is dedicated to combining the universal art of improvisation with digital intelligence cultures through a series of conferences, interdisciplinary workshops, installations, performances, and concerts. After traveling across three continents and bringing together leading figures in the field, Improtech returns to Ircam, one of its founders, for an edition that will focus on space and writing and pay tribute to American composer George Lewis, an essential reference in musical AI. 
 
-This year, Improtech is associated  with a momentous event, the **[Max Summer School](https://maxsummer2024.geidai.ac.jp/en/)**, which gathers every year a large community of computer music enthusiasts at the **Tokyo University of the Arts (Geidai)** in the [Musical Creativity Department](https://www.geidai.ac.jp/english/music/musical-creativity-and-the-environment) at [Senju campus](https://maps.app.goo.gl/h2yencZ3Nyi3g7VAA)
 
-The Workshop thread of Improtech will merge with the daily MSS advanced Max course, providing the attendees with unique insight on CoCreative Artificial Intelligence software tools based on Max and other environments, completed with  lectures sessions in the evening and two high-profile concerts on the last day.
-
-To attend, **participants should register** to the Max Summer School / Improtech week **[here](https://maxsummer2024.geidai.ac.jp/en/)**. 
-
-However, the **2 concerts and evening lectures are public and free** upon reservation. Reserve **[here.]({filename}/pages/Venues.md)**
-
-See **[a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJjA?si=eKsWqqIexg2e5q54)** by the Improtech Paris - Tokyo / Max Summer School teams on Youtube (English starting at 39').
+This year, Ircam is hosting  Improtech  concerts in its unique concert hall, Espace de projection, encouraging a triple synthesis:  that of acoustic instrumental culture and the original interactive artificial intelligence developed by the REACH project, that of solo improvisation and writing for mixed ensembles, and finally that of spatialization and sound immersion, also renewed by creative AI. This explosive combination, supported by leading artistic figures in composition, improvisation, performance, and technology, will undoubtedly create a dazzling version of this sixth Improtech.
 
 
 <br>
@@ -41,7 +35,7 @@ See **[a video presentation of the event](https://www.youtube.com/live/b_GvSFVgJ
 ##Highlights
 <br>
 
-This edition of IMPROTECH in Tokyo will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman **Steve Lehman**, **Jim O'Rourke** from the legendary Sonic Youth group and avant-garde beacon, **Joëlle Léandre**, the double-bass diva with life time achievement award, contemporary classical composer **Lara Morciano** exploring the limits of hybrid acoustic/digital composition with composer and computer music designer **Jose-Miguel Fernandez**, the immense Malagasy zither virtuoso **Justin Vali**, **Jean-marc Montera**, avant-garde guitarist specializing in free improvisation and sound experimentation, **Turner Williams Jr** the the spirited musician  playing the syncretic orient-occident instrument shahibaaja. 
+This edition of IMPROTECH in Paris will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman **Steve Lehman**, **Jim O'Rourke** from the legendary Sonic Youth group and avant-garde beacon, **Joëlle Léandre**, the double-bass diva with life time achievement award, contemporary classical composer **Lara Morciano** exploring the limits of hybrid acoustic/digital composition with composer and computer music designer **Jose-Miguel Fernandez**, the immense Malagasy zither virtuoso **Justin Vali**, **Jean-marc Montera**, avant-garde guitarist specializing in free improvisation and sound experimentation, **Turner Williams Jr** the the spirited musician  playing the syncretic orient-occident instrument shahibaaja. 
 
 **Miller Puckette**, Inventor of the Max software system and **Venice Silver Lion** for his life in computer music, also graces us with a keynote lecture and a musical performance in duo with the celebrated electronic musician **Irwin**.
 
