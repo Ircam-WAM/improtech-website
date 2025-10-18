@@ -199,16 +199,6 @@ Gilbert Nouno, Christophe Fellay  Evaluation of AI based improvisation systems
 Nicolas Souchal, Diemo Schwartz Extense : collective and human-machine agentivity  
 
 
-
-
-
-
-
-
-
-
-
-
 <br>
 
 ## Abstracts
