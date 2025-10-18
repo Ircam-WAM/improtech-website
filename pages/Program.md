@@ -91,7 +91,7 @@ Marco Fiorini, SoVo AI system, pianos Disklavier, immersive audio
 
 ## December 7 Sunday
 
-### 18:00 IMPROTECH CONCERT #2 at La Dynamo, Pantin
+### 18:00 IMPROTECH CONCERT #3 at La Dynamo, Pantin
 
 **REACHin' Paris**  
 Steve Lehman, Saxophones  
@@ -105,63 +105,62 @@ The Somax Brothers (Gérard Assayag, Marco FIorini) Somax2 AI Agents
 ### 14:00  - 19:00 INSTALLATIONS / PERFORMANCES in Studio 5, Ircam  
 
 **WWW**  
-
 José-Miguel Fernandez composition, AI-Agents Somax2Collider, immersive electronics  
-Amaryllis Billet, Philippe Bord, Nicolas Chedmail, Roméo Monteiro, Maxime Morel, Joris Rühl, Spat'Sonore Physical spatialisation installation  
+Amaryllis Billet, Philippe Bord, Nicolas Chedmail, Roméo Monteiro, Maxime Morel, Joris Rühl, Spat'Sonore physical spatialisation installation  
 
-**Batterie Fragile** 
+**Batterie Fragile**  
 Yves Chaudouet inventor of the Fragile Drum  
-Jean-Brice Godet Clarinettes  
-Thierry Miroglio, Aurelien Gignoux percussions  
-NOSFELL voices  
-Somax Brothers AI Agents Somax2 / Somax2Collider  
+Jean-Brice Godet, clarinettes  
+Thierry Miroglio, Aurelien Gignoux, percussions  
+NOSFELL, oices  
+Somax Brothers, AI Agents Somax2 / Somax2Collider  
 
 
 ## December 3, wednesday  
 
 ### 10h - 13h Workshop *Resounding Bodies*  in Studio 2, Ircam  
 
-Alberto Gatti, composer  
+Alberto Gatti, composer, designer  
 Anaïs del Sordo, voice, body harness  
 Marco Fiorini Spatial Agents Somax2  
 
 ### 14h - 19h Workshops in Studio 5, Ircam 
 
 **Breathing Media Project**  
-Tamami Tono Sho  
-Minako Ito Bugaku  
-Todokoro Video  
+Tamami Tono, Sho  
+Minako Ito, Bugaku dance  
+Todokoro, ideo  
 
 **Mugic Magic**  
-MariKimura Mugic Sensors, violon  
+Mari Kimura, Mugic sensors, violon  
 
 
 **Sophtar**  
-Federico Visi Sophtar Instrument, Somax2  
+Federico Visi, Sophtar Instrument, Somax2  
 
 **Boulez Reloaded : Notations**  
-Guitare électrique, Somax2  
+Alain Blesing, Guitare électrique, Somax2  
 
 
 ## December 4, Thursday  
 ### 14h - 19h Workshops in Studio 5, Ircam 
 
 **Boulez Rebooted and other projects**  
-Levy Lorenzo  Percussion, live electronics, somax2
+Levy Lorenzo, percussion, live electronics, somax2
 
-**PURE MALT : Augmented Improvisations  : from  instrumental gesture to telematics**  
-Mikhail Malt, Somax2, Live Electronics, Telematics  
-Cassia Carrascoza, Flute, Telematics  
-Li Chin Li, Sheng  
+**PURE MALT *Augmented Improvisations: from instrumental gesture to telematics***  
+Mikhail Malt, Somax2, live electronics, telematics  
+Cassia Carrascoza, flute, telematics  
+Li Chin Li, sheng  
 
 ** DjazzTok  **  
-Yohann Rabearivelo, AI Agents Djazz, TikTok, Video
-Heny Zouary, Violin
+Yohann Rabearivelo, AI Agents Djazz, TikTok, Video  
+Heny Zouary, Violin  
 
 
 **Activate Cities**  
-NSDOS (Kirikou Des) Electro-Hack  
-Noam Assayag Litterature, voice  
+NSDOS (Kirikou Des) electro-hack, dance
+Noam Assayag litterature, voice  
 
 
 ## December 5, Friday  
@@ -173,13 +172,31 @@ Donatien Garnier, Metagorminx instrument, poetry
 Emmanuelle Pépin, dance  
 
 **Sardines**  
-Guillaume Piccarreta, synthesizers
+Guillaume Piccarreta, synthesizers  
 Raphaël Forment, Rémi Georges, live coding
 
 
+## December 4, Thursday  
+### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
+Ken Deguernel Méthodes Co-Créatives pour des Partenariats Musicaux Humain-IA de Longue Durée  (ANR MICCDroP)  
+Alain Bonardi Generative Spatial Synthesis of Sound and Music (ERC G3S)  
+Makis Solomos Xenakis Reloaded in the age of AI, the case of Psappho  
+BREAK   
+Pierre Saint Germier  Inside Artificial Improvisation (ANR InAI)  
+Pierre Couprie  Advances in Interactive Electroacoustic improvisation  
+Nicolas Brochec, Marco Fiorini  Extended Instrumental Techniques Recognition for Generative Coimprovisation  
 
 
+## December 5, Friday  
+### 14h - 19h Lectures in Stravinsky hall, Ircam 
+Sivan Eldar, Jean-Louis Giavitto, Augustin Muller Like Flesh, Nine Jewel Deers, composition and improvisation  
+Oded Ben Tal , David Dolan  "The Odd Couple - Human & AI  
+Making Music in the Moment"  
+Daniel Brown  Unity interface to Generative Improvisation Agents  
+Jean-Rémy Guédon  ArchiMusic Reloaded wit no-code generative AI  
+Gilbert Nouno, Christophe Fellay  Evaluation of AI based improvisation systems  
+Nicolas Souchal, Diemo Schwartz Extense : collective and human-machine agentivity  
 
 
 
@@ -188,143 +205,8 @@ Raphaël Forment, Rémi Georges, live coding
 
 
 
-###16:30 - 18:00 MSS advanced course / IK Workshop  #1
-Introduction to REACH co-creative software  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**, **[Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**
 
-TThis course will present the REACH Project on cocreative interaction with AI, and the Somax2 system, detailing its basic concepts, the applicative user interface, the main controls, the interaction strategies and musical scenarios. Somax2 allow Max to improvise in collaboration with humans by capturing human performances, navigating through music corpuses and latent spaces of musical features, and adapting continuously to the evolving musical context using generative model and audio / midi rendering.
 
-### 18:00 - 19:30 Improtech lecture session #1
-**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (Ircam), **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)**, An inside view of an instrument
-
-
-**Marc Chemillier** (EHESS), Keeping the swing, AI cocreative musicianship in collective idiomatic settings
-
-<br><br>
-
-## 30 July, Tuesday 
-
-###16:30 - 18:00 MSS advanced course / IK Workshop #2
-Somax2 advanced course  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**
-
-This course will dive into the advanced use of Somax2, including mastering of expert controls in the UI, accessing and programming the Max Library interface, scripting for real life performances, and taking advantage of multi-agent network connectivity.
-
-### 18:00 - 19:30 Improtech lecture session #2
-**[Shlomo Dubnov](https://en.wikipedia.org/wiki/Shlomo_Dubnov)** (UCSD, Qualcomm Institute), Advanced Machine Learning and Music Information dynamics for Deep and Shallow CoCreative Systems
-
-CANCELLED - - **[Steve Lehman](https://www.stevelehman.com/)** , Professor of Music at CalArts, Current Trends in Computer-Driven Interactivity with Tempo-Based Rhythm
-
-Steve Lehman's presentation is replaced by a live Q & A session swith Pr. Miller Puckette.
-
-
-<br><br>
-
-## 31 July, Wednesday
-
-###16:30 - 18:00 MSS advanced course / IK Workshop #3
-Somax2 under the hood  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**
-
-The internal technical parts of Somax2 will be explained, including the client - server Max / Python architecture ; the AI core responsible for machine listening, representation learning, and adaptive generativity ; the segmentation and recognition of audio streams and the reactive strategies.
-
-###18:00 - 19:30 Improtech lecture session #3
-
-**[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Qosmo Inc.), Surfing musical creativity with AI — what DJing with AI taught me
-
-**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: endless possibilities extending musical expression
-
-
-<br><br> 
-
-## 1 August, Thursday 
-
-### 16:30 - 18:00 MSS advanced course / IK Workshop #4
-Using Somax2 in advanced research and creation  
-**[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**, **[Nicolas Brochec](https://nicolasbrochec.com)**, **[Jose-Miguel Fernandez](https://brahms.ircam.fr/en/jose-miguel-fernandez)**
-
-Interacting with Somax2 agents by means of automatic recognition of complex  Instrumental Playing Technique and state of the art Machine Learning.
-Integration of Somax2 into real-size composition for ensembles, presentation of Somax2Collider for Spatial Interactive Agents
-
-### 18:00 END of Workshop and Lecture Program at Geidai
- 
-### 19h00 Performance at Konnoh Hashimangu Shrine in Shibuya
-
-*Tokyo Bout à Bout*
-
-**[Georges Bloch](http://repmus.ircam.fr/bloch)** (composer, generative electronics), **[Taketeru Kudo](http://archive.tedxtokyo.com/en/talk/kudo/)** (Butoh dancer), **[Takashi Seo](https://seotakashi.theblog.me)** (Bass)
-
-
-<br><br>
-
-
-## 2 August Friday
-
-### 16:00 IMPROTECH CONCERT #1
-
-*REACHing OUT!*
-
-**[Joëlle Léandre](https://www.artsforart.org/blog/special-announcementjoelle-leandre-vision-festival-2023)** (Double Bass) and **the Who/Men **(**[Gérard Assayag](https://www.stms-lab.fr/person/gerard-assayag)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)**,** [Mikhail Malt](https://forum.ircam.fr/profile/mmalt/)**, generative electronics) 
-
-
-
-*Rigbiss*
-
-**[Miller Puckette](https://www.labiennale.org/en/music/2023/silver-lion)** (PD live electronics),  **[Irwin](https://grayarea.org/community-entry/irwin-and-miller/)** (Aliboma_2014, live electronics)
-
-*Quartet*
-
-**[Mari Kimura](https://www.marikimura.com/)** (Violin, [MUGIC®](https://www.mugicmotion.com/) motion sensor), **[Jim O'Rourke](https://en.wikipedia.org/wiki/Jim_O%27Rourke_(musician))** (improviser, composer and producer), **[Akira Sakata](https://en.wikipedia.org/wiki/Akira_Sakata)** (Saxophone, Clarinet, Voice and Bells), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics)
-
-*Taideji*
-
-**[Lara Morciano](https://brahms.ircam.fr/en/lara-morciano)** (composer, pianist),  Thierry Miroglio (percussion), **[Jose-Miguel Fernandez](https://brahms.ircam.fr/en/jose-miguel-fernandez)** (generative electronics)
-
-*Trans(e)-musical*
-
-**[Justin Vali](https://www.katebushencyclopedia.com/vali-justin/)** (Malagasy zither, voice), **Marc Chemillier** (Generative electronics), **[Nao Tokui](https://neutone.ai/blog/meet-the-team-nao-tokui)** (Generative Electronics)
-
-<br><br>
-
-### 19:30 IMPROTECH CONCERT #2
-
-*Collidepiano II*
-
-**[Suguru Goto](https://gotolab.geidai.ac.jp/Compositions/en-biography.html)** for Piano and SoMax2. Piano: Hyun-Mook Lim, Computer: Suguru Goto
-
-
-*Antiphonie*
-
-**Ko Sahara**, for Pianist, Player Piano and Electronics. Piano: Satsuki Hoshino, Computer: Ko Sahara
-
-
-*Sedimentation*  
-
-**Takeyoshi Mori**, for Cello and SoMax2. Cello: Asami Mori, Computer: Takeyoshi Mori
-
-
-*Traversée II*
-
- **[Nicolas Brochec](https://nicolasbrochec.com)**, for Flute and Electronics, Kanami Koga (flute)
-
-
-*Trio*
-
-**[Mari Kimura](https://www.marikimura.com/)** (Violin,  [MUGIC®](https://www.mugicmotion.com/) motion sensor), **[Michiyo Yagi](https://performingarts.jpf.go.jp/en/article/6901/)** (Electric 21-string Koto), **[Tamami Tono](https://www.keio.ac.jp/en/keio_in_depth/alumni/2015/01.html)** (Sho, Kugo)
-
-
-*Spectral Light*
-
-CANCELLED - - **[Steve Lehman](https://www.stevelehman.com/)** (Saxophone, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative electronics)
-
-
-*String Theory*
-
-**[Turner Williams Jr](https://turnerwilliamsjr.com/)** (Shahi Baaja, electronics), **[Anaïs del Sordo](https://www.instagram.com/siananaisnin/)** (Voice), **[Jean-Marc Montera](https://en.gmem.org/jean-marc-montera-e78c3db6)** (Guitars, live electronics), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Generative Electronics)
-
-
-
-<br>
 
 
 <br>
