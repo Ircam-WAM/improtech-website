@@ -19,9 +19,7 @@ Summary: Improtech Paris gathers scholars, technologists, musicians, makers, aro
 After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Paris** (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time !
 
 <br>
-<p align="center">
-  <img src="./images/Logo_ikPT_MSS.png" width="400">
-</p>
+  <img src="./images/Logo_ikPT_MSS.png" width="400" style="float:left" hspace="10">
 <br>
 
 Organized as part of the European [REACH project](reach.ircam.fr), the Improtech international workshop-festival is dedicated to combining the universal art of improvisation with digital intelligence cultures through a series of conferences, interdisciplinary workshops, installations, performances, and concerts. After traveling across three continents and bringing together leading figures in the field, **Improtech returns to Ircam**, one of its founders, for an edition that will focus on space and composition/improvidsation and pay tribute to American composer George Lewis, an essential reference in musical AI. 
