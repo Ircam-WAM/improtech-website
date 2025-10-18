@@ -16,7 +16,7 @@ Summary: Improtech Paris gathers scholars, technologists, musicians, makers, aro
 
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
-After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Pariso** (ikParis'25) will land down in Paris, at Ircam, where the concept was created, for the first time !
+After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Paris** (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time !
 
 <br>
 <p align="center">
@@ -24,10 +24,9 @@ After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Imp
 </p>
 <br>
 
-Organized as part of the European REACH project (reach.ircam.fr), the Improtech international workshop-festival is dedicated to combining the universal art of improvisation with digital intelligence cultures through a series of conferences, interdisciplinary workshops, installations, performances, and concerts. After traveling across three continents and bringing together leading figures in the field, Improtech returns to Ircam, one of its founders, for an edition that will focus on space and writing and pay tribute to American composer George Lewis, an essential reference in musical AI. 
+Organized as part of the European [REACH project](reach.ircam.fr), the Improtech international workshop-festival is dedicated to combining the universal art of improvisation with digital intelligence cultures through a series of conferences, interdisciplinary workshops, installations, performances, and concerts. After traveling across three continents and bringing together leading figures in the field, **Improtech returns to Ircam**, one of its founders, for an edition that will focus on space and composition/improvidsation and pay tribute to American composer George Lewis, an essential reference in musical AI. 
 
-
-This year, Ircam is hosting  Improtech  concerts in its unique concert hall, Espace de projection, encouraging a triple synthesis:  that of acoustic instrumental culture and the original interactive artificial intelligence developed by the REACH project, that of solo improvisation and writing for mixed ensembles, and finally that of spatialization and sound immersion, also renewed by creative AI. This explosive combination, supported by leading artistic figures in composition, improvisation, performance, and technology, will undoubtedly create a dazzling version of this sixth Improtech.
+This year, Ircam will host Improtech  concerts in its unique concert hall, Espace de projection, encouraging **a triple synthesis**:  that of acoustic instrumental culture with the original interactive artificial intelligence developed by the REACH project, that of solo improvisation with writing for mixed ensembles, and finally that of spatialization and sound immersion, also renewed by creative AI. This groundbreaking combination, supported by leading artistic figures in **composition, improvisation, performance, and technology**, will undoubtedly create a dazzling version of this sixth Improtech.
 
 
 <br>
