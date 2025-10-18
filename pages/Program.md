@@ -13,7 +13,6 @@ Access to Dynamo is through the Dynamo web page.
 - [Lectures Abstracts](#abstracts)
 - [Improtech COncert at the Dynamo]({filename}/pages/Programoff.md)
 
-<br>
 
 ## December 2 Tuesday
 
@@ -51,7 +50,6 @@ Lara Morciano composition
 Joëlle Léandre, Nicolas Crosse bass  
 José-Miguel Fernandez AI-Agents Somax2Collider, immersive electronics  
 
-<br> <br>
 
 ## December 5 Friday
 
@@ -91,8 +89,104 @@ Joëlle Léandre bass, voice
 Miya Masaoka koto  
 Marco Fiorini, SoVo AI system, pianos Disklavier, immersive audio
 
+## December 7 Sunday
 
-## 29 July Monday
+### 18:00 IMPROTECH CONCERT #2 at La Dynamo, Pantin
+
+**REACHin' Paris**  
+Steve Lehman, Saxophones  
+Miles Okazaki, Guitar, Somax2 AI Agents  
+The Somax Brothers (Gérard Assayag, Marco FIorini) Somax2 AI Agents  
+
+*This concert follows a Master-Class in the afternoon with the same musicians.*
+
+## December 6 Saturday
+
+### 14:00  - 19:00 INSTALLATIONS / PERFORMANCES in Studio 5, Ircam  
+
+**WWW**  
+
+José-Miguel Fernandez composition, AI-Agents Somax2Collider, immersive electronics  
+Amaryllis Billet, Philippe Bord, Nicolas Chedmail, Roméo Monteiro, Maxime Morel, Joris Rühl, Spat'Sonore Physical spatialisation installation  
+
+**Batterie Fragile** 
+Yves Chaudouet inventor of the Fragile Drum  
+Jean-Brice Godet Clarinettes  
+Thierry Miroglio, Aurelien Gignoux percussions  
+NOSFELL voices  
+Somax Brothers AI Agents Somax2 / Somax2Collider  
+
+
+## December 3, wednesday  
+
+### 10h - 13h Workshop *Resounding Bodies*  in Studio 2, Ircam  
+
+Alberto Gatti, composer  
+Anaïs del Sordo, voice, body harness  
+Marco Fiorini Spatial Agents Somax2  
+
+### 14h - 19h Workshops in Studio 5, Ircam 
+
+**Breathing Media Project**  
+Tamami Tono Sho  
+Minako Ito Bugaku  
+Todokoro Video  
+
+**Mugic Magic**  
+MariKimura Mugic Sensors, violon  
+
+
+**Sophtar**  
+Federico Visi Sophtar Instrument, Somax2  
+
+**Boulez Reloaded : Notations**  
+Guitare électrique, Somax2  
+
+
+## December 4, Thursday  
+### 14h - 19h Workshops in Studio 5, Ircam 
+
+**Boulez Rebooted and other projects**  
+Levy Lorenzo  Percussion, live electronics, somax2
+
+**PURE MALT : Augmented Improvisations  : from  instrumental gesture to telematics**  
+Mikhail Malt, Somax2, Live Electronics, Telematics  
+Cassia Carrascoza, Flute, Telematics  
+Li Chin Li, Sheng  
+
+** DjazzTok  **  
+Yohann Rabearivelo, AI Agents Djazz, TikTok, Video
+Heny Zouary, Violin
+
+
+**Activate Cities**  
+NSDOS (Kirikou Des) Electro-Hack  
+Noam Assayag Litterature, voice  
+
+
+## December 5, Friday  
+### 11h - 13h Workshops in Studio 5, Ircam 
+
+**Metagorminx**  
+Gyorgy Kurtag, synthesizers  
+Donatien Garnier, Metagorminx instrument, poetry  
+Emmanuelle Pépin, dance  
+
+**Sardines**  
+Guillaume Piccarreta, synthesizers
+Raphaël Forment, Rémi Georges, live coding
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###16:30 - 18:00 MSS advanced course / IK Workshop  #1
 Introduction to REACH co-creative software  
