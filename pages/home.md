@@ -80,20 +80,19 @@ Exploring the relationships between music and science, composition and improvisa
 
 **[Get a glimpse at previous editions concerts and events here!](https://improtech.ircam.fr/)**
 
-For the first time, Improtech will be held in Japan : **Improtech Paris- Tokyo!**
 
 <br>
 <img src="../images/IKPoster_frag3.jpg" width="125" style="float:left" hspace="10">
 ## On the Menu
 <br>
 
-**ikTokyo'24** encompasses conferences, demonstrations, workshops, master classes, musical or multimedia performances / installations, and concerts bringing together some of the world's finest musicians and researchers in beautiful venues.
+**ikParis encompasses conferences, demonstrations, workshops, master classes, musical or multimedia performances / installations, and concerts bringing together some of the world's finest musicians and researchers in beautiful venues.
 
-**ikTokyo'24** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene of Tokyo.
+**ikParis** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene of Tokyo.
 
-**ikTokyo'24** brings artists, researchers, engineers, thinkers, students, inventors, DYI enthusiasts covering a broad spectrum of knowledge fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities...
+**ikParis** brings artists, researchers, engineers, thinkers, students, inventors, DYI enthusiasts covering a broad spectrum of knowledge fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities...
 
-**Improtech Paris-Tokyo** will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
+**Improtech Paris** will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
 
 **[Read more about ImproTech philosophy and history]({filename}/pages/About.md)**
 
@@ -102,7 +101,7 @@ For the first time, Improtech will be held in Japan : **Improtech Paris- Tokyo!*
 <br>
 <br>
 <p align="center">
-  <img src="./images/Logo_improtech_Tokyo.png" width="300">
+  <img src="./images/Logo_ikPT_MSS.png" width="400">
 </p>
 
 <br>
