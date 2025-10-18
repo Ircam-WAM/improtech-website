@@ -34,17 +34,17 @@ This year, Ircam will host Improtech  concerts in its unique concert hall, Espac
 ##Highlights
 <br>
 
-This edition of IMPROTECH in Paris will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman **Steve Lehman**, **Joëlle Léandre**, the double-bass diva with life time achievement award, contemporary classical composers **Lara Morciano** and  **Jose-Miguel Fernandez**, exploring the limits of hybrid acoustic/digital composition, the great Malagasy zither virtuoso **Justin Vali**, **Jean-marc Montera**, avant-garde guitarist specializing in free improvisation and sound experimentation, **Turner Williams Jr** the the spirited musician  playing the syncretic orient-occident instrument shahibaaja, **Gyorgy Kurtazg Jr** and his vibrant synthesizers, composer **Nicolas Brochec** exploiting his research on extended techniques recognition, **Tamami Tono** celebrated Shō player, Gagaku and computer music composer, with bugaku dancer **Minako Ito**, composer **Georges Bloch** with legendary **Jaap Blonk** sound poet and **Benny Sluchin** former Ensemble INtercontemporain trombonist.
+This edition of IMPROTECH in Paris will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman **Steve Lehman**, **Joëlle Léandre**, the double-bass diva with life time achievement award, contemporary classical composers **Lara Morciano** and  **Jose-Miguel Fernandez**, exploring the limits of hybrid acoustic/digital composition, the great Malagasy zither virtuoso **Justin Vali**, **Jean-marc Montera**, avant-garde guitarist specializing in free improvisation and sound experimentation, **Turner Williams Jr** the the spirited musician  playing the syncretic orient-occident instrument shahibaaja, **Gyorgy Kurtazg Jr** and his vibrant synthesizers, composer **Nicolas Brochec** exploiting his research on extended techniques recognition, **Tamami Tono** celebrated Shō player, Gagaku and computer music composer, with bugaku dancer **Minako Ito**, composer **Georges Bloch** with legendary **Jaap Blonk** sound poet and **Benny Sluchin** former Ensemble Intercontemporain trombonist.
 
 
-The **Who/Men** from Ircam (Marco Fiorini, Mikhail Malt, Gérard Assayag) along with **Marc Chemillier** will create a sonic space thanks to the cocreative AI tools from the [REACH](https://reach.ircam.fr) project.
+The **Who/Men** from Ircam (Marco Fiorini, Mikhail Malt, Gérard Assayag, Manuel Poletti) along with **Marc Chemillier** and **Sylvain Cadars** will create a sonic space thanks to the cocreative AI tools from the [REACH](https://reach.ircam.fr) project.
 
 
 Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions.
 
 <br>
 <p align="center">
-  <img src="./images/Hashimangu1.png" width="500">
+  <img src="./images/Ircam_Stravinsky.jpg" width="500">
 </p>
 <br>
 
@@ -53,13 +53,13 @@ In addition to the  programme at Ircam an exceptional event will enlight this ye
 
 <br>
 <p align="center">
-  <img src="./images/Hashimangu2.png" width="500">
+  <img src="./images/ESPRO.png" width="500">
 </p>
 <br>
 
 <br>
 <p align="center">
-  <img src="./images/Hashimangu_Flyer.jpg" width="500">
+  <img src="./images/MAQUETTE.png" width="500">
 </p>
 <br>
 
