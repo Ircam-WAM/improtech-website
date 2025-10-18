@@ -3,20 +3,50 @@ title: Programme
 ---
 
 
-Access to concerts and evening lectures is free, but reservation is mandatory **[here.]({filename}/pages/Venues.md)**
-Access to afternoon workshop / advanced courses is only upon registration to max Summer School **[here](https://maxsummer2024.geidai.ac.jp/en/)**
-
-<br>
+Access to lectures and workshop is free, but reservation is mandatory **[here.]({filename}/pages/Venues.md)**
+Access to Ircam concerts is through Ircam web page.
+Access to Dynamo is through the Dynamo web page.
 
 
 - [Workshops and Lectures](#29-july-monday)
-- [Performance at Hashimangu Shrine](#19h00-Performance-at-Konnoh-Hashimangu-Shrine-in-Shibuya)
 - [Improtech Concerts #1 and #2](#2-august-friday)
 - [Lectures Abstracts](#abstracts)
-- [Improtech Festival OFF : Gigs in town]({filename}/pages/Programoff.md)
+- [Improtech COncert at the Dynamo]({filename}/pages/Programoff.md)
 
 <br>
 
+## December 2 tuesday
+
+### 20:00 IMPROTECH CONCERT #1
+
+**Psappho, after Iannis Xenakis**  
+Lorenzo Colombo percussions  
+Marco Fiorini   AI-Agents Somax2, électronique live immersive  
+
+***Décembre - premier livre du cycle Arc’**  
+Marco Suárez-Cifuentes composition, AI-Agents Somax2  
+Johanna Vargas voix  
+Nicolas Crosse contrebasse  
+Aurélien Gignoux batterie  
+Nieto textes  
+
+Traversée III
+Nicolas Brochec composition, AI-Agents Somax2 
+Kanami Koga flûte 
+REACHin’ Marseille  
+Turner Williams Jr shahi baaja  
+György Kurtág Jr synthétiseurs  
+Jean-Marc Montera guitares  
+The Who/Men (Gerard Assayag, Mikhail Malt, Marco Fiorini AI-Agents Somax2)  
+Feat.Mari Kimura, violon, Pierre Couprie  électronique live 
+Deleph  
+Jaap Blonk voix, poésie sonore  
+Benny Sluchin trombone  
+Georges Bloch AI-Agents Omax5, Somax2 
+In albireo luogo… 
+Lara Morciano composition 
+Joëlle Léandre, Nicolas Crosse contrebasses 
+José-Miguel Fernandez AI-Agents Somax2Collider, électronique immersive  
 
 
 ## 29 July Monday
