@@ -9,7 +9,7 @@ Access to Dynamo is through the Dynamo web page.
 
 
 - [CONCERTS](#December-2-Tuesday)
-- [WORKSHOPS](#December-3-wednesday)
+- [WORKSHOPS](#WORKSHOPS)
 - [LECTURES](#December-4-Thursday)
 - [INSTALLATIONS-PERFORMANCES](#December-6-Saturday)
 - [ABSTRACTS](#Abstracts)
@@ -117,7 +117,7 @@ NOSFELL, oices
 Somax Brothers, AI Agents Somax2 / Somax2Collider  
 
 
-## December 3 wednesday  
+## December 3 wednesday  {#WORKSHOPS}
 
 ### 10h - 13h Workshop *Resounding Bodies*  in Studio 2, Ircam  
 
