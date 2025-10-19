@@ -8,10 +8,10 @@ Access to Dynamo is through the Dynamo web page.
 
 
 - [CONCERTS](#december-2-tuesday)
-- [WORKSHOPS](#december-3-wednesday)
-- [LECTURES](#december-4-thursday)
+- [WORKSHOPS](#december-3-wednesday-workshops)
+- [LECTURES](#december-4-thursday-lectures)
 - [INSTALLATIONS-PERFORMANCES](#december-6-saturday)
-- [ABSTRACTS](#Abstracts)
+- [ABSTRACTS](#abstracts)
 
 
 ## December 2 Tuesday
@@ -116,7 +116,7 @@ NOSFELL, oices
 Somax Brothers, AI Agents Somax2 / Somax2Collider  
 
 
-## December 3 wednesday
+## December 3 Wednesday Workshops
 
 ### 10h - 13h Workshop *Resounding Bodies*  in Studio 2, Ircam  
 
@@ -142,7 +142,7 @@ Federico Visi, Sophtar Instrument, Somax2
 Alain Blesing, Guitare électrique, Somax2  
 
 
-## December 4 Thursday  
+## December 4 Thursday Workshops
 ### 14h - 19h Workshops in Studio 5, Ircam 
 
 **Boulez Rebooted and other projects**  
@@ -163,7 +163,7 @@ NSDOS (Kirikou Des) electro-hack, dance
 Noam Assayag litterature, voice  
 
 
-## December 5 Friday  
+## December 5 Friday Workshops
 ### 11h - 13h Workshops in Studio 5, Ircam 
 
 **Metagorminx**  
@@ -176,7 +176,7 @@ Guillaume Piccarreta, synthesizers
 Raphaël Forment, Rémi Georges, live coding
 
 
-## December 4 Thursday
+## December 4 Thursday Lectures
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
 **Méthodes Co-Créatives pour des Partenariats Musicaux Humain-IA de Longue Durée  (ANR MICCDroP)**  
@@ -199,7 +199,7 @@ Nicolas Brochec, Geidai University Tokyo
 Marco Fiorini, Ircam, Collegium Musicae  
 
 
-## December 5 Friday  
+## December 5 Friday lectures
 ### 14h - 19h Lectures in Stravinsky hall, Ircam
 
 **Like Flesh, Nine Jewel Deers, composition and improvisation**  
