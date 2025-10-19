@@ -4,7 +4,7 @@ title: Programme
 
 Access to lectures and workshop is free, but reservation is mandatory **[here.]({filename}/pages/Venues.md)**
 Access to Ircam concerts is through Ircam web page.
-Access to Dynamo is through the Dynamo web page.
+Access to Dynamo is through the Dynamo web page.  
 
 
 - [CONCERTS](#December-2-Tuesday)
