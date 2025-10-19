@@ -1,5 +1,4 @@
-title: Programme Improtech Paris 2025
-
+title: Programme
 ---
 
 
