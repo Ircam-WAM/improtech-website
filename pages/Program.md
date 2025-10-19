@@ -8,10 +8,11 @@ Access to Ircam concerts is through Ircam web page.
 Access to Dynamo is through the Dynamo web page.
 
 
-- [Workshops and Lectures](#29-july-monday)
-- [Improtech Concerts #1 and #2](#2-august-friday)
-- [Lectures Abstracts](#abstracts)
-- [Improtech COncert at the Dynamo]({filename}/pages/Programoff.md)
+- [CONCERTS](#December-2-Tuesday)
+- [WORKSHOPS](#December-3-wednesday)
+- [LECTURES](#December-4-Thursday)
+- [INSTALLATIONS-PERFORMANCES](#December-6-Saturday)
+- [ABSTRACTS](#Abstracts)
 
 
 ## December 2 Tuesday
@@ -116,7 +117,7 @@ NOSFELL, oices
 Somax Brothers, AI Agents Somax2 / Somax2Collider  
 
 
-## December 3, wednesday  
+## December 3 wednesday  
 
 ### 10h - 13h Workshop *Resounding Bodies*  in Studio 2, Ircam  
 
@@ -176,7 +177,7 @@ Guillaume Piccarreta, synthesizers
 Raphaël Forment, Rémi Georges, live coding
 
 
-## December 4, Thursday  
+## December 4 Thursday
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
 **Méthodes Co-Créatives pour des Partenariats Musicaux Humain-IA de Longue Durée  (ANR MICCDroP)**  
