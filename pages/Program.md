@@ -7,13 +7,11 @@ Access to Ircam concerts is through Ircam web page.
 Access to Dynamo is through the Dynamo web page.  
 
 
-- [CONCERTS](#December-2-Tuesday)
-- [WORKSHOPS](#WORKSHOPS)
-- [LECTURES](#December-4-Thursday)
-- [INSTALLATIONS-PERFORMANCES](#December-6-Saturday)
+- [CONCERTS](#december-2-tuesday)
+- [WORKSHOPS](#december-3-wednesday)
+- [LECTURES](#december-4-thursday)
+- [INSTALLATIONS-PERFORMANCES](#december-6-saturday)
 - [ABSTRACTS](#Abstracts)
-
-TEST
 
 
 ## December 2 Tuesday
@@ -144,7 +142,7 @@ Federico Visi, Sophtar Instrument, Somax2
 Alain Blesing, Guitare électrique, Somax2  
 
 
-## December 4, Thursday  
+## December 4 Thursday  
 ### 14h - 19h Workshops in Studio 5, Ircam 
 
 **Boulez Rebooted and other projects**  
@@ -165,7 +163,7 @@ NSDOS (Kirikou Des) electro-hack, dance
 Noam Assayag litterature, voice  
 
 
-## December 5, Friday  
+## December 5 Friday  
 ### 11h - 13h Workshops in Studio 5, Ircam 
 
 **Metagorminx**  
@@ -201,7 +199,7 @@ Nicolas Brochec, Geidai University Tokyo
 Marco Fiorini, Ircam, Collegium Musicae  
 
 
-## December 5, Friday  
+## December 5 Friday  
 ### 14h - 19h Lectures in Stravinsky hall, Ircam
 
 **Like Flesh, Nine Jewel Deers, composition and improvisation**  
