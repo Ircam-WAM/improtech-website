@@ -242,7 +242,7 @@ Given the inherent challenges in defining and analyzing gestures, this presentat
 
 
 
-**[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
+**[Nicolas Brochec](https://nicolasbrochec.com)**, Tokyo University of the Arts Geidai, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
 
 
 We are going to detail the techniques, methodologies, and outcomes that led to the development of an interactive system based on real-time Instrumental Playing Technique (IPT) recognition. Starting from exploratory studies on the flute, we will discuss soundbank recording, data format, and data augmentation, as well as state-of-the-art machine learning model architectures developed in our research. By connecting our model to the co-creative AI system Somax2, we are able to interact with generative agents by means of real-time recognition of IPT classes, adding a new dimension to its interaction paradigm and addressing potential scenarios of co-creative human-machine interaction in mixed music for improvisation and composition.
