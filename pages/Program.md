@@ -229,10 +229,24 @@ Nicolas Souchal, Diemo Schwartz, Ircam
 
 
 
+### Lectures
+
+
+**Pierre Couprie**, Evry Paris-Saclay University : Gestures in Electronic Improvised Music
+
+This presentation revisits Philippe Descola’s concept of “worlding,” emphasizing the creative process through which improvising musicians construct their own sonic environments. In electronic improvisation, the musician actively develops and refines their instrument, adapting its interfaces and performance techniques, thereby continuously shaping their unique musical world.
+The discussion first examines the role of the instrument in electronic improvisation, highlighting its hybrid nature, which integrates electro-mechanical, analog, and digital elements. Unlike traditional instruments, electronic instruments evolve through rehearsals and performances, reflecting Thor Magnuson’s perspective on the genetic development of digital instruments and Georgina Born’s phenomenological view of performance as an ongoing process. The instrument is not a static entity but a “configuration” in Foucault’s sense—defined not by its structure alone but by its temporal evolution. Furthermore, electronic music devices function as complex networks of hardware, software, and protocols, challenging conventional definitions of musical instruments and redefining how musicians interact with their tools.
+The second key concept, the trace, explores how performance documentation transforms into an artifact. In performance analysis, musicologists work with traces—recordings that capture an event and are subsequently shaped through selection, editing, and mastering. Alessandro Arbo’s distinction between a “recorded-document” and a “recorded-work” is particularly relevant in this context, as recordings of improvisation are not mere reproductions but constructed objects that reflect interpretive choices.
+The final section addresses the complexities of musical gestures in electronic improvisation. Gestures are multifaceted, spanning micro-movements to full-body actions, and serving various functions, from sound production to expressive or auxiliary roles. Some gestures are directly linked to instruments, while others exist internally as mental representations. Moreover, gestures operate across multiple modalities, such as the visual gestures seen in Iannis Xenakis’ scores, which simultaneously function as musical gestures. The definition of gesture varies across disciplines: for musicians, gestures are tied to their instrument and performance setup; for scientists, they are studied in terms of their functional outcomes; for computer scientists, they are examined in relation to sensor-mapping and interaction; and for sociologists and musicologists, they are analyzed within broader performance contexts.
+Given the inherent challenges in defining and analyzing gestures, this presentation introduces the concept of a “gestural chain” or “catena,” drawing from geological metaphors to illustrate how gestures influence and build upon one another in a non-hierarchical structure. This interconnected network of gestures shapes the act of performance, encompassing movements made by the musician, interactions with the instrument, and the perception of these actions by the audience. The presentation is accompanied by audiovisual examples, including an improvisation, as well as a performance where gestures of diffusion are explored within a spatialized orchestration setup. Ultimately, the study of music, particularly in improvisation, is not merely an analysis of sound objects but of the complex web of gestures that bring music into being.
+
+
+
 **[Nicolas Brochec](https://nicolasbrochec.com)**, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Geidai, Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
 
 
 We are going to detail the techniques, methodologies, and outcomes that led to the development of an interactive system based on real-time Instrumental Playing Technique (IPT) recognition. Starting from exploratory studies on the flute, we will discuss soundbank recording, data format, and data augmentation, as well as state-of-the-art machine learning model architectures developed in our research. By connecting our model to the co-creative AI system Somax2, we are able to interact with generative agents by means of real-time recognition of IPT classes, adding a new dimension to its interaction paradigm and addressing potential scenarios of co-creative human-machine interaction in mixed music for improvisation and composition.
+
 
 
 **[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: endless possibilities extending musical expression
