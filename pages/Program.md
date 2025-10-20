@@ -112,7 +112,7 @@ Amaryllis Billet, Philippe Bord, Nicolas Chedmail, Roméo Monteiro, Maxime Morel
 Yves Chaudouet inventor of the Fragile Drum  
 Jean-Brice Godet, clarinettes  
 Thierry Miroglio, Aurelien Gignoux, percussions  
-NOSFELL, oices  
+NOSFELL, voice
 Somax Brothers, AI Agents Somax2 / Somax2Collider  
 
 
@@ -285,7 +285,13 @@ Joëlle Léandre
 **WWW** La notion de WWW (« Wood Wide Web ») ou « Internet des arbres » repose sur la découverte que les arbres et les plantes ne sont pas des entités isolées, mais qu'ils entretiennent des relations complexes et symbiotiques entre eux et avec d'autres organismes. Cette expression est utilisée pour décrire le réseau complexe de communication et d'échange de nutriments qui existe entre les arbres, les plantes, les champignons et d'autres organismes vivants dans les écosystèmes forestiers. Cette communication souterraine joue un rôle essentiel dans le partage de ressources, la résistance aux maladies et la survie des plantes dans la nature. Ainsi, une autorégulation s'opère entre les différents composants de la forêt, façonnant un univers riche en interactions et en diversité. Cette idée constitue le fondement et la source d'inspiration de cette composition/improvisation avec le Spat’Sonore, que l’on peut définir comme un vaste instrument tentaculaire avec des ramifications comme « des plantes grimpantes en tubes de cuivre coiffées de pavillons-corolles, forment un igloo sonore dans lequel vient s’installer l’auditeur. Des machinistes se postent aux cerveaux à pistons de leur spat’ » . Les instruments spatialisés de l'ensemble Spat’Sonore, conjugués à l'électronique immersive en temps réel créeront un réseau de communication complexes entre tous les éléments du système. L’autorégulation sera assuré par des agents spatiaux de type Somax2Collider, dans un système de haut-parleurs distribués, jouant tout au long de la performance en tenant compte non seulement des descripteurs audio, mais aussi de la localisation des sons émis par les différents instruments de l’ensemble. 
 
 **La Batterie fragile**
-The Fragile Drum
+
+Conçue en porcelaine biscuit par le plasticien, écrivain et metteur en scène [Yves Chaudouët](http://www.dda-aquitaine.org/fr/yves-chaudouet/), la Batterie fragile est une sculpture qui demande des égards particuliers. Sorte d’ « oxymore musical », comme l’évoque le philosophe Pierre Sauvanet, elle se voulait initialement simple invitation à la rêverie. C’était sans compter sans le désir des musicien·nes de s’en emparer. Elle est donc régulièrement activée par des percussionnistes. Bernard Lubat, Valentina Magaletti, Sylvain Darrifourcq, Julian Sartorius, Aurélien Gignoux, Iker Idoate, Amélie Grould… jouent avec les limites de sa fragilité dans des formes solo présentées sur les scènes de musiques actuelles.
+Le prototype de la Batterie fragile, à l’ÉSAD-Pyrénées en 2016, fait partie de la collection du FRAC Nouvelle-Aquitaine MÉCA. La V2 de Batterie fragile, développée avec les céramistes de l’ENSAD-Limoges, est celle qui sera activée pendant les journées d’Improtech.
+La batterie fragile sera jouée par Thierry Miroglio, Aurélien Gignoux, avec divers musiciens dont Jean-Brice Godet (Clarinette), Nosfell (voix, texte) et le système d'IA générative cocréatif Somax2.
+
+
+
 
 
 ### Workshops
@@ -295,18 +301,18 @@ The Fragile Drum
 MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors available on the market. However, what sets MUGIC® apart is its comprehensive, user-friendly design. Created by violinist and composer Mari Kimura, MUGIC® is a turnkey product that allows musicians to create their art immediately without requiring extensive programming or electrical engineering skills. The first version of MUGIC® sold out following a significant bulk order from the Lincoln Center in NYC this spring. As MUGIC® v.2 is under development, Kimura will demonstrate the importance of fostering a community around new technology and how MUGIC® users are expanding its application not only in music but also in other forms of art and beyond.
 Workshops / Performances Studio 5 du 3 au 5 dec
 
-**Mikhail Malt** (Ircam), **PURE MALT Augmented Improvisations: from instrumental gesture to telematics** 
+**Mikhail Malt** (Ircam), **PURE MALT: Augmented Improvisations: from instrumental gesture to telematics** 
 
-*Five Elements - a Telematic performance*  
-The duo Cássia Carrascoza and Mikhail Malt has been collaborating telematically since 2022, connected through JackTrip/Zoom and engaging in improvisation sessions mediated by Somax2, a program that integrates artificial and human intelligence for interactive musical improvisation. We explore improvisation approaches that reflect the knowledge Malt is developing with in-person musicians as part of the REACH project team: Raising Co-creativity in Cyber-Human Musicianship, a research group at IRCAM (http://repmus.ircam.fr/reach). Our focus is on creating a sonic environment where expressiveness and emotionality emerge through feedback from AI-driven stimuli. These stimuli guide our listening and generate continuously evolving musical impulses, establishing a feedback loop that leads to unpredictable sound structures. We are also investigating musical sound spatialization in a telematic context, utilizing SPAT, a real-time audio processor for 3D sound source localization developed at IRCAM  
-*Sheng! - Dozens of sounds, hundreds of tunes*
-This workshop offers an exploration of human-machine improvisation dynamics, stemming from artistic research conducted at Ircam. We will present the musical results of collaborative sessions involving Li-Chin Li (Sheng) and Mikhail Malt (Design and development of Somax2 generative agents and generative electronics). The central objective of this approach is to investigate the expressive potential of the Sheng, a traditional free-reed instrument, within an interactive electroacoustic environment. The integration of Somax2 generative agents is at the heart of this project. These agents are specifically designed to analyze in real time the musical parameters emitted by the Sheng, enabling a non-linear generative response that enriches and complexifies the improvised discourse.
+This workshop highlights two research-creation projects that explore new frontiers in musical improvisation through interactive technologies and the internet. These case studies analyze how digital environments can not only expand the expressive possibilities of instrumentalists, but also create a shared performance space that transcends geographical limitations.  
+The first research project focuses on improvisation with traditional instruments and artificial intelligence. Li-Chin Li plays the sheng (Chinese mouth organ) in interaction with the Somax2 interactive system. This system, capable of learning and responding in real time, becomes a full-fledged improvisational partner. We will show how the combination of the ancestral gesture of the sheng with the generative responses of the machine opens up a field of hybrid sound exploration, combining tradition and innovation.  
+The second research project explores improvisation in a telematic performance. Mikhaïl Malt, in Paris in Studio 5 with the Somax2 environment and generative electronics, interacts live with flutist Cássia Carrascoza Bomfim, located in São Paulo. This configuration serves as a laboratory for examining the creative challenges and opportunities related to network latency, synchronization, and establishing a shared listening experience despite distance. The workshop will highlight strategies developed to transform technical constraints, such as delays and audio artifacts, into compositional and expressive elements.  
+This workshop explores the future of improvisational practice by comparing two experiences: one focused on extending instrumental gesture and the other on delocalizing interaction. It examines how modern technologies are transforming relationships between performers, altering human-machine interactions, and redefining spaces for collective musical creation.
 
 
 ### Lectures
 
 
-**Pierre Couprie** (Evry Paris-Saclay University) **Gestures in Electronic Improvised Music**
+**[Pierre Couprie](https://www.pierrecouprie.fr/)** (Evry Paris-Saclay University) **Gestures in Electronic Improvised Music**
 
 This presentation revisits Philippe Descola’s concept of “worlding,” emphasizing the creative process through which improvising musicians construct their own sonic environments. In electronic improvisation, the musician actively develops and refines their instrument, adapting its interfaces and performance techniques, thereby continuously shaping their unique musical world.
 The discussion first examines the role of the instrument in electronic improvisation, highlighting its hybrid nature, which integrates electro-mechanical, analog, and digital elements. Unlike traditional instruments, electronic instruments evolve through rehearsals and performances, reflecting Thor Magnuson’s perspective on the genetic development of digital instruments and Georgina Born’s phenomenological view of performance as an ongoing process. The instrument is not a static entity but a “configuration” in Foucault’s sense—defined not by its structure alone but by its temporal evolution. Furthermore, electronic music devices function as complex networks of hardware, software, and protocols, challenging conventional definitions of musical instruments and redefining how musicians interact with their tools.
@@ -320,6 +326,10 @@ Given the inherent challenges in defining and analyzing gestures, this presentat
 
 We are going to detail the techniques, methodologies, and outcomes that led to the development of an interactive system based on real-time Instrumental Playing Technique (IPT) recognition. Starting from exploratory studies on the flute, we will discuss soundbank recording, data format, and data augmentation, as well as state-of-the-art machine learning model architectures developed in our research. By connecting our model to the co-creative AI system Somax2, we are able to interact with generative agents by means of real-time recognition of IPT classes, adding a new dimension to its interaction paradigm and addressing potential scenarios of co-creative human-machine interaction in mixed music for improvisation and composition.
 
+
+
+**[Oded Ben Tal[(https://www.kingston.ac.uk/about/staff/dr-oded-ben-tal)** (Kingston University), **[David Dolan](https://www.gsmd.ac.uk/staff/professor-david-dolan)** (Guildhall School of Music), **The Odd Couple: Human and AI Making Music in the Moment**
+This performance/talk will present an ongoing collaboration between composer Oded Ben-Tal and pianist David Dolan. Ben-Tal has been developing an AI-inspired system (JHAIMI – Joint Human AI Music Improvisation) that ‘listens’ to the pianist (extracting musical data from microphone input) and generates responses in real-time during the performance. The responses combine generative compositional processes on the one hand and real-time musical inferences about the pianist’s improvisation on the other. The aim is to create a strong, sophisticated and nuanced musical dialogue between human and machine. Dolan’s improvisations are based on an expanded tonal-modal idiom but do not conform to a specific musical style nor adhere to a preplanned scheme such as a chord progression, agreed tempo, key, or meter. The result is a new form of musical dialogue, created by the possibilities of new technology and drawing on the wealth of 300 years of music making. Ben-Tal is adjusting parameters in the system during the performance to shape larger-scale aspects, but the moment-to-moment generation of musical material is done automatically by JHAIMI. [See also](https://www.aesthetics.mpg.de/en/newsroom/events/events/article/creative-musical-dialogues-between-human-and-machine-en.html).
 
 
 
