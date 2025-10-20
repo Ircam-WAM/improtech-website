@@ -290,12 +290,12 @@ The Fragile Drum
 
 ### Workshops
 
-**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), MUGIC®: endless possibilities extending musical expression
+**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine) *MUGIC®: endless possibilities extending musical expression*
 
 MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors available on the market. However, what sets MUGIC® apart is its comprehensive, user-friendly design. Created by violinist and composer Mari Kimura, MUGIC® is a turnkey product that allows musicians to create their art immediately without requiring extensive programming or electrical engineering skills. The first version of MUGIC® sold out following a significant bulk order from the Lincoln Center in NYC this spring. As MUGIC® v.2 is under development, Kimura will demonstrate the importance of fostering a community around new technology and how MUGIC® users are expanding its application not only in music but also in other forms of art and beyond.
 Workshops / Performances Studio 5 du 3 au 5 dec
 
-**Mikhail Malt** (Ircam), PURE MALT !
+**Mikhail Malt** (Ircam), *PURE MALT *Augmented Improvisations: from instrumental gesture to telematics*  
 
 *Five Elements - a Telematic performance*  
 The duo Cássia Carrascoza and Mikhail Malt has been collaborating telematically since 2022, connected through JackTrip/Zoom and engaging in improvisation sessions mediated by Somax2, a program that integrates artificial and human intelligence for interactive musical improvisation. We explore improvisation approaches that reflect the knowledge Malt is developing with in-person musicians as part of the REACH project team: Raising Co-creativity in Cyber-Human Musicianship, a research group at IRCAM (http://repmus.ircam.fr/reach). Our focus is on creating a sonic environment where expressiveness and emotionality emerge through feedback from AI-driven stimuli. These stimuli guide our listening and generate continuously evolving musical impulses, establishing a feedback loop that leads to unpredictable sound structures. We are also investigating musical sound spatialization in a telematic context, utilizing SPAT, a real-time audio processor for 3D sound source localization developed at IRCAM  
@@ -306,7 +306,7 @@ This workshop offers an exploration of human-machine improvisation dynamics, ste
 ### Lectures
 
 
-**Pierre Couprie**, Evry Paris-Saclay University : Gestures in Electronic Improvised Music
+**Pierre Couprie** (Evry Paris-Saclay University) *Gestures in Electronic Improvised Music*
 
 This presentation revisits Philippe Descola’s concept of “worlding,” emphasizing the creative process through which improvising musicians construct their own sonic environments. In electronic improvisation, the musician actively develops and refines their instrument, adapting its interfaces and performance techniques, thereby continuously shaping their unique musical world.
 The discussion first examines the role of the instrument in electronic improvisation, highlighting its hybrid nature, which integrates electro-mechanical, analog, and digital elements. Unlike traditional instruments, electronic instruments evolve through rehearsals and performances, reflecting Thor Magnuson’s perspective on the genetic development of digital instruments and Georgina Born’s phenomenological view of performance as an ongoing process. The instrument is not a static entity but a “configuration” in Foucault’s sense—defined not by its structure alone but by its temporal evolution. Furthermore, electronic music devices function as complex networks of hardware, software, and protocols, challenging conventional definitions of musical instruments and redefining how musicians interact with their tools.
@@ -316,8 +316,7 @@ Given the inherent challenges in defining and analyzing gestures, this presentat
 
 
 
-**[Nicolas Brochec](https://nicolasbrochec.com)**, Tokyo University of the Arts Geidai, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Ircam) : Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction
-
+**[Nicolas Brochec](https://nicolasbrochec.com)**, Tokyo University of the Arts Geidai, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Ircam) *Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction*
 
 We are going to detail the techniques, methodologies, and outcomes that led to the development of an interactive system based on real-time Instrumental Playing Technique (IPT) recognition. Starting from exploratory studies on the flute, we will discuss soundbank recording, data format, and data augmentation, as well as state-of-the-art machine learning model architectures developed in our research. By connecting our model to the co-creative AI system Somax2, we are able to interact with generative agents by means of real-time recognition of IPT classes, adding a new dimension to its interaction paradigm and addressing potential scenarios of co-creative human-machine interaction in mixed music for improvisation and composition.
 
