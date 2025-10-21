@@ -18,7 +18,7 @@ José-Miguel Fernandez, IRCAM
 Cyril Beros, Head Production Dpt, Ircam  
 Jonathan Durand, Production Dpt, Ircam  
 Raphael Bourdier, Production Dpt, Ircam  
-Lorraine Sarrazin, roduction Dpt, Ircam  
+Lorraine Sarrazin, Production Dpt, Ircam  
 
 ### Sound, Computer Music Design
 
@@ -109,5 +109,5 @@ Improtech is an ERC REACH action supported by the European Research Council with
  <br>
 
 <p align="center">
-  <img src="./images/Logo_ikPT_MSS.png" width="400">
+  <img src="../images/Logo_ikPT_MSS.png" width="400">
 </p>
