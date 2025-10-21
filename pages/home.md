@@ -10,7 +10,7 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 
 <br>
 
-#### NEWS ! Goto the  [Improtech Paris-Tokyo 2024](https://improtech.ircam.fr/ikparistokyo) page.
+#### NEWS ! Goto the  [Improtech@Paris 2024](https://improtech.ircam.fr/ikparis) page. From Dec é to 7, 2025.
 
 <br>
 
