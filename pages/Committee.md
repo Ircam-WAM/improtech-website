@@ -4,14 +4,14 @@ title: Organisation
 
 ###  General Chair
 
-Gérard Assayag, IRCAM  
+Gérard Assayag, Ircam  
 Pr Marc Chemillier, EHESS  
 Marco Fiorini, Sorbonne Université
 
 ### Organisation Team
 
-Vasiliki Zachari, IRCAM  
-José-Miguel Fernandez, IRCAM
+Vasiliki Zachari, Ircam  
+Brigitte Cruz-Barney, Ircam
 
 ### Production
 
@@ -25,20 +25,26 @@ Lorraine Sarrazin, Production Dpt, Ircam
 Sylvain Cadars, Ircam  
 Manuel Poletti, Music Unit  
 Grégoire Lavaud, Ircam  
+José-Miguel Fernandez, Ircam
+
 
 ### Communication
 
 Marine Nicodeau, Communication Dpt, Ircam  
 Clotilde Couturier, Communication Dpt, Ircam  
 
-### Science / Art  Advisory Board / Steering 
+### Science/Art  Advisory Board / Steering 
 
+Jeff Albert, Georgia Tech
 Anastasia Georgakis, Kapodistrian University of Athens  
 Pierre Couprie, U. of Evry/Paris-Saclay  
 Emilios Cambouropulos, Aristotle University of Thessaloniki  
+Philippe Codognet, Tokyo University  
 Suguru Goto, Geidai University of the Arts, Tokyo  
 Brigitte d’Andréa-Novel, Ecole des Mines / Sorbonne Université  
+Mari Kimura, UC Irvine, Julliard School of Music  
 Eugene Lew, University of Pennsylvania  
+Steve Lehman, CalArts  
 Fabrice Vieira, Uzeste Musical  
 Hugues Genevois, Sorbonne Université  
 Elaine Chew, Queen Mary University of London  
@@ -50,7 +56,7 @@ George Lewis, Columbia University
 Bernard Lubat, Uzeste Musical 
 Peter Nelson, University of Edinburgh  
 Tae Hong Park, New York University  
-Robert Rowe, New York University  
+Anthony DeRitis, Northeastern University   
 Pierre Alexandre Tremblay, Huddersfield University  
 Atau Tanaka, Goldsmiths University of London  
 Jean-Baptiste Barrière, Artist

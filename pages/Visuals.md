@@ -65,12 +65,12 @@ br>
 <br>
 <br>
 <p align="center">
-  <img src="./images/Logo_ikPT_MSS.png" width="400">
+  <img src="../images/Logo_ikPT_MSS.png" width="400">
 </p>
 
 <br>
 <br>
-
+ 
 
 
 
