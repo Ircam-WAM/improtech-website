@@ -343,16 +343,13 @@ This performance/talk will present an ongoing collaboration between composer Ode
 
 ---
 
-<br>
-<p align="center">
-  <img src="../images/"Logo_ikPT_MSS.png" width="400">
-</p>
-<br>
 
 <br>
-
 <br>
 <p align="center">
-  <img src="../images/ikUZESTE_logos.png" width="2800">
+  <img src="../images/Logo_ikPT_MSS.png" width="400">
 </p>
+
 <br>
+<br>
+
