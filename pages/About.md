@@ -63,13 +63,10 @@ This edition welcomes a number of truly exceptional personalities, including cel
 
 
 
-
-
 <br>
 <br>
-<br>
-
-
 <p align="center">
-  <img src="../images/Logo_improtech_anniv.png" width="300">
+  <img src="./images/Logo_ikPT_MSS.png" width="400">
 </p>
+<br>
+<br>
