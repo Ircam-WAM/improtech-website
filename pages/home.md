@@ -32,7 +32,7 @@ A special dedicace this year is for **George Lewis** composer, pioneer of musica
 
 The **Who/Men** from Ircam (Marco Fiorini, Mikhail Malt, Gérard Assayag, Manuel Poletti) along with **Marc Chemillier** and **Sylvain Cadars** will create a sonic space thanks to the cocreative AI tools from the [REACH](https://reach.ircam.fr) project.
 
-Workshops and performances will see the **Spat'Sonore**, a vast, sprawling instrument with ramifications like “climbing plants in copper tubes topped with corolla pavilions, New instruments like **Federico Visi** Sophtar, Ice Ensemble vibrant Percussionist **levy Lorenzo**, Sheng Master **Li Chin Li**, Electonic Hacker and dancer **NSDOS**, soulful guitarist **Alain Blesing** and many others.
+Workshops and performances will see the **Spat'Sonore**, a vast, sprawling instrument with ramifications like “climbing plants in copper tubes topped with corolla pavilions, new instruments like **Federico Visi** Sophtar, Ice Ensemble vibrant Percussionist **Levy Lorenzo**, Sheng Master **Li Chin Li**, Electonic Hacker and dancer **NSDOS**, soulful guitarist **Alain Blesing** and many others.
 
 Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions.
 
