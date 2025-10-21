@@ -11,7 +11,7 @@ Access to Dynamo is through the Dynamo web page.
 - [INSTALLATIONS-PERFORMANCES](#december-6-saturday)
 - [WORKSHOPS](#december-3-wednesday-workshops)
 - [LECTURES](#december-4-thursday-lectures)
-- [ABSTRACTS](#abstracts)
+- [CONCERT NOTES and ABSTRACTS](#abstracts)
 
 
 ## December 2 Tuesday
