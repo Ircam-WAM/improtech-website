@@ -4,7 +4,7 @@ title: Organisation
 
 ###  General Chair
 
-Gérard Assayag, IRCAM
+Gérard Assayag, IRCAM  
 Pr Marc Chemillier, EHESS  
 Marco Fiorini, Sorbonne Université
 
@@ -15,21 +15,21 @@ José-Miguel Fernandez, IRCAM
 
 ### Production
 
-Cyril Beros, Head Production Dpt, Ircam
-Jonathan Durand, Production Dpt, Ircam
-Raphael Bourdier, Production Dpt, Ircam
-Lorraine Sarrazin, roduction Dpt, Ircam
+Cyril Beros, Head Production Dpt, Ircam  
+Jonathan Durand, Production Dpt, Ircam  
+Raphael Bourdier, Production Dpt, Ircam  
+Lorraine Sarrazin, roduction Dpt, Ircam  
 
 ### Sound, Computer Music Design
 
-Sylvain Cadars, Ircam
-Manuel Poletti, Music Unit
-Grégoire Lavaud, Ircam
+Sylvain Cadars, Ircam  
+Manuel Poletti, Music Unit  
+Grégoire Lavaud, Ircam  
 
 ### Communication
 
-Marine Nicodeau, Communication Dpt, Ircam
-Clotilde Couturier, Communication Dpt, Ircam
+Marine Nicodeau, Communication Dpt, Ircam  
+Clotilde Couturier, Communication Dpt, Ircam  
 
 ### Science / Art  Advisory Board / Steering 
 

@@ -7,7 +7,7 @@ title: Archives
 
 [General Improtech Page](http://improtech.ircam.fr) (with video documentation of previous editions)
 
-[Tokyo edition 2024](http://improtech.ircam.fr/iktokyo)
+[Tokyo edition 2024](http://improtech.ircam.fr/ikparistokyo)
 
 [Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste)
 
