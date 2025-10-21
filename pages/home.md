@@ -25,13 +25,14 @@ This year, Ircam will host Improtech  concerts in its unique concert hall, Espac
 ##Highlights
 <br>
 
-This edition of IMPROTECH in Paris will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman **Steve Lehman**, **Joëlle Léandre**, the double-bass diva with life time achievement award, contemporary classical composers **Lara Morciano** and  **Jose-Miguel Fernandez**, exploring the limits of hybrid acoustic/digital composition, the great Malagasy zither virtuoso **Justin Vali**, **Jean-marc Montera**, avant-garde guitarist specializing in free improvisation and sound experimentation, **Bernard Lubat** the legendary french multi-instrumentist, **Turner Williams Jr** the the spirited musician  playing the syncretic orient-occident instrument shahibaaja, **Gyorgy Kurtazg Jr** and his vibrant synthesizers, composer **Nicolas Brochec** exploiting his research on extended techniques recognition, **Tamami Tono** celebrated Shō player, Gagaku and computer music composer, with bugaku dancer **Minako Ito**, composer **Georges Bloch** with legendary **Jaap Blonk** sound poet and **Benny Sluchin** former Ensemble Intercontemporain trombonist.
+This edition of IMPROTECH in Paris will welcome a number of truly exceptional personalities, including celebrated multi-award jazzman **Steve Lehman**, **Joëlle Léandre**, the double-bass diva with life time achievement award, contemporary classical composers **Lara Morciano** and  **Jose-Miguel Fernandez**, exploring the limits of hybrid acoustic/digital composition, **Nicolas Crosse** the extravagant bass player from Ensemble Intercontemporain (EIC), **Aurelien Gignoux** brillant percussionist in the EIC, the great Malagasy zither virtuoso **Justin Vali**, **Jean-marc Montera**, avant-garde guitarist specializing in free improvisation and sound experimentation, **Bernard Lubat** the legendary french multi-instrumentist, **Turner Williams Jr** the the spirited musician  playing the syncretic orient-occident instrument shahibaaja, **Gyorgy Kurtazg Jr** and his vibrant synthesizers, composer **Nicolas Brochec** exploiting his research on extended techniques recognition, **Tamami Tono** celebrated Shō player, Gagaku and computer music composer, with bugaku dancer **Minako Ito**, composer **Georges Bloch** with legendary **Jaap Blonk** sound poet and **Benny Sluchin** former Ensemble Intercontemporain trombonist, **Lorenzo Colombo** virtuoso percussionist from the Royal Danish Academy of Music, **Alberto Gatti** the composer exploring audio-tactile vibration devices and space agents, **Anaïs del Sordo** singer with a spirit of experimentation, creativity and extended sonic exploration, virtuoso violonist and inventor of the Mugic© system **Mari Kimura**, 
 
-A special dedicace this year is for **George Lewis** composer, pioneer of musical AI, and great inspirer of all our research projects on autonomous improvising agents. George presents a piece performed by **Joelle Leandre** and **Miya Masaoka** on the Koto, with the SoVo system resulting from common research with [REACH](reach.ircam.fr),.
+A special dedicace this year is for **George Lewis** composer, pioneer of musical AI, and great inspirer of all our research projects on autonomous improvising agents. George presents a piece performed by **Joelle Leandre** and **Miya Masaoka** on the Koto, with the SoVo system resulting from common research with [REACH](reach.ircam.fr).
 
 
 The **Who/Men** from Ircam (Marco Fiorini, Mikhail Malt, Gérard Assayag, Manuel Poletti) along with **Marc Chemillier** and **Sylvain Cadars** will create a sonic space thanks to the cocreative AI tools from the [REACH](https://reach.ircam.fr) project.
 
+Workshops and performances will see the **Spat'Sonore**, a vast, sprawling instrument with ramifications like “climbing plants in copper tubes topped with corolla pavilions, New instruments like **Federico Visi** Sophtar, Ice Ensemble vibrant Percussionist **levy Lorenzo**, Sheng Master **Li Chin Li**, Electonic Hacker and dancer **NSDOS**, soulful guitarist **Alain Blesing** and many others.
 
 Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions.
 
@@ -74,11 +75,11 @@ Exploring the relationships between music and science, composition and improvisa
 ## On the Menu
 <br>
 
-**ikParis encompasses conferences, demonstrations, workshops, master classes, musical or multimedia performances / installations, and concerts bringing together some of the world's finest musicians and researchers in beautiful venues.
+**ikParis'25** encompasses conferences, demonstrations, workshops, master classes, musical or multimedia performances / installations, and concerts bringing together some of the world's finest musicians and researchers in beautiful venues.
 
-**ikParis** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene of Tokyo.
+**ikParis'25** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene of Tokyo.
 
-**ikParis** brings artists, researchers, engineers, thinkers, students, inventors, DYI enthusiasts covering a broad spectrum of knowledge fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities...
+**ikParis'25** brings artists, researchers, engineers, thinkers, students, inventors, DYI enthusiasts covering a broad spectrum of knowledge fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities...
 
 **Improtech Paris** will focus on education and pedagogy with master classes, workshops, student projects and concerts under the direction of the great invited figures.
 
