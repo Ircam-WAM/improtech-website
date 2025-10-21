@@ -5,7 +5,9 @@ title: Archives
 
 ### Previous Improtech Editions
 
-[General Improtech Page](http://improtech.ircam.fr) (with high quality concerts and documentaries videos archives)
+[General Improtech Page](http://improtech.ircam.fr) (with video documentation of previous editions)
+
+[Tokyo edition 2024](http://improtech.ircam.fr/iktokyo)
 
 [Uzeste edition 2023](http://improtech.ircam.fr/ikuzeste)
 

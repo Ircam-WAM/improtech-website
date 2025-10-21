@@ -4,21 +4,32 @@ title: Organisation
 
 ###  General Chair
 
-Gérard Assayag, DR IRCAM  
+Gérard Assayag, IRCAM
 Pr Marc Chemillier, EHESS  
-Pr Suguru Goto, Geidai  
-
+Marco Fiorini, Sorbonne Université
 
 ### Organisation Team
 
 Vasiliki Zachari, IRCAM  
-Marco Fiorini, IRCAM  
-José-Miguel Fernandez, IRCAM  
-Nicolas Brochec, Geidai  
-Akiyama Daichi, Geidai  
-Lim Hyun-Mook, Geidai
+José-Miguel Fernandez, IRCAM
 
+### Production
 
+Cyril Beros, Head Production Dpt, Ircam
+Jonathan Durand, Production Dpt, Ircam
+Raphael Bourdier, Production Dpt, Ircam
+Lorraine Sarrazin, roduction Dpt, Ircam
+
+### Sound, Computer Music Design
+
+Sylvain Cadars, Ircam
+Manuel Poletti, Music Unit
+Grégoire Lavaud, Ircam
+
+### Communication
+
+Marine Nicodeau, Communication Dpt, Ircam
+Clotilde Couturier, Communication Dpt, Ircam
 
 ### Science / Art  Advisory Board / Steering 
 
@@ -81,19 +92,9 @@ Miller Puckette, IRCAM
 
 </p>
 
+
+
 <br>
-
-Special thanks to 
-
-<br> 
-<p align="center">
-  <img src="../images/Moet_Logo.jpg" width="200">
-</p>
-<br>
-
-
-
-
 <br>
 
 **Improtech** workshop-festival is an original creation by © Gérard Assayag and Marc Chemillier.  
@@ -107,7 +108,6 @@ Improtech is an ERC REACH action supported by the European Research Council with
  <br>
  <br>
 
-
- <p align="center">
-   <img src="../images/Logo_improtech_anniv.png" width="300">
- </p>
+<p align="center">
+  <img src="./images/Logo_ikPT_MSS.png" width="400">
+</p>

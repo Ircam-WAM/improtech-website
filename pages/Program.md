@@ -138,9 +138,9 @@ Mari Kimura, Mugic sensors, violon
 **Sophtar**  
 Federico Visi, Sophtar Instrument, Somax2  
 
-**Boulez Reloaded : Notations**  
+**First Meeting**  
 Alain Blesing, Guitare électrique, Somax2  
-
+Claudie Boucau, flutes
 
 ## December 4 Thursday Workshops
 ### 14h - 19h Workshops in Studio 5, Ircam 
@@ -191,8 +191,8 @@ Makis Solomos, Université Paris 8
 **Inside Artificial Improvisation (ANR InAI)**  
 Pierre Saint-Germier, CNRS, Ircam  
 
-**Advances in Interactive Electroacoustic improvisation**  
-Pierre Couprie, Univerfsité Evry Marne-la-Vallée  
+**Gestures in Electronic Improvised Music**  
+Pierre Couprie, Evry Paris-Saclay University
 
 **Extended Instrumental Techniques Recognition for Generative Coimprovisation**  
 Nicolas Brochec, Geidai University Tokyo  
@@ -295,6 +295,12 @@ La batterie fragile sera jouée par Thierry Miroglio, Aurélien Gignoux, avec di
 
 
 ### Workshops
+
+**[Alain Blesing, Claudie Boucau](https://alainblesing2.wixsite.com/mysite/about-3)** 
+
+Alain Blesing, Guitare électrique, Somax2  
+Claudie Boucau, flutes
+
 
 **[Mari Kimura](https://www.marikimura.com/)** (UC Irvine) **MUGIC®: endless possibilities extending musical expression**
 
