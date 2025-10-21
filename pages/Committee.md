@@ -73,7 +73,7 @@ Miller Puckette, IRCAM
 <br>
 <br>
 <p align="center">
-  <img src="../images/Logos_Tutelles.png" width="1000"> 
+  <img src="../images/Logos_Tutelles.png" width="600"> 
 </p>
 <br>
 
