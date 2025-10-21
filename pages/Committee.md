@@ -71,28 +71,18 @@ Miller Puckette, IRCAM
 ###Under the high patronage of
 
 <br>
-
+<br>
 <p align="center">
-<a target="_blank" href="https://www.cnrs.fr"> <img  src="../images/LOGO_CNRS.png" width="120"> </a>
-<a target="_blank" href="https://www.sorbonne-universite.fr/"> <img  src="../images/Logo_SU.png" width="230"> </a>
-<a target="_blank" href="https://www.culture.gouv.fr/"> <img  src="../images/Logo_MCulture.jpg" width="120"> </a>
-<a target="_blank" href="https://ucsd.edu/"> <img  src="../images/Logo_UCSD.png" width="240"> </a>
-<a target="_blank" href="https://qi.ucsd.edu/"> <img  src="../images/Logo_Qualcomm.jpg" width="240"> </a>
-
+  <img src="../images/Logos_Tutelles.png" width="1000"> 
 </p>
-
 <br>
 
 ###A Research & Creation Action of
 
 <p align="center">
-
 <a target="_blank" href="https://repmus.ircam.f"> <img  src="../images/Logo_ERC_simple.png" width="65"> </a>
-<a target="_blank" href="https://repmus.ircam.fr/REACH"> <img  src="../images/Logo_REACH.png" width="180"> </a>
-
+<a target="_blank" href="https://repmus.ircam.fr/REACH"> <img  src="../images/Logo_REACH.png" width="100"> </a>
 </p>
-
-
 
 <br>
 <br>
