@@ -20,7 +20,7 @@ Access to Dynamo is through the Dynamo web page.
 
 **Psappho, after Iannis Xenakis**  
 Lorenzo Colombo percussions  
-Marco Fiorini   AI-Agents Somax2, live  electronics
+Marco Fiorini AI-Agents Somax2, live  electronics
 
 **Décembre - premier livre du cycle Arc’**  
 Marco Suárez-Cifuentes composition, AI-Agents Somax2  
@@ -148,7 +148,7 @@ Claudie Boucau, flutes
 **Boulez Rebooted and other projects**  
 Levy Lorenzo, percussion, live electronics, somax2
 
-**PURE MALT Augmented Improvisations: from instrumental gesture to telematics** 
+**PURE MALT: Augmented Improvisations, from instrumental gesture to telematics** 
 Mikhail Malt, Somax2, live electronics, telematics  
 Cassia Carrascoza, flute, telematics  
 Li Chin Li, sheng  
@@ -307,7 +307,7 @@ Claudie Boucau, flutes
 MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors available on the market. However, what sets MUGIC® apart is its comprehensive, user-friendly design. Created by violinist and composer Mari Kimura, MUGIC® is a turnkey product that allows musicians to create their art immediately without requiring extensive programming or electrical engineering skills. The first version of MUGIC® sold out following a significant bulk order from the Lincoln Center in NYC this spring. As MUGIC® v.2 is under development, Kimura will demonstrate the importance of fostering a community around new technology and how MUGIC® users are expanding its application not only in music but also in other forms of art and beyond.
 Workshops / Performances Studio 5 du 3 au 5 dec
 
-**Mikhail Malt** (Ircam), **PURE MALT: Augmented Improvisations: from instrumental gesture to telematics** 
+**[Mikhail Malt](https://www.ircam.fr/person/mikhail-malt)** (Ircam), **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics** 
 
 This workshop highlights two research-creation projects that explore new frontiers in musical improvisation through interactive technologies and the internet. These case studies analyze how digital environments can not only expand the expressive possibilities of instrumentalists, but also create a shared performance space that transcends geographical limitations.  
 The first research project focuses on improvisation with traditional instruments and artificial intelligence. Li-Chin Li plays the sheng (Chinese mouth organ) in interaction with the Somax2 interactive system. This system, capable of learning and responding in real time, becomes a full-fledged improvisational partner. We will show how the combination of the ancestral gesture of the sheng with the generative responses of the machine opens up a field of hybrid sound exploration, combining tradition and innovation.  
