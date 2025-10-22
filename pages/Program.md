@@ -214,7 +214,7 @@ David Dolan, pianist, Guildhall School of Music & Drama London
 **Unity interface to Generative Improvisation Agents**  
 Daniel Brown, University de Picardie  
 
-**ArchiMusic Reloaded with no-code generative AI**  
+**Transmettre son style à l'IA : récit d'une collaboration improbable**  
 Jean-Rémy Guédon, composer, musician  
 
 **Evaluation of AI based improvisation systems**  
@@ -243,9 +243,23 @@ Nicolas Souchal, Diemo Schwartz, Ircam
  
 **Solo for Sliding Trombone** This Performance presents an artistic research project exploring the performance of John Cage’s “Solo for Sliding Trombone” using AI generative tools within the Somax2 environment. The performance investigates the interplay between human interpretation, AI-assisted performance, and Cage’s core concepts of silence, indeterminacy, and unintentionality. By integrating AI agents as virtual performers and employing techniques like “coloring the silence” and “expansions,” the research aims to push the boundaries of Cage’s indeterminacy. This artistic research resulted in a unique set of improvised performances, captured and presented in a box set with 7 distinct tracks, showcasing the dynamic interplay between human and AI creativity within the framework of Cage’s innovative musical philosophy.
  
-**Deleph** se promène dans l'univers entre le son et le langage, et plutôt dans ces régions où le langage, dès l’origine, touche à l’absurde. Volontairement, nous avons choisi un discours public très récent qui, quoique complètement inepte, a été pris au sérieux par des milliers de gens.
-C’est pourquoi il est tentant de s’inspirer de ce qu’auraient pu en faire Offenbach, le Schwitters de la Ursonate, le Robert Erickson de General Speech, ou Jaap Blonk.
- 
+**Deleph** se promène dans l'univers entre le son et le langage, et plutôt dans ces régions où le langage, dès l’origine, touche à l’absurde. Nous sommes partis d’un court poème qui combine des mots utilisant, dans l’ordre, les sons D, L puis F.
+Afin de s’en inspirer en imaginant ce qu’auraient pu en faire Offenbach, le Schwitters de la Ursonate, le Robert Erickson de General Speech, ou Jaap Blonk.
+
+Deleph ventures in the territory between sound and language. But, mostly in these areas where language is fundamentally absurd. We took as a point of departure a short poem in French which combines words using the sounds D, L and F in this order.
+Taking inspiration from this text, and imagining what Offenbach, Schwitters of the Ursonate, Robert Erickson of General Speech, or Jaap Blonk might have done with it.
+
+Deleph  
+Delphine la dauphine ainsi médit d’Olaf :  
+Il veut être Calife en place de Deleph !  
+Dieu quel défi ! Et même si Deleph se trompe  
+Car se passer d’Aleph, c’est bête…  
+Il se trompe, Deleph, embouchant l’olifant,  
+Delphes ? Pourquoi partir ? Delphes n’est que pythie,  
+Mesquins oracles dans le fond déiquescents.  
+Et se passer d’Aleph, c’est bête…  
+
+
 **NaN - Not a Number** is an immersive sonic experience, a real-time dialogue between the human voice and artificial intelligence, where the concept of feedback becomes a dynamic and creative principle. This performance-concert explores co-creation between the organic and the synthetic—an unpredictable fusion of the living presence of the voice and the responsiveness of an AI agent system that transforms, reacts to, and reshapes sound into a continuum of sonic metamorphosis. The performer, as the primary acoustic source, interacts with a latent AI environment that analyzes, processes, and reinterprets her vocality, generating an ever-evolving sound ecosystem. Every breath, every timbral inflection, and every harmonic extension propagates through space, giving rise to mutable and dynamic sonic configurations. The performance unfolds in an expanded and immersive environment, enriched by a resonant proscenium made of diverse materials (metal, glass, paper), which serve as surfaces for sound diffusion and vibration. These elements become active parts of the concert, amplifying and transforming the sound into a material choreography that engages the audience in a multi-sensory experience. The result is a seamless sonic flow, where the boundary between human and machine dissolves, giving way to a new, ever-transforming sonic organism. NaN is not just a musical performance—it is an experiment in symbiosis between voice and artificial intelligence, a journey into the unexpected, the indeterminate, and the beauty of emergent interaction.
  
 **Taideji** In this piece, the collaboration between the performers is rooted in an exploration of the dynamic relationship between acoustic instruments and electronics, incorporating the interactive possibilities offered by Somax2. The sonic palette of the piano at times low, distorted, and percussive, at others bright and resonant, interacts with the rich colors of the percussion, shaping a musical journey marked by strong contrasts and an ever-shifting energy, oscillating between density and rarefaction. On the electronic side, the two acoustic instruments are processed in real time through various techniques, while Somax2 establishes a sensitive and reactive connection between instrumental performance and generated sound material, enriching the dialogue between human and machine.
@@ -292,8 +306,6 @@ La batterie fragile sera jouée par Thierry Miroglio, Aurélien Gignoux, avec di
 
 
 
-
-
 ### Workshops
 
 **[Alain Blesing, Claudie Boucau](https://alainblesing2.wixsite.com/mysite/about-3)** 
@@ -334,9 +346,14 @@ We are going to detail the techniques, methodologies, and outcomes that led to t
 
 
 
-**[Oded Ben Tal](https://www.kingston.ac.uk/about/staff/dr-oded-ben-tal)** (Kingston University), **[David Dolan](https://www.gsmd.ac.uk/staff/professor-david-dolan)** (Guildhall School of Music), **The Odd Couple: Human and AI Making Music in the Moment**
+**[Oded Ben Tal](https://obental.wixsite.com/main)** (Kingston University), **[David Dolan](https://www.gsmd.ac.uk/staff/professor-david-dolan)** (Guildhall School of Music), **The Odd Couple: Human and AI Making Music in the Moment**
 This performance/talk will present an ongoing collaboration between composer Oded Ben-Tal and pianist David Dolan. Ben-Tal has been developing an AI-inspired system (JHAIMI – Joint Human AI Music Improvisation) that ‘listens’ to the pianist (extracting musical data from microphone input) and generates responses in real-time during the performance. The responses combine generative compositional processes on the one hand and real-time musical inferences about the pianist’s improvisation on the other. The aim is to create a strong, sophisticated and nuanced musical dialogue between human and machine. Dolan’s improvisations are based on an expanded tonal-modal idiom but do not conform to a specific musical style nor adhere to a preplanned scheme such as a chord progression, agreed tempo, key, or meter. The result is a new form of musical dialogue, created by the possibilities of new technology and drawing on the wealth of 300 years of music making. Ben-Tal is adjusting parameters in the system during the performance to shape larger-scale aspects, but the moment-to-moment generation of musical material is done automatically by JHAIMI. [See also](https://www.aesthetics.mpg.de/en/newsroom/events/events/article/creative-musical-dialogues-between-human-and-machine-en.html).
 
+**[Jean-Rémy Guédon](https://www.letriton.com/artistes/compagnons/jean-remy-guedon-478)** (ArchiMusic) **Transmettre son style à l'IA : récit d'une collaboration improbable**.
+
+Cette recherche examine la rencontre entre intelligence artificielle et intuition musicale dans le cadre d'une démarche compositionnelle expérimentale. En mobilisant des outils no-code et des modèles conversationnels de dernière génération (GPT-5, Codex, Claude 4.5), j'ai entrepris d'entraîner l'IA à partir d'un corpus d'œuvres personnelles issues de 25 années de composition pour mon ensemble Archimusic cherchant à lui transmettre mon langage musical singulier – ni tonal ni atonal, d'une polyphonie complexe – afin que l’IA génère des variations respectant cette identité stylistique.
+Au terme de plusieurs mois de recherche ayant mené à la création de quatorze prototypes d'applications musicales, un constat s'impose : un fossé persiste entre le potentiel promis par l'IA et sa réalité compositionnelle. La machine reproduit sans saisir, répète sans intuition véritable.
+Cette conférence présente un bilan à la fois critique et artistique de cette expérience de co-création entre compositeur et algorithme. Elle interroge les notions d'itération, d'intuition et de style algorithmique, et inclut l'audition d'une courte pièce pour clarinette  née de cette collaboration interprétée par Eric Lamberger. Au-delà de l'aspect technique, je souhaite ouvrir une réflexion sur la possibilité d'une « boîte compositionnelle ouverte » : un espace où chaque compositeur pourrait entrer en dialogue avec sa propre mémoire musicale par l'intermédiaire de la machine.
 
 
 <br>
