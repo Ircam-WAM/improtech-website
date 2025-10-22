@@ -19,7 +19,7 @@ Access to Dynamo is through the Dynamo web page.
 ### 20:00 IMPROTECH CONCERT #1 at Espace de Projection, Ircam
 
 **Psappho, after Iannis Xenakis**  
-[Lorenzo Colombo](www.lorenzocolombo.org ) percussions  
+[Lorenzo Colombo](https://www.lorenzocolombo.org ) percussions  
 [Marco Fiorini](https://forum.ircam.fr/profile/fiorini/) AI-Agents Somax2, live  electronics
 
 **Décembre - premier livre du cycle Arc’**  
@@ -38,7 +38,7 @@ Kanami Koga flute
 [György Kurtág Jr ](https://fr.wikipedia.org/wiki/Gy%C3%B6rgy_Kurt%C3%A1g_Jr.)synthetisers  
 [Jean-Marc Montera](https://www.jmmontera.fr/) guitars, electronics  
 The Who/Men (Gerard Assayag, Mikhail Malt, Marco Fiorini AI-Agents Somax2)  
-Feat.Mari Kimura, violon, Pierre Couprie, live électronics  
+Feat. [Mari Kimura](https://www.marikimura.com/), violon, [Pierre Couprie](https://www.pierrecouprie.fr/), live électronics  
 
 **Deleph**  
 [Jaap Blonk](http://www.jaapblonk.com/Pages/biography.html) voice, sound poetry  
