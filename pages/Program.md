@@ -88,6 +88,8 @@ George Lewis composition
 Joëlle Léandre bass, voice
 Miya Masaoka koto  
 Marco Fiorini, SoVo AI system, pianos Disklavier, immersive audio
+Damon Holzborn and Marco Fiorini, SoVo software
+
 
 ## December 7 Sunday
 
