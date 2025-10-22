@@ -19,36 +19,36 @@ Access to Dynamo is through the Dynamo web page.
 ### 20:00 IMPROTECH CONCERT #1 at Espace de Projection, Ircam
 
 **Psappho, after Iannis Xenakis**  
-Lorenzo Colombo percussions  
-Marco Fiorini AI-Agents Somax2, live  electronics
+[Lorenzo Colombo](www.lorenzocolombo.org ) percussions  
+[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/) AI-Agents Somax2, live  electronics
 
 **Décembre - premier livre du cycle Arc’**  
-Marco Suárez-Cifuentes composition, AI-Agents Somax2  
-Johanna Vargas voice  
-Nicolas Crosse bass  
-Aurélien Gignoux drums  
-Nieto texts  
+[Marco Suárez-Cifuentes](https://marcosuarezcifuentes.wordpress.com/works/biographie/) composition, AI-Agents Somax2  
+[Johanna Vargas](https://johannavargas.net/) voice  
+[Nicolas Crosse](https://www.ensembleintercontemporain.com/en/soliste/nicolas-crosse/) bass  
+[Aurélien Gignoux](https://www.ensembleintercontemporain.com/fr/soliste/aurelien-gignoux/) drums  
+[Nieto](https://nietonietonieto.com/About) texts  
 
 **Traversée III**  
-Nicolas Brochec composition, AI-Agents Somax2  
+[Nicolas Brochec](https://nicolasbrochec.com) composition, AI-Agents Somax2  
 Kanami Koga flute  
 
 **REACHin’ Marseille**  
-Turner Williams Jr shahi baaja  
-György Kurtág Jr synthetisers  
-Jean-Marc Montera guitars, electronics  
+[Turner Williams Jr](https://turnerwilliamsjr.com/) shahi baaja  
+[György Kurtág Jr ](https://fr.wikipedia.org/wiki/Gy%C3%B6rgy_Kurt%C3%A1g_Jr.)synthetisers  
+[Jean-Marc Montera](https://www.jmmontera.fr/) guitars, electronics  
 The Who/Men (Gerard Assayag, Mikhail Malt, Marco Fiorini AI-Agents Somax2)  
 Feat.Mari Kimura, violon, Pierre Couprie, live électronics  
 
 **Deleph**  
-Jaap Blonk voice, sound poetry  
-Benny Sluchin trombone  
-Georges Bloch AI-Agents Omax5, Somax2  
+[Jaap Blonk](http://www.jaapblonk.com/Pages/biography.html) voice, sound poetry  
+[Benny Sluchin](https://aicf.org/artist/benny-sluchin/) trombone  
+[Georges Bloch](http://repmus.ircam.fr/bloch) AI-Agents Omax5, Somax2  
 
 **In albireo luogo…**  
-Lara Morciano composition  
-Joëlle Léandre, Nicolas Crosse bass  
-José-Miguel Fernandez AI-Agents Somax2Collider, immersive electronics  
+[Lara Morciano](https://brahms.ircam.fr/fr/lara-morciano) composition  
+[Joëlle Léandre](https://pad.philharmoniedeparis.fr/0050152-joelle-leandre.aspx), [Nicolas Crosse](https://www.ensembleintercontemporain.com/en/soliste/nicolas-crosse/)] bass  
+[José-Miguel Fernandez](https://ressources.ircam.fr/en/jose-miguel-fernandez) AI-Agents Somax2Collider, immersive electronics  
 
 
 ## December 5 Friday
@@ -63,32 +63,32 @@ Marc Chemillier AI-Agents Djazz
 
 **Solo for sliding Trombone**  
 After John Cage composition  
-Benny Sluchin trombone  
+[Benny Sluchin](https://aicf.org/artist/benny-sluchin/) trombone  
 Mikhail Malt AI-Agents Somax2,  immersive electronics  
 
 **Taideji**  
-Lara Morciano compposition, piano  
-Thierry Miroglio percussions  
-Jose-Miguel Fernandez AI-Agents Somax2, immersive electronics  
+[Lara Morciano](https://brahms.ircam.fr/fr/lara-morciano) composition, piano  
+[Thierry Miroglio](https://www.thierrymiroglio.com/) percussions  
+[José-Miguel Fernandez](https://ressources.ircam.fr/en/jose-miguel-fernandez) AI-Agents Somax2Collider, immersive electronics  
 
 **Transe III**  
-Justin Vali Malagasy Zither, voice  
+[Justin Vali](https://en.wikipedia.org/wiki/Justin_Vali) Malagasy Zither, voice  
 Marc Chemillier AI-Agents Djazz  
-NSDOS electronic hack, live coding, dance  
+[NSDOS](https://villa-albertine.org/va/residents/nsdos/) electronic hack, live coding, dance  
 
 **NaN - Not a Number**  
-Alberto Gatti composition, immersive electronics, AI-Agents Somax2  
-Anaïs del Sordo voice  
+[Alberto Gatti](https://calls.ircam.fr/profiles/individual/30106/) composition, immersive electronics, AI-Agents Somax2  
+[Anaïs del Sordo](https://www.ircam.fr/article/alberto-gatti-re-sounding-bodies-anais-del-sordo-44) voice  
 
 **in memoriam Susan Alcorn**  
-Miya Masaoka composition, koto  
+[Miya Masaoka](https://miyamasaoka.com/bio-cv/) composition, koto  
 
 **SoVo II**
 George Lewis composition  
-Joëlle Léandre bass, voice
-Miya Masaoka koto  
-Marco Fiorini, SoVo AI system, pianos Disklavier, immersive audio
-Damon Holzborn and Marco Fiorini, SoVo software
+[Joëlle Léandre](https://pad.philharmoniedeparis.fr/0050152-joelle-leandre.aspx) bass, voice   
+[Miya Masaoka](https://miyamasaoka.com/bio-cv/) composition, koto  
+[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/) AI-Agents Somax2, Disklaviers
+[Damon Holzborn](https://damonholzborn.com/) and Marco Fiorini, SoVo software
 
 
 ## December 7 Sunday
