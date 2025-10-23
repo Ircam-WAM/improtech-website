@@ -185,7 +185,7 @@ Raphaël Forment, Rémi Georges, live coding
 Ken Deguernel, Université de Lille  
 
 **Generative Spatial Synthesis of Sound and Music (ERC G3S)**  
-Alain Bonardi, Université Paris 8  
+Alain Bonardi, Université Paris 8, Emma Frid, Paul Goutmann, Axel Chemla-Romeu-Santos
 
 **Xenakis Reloaded in the age of AI, the case of Psappho**  
 Makis Solomos, Université Paris 8  
@@ -331,6 +331,13 @@ This workshop explores the future of improvisational practice by comparing two e
 
 ### Lectures
 
+**Alain Bonardi** (Université Paris 8), **Emma Frid, Paul Goutmann, Axel Chemla-Romeu-Santos**, **Generative Spatial Synthesis of Sound and Music (ERC G3S)**
+ 
+While the industrial markets for 3D audio and artificial intelligence in music are expanding rapidly worldwide, the spatial qualities of sound are still an unthought-of aspect of AI. In practice, spatial audio is generally carried out in post-production and is usually confined to the spatialization of sound and the acoustic modelling of rooms. The aim of the G3S project is to propose new ways of creating, modelling and analyzing sound by natively integrating its spatial dimension. We want to extend the theoretical and practical approach to spatial diffusion, whether with loudspeakers or headphones, by using the generative capabilities of artificial learning. 
+ 
+https://www.univ-paris8.fr/G3S-Generative-Spatial-Synthesis-of-Sound-and-Music-ERC-Advanced-Grant
+
+ 
 
 **[Pierre Couprie](https://www.pierrecouprie.fr/)** (Evry Paris-Saclay University) **Gestures in Electronic Improvised Music**
 
