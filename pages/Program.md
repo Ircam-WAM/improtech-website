@@ -131,7 +131,7 @@ Marco Fiorini Spatial Agents Somax2
 **Breathing Media Project**  
 Tamami Tono, Sho  
 Minako Ito, Bugaku dance  
-Todokoro, ideo  
+Atsushi Todokoro, video  
 
 **Mugic Magic**  
 Mari Kimura, Mugic sensors, violon  
@@ -241,7 +241,8 @@ Nicolas Souchal, Diemo Schwartz, Ircam
  
 **Psappho** is the third instance of the project Xenakis Reloaded, after Evryiali (2022) and AI-Komboï (2023), paying homage to Xenakis through the choice of a well known piece and an improvised extension using AI. As the continuation of a broader research and performance project developed by Lorenzo Colombo and Marco Fiorini, two artists and researchers dedicated to exploring the creative potentials at the intersection of human and artificial intelligence in music, this new chapter will use Psappha (1975) as its central material. The project will investigate new modes of cyber-human co-creativity by integrating Somax2 and gestural control into an immersive spatialized performance environment. Psappha will serve as the compositional and performative ground, with a focus on gestural and temporal density, rhythmic articulation, and structural complexity, core features of Xenakis’s language, and fertile terrain for this novel  interaction.
  
-**SoVo II** is both a collaborative musical work and a new cocreative improvisation system conceived to expand the communicative terrain of human-machine collaboration, discussed for quite some time by George Lewis and Gerard Assayag during their encounters at preceding Improtechs. Designed and implemented in 2024-25 by Marco Fiorini, Damon Holzborn, George Lewis and Gerard Assayag, the SoVo system represents the convergence of decades of innovation in artificial intelligence and improvisation.  SoVo is not a fixed composition, but a dynamic environment where creative agency is distributed among human performers and improvising software agents operating in an integrated architecture combining Lewis’s Voyager system with the program Somax2 from Assayag’s reach.ircam.fr project. The system merges symbolic and audio-based interaction, combining in real time rule based algorithmic generation with machine learning and cognitive modeling, and uses machine listening and adaptive strategies both between the program and the musicians and between the So and Vo components. The system engages in the improvisational process with creative autonomy, where intention, memory, and form emerge through co-authored musical discourse.
+**SoVo II** is both a collaborative musical work and a new cocreative improvisation system conceived to expand the communicative terrain of human-machine collaboration, discussed for quite some time by George Lewis and Gerard Assayag during their encounters at preceding Improtechs. Designed and implemented in 2024-25 by Marco Fiorini, Damon Holzborn, George Lewis and Gerard Assayag, the SoVo system represents the convergence of decades of innovation in artificial intelligence and improvisation.  SoVo is not a fixed composition, but a dynamic environment where creative agency is distributed among human virtuoso performers Joëlle Léandre and Miya Masaoka, and improvising software agents operating in an integrated architecture combining Lewis’ Voyager system with the program Somax2 from the [REACH](https://reach.ircam.fr) project. The system merges symbolic and audio-based interaction, combining in real time rule based algorithmic generation with machine learning and cognitive modeling, and uses machine listening and adaptive strategies both between the program and the musicians and between the So and Vo components. The system engages in the improvisational process with creative autonomy, where intention, memory, and form emerge through co-authored musical discourse.
+
  
 **Solo for Sliding Trombone** This Performance presents an artistic research project exploring the performance of John Cage’s “Solo for Sliding Trombone” using AI generative tools within the Somax2 environment. The performance investigates the interplay between human interpretation, AI-assisted performance, and Cage’s core concepts of silence, indeterminacy, and unintentionality. By integrating AI agents as virtual performers and employing techniques like “coloring the silence” and “expansions,” the research aims to push the boundaries of Cage’s indeterminacy. This artistic research resulted in a unique set of improvised performances, captured and presented in a box set with 7 distinct tracks, showcasing the dynamic interplay between human and AI creativity within the framework of Cage’s innovative musical philosophy.
  
@@ -310,10 +311,17 @@ La batterie fragile sera jouée par Thierry Miroglio, Aurélien Gignoux, avec di
 
 ### Workshops
 
-**[Alain Blesing, Claudie Boucau](https://alainblesing2.wixsite.com/mysite/about-3)** 
+**[Alain Blesing, Claudie Boucau](https://alainblesing2.wixsite.com/mysite/about-3)**, **First Meeting**  
+ 
+Ce workshop essaiera de déterminer à quelles conditions le discours de deux musiciens improvisateurs (Alain Blesing : guitare électrique et Claudie Boucau : flûte) pourra se rapprocher voire s'inspirer d'un corpus pensé et revendiqué comme totalement aux antipodes de l'improvisation, à savoir la musique de Pierre Boulez.
+Nous proposerons un travail autour d'extraits des 12 Notations pour piano, cycle de courtes pièces composées en 1945. De courtes performances ainsi que des extraits audio viendront commenter et illustrer le propos.
+Dans un 2ème temps une performance plus longue sera proposée en double solo et en duo. Ce moment de jeu fera intervenir Somax 2 en plus des deux musiciens dans divers modes de jeu.
+La dernière partie du workshop sera consacrée à un échange et aux questions qui pourront éventuellement être posées.
 
-Alain Blesing, Guitare électrique, Somax2  
-Claudie Boucau, flutes
+This workshop will attempt to determine under what conditions the discourse of two improvising musicians (Alain Blesing: electric guitar, and Claudie Boucau: flute) can be brought closer to, or even inspired by, a body of work considered and claimed to be the complete opposite of improvisation, namely the music of Pierre Boulez. 
+We will propose a work based on excerpts from the 12 Notations for Piano, a cycle of short pieces composed in 1945. Short performances and audio excerpts will comment on and illustrate the subject. 
+A second part will feature a longer performance, both solo and duet. This performance will involve Somax 2 in addition to the two musicians, in various playing modes. 
+The final part of the workshop will be devoted to a discussion and possible questions.
 
 
 **[Mari Kimura](https://www.marikimura.com/)** (UC Irvine) **MUGIC®: endless possibilities extending musical expression**
