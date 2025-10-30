@@ -137,7 +137,7 @@ Atsushi Todokoro, video
 Mari Kimura, Mugic sensors, violon  
 
 
-**Sophtar**  
+**The Sophtar: an electroacoustic feedback instrument with embedded algorithms for human-machine improvisation**  
 Federico Visi, Sophtar Instrument, Somax2  
 
 **First Meeting**  
@@ -161,7 +161,7 @@ Heny Zouary, Violin
 
 
 **Activate Cities**  
-NSDOS (Kirikou Des) electro-hack, dance
+NSDOS (Kirikou Des) electro-hack, dance  
 Noam Assayag litterature, voice  
 
 
@@ -213,8 +213,6 @@ Augustin Muller, Ircam
 Oded Ben Tal, Kingston University, London  
 David Dolan, pianist, Guildhall School of Music & Drama London  
 
-**Unity interface to Generative Improvisation Agents**  
-
 **Unity Interfaces for Djazz and Somax: Ludic and Narrative Perspectives on Musical Machine Co-creativity**  
 Daniel Brown, University de Picardie  
 Steve Horowitz, Composer
@@ -226,8 +224,9 @@ Jean-Rémy Guédon, composer, musician
 Gilbert Nouno, Haute Ecole de Musique de Genève (HEM)
 Christophe Fellay, École de design et Haute école d'art du Valais (EDHEA) 
 
-Extense : collective and human-machine agentivity  
+**Extensymbiosis — The Audio–Visually Augmented Trumpet and Multi-modal Corpus-based Synthesis as a Shared Instrument**  
 Nicolas Souchal, Diemo Schwartz, Ircam
+
 
 
 ## Abstracts
@@ -339,6 +338,14 @@ The first research project focuses on improvisation with traditional instruments
 The second research project explores improvisation in a telematic performance. Mikhaïl Malt, in Paris in Studio 5 with the Somax2 environment and generative electronics, interacts live with flutist Cássia Carrascoza Bomfim, located in São Paulo. This configuration serves as a laboratory for examining the creative challenges and opportunities related to network latency, synchronization, and establishing a shared listening experience despite distance. The workshop will highlight strategies developed to transform technical constraints, such as delays and audio artifacts, into compositional and expressive elements.  
 This workshop explores the future of improvisational practice by comparing two experiences: one focused on extending instrumental gesture and the other on delocalizing interaction. It examines how modern technologies are transforming relationships between performers, altering human-machine interactions, and redefining spaces for collective musical creation.
 
+**[Federico Visi](https://www.federicovisi.com)** (Universität der Künste Berlin), **The Sophtar: an electroacoustic feedback instrument with embedded algorithms for human-machine improvisation**
+
+The Sophtar is a tabletop string instrument with an embedded system for digital signal processing, networking, and machine learning. It features an array of actuators and controlled electroacoustic feedback capabilities that can be activated algorithmically by the models running on the embedded computer. These respond to the actions of the player, making the instrument a platform for electroacoustic human-machine improvisation.
+Other features of the Sophtar include a pressure-sensitive fretted neck, two sound boxes, and bespoke interface elements. It combines conventional tactile musical affordances with recent machine learning models and digital signal processing algorithms, which are deeply integrated in the design of the instrument and have a strong influence on how it is played and the way it sounds.
+During this workshop I will presents the instrument and its distinctive techniques, and improvise with different algorithms and models.
+
+
+
 
 ### Lectures
 
@@ -376,6 +383,12 @@ This performance/talk will present an ongoing collaboration between composer Ode
 Cette recherche examine la rencontre entre intelligence artificielle et intuition musicale dans le cadre d'une démarche compositionnelle expérimentale. En mobilisant des outils no-code et des modèles conversationnels de dernière génération (GPT-5, Codex, Claude 4.5), j'ai entrepris d'entraîner l'IA à partir d'un corpus d'œuvres personnelles issues de 25 années de composition pour mon ensemble Archimusic cherchant à lui transmettre mon langage musical singulier – ni tonal ni atonal, d'une polyphonie complexe – afin que l’IA génère des variations respectant cette identité stylistique.
 Au terme de plusieurs mois de recherche ayant mené à la création de quatorze prototypes d'applications musicales, un constat s'impose : un fossé persiste entre le potentiel promis par l'IA et sa réalité compositionnelle. La machine reproduit sans saisir, répète sans intuition véritable.
 Cette conférence présente un bilan à la fois critique et artistique de cette expérience de co-création entre compositeur et algorithme. Elle interroge les notions d'itération, d'intuition et de style algorithmique, et inclut l'audition d'une courte pièce pour clarinette  née de cette collaboration interprétée par Eric Lamberger. Au-delà de l'aspect technique, je souhaite ouvrir une réflexion sur la possibilité d'une « boîte compositionnelle ouverte » : un espace où chaque compositeur pourrait entrer en dialogue avec sa propre mémoire musicale par l'intermédiaire de la machine.
+
+
+**[Nicolas Souchal](https://www.nicolassouchal.fr)**, **[Diemo Schwarz](https://forum.ircam.fr/article/diemo-schwarz-ircam/)** (Ircam), **Extensymbiosis — The Audio–Visually Augmented Trumpet and Multi-modal Corpus-based Synthesis as a Shared Instrument**
+
+We present three technologies for free non-idiomatic audio–visual improvisation, the fruit of long-term research and musical application in performance and compositional contexts. First, corpus-based concatenative synthesis leverages machine listening and allows to play music by selecting  grains from pre- or live-recorded sound via gesture-controlled navigation in a timbre space defined by perceptual audio descriptors. Second, the extension of corpus-based synthesis to the domain of images enables audio–visual improvisation via cross-modal mappings between the audio and visual perceptive dimensions. Third, the audio-augmented trumpet uses the sound of the instrument itself to control sound processing, unlike typical sensor-based augmented instruments. The audio-augmentation is based on real-time sound analysis driving sound processes such as additive synthesis, resonators, and auto-convolution. The main aim of this audio-visually extended trumpet is to explore human/augmented-instrument relationships that introduce unpredictability, navigating between moments of control and moments of adaptation to situations of non-control, which is particularly relevant to the practice of improvisation. We will perform a short piece that combines these three technologies by live-recording the augmented trumpet to feed the corpus-based embodied instrument CataRT, and to control image generation from a corpus of drawings by Elizabeth Saint-Jalmes, creating a symbiotic shared multi-modal instrument.
+
 
 
 <br>
