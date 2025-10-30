@@ -2,9 +2,9 @@ title: Programme
 ---
 
 
-Access to lectures and workshop is free, but reservation is mandatory **[here.]({filename}/pages/Venues.md)**
-Access to Ircam concerts is through Ircam web page.
-Access to Dynamo is through the Dynamo web page.  
+Access to lectures and workshop is free, but reservation is highly recommended **[here.](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025)**
+Access to Ircam concerts is through Ircam web page [Concert 1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail) and [Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail)  
+Access to Dynamo is through the [Dynamo web page](https://www.banlieuesbleues.org/dynamo/).  
 
 
 - [CONCERTS](#december-2-tuesday)
@@ -96,8 +96,8 @@ George Lewis composition
 ### 18:00 IMPROTECH CONCERT #3 at La Dynamo, Pantin
 
 **REACHin' Paris**  
-Steve Lehman, Saxophones  
-Miles Okazaki, Guitar, Somax2 AI Agents  
+[Steve Lehman](https://www.stevelehman.com/), Saxophones  
+[Miles Okazaki](www.milesokazaki.com), Guitar, Somax2 AI Agents  
 The Somax Brothers (Gérard Assayag, Marco FIorini) Somax2 AI Agents  
 
 *This concert follows a Master-Class in the afternoon with the same musicians.*
@@ -214,7 +214,10 @@ Oded Ben Tal, Kingston University, London
 David Dolan, pianist, Guildhall School of Music & Drama London  
 
 **Unity interface to Generative Improvisation Agents**  
+
+**Unity Interfaces for Djazz and Somax: Ludic and Narrative Perspectives on Musical Machine Co-creativity**  
 Daniel Brown, University de Picardie  
+Steve Horowitz, Composer
 
 **Transmettre son style à l'IA : récit d'une collaboration improbable**  
 Jean-Rémy Guédon, composer, musician  
@@ -347,6 +350,10 @@ https://www.univ-paris8.fr/G3S-Generative-Spatial-Synthesis-of-Sound-and-Music-E
 
  
 
+**[Daniel Brown](www.danielbrownmusic.com)** and **[Steve Horowitz](https://www.stevehorowitzmusic.com/)**, **Unity Interfaces for Djazz and Somax: Ludic and Narrative Perspectives on Musical Machine Co-creativity**
+
+We present an interface for controlling Djazz and Somax with Unity. Unity is a video game engine: an environment for creating games, a process that involves the design of many aspects such as visuals, physics, characters, and rules for winning, as well as music. While game engines like Unity traditionally offer linear control of looped playback of prerecorded audio tracks for music design, Unity can also be used as a control interface for generative music systems such as Djazz and Somax. The combination of the systems is appealing: unscripted, dynamically changing musical accompaniments offer richer experiences in video games. Nonetheless, a friction arises between the game engine and the music system, as the relationship of control and interaction is called into question. Are the experiential aspects of game play that are considered ‘meaningful” similar to those in musical improvisation? If so, do the same musical parameters affect these experiential aspects? Should a musical co-improvisation system be used as a musical accompaniment to an extra-musical experience such as a game? Or is this last question misleading: is game play another form of interaction that invites as much co-creativity as direct musical interaction? Two perspectives that let us start answering these questions are the ludic and the narrative; these perspectives have been used in analysis of both music and video games. We will present examples of Unity in combination with Djazz and Somax which illustrate each of these perspectives and suggest methods of further development and exploration into this combination.
+
 **[Pierre Couprie](https://www.pierrecouprie.fr/)** (Evry Paris-Saclay University) **Gestures in Electronic Improvised Music**
 
 This presentation revisits Philippe Descola’s concept of “worlding,” emphasizing the creative process through which improvising musicians construct their own sonic environments. In electronic improvisation, the musician actively develops and refines their instrument, adapting its interfaces and performance techniques, thereby continuously shaping their unique musical world.
@@ -354,8 +361,6 @@ The discussion first examines the role of the instrument in electronic improvisa
 The second key concept, the trace, explores how performance documentation transforms into an artifact. In performance analysis, musicologists work with traces—recordings that capture an event and are subsequently shaped through selection, editing, and mastering. Alessandro Arbo’s distinction between a “recorded-document” and a “recorded-work” is particularly relevant in this context, as recordings of improvisation are not mere reproductions but constructed objects that reflect interpretive choices.
 The final section addresses the complexities of musical gestures in electronic improvisation. Gestures are multifaceted, spanning micro-movements to full-body actions, and serving various functions, from sound production to expressive or auxiliary roles. Some gestures are directly linked to instruments, while others exist internally as mental representations. Moreover, gestures operate across multiple modalities, such as the visual gestures seen in Iannis Xenakis’ scores, which simultaneously function as musical gestures. The definition of gesture varies across disciplines: for musicians, gestures are tied to their instrument and performance setup; for scientists, they are studied in terms of their functional outcomes; for computer scientists, they are examined in relation to sensor-mapping and interaction; and for sociologists and musicologists, they are analyzed within broader performance contexts.
 Given the inherent challenges in defining and analyzing gestures, this presentation introduces the concept of a “gestural chain” or “catena,” drawing from geological metaphors to illustrate how gestures influence and build upon one another in a non-hierarchical structure. This interconnected network of gestures shapes the act of performance, encompassing movements made by the musician, interactions with the instrument, and the perception of these actions by the audience. The presentation is accompanied by audiovisual examples, including an improvisation, as well as a performance where gestures of diffusion are explored within a spatialized orchestration setup. Ultimately, the study of music, particularly in improvisation, is not merely an analysis of sound objects but of the complex web of gestures that bring music into being.
-
-
 
 **[Nicolas Brochec](https://nicolasbrochec.com)**, Tokyo University of the Arts Geidai, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Ircam) **Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction**
 
