@@ -2,7 +2,7 @@ title: Programme
 ---
 
 
-Access to lectures and workshop is free, but reservation is highly recommended **[here.](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025)**
+Access to lectures and workshop is free, but reservation is highly recommended **[here.](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025)**  
 Access to Ircam concerts is through Ircam web page [Concert 1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail) and [Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail)  
 Access to Dynamo is through the [Dynamo web page](https://www.banlieuesbleues.org/dynamo/).  
 
@@ -97,7 +97,7 @@ George Lewis composition
 
 **REACHin' Paris**  
 [Steve Lehman](https://www.stevelehman.com/), Saxophones  
-[Miles Okazaki](www.milesokazaki.com), Guitar, Somax2 AI Agents  
+[Miles Okazaki](https://www.milesokazaki.com), Guitar, Somax2 AI Agents  
 The Somax Brothers (Gérard Assayag, Marco FIorini) Somax2 AI Agents  
 
 *This concert follows a Master-Class in the afternoon with the same musicians.*
