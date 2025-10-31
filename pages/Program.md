@@ -170,7 +170,7 @@ Noam Assayag litterature, voice
 
 **Hypercept ~ quatuor d’improvisation**  
 Gyorgy Kurtag, synthesizers  
-Donatien Garnier, Metagorminx instrument, poetry  
+Donatien Garnier, Metaphorminx instrument, poetry  
 Emmanuelle Pépin, dance
 
 **Sardines**  
