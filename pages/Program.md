@@ -168,10 +168,10 @@ Noam Assayag litterature, voice
 ## December 5 Friday Workshops
 ### 11h - 13h Workshops in Studio 5, Ircam 
 
-**Metagorminx**  
+**Hypercept ~ quatuor d’improvisation**  
 Gyorgy Kurtag, synthesizers  
 Donatien Garnier, Metagorminx instrument, poetry  
-Emmanuelle Pépin, dance  
+Emmanuelle Pépin, dance
 
 **Sardines**  
 Guillaume Piccarreta, synthesizers  
@@ -187,10 +187,10 @@ Ken Deguernel, Université de Lille
 **Generative Spatial Synthesis of Sound and Music (ERC G3S)**  
 Alain Bonardi, Université Paris 8, Emma Frid, Paul Goutmann, Axel Chemla-Romeu-Santos
 
-**Xenakis Reloaded in the age of AI, the case of Psappho**  
-Makis Solomos, Université Paris 8  
+**Somax2 for Live Visual Music: Co-Improvisation with Creative Agents**  
+Sabina Covarrubias, Synesthesic Devices
 
-**Inside Artificial Improvisation (ANR InAI)**  
+**The meaning of « co » in « co-creative »**  
 Pierre Saint-Germier, CNRS, Ircam  
 
 **Gestures in Electronic Improvised Music**  
@@ -329,7 +329,14 @@ The final part of the workshop will be devoted to a discussion and possible ques
 **[Mari Kimura](https://www.marikimura.com/)** (UC Irvine) **MUGIC®: endless possibilities extending musical expression**
 
 MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors available on the market. However, what sets MUGIC® apart is its comprehensive, user-friendly design. Created by violinist and composer Mari Kimura, MUGIC® is a turnkey product that allows musicians to create their art immediately without requiring extensive programming or electrical engineering skills. The first version of MUGIC® sold out following a significant bulk order from the Lincoln Center in NYC this spring. As MUGIC® v.2 is under development, Kimura will demonstrate the importance of fostering a community around new technology and how MUGIC® users are expanding its application not only in music but also in other forms of art and beyond.
-Workshops / Performances Studio 5 du 3 au 5 dec
+
+
+
+**[György Kurtag jr](http://lescomplementaires.free.fr/les_Complementaires/Gyorgy_Kurtag_jr..html), [Emmanuelle Pépin](https://www.7pepiniere.com/), [Donatien Garnier](https://www.la-marelle.org/en-creation/auteurs-autrices/1220-donatien-garnier.html)**, **Hypercept ~ quatuor d’improvisation**
+
+La performance suivie de présentation s’articule autour de la mise en jeu d’un instrument hybride, la MÉTAPHORMINX, implantée dans un grand cep de syrah prélevé au Mas Foulaquier (Pic Saint-Loup). L’électronique comprend un accéléromètre trois axes, un potentiomètre, un capteur de souffle, cinq boutons, un boîtier d’émission-réception. Il interagit à distance, via wifi et des messages midi. Le programme informatique créé spécialement pour ce dispositif par Joseph Larrald. 
+Hypercept est née de la volonté d’explorer la richesse de l’instrument en le déviant de l’objet performatif très écrit pour lequel il a été conçu, de fouiller les registres chorégraphiques, musicaux et verbaux qu’il propose à l’improvisation libre.
+
 
 **[Mikhail Malt](https://www.ircam.fr/person/mikhail-malt)** (Ircam), **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics** 
 
@@ -361,6 +368,14 @@ https://www.univ-paris8.fr/G3S-Generative-Spatial-Synthesis-of-Sound-and-Music-E
 
 We present an interface for controlling Djazz and Somax with Unity. Unity is a video game engine: an environment for creating games, a process that involves the design of many aspects such as visuals, physics, characters, and rules for winning, as well as music. While game engines like Unity traditionally offer linear control of looped playback of prerecorded audio tracks for music design, Unity can also be used as a control interface for generative music systems such as Djazz and Somax. The combination of the systems is appealing: unscripted, dynamically changing musical accompaniments offer richer experiences in video games. Nonetheless, a friction arises between the game engine and the music system, as the relationship of control and interaction is called into question. Are the experiential aspects of game play that are considered ‘meaningful” similar to those in musical improvisation? If so, do the same musical parameters affect these experiential aspects? Should a musical co-improvisation system be used as a musical accompaniment to an extra-musical experience such as a game? Or is this last question misleading: is game play another form of interaction that invites as much co-creativity as direct musical interaction? Two perspectives that let us start answering these questions are the ludic and the narrative; these perspectives have been used in analysis of both music and video games. We will present examples of Unity in combination with Djazz and Somax which illustrate each of these perspectives and suggest methods of further development and exploration into this combination.
 
+**[Oded Ben Tal](https://obental.wixsite.com/main)** (Kingston University), **[David Dolan](https://www.gsmd.ac.uk/staff/professor-david-dolan)** (Guildhall School of Music), **The Odd Couple: Human and AI Making Music in the Moment**
+
+This performance/talk will present an ongoing collaboration between composer Oded Ben-Tal and pianist David Dolan. Ben-Tal has been developing an AI-inspired system (JHAIMI – Joint Human AI Music Improvisation) that ‘listens’ to the pianist (extracting musical data from microphone input) and generates responses in real-time during the performance. The responses combine generative compositional processes on the one hand and real-time musical inferences about the pianist’s improvisation on the other. The aim is to create a strong, sophisticated and nuanced musical dialogue between human and machine. Dolan’s improvisations are based on an expanded tonal-modal idiom but do not conform to a specific musical style nor adhere to a preplanned scheme such as a chord progression, agreed tempo, key, or meter. The result is a new form of musical dialogue, created by the possibilities of new technology and drawing on the wealth of 300 years of music making. Ben-Tal is adjusting parameters in the system during the performance to shape larger-scale aspects, but the moment-to-moment generation of musical material is done automatically by JHAIMI. [See also](https://www.aesthetics.mpg.de/en/newsroom/events/events/article/creative-musical-dialogues-between-human-and-machine-en.html).
+
+**[Nicolas Brochec](https://nicolasbrochec.com)**, Tokyo University of the Arts Geidai, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Ircam) **Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction**
+
+We are going to detail the techniques, methodologies, and outcomes that led to the development of an interactive system based on real-time Instrumental Playing Technique (IPT) recognition. Starting from exploratory studies on the flute, we will discuss soundbank recording, data format, and data augmentation, as well as state-of-the-art machine learning model architectures developed in our research. By connecting our model to the co-creative AI system Somax2, we are able to interact with generative agents by means of real-time recognition of IPT classes, adding a new dimension to its interaction paradigm and addressing potential scenarios of co-creative human-machine interaction in mixed music for improvisation and composition.
+
 **[Pierre Couprie](https://www.pierrecouprie.fr/)** (Evry Paris-Saclay University) **Gestures in Electronic Improvised Music**
 
 This presentation revisits Philippe Descola’s concept of “worlding,” emphasizing the creative process through which improvising musicians construct their own sonic environments. In electronic improvisation, the musician actively develops and refines their instrument, adapting its interfaces and performance techniques, thereby continuously shaping their unique musical world.
@@ -369,20 +384,21 @@ The second key concept, the trace, explores how performance documentation transf
 The final section addresses the complexities of musical gestures in electronic improvisation. Gestures are multifaceted, spanning micro-movements to full-body actions, and serving various functions, from sound production to expressive or auxiliary roles. Some gestures are directly linked to instruments, while others exist internally as mental representations. Moreover, gestures operate across multiple modalities, such as the visual gestures seen in Iannis Xenakis’ scores, which simultaneously function as musical gestures. The definition of gesture varies across disciplines: for musicians, gestures are tied to their instrument and performance setup; for scientists, they are studied in terms of their functional outcomes; for computer scientists, they are examined in relation to sensor-mapping and interaction; and for sociologists and musicologists, they are analyzed within broader performance contexts.
 Given the inherent challenges in defining and analyzing gestures, this presentation introduces the concept of a “gestural chain” or “catena,” drawing from geological metaphors to illustrate how gestures influence and build upon one another in a non-hierarchical structure. This interconnected network of gestures shapes the act of performance, encompassing movements made by the musician, interactions with the instrument, and the perception of these actions by the audience. The presentation is accompanied by audiovisual examples, including an improvisation, as well as a performance where gestures of diffusion are explored within a spatialized orchestration setup. Ultimately, the study of music, particularly in improvisation, is not merely an analysis of sound objects but of the complex web of gestures that bring music into being.
 
-**[Nicolas Brochec](https://nicolasbrochec.com)**, Tokyo University of the Arts Geidai, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Ircam) **Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction**
-
-We are going to detail the techniques, methodologies, and outcomes that led to the development of an interactive system based on real-time Instrumental Playing Technique (IPT) recognition. Starting from exploratory studies on the flute, we will discuss soundbank recording, data format, and data augmentation, as well as state-of-the-art machine learning model architectures developed in our research. By connecting our model to the co-creative AI system Somax2, we are able to interact with generative agents by means of real-time recognition of IPT classes, adding a new dimension to its interaction paradigm and addressing potential scenarios of co-creative human-machine interaction in mixed music for improvisation and composition.
-
-
-
-**[Oded Ben Tal](https://obental.wixsite.com/main)** (Kingston University), **[David Dolan](https://www.gsmd.ac.uk/staff/professor-david-dolan)** (Guildhall School of Music), **The Odd Couple: Human and AI Making Music in the Moment**
-This performance/talk will present an ongoing collaboration between composer Oded Ben-Tal and pianist David Dolan. Ben-Tal has been developing an AI-inspired system (JHAIMI – Joint Human AI Music Improvisation) that ‘listens’ to the pianist (extracting musical data from microphone input) and generates responses in real-time during the performance. The responses combine generative compositional processes on the one hand and real-time musical inferences about the pianist’s improvisation on the other. The aim is to create a strong, sophisticated and nuanced musical dialogue between human and machine. Dolan’s improvisations are based on an expanded tonal-modal idiom but do not conform to a specific musical style nor adhere to a preplanned scheme such as a chord progression, agreed tempo, key, or meter. The result is a new form of musical dialogue, created by the possibilities of new technology and drawing on the wealth of 300 years of music making. Ben-Tal is adjusting parameters in the system during the performance to shape larger-scale aspects, but the moment-to-moment generation of musical material is done automatically by JHAIMI. [See also](https://www.aesthetics.mpg.de/en/newsroom/events/events/article/creative-musical-dialogues-between-human-and-machine-en.html).
+**[Sabine Covarrubias](https://www.sabinacovarrubias.com)** (Synesthesic Devices) **Somax2 for Live Visual Music: Co-Improvisation with Creative Agents**
+Visual music has a rich history, yet live audio-visual (A/V) practice is often limited by fixed control schemes. Within the framework of co-improvised interaction and distributed creativity, we argue that Somax2 offers new perspectives on visual music by organizing audiovisual forms through agents, players, and influences that operate in real time. Instead of treating the image as a passive display, we use Somax2’s multi-agent capabilities and corpus-level tools—Regions, Filter, and Atom—to structure performance and support emergent and cohesive behaviors across media.
+We outline practice-ready configurations in which: (i) internal and external influences, peaks/matches, and reactive/continuous modes shape local and global form, (ii) continuity, quality/sparse, probability, and beat alignment provide macro-temporal control suitable for large-scale audiovisual structures, and (iii) musical information dynamics, including information rate, function as analysis and design principles during performance. In this context, the strategies of dialogue, enrichment, convergence, and divergence employed by the agents become visible and audible as co-creative phenomena rather than predetermined mappings.
+We also propose lightweight documentation via state indices, matches, and region activity to evaluate perceived agency and formal clarity ex post facto. Overall, our contribution redefines Somax2's role in visual music, positioning it not as a unidirectional driver but as an operational framework for co-creativity in live, improvised audiovisual performances. This approach aligns with REACH's objectives for creative agents and multi-timescale adaptation.
 
 **[Jean-Rémy Guédon](https://www.letriton.com/artistes/compagnons/jean-remy-guedon-478)** (ArchiMusic) **Transmettre son style à l'IA : récit d'une collaboration improbable**.
 
 Cette recherche examine la rencontre entre intelligence artificielle et intuition musicale dans le cadre d'une démarche compositionnelle expérimentale. En mobilisant des outils no-code et des modèles conversationnels de dernière génération (GPT-5, Codex, Claude 4.5), j'ai entrepris d'entraîner l'IA à partir d'un corpus d'œuvres personnelles issues de 25 années de composition pour mon ensemble Archimusic cherchant à lui transmettre mon langage musical singulier – ni tonal ni atonal, d'une polyphonie complexe – afin que l’IA génère des variations respectant cette identité stylistique.
 Au terme de plusieurs mois de recherche ayant mené à la création de quatorze prototypes d'applications musicales, un constat s'impose : un fossé persiste entre le potentiel promis par l'IA et sa réalité compositionnelle. La machine reproduit sans saisir, répète sans intuition véritable.
 Cette conférence présente un bilan à la fois critique et artistique de cette expérience de co-création entre compositeur et algorithme. Elle interroge les notions d'itération, d'intuition et de style algorithmique, et inclut l'audition d'une courte pièce pour clarinette  née de cette collaboration interprétée par Eric Lamberger. Au-delà de l'aspect technique, je souhaite ouvrir une réflexion sur la possibilité d'une « boîte compositionnelle ouverte » : un espace où chaque compositeur pourrait entrer en dialogue avec sa propre mémoire musicale par l'intermédiaire de la machine.
+
+
+**[Pierre Saint-germier](https://www.stms-lab.fr/person/pierre-saint-germier)** (CNRS) **The meaning of « co » in « co-creative »**
+
+It is increasingly common for researchers in the field of computational creativity to substitute the question of co-creativity for the question of creativity. The common pattern of reasoning seems to be that creativity requires agency, computational machines lack agency, and therefore cannot be creative on their own. So we should look instead for ways to be creative WITH computational machines, rather than trying to design creative ones. But if computational machines lack agency, and a fortiori creativity, how can you be CO-creative with them? If co-creativity is to be a viable substitute for creativity, some explanation is in order regarding the meaning of « co ». One way to approach this question is to look for a theory of distributed creativity, taking traction from similar efforts in the theory of distributed agency and the theory of distributed cognition, as developed in the fields of philosophy, anthropology, and cognitive science. The presentation will propose some preliminary results in this research taking the case of Somax as a running example.
 
 
 **[Nicolas Souchal](https://www.nicolassouchal.fr)**, **[Diemo Schwarz](https://forum.ircam.fr/article/diemo-schwarz-ircam/)** (Ircam), **Extensymbiosis — The Audio–Visually Augmented Trumpet and Multi-modal Corpus-based Synthesis as a Shared Instrument**
