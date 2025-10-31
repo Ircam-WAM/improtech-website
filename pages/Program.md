@@ -181,8 +181,8 @@ Raphaël Forment, Rémi Georges, live coding
 ## December 4 Thursday Lectures
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
-**Méthodes Co-Créatives pour des Partenariats Musicaux Humain-IA de Longue Durée  (ANR MICCDroP)**  
-Ken Deguernel, Université de Lille  
+**Mixed Initiative Co-Creative Design for Long-Term Human-AI Musical Partnership**
+Ken Deguernel, CNRS, Laboratoire CRISTAL, Lille 
 
 **Generative Spatial Synthesis of Sound and Music (ERC G3S)**  
 Alain Bonardi, Université Paris 8, Emma Frid, Paul Goutmann, Axel Chemla-Romeu-Santos
@@ -356,13 +356,10 @@ During this workshop I will presents the instrument and its distinctive techniqu
 
 ### Lectures
 
-**Alain Bonardi** (Université Paris 8), **Emma Frid, Paul Goutmann, Axel Chemla-Romeu-Santos**, **Generative Spatial Synthesis of Sound and Music (ERC G3S)**
+**[Alain Bonardi](https://musidanse.univ-paris8.fr/alain-bonardi), [Emma Frid](https://emmenru.github.io/), [Paul Goutmann](https://musidanse.univ-paris8.fr/paul-goutmann), [Axel Chemla-Romeu-Santos]( https://domkirke.github.io/)** (Université Paris 8 – CICM / MUSIDANSE – [Projet ERC AdG G3S](https://www.univ-paris8.fr/G3S-Generative-Spatial-Synthesis-of-Sound-and-Music-ERC-Advanced-Grant)) **Generative Spatial Synthesis of Sound and Music (ERC G3S)**
  
-While the industrial markets for 3D audio and artificial intelligence in music are expanding rapidly worldwide, the spatial qualities of sound are still an unthought-of aspect of AI. In practice, spatial audio is generally carried out in post-production and is usually confined to the spatialization of sound and the acoustic modelling of rooms. The aim of the G3S project is to propose new ways of creating, modelling and analyzing sound by natively integrating its spatial dimension. We want to extend the theoretical and practical approach to spatial diffusion, whether with loudspeakers or headphones, by using the generative capabilities of artificial learning. 
- 
-https://www.univ-paris8.fr/G3S-Generative-Spatial-Synthesis-of-Sound-and-Music-ERC-Advanced-Grant
+While the industrial markets for 3D audio and artificial intelligence in music are expanding rapidly worldwide, the spatial qualities of sound are still an unthought-of aspect of AI. In practice, spatial audio is generally carried out in post-production and is usually confined to the spatialization of sound and the acoustic modelling of rooms. The aim of the G3S project is to propose new ways of creating, modelling and analyzing sound by natively integrating its spatial dimension. We want to extend the theoretical and practical approach to spatial diffusion, whether with loudspeakers or headphones, by using the generative capabilities of artificial learning.  
 
- 
 
 **[Daniel Brown](www.danielbrownmusic.com)** and **[Steve Horowitz](https://www.stevehorowitzmusic.com/)**, **Unity Interfaces for Djazz and Somax: Ludic and Narrative Perspectives on Musical Machine Co-creativity**
 
@@ -384,10 +381,18 @@ The second key concept, the trace, explores how performance documentation transf
 The final section addresses the complexities of musical gestures in electronic improvisation. Gestures are multifaceted, spanning micro-movements to full-body actions, and serving various functions, from sound production to expressive or auxiliary roles. Some gestures are directly linked to instruments, while others exist internally as mental representations. Moreover, gestures operate across multiple modalities, such as the visual gestures seen in Iannis Xenakis’ scores, which simultaneously function as musical gestures. The definition of gesture varies across disciplines: for musicians, gestures are tied to their instrument and performance setup; for scientists, they are studied in terms of their functional outcomes; for computer scientists, they are examined in relation to sensor-mapping and interaction; and for sociologists and musicologists, they are analyzed within broader performance contexts.
 Given the inherent challenges in defining and analyzing gestures, this presentation introduces the concept of a “gestural chain” or “catena,” drawing from geological metaphors to illustrate how gestures influence and build upon one another in a non-hierarchical structure. This interconnected network of gestures shapes the act of performance, encompassing movements made by the musician, interactions with the instrument, and the perception of these actions by the audience. The presentation is accompanied by audiovisual examples, including an improvisation, as well as a performance where gestures of diffusion are explored within a spatialized orchestration setup. Ultimately, the study of music, particularly in improvisation, is not merely an analysis of sound objects but of the complex web of gestures that bring music into being.
 
-**[Sabine Covarrubias](https://www.sabinacovarrubias.com)** (Synesthesic Devices) **Somax2 for Live Visual Music: Co-Improvisation with Creative Agents**
+**[Sabina Covarrubias](https://www.sabinacovarrubias.com)** (Synesthesic Devices) **Somax2 for Live Visual Music: Co-Improvisation with Creative Agents**
+
 Visual music has a rich history, yet live audio-visual (A/V) practice is often limited by fixed control schemes. Within the framework of co-improvised interaction and distributed creativity, we argue that Somax2 offers new perspectives on visual music by organizing audiovisual forms through agents, players, and influences that operate in real time. Instead of treating the image as a passive display, we use Somax2’s multi-agent capabilities and corpus-level tools—Regions, Filter, and Atom—to structure performance and support emergent and cohesive behaviors across media.
 We outline practice-ready configurations in which: (i) internal and external influences, peaks/matches, and reactive/continuous modes shape local and global form, (ii) continuity, quality/sparse, probability, and beat alignment provide macro-temporal control suitable for large-scale audiovisual structures, and (iii) musical information dynamics, including information rate, function as analysis and design principles during performance. In this context, the strategies of dialogue, enrichment, convergence, and divergence employed by the agents become visible and audible as co-creative phenomena rather than predetermined mappings.
 We also propose lightweight documentation via state indices, matches, and region activity to evaluate perceived agency and formal clarity ex post facto. Overall, our contribution redefines Somax2's role in visual music, positioning it not as a unidirectional driver but as an operational framework for co-creativity in live, improvised audiovisual performances. This approach aligns with REACH's objectives for creative agents and multi-timescale adaptation.
+
+**[Ken Deguernel](deguernel.discordia.fr)** (CNRS, Laboratoire CRISTAL, Lille) **Mixed Initiative Co-Creative Design for Long-Term Human-AI Musical Partnership**
+
+Current Mixed Initiative Co-Creative systems (MICC) have opened new avenues in music generation. These systems facilitate novel creative processes and modes of interactions. However, these systems lack the ability for long-term adaptation between user and machine. Current ways of adapting are either unilateral, where the user adaptively learns to operate the AI system, or self-engineered, where musician-engineers modify their own systems over time.
+The recently started ANR research project MICCDroP: Mixed Initiative Co-Creative Design for Long-Term Human-AI Musical Partnership aims to address this limitation by developing AI systems for music performance based on lifelong learning, with a focus on adaptation and personalisation. These systems will allow us to explore the evolution of human-AI partnerships using ethnographic studies and creativity theory, as well as conduct artistic experimentations and live performances to inform future research directions.
+In this presentation, I will introduce the theoretical and practical underpinnings of the project, as well as its future prospects.
+
 
 **[Jean-Rémy Guédon](https://www.letriton.com/artistes/compagnons/jean-remy-guedon-478)** (ArchiMusic) **Transmettre son style à l'IA : récit d'une collaboration improbable**.
 
