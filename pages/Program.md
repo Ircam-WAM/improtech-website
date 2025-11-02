@@ -190,7 +190,7 @@ Alain Bonardi, Université Paris 8, Emma Frid, Paul Goutmann, Axel Chemla-Romeu-
 Sabina Covarrubias, Synesthesic Devices
 
 **Composition and improvisation in contemporary opera**  
-Sivan Eldar, composer, Jean-Louis Giavitto, CNRS Ircam, ugustin Muller, Ircam   
+Sivan Eldar, composer, Jean-Louis Giavitto, CNRS Ircam, Augustin Muller, Ircam, Le Balcon 
 
 **Gestures in Electronic Improvised Music**  
 Pierre Couprie, Evry Paris-Saclay University
@@ -355,11 +355,11 @@ MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors availa
 Tamami Tono, Sho, Minako Ito, dance, Mari Kimura, violin  
 
 
-**[NSDOS]()** (musician, hacker, choreographer), **[Noam Assayag]()** (writer, translator, collagist) **Activate Cities: Urban Inspiration and Live-coding**
+**[NSDOS](https://villa-albertine.org/va/fr/residents/nsdos-2/)** (musician, hacker, choreographer), **[Noam Assayag](https://alphabetville.org/noam-assayag/)** (writer, translator, collagist) **Activate Cities: Urban Inspiration and Live-coding**
 
 In this workshop, the two artists will perform a fragment of their joint project, Activate Cities, where ambient music is woven around the pages of a manual of techniques for urban attention and inspiration. Attendees will explore the artistic dimension of "a cellular automaton" and the ability to live-code music with the open-source software Orca.  
 Just as the machine evolves from an initial set of parameters, we can inject prompts and constraints—even in a simple walk, for example with an altered deck of cards—to step outside of our automatisms and notice things that may have otherwise escaped us. Between attention and intention, this gleaning of sensations, snapshots, and words from the street inspires the musical session that transforms these gleanings "into something rich and strange.  
-https://circadian.co/product/activate-cities/
+[Activate Cities Project](https://circadian.co/product/activate-cities/), [Insta Norkhat](https://www.instagram.com/norkhat/), [Insta NSDOS](https://www.instagram.com/koodes_k/)
 
 
 **[Tamami Tono](https://lit.link/tamamitono)** (Sho Player), **[Atsushi Tadokoro](https://tadokoroatsushi.com/about)** (Maebashi Institute of Technology) **Breathing Media Projects featuring 1000+Yr old traditional Gagaku music reimagined with cutting-edge sensors technology**
@@ -444,7 +444,7 @@ The recently started ANR research project MICCDroP: Mixed Initiative Co-Creative
 In this presentation, I will introduce the theoretical and practical underpinnings of the project, as well as its future prospects.
 
 
-**[Sivan Eldar](https://www.sivaneldar.com/)** (composer), **[Jean-Louis Giavitto](http://repmus.ircam.fr/giavitto)** (CNRS Ircam), **[Augustin Muller](https://www.lebalcon.com/fr/people/muller)** (Ircam), **Composition and improvisation in contemporary opera**
+**[Sivan Eldar](https://www.sivaneldar.com/)** (composer), **[Jean-Louis Giavitto](http://repmus.ircam.fr/giavitto)** (CNRS Ircam), **[Augustin Muller](https://www.lebalcon.com/fr/people/muller)** (Ircam, Le Balcon), **Composition and improvisation in contemporary opera**
 
 This presentation addresses the issue of synchronization between electronics and instrumentalists in contemporary opera, focusing in particular on the technical and aesthetic challenges of integrating real time, distributed control, and sound spatialization. Two works, Like Flesh (Fedora Prize for Digital Innovation, 2022) and Nine Jewelled Dear (Aix-en-Provence Festival, 2025), will provide a concrete opportunity to address the tensions between fixed writing and improvisation, strategies for coordination between instrumental scores and electronic devices, as well as the perspectives opened up by the reactive music programming tools developed at IRCAM to make electronics expressive and lively by integrating human musical time into the heart of the concert.
 
