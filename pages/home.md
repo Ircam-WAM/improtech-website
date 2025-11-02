@@ -40,6 +40,13 @@ A special dedicace this year is for **George Lewis** composer, pioneer of musica
 
 The **Who/Men** from Ircam (Marco Fiorini, Mikhail Malt, Gérard Assayag, Manuel Poletti) along with **Marc Chemillier** and **Sylvain Cadars** will create a sonic space thanks to the cocreative AI tools from the [REACH](https://reach.ircam.fr) project.
 
+<br>
+<p align="center">
+  <img src="./images/GroupMusicians2.png" width="1200">
+</p>
+<br>
+
+
 Workshops and performances will see the **Spat'Sonore**, a vast, sprawling instrument with ramifications like “climbing plants in copper tubes topped with corolla pavilions, new instruments like **Federico Visi** Sophtar, International Contemporary Ensemble vibrant percussionist **Levy Lorenzo**, Sheng Master **Li Chin Li**, soulful guitarist **Alain Blesing** with flutist **Claudie Boucau**, the great flautist **Cassia Carrascoza Bomfim** in a telematic performance from Brazil and many others, the dadaist *Batterie Fragile* (Fragile Drum) made of porcelaine by plastician **Yves Chaudouët** interacting with musicians and generative electronics, Live Coders and electronic artists **Raphaël Forment**, **Rémi Georges**, **Guillaume Piccaretta**, **Atsushi Tadokoro** and several other stunning artists and researchers.
 
 Workshops and lectures will cover a vast panorama of advanced machine learning and machine listening, gestural and spatial control, software environments, Creative Artificial Intelligence, including inevitable esthetical and epistemological questions.
