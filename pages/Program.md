@@ -11,7 +11,7 @@ Access to Dynamo is through the [Dynamo web page](https://www.banlieuesbleues.or
 - [INSTALLATIONS-PERFORMANCES](#december-6-saturday)
 - [WORKSHOPS](#december-3-wednesday-workshops)
 - [LECTURES](#december-4-thursday-lectures)
-- Notes and abstracts : [CONCERTS](#abstracts), [Workshops](#workshops), [Installations-Performances](#installations-performances], [Lectures](#lectures) 
+- Notes and abstracts : [CONCERTS](#abstracts), [Workshops](#workshops), [Installations-Performances](#installations-performances), [Lectures](#lectures) 
 
 
 
