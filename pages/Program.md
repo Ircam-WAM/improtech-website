@@ -176,8 +176,6 @@ Guillaume Piccarreta, synthesizers
 Raphaël Forment, Rémi Georges, live coding
 
 
-
-
 ## December 4 Thursday Lectures
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
@@ -368,7 +366,7 @@ Tamami Tono, sho; Atsushi Tadokoro, visuals - [Breathing Media Project](https://
 This workshop describes the musical and technical process for presenting a new work Pliages at Carnegie Hall, that uses Boulez's Pli Selon Pli No. 3 as musical training material for corpuses for Somax2.  The work is an improvisation for Somax2 and members of the International Contemporary Ensemble (Voice, Harp, Piano, Percussions, Electronics).  The presenter, Levy Lorenzo, will present work to offer consideration between manual vs automatic music, as well as embodied and disembodied performance.
 
 
-**[György Kurtag jr](http://lescomplementaires.free.fr/les_Complementaires/Gyorgy_Kurtag_jr..html), [Emmanuelle Pépin](https://www.7pepiniere.com/), [Donatien Garnier](https://www.la-marelle.org/en-creation/auteurs-autrices/1220-donatien-garnier.html)**, **Hypercept ~ quatuor d’improvisation**
+**[György Kurtag jr](http://lescomplementaires.free.fr/les_Complementaires/Gyorgy_Kurtag_jr..html)** (Synthetiseurs), **[Emmanuelle Pépin](https://www.7pepiniere.com/)** (Danseuse), **[Donatien Garnier](https://www.la-marelle.org/en-creation/auteurs-autrices/1220-donatien-garnier.html)** (Poète, concepteur) **Hypercept ~ quatuor d’improvisation**
 
 La performance suivie de présentation s’articule autour de la mise en jeu d’un instrument hybride, la MÉTAPHORMINX, implantée dans un grand cep de syrah prélevé au Mas Foulaquier (Pic Saint-Loup). L’électronique comprend un accéléromètre trois axes, un potentiomètre, un capteur de souffle, cinq boutons, un boîtier d’émission-réception. Il interagit à distance, via wifi et des messages midi. Le programme informatique créé spécialement pour ce dispositif par Joseph Larrald. 
 Hypercept est née de la volonté d’explorer la richesse de l’instrument en le déviant de l’objet performatif très écrit pour lequel il a été conçu, de fouiller les registres chorégraphiques, musicaux et verbaux qu’il propose à l’improvisation libre.
@@ -380,6 +378,11 @@ This workshop highlights two research-creation projects that explore new frontie
 The first research project focuses on improvisation with traditional instruments and artificial intelligence. Li-Chin Li plays the sheng (Chinese mouth organ) in interaction with the Somax2 interactive system. This system, capable of learning and responding in real time, becomes a full-fledged improvisational partner. We will show how the combination of the ancestral gesture of the sheng with the generative responses of the machine opens up a field of hybrid sound exploration, combining tradition and innovation.  
 The second research project explores improvisation in a telematic performance. Mikhaïl Malt, in Paris in Studio 5 with the Somax2 environment and generative electronics, interacts live with flutist Cássia Carrascoza Bomfim, located in São Paulo. This configuration serves as a laboratory for examining the creative challenges and opportunities related to network latency, synchronization, and establishing a shared listening experience despite distance. The workshop will highlight strategies developed to transform technical constraints, such as delays and audio artifacts, into compositional and expressive elements.  
 This workshop explores the future of improvisational practice by comparing two experiences: one focused on extending instrumental gesture and the other on delocalizing interaction. It examines how modern technologies are transforming relationships between performers, altering human-machine interactions, and redefining spaces for collective musical creation.
+
+**Yohann Rabearivelo** (EHESS, Ircam), **Ulysse Roussel** (Sorbonne Université), **Martin Mahieu**, **Heny Zouari** (Violon) **TikTok Djam**
+
+Ce dispositif explore la co-créativité en ligne et hors-ligne en faisant dialoguer des musiciens avec le logiciel Djazz autour de la recommandation algorithmique de la plateforme TikTok.
+En prenant comme source le contenu en ligne ou streamé en live sur la plateforme et le son généré par les musiciens, le logiciel Djazz devient l’intermédiaire et le modérateur entre musique improvisée et musique recommandée algorithmiquement en temps réel. Ainsi il génère à son tour de nouvelles recombinaisons improvisées afin de créer de nouveaux patterns sonores à partir des diverses sources. L’algorithme de TikTok est préalablement calibré pour proposer à l’utilisateur du contenu majoritairement musical. L’écran du smartphone est projeté sur un écran. Les vidéos défilent et leur son est enregistré dans Djazz recombinant le contenu enregistré, sa mémoire et les musiciens invités sur scène. L’ensemble est retransmis en direct sur TikTok.
 
 **[Federico Visi](https://www.federicovisi.com)** (Universität der Künste Berlin), **The Sophtar: an electroacoustic feedback instrument with embedded algorithms for human-machine improvisation**
 
@@ -435,12 +438,6 @@ In this presentation, I will introduce the theoretical and practical underpinnin
 Cette recherche examine la rencontre entre intelligence artificielle et intuition musicale dans le cadre d'une démarche compositionnelle expérimentale. En mobilisant des outils no-code et des modèles conversationnels de dernière génération (GPT-5, Codex, Claude 4.5), j'ai entrepris d'entraîner l'IA à partir d'un corpus d'œuvres personnelles issues de 25 années de composition pour mon ensemble Archimusic cherchant à lui transmettre mon langage musical singulier – ni tonal ni atonal, d'une polyphonie complexe – afin que l’IA génère des variations respectant cette identité stylistique.
 Au terme de plusieurs mois de recherche ayant mené à la création de quatorze prototypes d'applications musicales, un constat s'impose : un fossé persiste entre le potentiel promis par l'IA et sa réalité compositionnelle. La machine reproduit sans saisir, répète sans intuition véritable.
 Cette conférence présente un bilan à la fois critique et artistique de cette expérience de co-création entre compositeur et algorithme. Elle interroge les notions d'itération, d'intuition et de style algorithmique, et inclut l'audition d'une courte pièce pour clarinette  née de cette collaboration interprétée par Eric Lamberger. Au-delà de l'aspect technique, je souhaite ouvrir une réflexion sur la possibilité d'une « boîte compositionnelle ouverte » : un espace où chaque compositeur pourrait entrer en dialogue avec sa propre mémoire musicale par l'intermédiaire de la machine.
-
-
-**Yohann Rabearivelo** (EHESS, Ircam), **Ulysse Roussel** (Sorbonne Université), **Martin Mahieu**, **Heny Zouari** (Violon) **TikTok Djam**
-
-Ce dispositif explore la co-créativité en ligne et hors-ligne en faisant dialoguer des musiciens avec le logiciel Djazz autour de la recommandation algorithmique de la plateforme TikTok.
-En prenant comme source le contenu en ligne ou streamé en live sur la plateforme et le son généré par les musiciens, le logiciel Djazz devient l’intermédiaire et le modérateur entre musique improvisée et musique recommandée algorithmiquement en temps réel. Ainsi il génère à son tour de nouvelles recombinaisons improvisées afin de créer de nouveaux patterns sonores à partir des diverses sources. L’algorithme de TikTok est préalablement calibré pour proposer à l’utilisateur du contenu majoritairement musical. L’écran du smartphone est projeté sur un écran. Les vidéos défilent et leur son est enregistré dans Djazz recombinant le contenu enregistré, sa mémoire et les musiciens invités sur scène. L’ensemble est retransmis en direct sur TikTok.
 
 
 **[Pierre Saint-germier](https://www.stms-lab.fr/person/pierre-saint-germier)** (CNRS) **The meaning of « co » in « co-creative »**
