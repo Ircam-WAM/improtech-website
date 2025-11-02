@@ -77,7 +77,7 @@ Marc Chemillier AI-Agents Djazz
 [NSDOS](https://villa-albertine.org/va/residents/nsdos/) electronic hack, live coding, dance  
 
 **NaN - Not a Number**  
-[Alberto Gatti](https://calls.ircam.fr/profiles/individual/30106/) composition, immersive electronics, AI-Agents Somax2  
+[Alberto Maria Gatti](https://calls.ircam.fr/profiles/individual/30106/) composition, immersive electronics, AI-Agents Somax2  
 [Anaïs del Sordo](https://www.ircam.fr/article/alberto-gatti-re-sounding-bodies-anais-del-sordo-44) voice  
 
 **in memoriam Susan Alcorn**  
@@ -120,22 +120,22 @@ Somax Brothers, AI Agents Somax2 / Somax2Collider
 
 ## December 3 Wednesday Workshops
 
-### 10h - 13h Workshop *Resounding Bodies*  in Studio 2, Ircam  
+### 10h - 13h Workshop *Resounding Bodies in Space*  in Studio 2, Ircam  
 
-Alberto Gatti, composer, designer  
+Alberto Maria Gatti, composer, designer  
 Anaïs del Sordo, voice, body harness  
-Marco Fiorini Spatial Agents Somax2  
+Marco Fiorini Guitar, Spatial Agents Somax2  
 
 ### 14h - 19h Workshops in Studio 5, Ircam 
 
-**Breathing Media Project**  
+**Breathing Media Projects featuring 1000+Yr old traditional Gagaku music reimagined with cutting-edge sensors technology**  
 Tamami Tono, Sho  
-Minako Ito, Bugaku dance  
 Atsushi Todokoro, video  
 
 **Mugic Magic**  
 Mari Kimura, Mugic sensors, violon  
-
+Tamami Tono, Sho  
+Minako Ito, Bugaku dance  
 
 **The Sophtar: an electroacoustic feedback instrument with embedded algorithms for human-machine improvisation**  
 Federico Visi, Sophtar Instrument, Somax2  
@@ -147,18 +147,16 @@ Claudie Boucau, flutes
 ## December 4 Thursday Workshops
 ### 14h - 19h Workshops in Studio 5, Ircam 
 
-**Boulez Rebooted and other projects**  
-Levy Lorenzo, percussion, live electronics, somax2
+**AI at Carnegie Hall and Electronic Instrument Design**  
+Levy Lorenzo, percussion and electronics
 
 **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics** 
 Mikhail Malt, Somax2, live electronics, telematics  
 Cassia Carrascoza, flute, telematics  
 Li Chin Li, sheng  
 
-** DjazzTok  **  
-Yohann Rabearivelo, AI Agents Djazz, TikTok, Video  
-Heny Zouary, Violin  
-
+** TikTok Djam **  
+Yohann Rabearivelo (Doctorant Reach), Ulysse Roussel (Doctorant), Martin Mahieu, Heny Zouari (Violon)
 
 **Activate Cities**  
 NSDOS (Kirikou Des) electro-hack, dance  
@@ -178,6 +176,8 @@ Guillaume Piccarreta, synthesizers
 Raphaël Forment, Rémi Georges, live coding
 
 
+
+
 ## December 4 Thursday Lectures
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
@@ -190,8 +190,8 @@ Alain Bonardi, Université Paris 8, Emma Frid, Paul Goutmann, Axel Chemla-Romeu-
 **Somax2 for Live Visual Music: Co-Improvisation with Creative Agents**  
 Sabina Covarrubias, Synesthesic Devices
 
-**The meaning of « co » in « co-creative »**  
-Pierre Saint-Germier, CNRS, Ircam  
+**Like Flesh, Nine Jewel Deers, composition and improvisation**  
+Sivan Eldar, composer, Jean-Louis Giavitto, CNRS Ircam, ugustin Muller, Ircam   
 
 **Gestures in Electronic Improvised Music**  
 Pierre Couprie, Evry Paris-Saclay University
@@ -204,10 +204,6 @@ Marco Fiorini, Ircam, Collegium Musicae
 ## December 5 Friday lectures
 ### 14h - 19h Lectures in Stravinsky hall, Ircam
 
-**Like Flesh, Nine Jewel Deers, composition and improvisation**  
-Sivan Eldar, composer  
-Jean-Louis Giavitto, CNRS Ircam  
-Augustin Muller, Ircam   
 
 **The Odd Couple - Human & AI Making Music in the Moment**  
 Oded Ben Tal, Kingston University, London  
@@ -226,6 +222,11 @@ Christophe Fellay, École de design et Haute école d'art du Valais (EDHEA)
 
 **Extensymbiosis — The Audio–Visually Augmented Trumpet and Multi-modal Corpus-based Synthesis as a Shared Instrument**  
 Nicolas Souchal, Diemo Schwartz, Ircam
+
+**The meaning of « co » in « co-creative »**  
+Pierre Saint-Germier, CNRS, Ircam  
+
+
 
 
 
@@ -325,11 +326,46 @@ We will propose a work based on excerpts from the 12 Notations for Piano, a cycl
 A second part will feature a longer performance, both solo and duet. This performance will involve Somax 2 in addition to the two musicians, in various playing modes. 
 The final part of the workshop will be devoted to a discussion and possible questions.
 
+**[Alberto Maria Gatti](https://calls.ircam.fr/profiles/individual/30106/)** (Composer, designer), **[Anaïs del Sordo](https://www.ircam.fr/article/alberto-gatti-re-sounding-bodies-anais-del-sordo-44)** (Voice), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Guitar, Somax2 AI AGents), **Resounding Bodies in Space**
 
-**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine) **MUGIC®: endless possibilities extending musical expression**
+This workshop-performance on Audio-Tactile Listening & 3D Spatialization invites participants to explore a gentle convergence of touch and sound in space. A multimodal harness, combining vibrating transducers and bone conduction, works alongside Somax2 and Spatial Agents to shape responsive, real-time interactions. The
+system processes audio on the fly, adapts material for the transducers, and coordinates diffusion
+between the harness and an ambisonics system. Through microphone input and motion capture, participants can subtly guide the flow and trajectories of sound. The session opens a space to reflect, through practice, on the relationship between audio-tactile perception and spatial composition, touching on assisted improvisation and multimodal diffusion.  
+Format  
+• Each hour features three active stations with   
+  2. Guided spatial listening within the 3D field  
+  3. Interactive control with microphone + motion capture (harness + ambisonics)   
+• The three stations are designed for three individual participants (one per station) per slot; auditors are welcome to attend and listen.  
+• The session includes short improvisations by the performers, with opportunities for participant interaction.  
+• We close with a Q&A on spatial improvisation, multimodal diffusion, and artistic/technical
+insights.  
+Who it’s for:  
+Artists, musicians, sound designers, researchers, and curious listeners interested in embodied
+listening, interactive spatial audio, and performance-driven research. 
 
-MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors available on the market. However, what sets MUGIC® apart is its comprehensive, user-friendly design. Created by violinist and composer Mari Kimura, MUGIC® is a turnkey product that allows musicians to create their art immediately without requiring extensive programming or electrical engineering skills. The first version of MUGIC® sold out following a significant bulk order from the Lincoln Center in NYC this spring. As MUGIC® v.2 is under development, Kimura will demonstrate the importance of fostering a community around new technology and how MUGIC® users are expanding its application not only in music but also in other forms of art and beyond.
 
+**[Mari Kimura](https://www.marikimura.com/)** (UC Irvine), **[Tamami Tono](https://lit.link/tamamitono)** (Sho Player), **[Minako Ito](https://nagasm.org/ASL/RRR07/fig7/BreathingMedia.pdf)** (Bugaku Dancer) **MUGIC® Magic**
+
+MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors available on the market. However, what sets MUGIC® apart is its comprehensive, user-friendly design. Created by violinist and composer Mari Kimura, MUGIC® is a turnkey product that allows musicians to create their art immediately without requiring extensive programming or electrical engineering skills. The first version of MUGIC® sold out following a significant bulk order from the Lincoln Center in NYC this spring. As MUGIC® v.2 is under development, Kimura will demonstrate the importance of fostering a community around new technology and how MUGIC® users are expanding its application not only in music but also in other forms of art and beyond.  
+1) Demonstration and Workshop by Mari Kimura  
+2) SOMAXMOBILE for violin, SOMAX, MUGIC®  
+3) “Genjyoraku" (還城楽), traditional Gagaku with MUGIC®  
+Tamami Tono, Sho, Minako Ito, dance, Mari Kimura, violin  
+
+
+**[Tamami Tono](https://lit.link/tamamitono)** (Sho Player), **[Atsushi Tadokoro](https://tadokoroatsushi.com/about)** (Maebashi Institute of Technology) **Breathing Media Projects featuring 1000+Yr old traditional Gagaku music reimagined with cutting-edge sensors technology**
+
+１）“Hyojyo no Choushi” (平調 調子), traditional Gagaku: Tamami Tono, Sho Solo  
+２）Sho and IBUKI, breath controller demo  
+３）Tamami Tono: “dinergy 4“ for interactive audio/video: Tamami Tono, Sho, Atsushi Tadokoro, computer graphics  
+４）”Etenraku" (越天楽), traditional Gagaku:  Tamami Tono, Sho, Mari Kimura, violin, Atsushi Tadokoro, with Live cording  
+５）Atsushi Tadokoro audio visual Solo  
+Tamami Tono, sho; Atsushi Tadokoro, visuals - [Breathing Media Project](https://nagasm.org/ASL/RRR07/fig7/BreathingMedia.pdf)
+
+
+**[Levy Lorenzo](https://levylorenzo.com/about.html)** (Percussion & electronics) **AI at Carnegie Hall and Electronic Instrument Design**
+
+This workshop describes the musical and technical process for presenting a new work Pliages at Carnegie Hall, that uses Boulez's Pli Selon Pli No. 3 as musical training material for corpuses for Somax2.  The work is an improvisation for Somax2 and members of the International Contemporary Ensemble (Voice, Harp, Piano, Percussions, Electronics).  The presenter, Levy Lorenzo, will present work to offer consideration between manual vs automatic music, as well as embodied and disembodied performance.
 
 
 **[György Kurtag jr](http://lescomplementaires.free.fr/les_Complementaires/Gyorgy_Kurtag_jr..html), [Emmanuelle Pépin](https://www.7pepiniere.com/), [Donatien Garnier](https://www.la-marelle.org/en-creation/auteurs-autrices/1220-donatien-garnier.html)**, **Hypercept ~ quatuor d’improvisation**
@@ -399,6 +435,12 @@ In this presentation, I will introduce the theoretical and practical underpinnin
 Cette recherche examine la rencontre entre intelligence artificielle et intuition musicale dans le cadre d'une démarche compositionnelle expérimentale. En mobilisant des outils no-code et des modèles conversationnels de dernière génération (GPT-5, Codex, Claude 4.5), j'ai entrepris d'entraîner l'IA à partir d'un corpus d'œuvres personnelles issues de 25 années de composition pour mon ensemble Archimusic cherchant à lui transmettre mon langage musical singulier – ni tonal ni atonal, d'une polyphonie complexe – afin que l’IA génère des variations respectant cette identité stylistique.
 Au terme de plusieurs mois de recherche ayant mené à la création de quatorze prototypes d'applications musicales, un constat s'impose : un fossé persiste entre le potentiel promis par l'IA et sa réalité compositionnelle. La machine reproduit sans saisir, répète sans intuition véritable.
 Cette conférence présente un bilan à la fois critique et artistique de cette expérience de co-création entre compositeur et algorithme. Elle interroge les notions d'itération, d'intuition et de style algorithmique, et inclut l'audition d'une courte pièce pour clarinette  née de cette collaboration interprétée par Eric Lamberger. Au-delà de l'aspect technique, je souhaite ouvrir une réflexion sur la possibilité d'une « boîte compositionnelle ouverte » : un espace où chaque compositeur pourrait entrer en dialogue avec sa propre mémoire musicale par l'intermédiaire de la machine.
+
+
+**Yohann Rabearivelo** (EHESS, Ircam), **Ulysse Roussel** (Sorbonne Université), **Martin Mahieu**, **Heny Zouari** (Violon) **TikTok Djam**
+
+Ce dispositif explore la co-créativité en ligne et hors-ligne en faisant dialoguer des musiciens avec le logiciel Djazz autour de la recommandation algorithmique de la plateforme TikTok.
+En prenant comme source le contenu en ligne ou streamé en live sur la plateforme et le son généré par les musiciens, le logiciel Djazz devient l’intermédiaire et le modérateur entre musique improvisée et musique recommandée algorithmiquement en temps réel. Ainsi il génère à son tour de nouvelles recombinaisons improvisées afin de créer de nouveaux patterns sonores à partir des diverses sources. L’algorithme de TikTok est préalablement calibré pour proposer à l’utilisateur du contenu majoritairement musical. L’écran du smartphone est projeté sur un écran. Les vidéos défilent et leur son est enregistré dans Djazz recombinant le contenu enregistré, sa mémoire et les musiciens invités sur scène. L’ensemble est retransmis en direct sur TikTok.
 
 
 **[Pierre Saint-germier](https://www.stms-lab.fr/person/pierre-saint-germier)** (CNRS) **The meaning of « co » in « co-creative »**
