@@ -10,7 +10,7 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 
 <br>
 
-#### NEWS ! Goto the  [Improtech@Paris 2025](https://improtech.ircam.fr/ikparis) page. From Dec 2 to 7, 2025.
+#### NEWS ! Goto the  [Improtech@Paris 2025](https://improtech.ircam.fr/ikparis) page. From Dec 2 to 7, 2025 at Ircam and the Dynamo.
 
 <br>
 
@@ -29,7 +29,7 @@ Go to the [Uzeste edition 2023](https://improtech.ircam.fr/ikuzeste) web site.
 
 ### Previous Improtech Editions
 
-[Tokyo edition 2024](https://improtech.ircam.fr/ikparistokyo)
+[Paris - Tokyo edition 2024](https://improtech.ircam.fr/ikparistokyo)
 
 [Uzeste edition 2023](https://improtech.ircam.fr/ikuzeste)
 
