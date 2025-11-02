@@ -5,9 +5,9 @@ Title: About
 
 Originally Created by Gérard Assayag (IRCAM) and Marc Chemillier (EHESS), Improtech is both a musical festival and an interdisciplinary workshop that brings together actors of research and creation from all over the world around the question of musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity.
 
-This unparalleled event, co-organized by Ircam and French and international partners (major universities and research institutions, private and public institutes, art centers, sponsors) has already been held with undeniable success in [New York (2012)](http://repmus.ircam.fr/improtechpny), [Philadelphia (2017)](http://ikparisphilly.ircam.fr),  [Athens (2019)](http://ikparisathina.ircam.fr), [Uzeste](https://improtech.ircam.fr/ikuzeste) and [Tokyo](https://improtech.ircam.fr/iktokyo)
+This unparalleled event, co-organized by Ircam and French and international partners (major universities and research institutions, private and public institutes, art centers, sponsors) has already been held with undeniable success in [New York (2012)](http://repmus.ircam.fr/improtechpny), [Philadelphia (2017)](http://ikparisphilly.ircam.fr),  [Athens (2019)](http://ikparisathina.ircam.fr), [Uzeste](https://improtech.ircam.fr/ikuzeste) and [Tokyo](https://improtech.ircam.fr/ikparistokyo)
 
-Also check the [generic Improtech web site](https://improtech.irvam.fr)for concerts and documentaries video archives and much more.
+Also check the [generic Improtech web site](https://improtech.ircam.fr)for concerts and documentaries video archives and much more.
 
 
 <img src="../images/IKPoster_frag2.jpg" width="125" style="float:left" hspace="10">
