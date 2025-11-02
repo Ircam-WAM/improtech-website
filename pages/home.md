@@ -92,7 +92,7 @@ Exploring the relationships between music and science, composition and improvisa
 
 **ikParis'25** encompasses conferences, demonstrations, workshops, master classes, musical or multimedia performances / installations, and concerts bringing together some of the world's finest musicians and researchers in beautiful venues.
 
-**ikParis'25** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene of Tokyo.
+**ikParis'25** combines a great diversity of aesthetics, mixing musicians from the international jazz, contemporary, live electronics or traditional scene, and the young avant-garde scene.
 
 **ikParis'25** brings artists, researchers, engineers, thinkers, students, inventors, DYI enthusiasts covering a broad spectrum of knowledge fields, from computer science to anthropology, from musicology to critical studies, from philosophy to artificial intelligence, from acoustics to mixed realities...
 
