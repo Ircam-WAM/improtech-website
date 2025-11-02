@@ -31,7 +31,7 @@ This edition of IMPROTECH in Paris will welcome a number of truly exceptional pe
 
 <br>
 <p align="center">
-  <img src="./images/GroupMusicians.png" width="400">
+  <img src="./images/GroupMusicians.png" width="1200">
 </p>
 <br>
 
