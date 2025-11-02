@@ -11,7 +11,8 @@ Access to Dynamo is through the [Dynamo web page](https://www.banlieuesbleues.or
 - [INSTALLATIONS-PERFORMANCES](#december-6-saturday)
 - [WORKSHOPS](#december-3-wednesday-workshops)
 - [LECTURES](#december-4-thursday-lectures)
-- [CONCERT NOTES and ABSTRACTS](#abstracts)
+- Notes and abstracts : [CONCERTS](#abstracts), [Workshops](#workshops), [Installations-Performances](#installations-performances], [Lectures](#lectures) 
+
 
 
 ## December 2 Tuesday
@@ -298,7 +299,7 @@ sorte de réalité mixte : construisant une forme musicale toujours renouvelée,
 Comme le dit Joëlle Léandre, régulièrement invitée de REACHing OUT, parlant de ces concerts : « Une vraie rencontre, une jubilation... C’est un risque et un moment unique, infini ! C’est sans doute chercher et peut-être trouver... Au fond, c’est "savoir ne pas savoir". »
 Joëlle Léandre
 
-### Installations-Performances
+### Installations Performances
  
 **WWW** La notion de WWW (« Wood Wide Web ») ou « Internet des arbres » repose sur la découverte que les arbres et les plantes ne sont pas des entités isolées, mais qu'ils entretiennent des relations complexes et symbiotiques entre eux et avec d'autres organismes. Cette expression est utilisée pour décrire le réseau complexe de communication et d'échange de nutriments qui existe entre les arbres, les plantes, les champignons et d'autres organismes vivants dans les écosystèmes forestiers. Cette communication souterraine joue un rôle essentiel dans le partage de ressources, la résistance aux maladies et la survie des plantes dans la nature. Ainsi, une autorégulation s'opère entre les différents composants de la forêt, façonnant un univers riche en interactions et en diversité. Cette idée constitue le fondement et la source d'inspiration de cette composition/improvisation avec le Spat’Sonore, que l’on peut définir comme un vaste instrument tentaculaire avec des ramifications comme « des plantes grimpantes en tubes de cuivre coiffées de pavillons-corolles, forment un igloo sonore dans lequel vient s’installer l’auditeur. Des machinistes se postent aux cerveaux à pistons de leur spat’ » . Les instruments spatialisés de l'ensemble Spat’Sonore, conjugués à l'électronique immersive en temps réel créeront un réseau de communication complexes entre tous les éléments du système. L’autorégulation sera assuré par des agents spatiaux de type Somax2Collider, dans un système de haut-parleurs distribués, jouant tout au long de la performance en tenant compte non seulement des descripteurs audio, mais aussi de la localisation des sons émis par les différents instruments de l’ensemble. 
 
