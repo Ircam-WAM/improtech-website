@@ -172,9 +172,10 @@ Gyorgy Kurtag, synthesizers
 Donatien Garnier, Metaphorminx instrument, poetry  
 Emmanuelle Pépin, dance
 
-**Sardines**  
-Guillaume Piccarreta, synthesizers  
-Raphaël Forment, Rémi Georges, live coding
+**Pratiques du Live Coding**  
+Raphaël Forment, musician, researcher, free-software programmer  
+Rémi Georges, sound artist, composer and computer music designer  
+Guillaume Piccarreta, programmer and digital artist
 
 
 ## December 4 Thursday Lectures
@@ -224,9 +225,6 @@ Nicolas Souchal, Diemo Schwartz, Ircam
 
 **The meaning of « co » in « co-creative »**  
 Pierre Saint-Germier, CNRS, Ircam  
-
-
-
 
 
 ## Abstracts
@@ -328,6 +326,14 @@ We will propose a work based on excerpts from the 12 Notations for Piano, a cycl
 A second part will feature a longer performance, both solo and duet. This performance will involve Somax 2 in addition to the two musicians, in various playing modes. 
 The final part of the workshop will be devoted to a discussion and possible questions.
 
+
+**[Raphael Forment](https://raphaelforment.fr)** (musician, researcher, free-software programmer), **[Rémi Georges](https://remigeorges.fr)** (sound artist, composer and computer music designer) et **[Guillaume Piccaretta](https://forum.ircam.fr/profile/piccarreta/)** (Ircam, programmer and digital artist) **Pratiques du Live Coding**
+
+Cet atelier constitue une introduction par des regards et des récits croisés aux techniques et aux pratiques du live coding. Rémi Georges, Guillaume Piccarreta et Raphaël Forment présenteront au cours de cette heure les enjeux technologiques, musicaux, éthiques et militants qui les encouragent à pratiquer le live coding. Ils présenteront les outils, sites web et œuvres qu'ils conçoivent. Au cours d'une démonstration de 20~25 minutes, ils improviseront ensemble en réseau, à l'aide d'ordinateurs, de synthétiseurs modulaires et d'autres machines. Le live coding n'est pas seulement une technique de production, il s'agit plutôt d'une manière de penser l'action musicale et de se situer en tant qu'artiste par rapport à la technologie, aux outils de création, au partage communautaire des connaissances et à la création collective.  
+*This workshop constitutes an introduction to live coding techniques and practices through intersecting perspectives and narratives. Over the course of one hour, Rémi Georges, Guillaume Piccarreta and Raphaël Forment will present the technological, musical, ethical and activist issues that encourage them to practice live coding. They will present the tools, websites and works they design. During a 20-25 minute demonstration, they will improvise together over a network, using computers, modular synthesizers and other machines. Live coding is not merely a production technique; it is rather a way of thinking about musical action and positioning oneself as an artist in relation to technology, creative tools, knowledge sharing and collective creation.*  
+[Livecoding.fr](https://livecoding.fr), [gcode.tools](https://gcode.tools/)
+
+
 **[Alberto Maria Gatti](https://calls.ircam.fr/profiles/individual/30106/)** (Composer, designer), **[Anaïs del Sordo](https://www.ircam.fr/article/alberto-gatti-re-sounding-bodies-anais-del-sordo-44)** (Voice), **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Guitar, Somax2 AI AGents), **Resounding Bodies in Space**
 
 This workshop-performance on Audio-Tactile Listening & 3D Spatialization invites participants to explore a gentle convergence of touch and sound in space. A multimodal harness, combining vibrating transducers and bone conduction, works alongside Somax2 and Spatial Agents to shape responsive, real-time interactions. The
@@ -354,14 +360,6 @@ MUGIC® is a 9-axis motion sensor similar to other generic 9-axis sensors availa
 3) “Genjyoraku" (還城楽), traditional Gagaku with MUGIC®  
 Tamami Tono, Sho, Minako Ito, dance, Mari Kimura, violin  
 
-
-**[NSDOS](https://villa-albertine.org/va/fr/residents/nsdos-2/)** (musician, hacker, choreographer), **[Noam Assayag](https://alphabetville.org/noam-assayag/)** (writer, translator, collagist) **Activate Cities: Urban Inspiration and Live-coding**
-
-In this workshop, the two artists will perform a fragment of their joint project, Activate Cities, where ambient music is woven around the pages of a manual of techniques for urban attention and inspiration. Attendees will explore the artistic dimension of "a cellular automaton" and the ability to live-code music with the open-source software Orca.  
-Just as the machine evolves from an initial set of parameters, we can inject prompts and constraints—even in a simple walk, for example with an altered deck of cards—to step outside of our automatisms and notice things that may have otherwise escaped us. Between attention and intention, this gleaning of sensations, snapshots, and words from the street inspires the musical session that transforms these gleanings "into something rich and strange.  
-[Activate Cities Project](https://circadian.co/product/activate-cities/), [Insta Norkhat](https://www.instagram.com/norkhat/), [Insta NSDOS](https://www.instagram.com/koodes_k/)
-
-
 **[Tamami Tono](https://lit.link/tamamitono)** (Sho Player), **[Atsushi Tadokoro](https://tadokoroatsushi.com/about)** (Maebashi Institute of Technology) **Breathing Media Projects featuring 1000+Yr old traditional Gagaku music reimagined with cutting-edge sensors technology**
 
 １）“Hyojyo no Choushi” (平調 調子), traditional Gagaku: Tamami Tono, Sho Solo  
@@ -372,15 +370,14 @@ Just as the machine evolves from an initial set of parameters, we can inject pro
 Tamami Tono, sho; Atsushi Tadokoro, visuals - [Breathing Media Project](https://nagasm.org/ASL/RRR07/fig7/BreathingMedia.pdf)
 
 
-**[Levy Lorenzo](https://levylorenzo.com/about.html)** (Percussion & electronics) **AI at Carnegie Hall and Electronic Instrument Design**
-
-This workshop describes the musical and technical process for presenting a new work Pliages at Carnegie Hall, that uses Boulez's Pli Selon Pli No. 3 as musical training material for corpuses for Somax2.  The work is an improvisation for Somax2 and members of the International Contemporary Ensemble (Voice, Harp, Piano, Percussions, Electronics).  The presenter, Levy Lorenzo, will present work to offer consideration between manual vs automatic music, as well as embodied and disembodied performance.
-
-
 **[György Kurtag jr](http://lescomplementaires.free.fr/les_Complementaires/Gyorgy_Kurtag_jr..html)** (Synthetiseurs), **[Emmanuelle Pépin](https://www.7pepiniere.com/)** (Danseuse), **[Donatien Garnier](https://www.la-marelle.org/en-creation/auteurs-autrices/1220-donatien-garnier.html)** (Poète, concepteur) **Hypercept ~ quatuor d’improvisation**
 
 La performance suivie de présentation s’articule autour de la mise en jeu d’un instrument hybride, la MÉTAPHORMINX, implantée dans un grand cep de syrah prélevé au Mas Foulaquier (Pic Saint-Loup). L’électronique comprend un accéléromètre trois axes, un potentiomètre, un capteur de souffle, cinq boutons, un boîtier d’émission-réception. Il interagit à distance, via wifi et des messages midi. Le programme informatique créé spécialement pour ce dispositif par Joseph Larrald. 
 Hypercept est née de la volonté d’explorer la richesse de l’instrument en le déviant de l’objet performatif très écrit pour lequel il a été conçu, de fouiller les registres chorégraphiques, musicaux et verbaux qu’il propose à l’improvisation libre.
+
+**[Levy Lorenzo](https://levylorenzo.com/about.html)** (Percussion & electronics) **AI at Carnegie Hall and Electronic Instrument Design**
+
+This workshop describes the musical and technical process for presenting a new work Pliages at Carnegie Hall, that uses Boulez's Pli Selon Pli No. 3 as musical training material for corpuses for Somax2.  The work is an improvisation for Somax2 and members of the International Contemporary Ensemble (Voice, Harp, Piano, Percussions, Electronics).  The presenter, Levy Lorenzo, will present work to offer consideration between manual vs automatic music, as well as embodied and disembodied performance.
 
 
 **[Mikhail Malt](https://www.ircam.fr/person/mikhail-malt)** (Ircam), **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics** 
@@ -389,6 +386,12 @@ This workshop highlights two research-creation projects that explore new frontie
 The first research project focuses on improvisation with traditional instruments and artificial intelligence. Li-Chin Li plays the sheng (Chinese mouth organ) in interaction with the Somax2 interactive system. This system, capable of learning and responding in real time, becomes a full-fledged improvisational partner. We will show how the combination of the ancestral gesture of the sheng with the generative responses of the machine opens up a field of hybrid sound exploration, combining tradition and innovation.  
 The second research project explores improvisation in a telematic performance. Mikhaïl Malt, in Paris in Studio 5 with the Somax2 environment and generative electronics, interacts live with flutist Cássia Carrascoza Bomfim, located in São Paulo. This configuration serves as a laboratory for examining the creative challenges and opportunities related to network latency, synchronization, and establishing a shared listening experience despite distance. The workshop will highlight strategies developed to transform technical constraints, such as delays and audio artifacts, into compositional and expressive elements.  
 This workshop explores the future of improvisational practice by comparing two experiences: one focused on extending instrumental gesture and the other on delocalizing interaction. It examines how modern technologies are transforming relationships between performers, altering human-machine interactions, and redefining spaces for collective musical creation.
+
+**[NSDOS](https://villa-albertine.org/va/fr/residents/nsdos-2/)** (musician, hacker, choreographer), **[Noam Assayag](https://alphabetville.org/noam-assayag/)** (writer, translator, collagist) **Activate Cities: Urban Inspiration and Live-coding**
+
+In this workshop, the two artists will perform a fragment of their joint project, Activate Cities, where ambient music is woven around the pages of a manual of techniques for urban attention and inspiration. Attendees will explore the artistic dimension of "a cellular automaton" and the ability to live-code music with the open-source software Orca.  
+Just as the machine evolves from an initial set of parameters, we can inject prompts and constraints—even in a simple walk, for example with an altered deck of cards—to step outside of our automatisms and notice things that may have otherwise escaped us. Between attention and intention, this gleaning of sensations, snapshots, and words from the street inspires the musical session that transforms these gleanings "into something rich and strange.  
+[Activate Cities Project](https://circadian.co/product/activate-cities/), [Insta Norkhat](https://www.instagram.com/norkhat/), [Insta NSDOS](https://www.instagram.com/koodes_k/)
 
 **Yohann Rabearivelo** (EHESS, Ircam), **Ulysse Roussel** (Sorbonne Université), **Martin Mahieu**, **Heny Zouari** (Violon) **TikTok Djam**
 
@@ -403,21 +406,21 @@ During this workshop I will presents the instrument and its distinctive techniqu
 
 
 
-
 ### Lectures
+
+
+**[Oded Ben Tal](https://obental.wixsite.com/main)** (Kingston University), **[David Dolan](https://www.gsmd.ac.uk/staff/professor-david-dolan)** (Guildhall School of Music), **The Odd Couple: Human and AI Making Music in the Moment**
+
+This performance/talk will present an ongoing collaboration between composer Oded Ben-Tal and pianist David Dolan. Ben-Tal has been developing an AI-inspired system (JHAIMI – Joint Human AI Music Improvisation) that ‘listens’ to the pianist (extracting musical data from microphone input) and generates responses in real-time during the performance. The responses combine generative compositional processes on the one hand and real-time musical inferences about the pianist’s improvisation on the other. The aim is to create a strong, sophisticated and nuanced musical dialogue between human and machine. Dolan’s improvisations are based on an expanded tonal-modal idiom but do not conform to a specific musical style nor adhere to a preplanned scheme such as a chord progression, agreed tempo, key, or meter. The result is a new form of musical dialogue, created by the possibilities of new technology and drawing on the wealth of 300 years of music making. Ben-Tal is adjusting parameters in the system during the performance to shape larger-scale aspects, but the moment-to-moment generation of musical material is done automatically by JHAIMI. [See also](https://www.aesthetics.mpg.de/en/newsroom/events/events/article/creative-musical-dialogues-between-human-and-machine-en.html).
 
 **[Alain Bonardi](https://musidanse.univ-paris8.fr/alain-bonardi), [Emma Frid](https://emmenru.github.io/), [Paul Goutmann](https://musidanse.univ-paris8.fr/paul-goutmann), [Axel Chemla-Romeu-Santos]( https://domkirke.github.io/)** (Université Paris 8 – CICM / MUSIDANSE – [Projet ERC AdG G3S](https://www.univ-paris8.fr/G3S-Generative-Spatial-Synthesis-of-Sound-and-Music-ERC-Advanced-Grant)) **Generative Spatial Synthesis of Sound and Music (ERC G3S)**
  
 While the industrial markets for 3D audio and artificial intelligence in music are expanding rapidly worldwide, the spatial qualities of sound are still an unthought-of aspect of AI. In practice, spatial audio is generally carried out in post-production and is usually confined to the spatialization of sound and the acoustic modelling of rooms. The aim of the G3S project is to propose new ways of creating, modelling and analyzing sound by natively integrating its spatial dimension. We want to extend the theoretical and practical approach to spatial diffusion, whether with loudspeakers or headphones, by using the generative capabilities of artificial learning.  
 
-
 **[Daniel Brown](www.danielbrownmusic.com)** and **[Steve Horowitz](https://www.stevehorowitzmusic.com/)**, **Unity Interfaces for Djazz and Somax: Ludic and Narrative Perspectives on Musical Machine Co-creativity**
 
 We present an interface for controlling Djazz and Somax with Unity. Unity is a video game engine: an environment for creating games, a process that involves the design of many aspects such as visuals, physics, characters, and rules for winning, as well as music. While game engines like Unity traditionally offer linear control of looped playback of prerecorded audio tracks for music design, Unity can also be used as a control interface for generative music systems such as Djazz and Somax. The combination of the systems is appealing: unscripted, dynamically changing musical accompaniments offer richer experiences in video games. Nonetheless, a friction arises between the game engine and the music system, as the relationship of control and interaction is called into question. Are the experiential aspects of game play that are considered ‘meaningful” similar to those in musical improvisation? If so, do the same musical parameters affect these experiential aspects? Should a musical co-improvisation system be used as a musical accompaniment to an extra-musical experience such as a game? Or is this last question misleading: is game play another form of interaction that invites as much co-creativity as direct musical interaction? Two perspectives that let us start answering these questions are the ludic and the narrative; these perspectives have been used in analysis of both music and video games. We will present examples of Unity in combination with Djazz and Somax which illustrate each of these perspectives and suggest methods of further development and exploration into this combination.
 
-**[Oded Ben Tal](https://obental.wixsite.com/main)** (Kingston University), **[David Dolan](https://www.gsmd.ac.uk/staff/professor-david-dolan)** (Guildhall School of Music), **The Odd Couple: Human and AI Making Music in the Moment**
-
-This performance/talk will present an ongoing collaboration between composer Oded Ben-Tal and pianist David Dolan. Ben-Tal has been developing an AI-inspired system (JHAIMI – Joint Human AI Music Improvisation) that ‘listens’ to the pianist (extracting musical data from microphone input) and generates responses in real-time during the performance. The responses combine generative compositional processes on the one hand and real-time musical inferences about the pianist’s improvisation on the other. The aim is to create a strong, sophisticated and nuanced musical dialogue between human and machine. Dolan’s improvisations are based on an expanded tonal-modal idiom but do not conform to a specific musical style nor adhere to a preplanned scheme such as a chord progression, agreed tempo, key, or meter. The result is a new form of musical dialogue, created by the possibilities of new technology and drawing on the wealth of 300 years of music making. Ben-Tal is adjusting parameters in the system during the performance to shape larger-scale aspects, but the moment-to-moment generation of musical material is done automatically by JHAIMI. [See also](https://www.aesthetics.mpg.de/en/newsroom/events/events/article/creative-musical-dialogues-between-human-and-machine-en.html).
 
 **[Nicolas Brochec](https://nicolasbrochec.com)**, Tokyo University of the Arts Geidai, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Ircam) **Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction**
 
