@@ -29,6 +29,8 @@ Go to the [Uzeste edition 2023](https://improtech.ircam.fr/ikuzeste) web site.
 
 ### Previous Improtech Editions
 
+[Tokyo edition 2023](https://improtech.ircam.fr/ikparistokyo)
+
 [Uzeste edition 2023](https://improtech.ircam.fr/ikuzeste)
 
 [Paris - Athina edition 2019](http://ikparisathina.ircam.fr)
