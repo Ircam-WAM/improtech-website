@@ -181,7 +181,7 @@ Guillaume Piccarreta, programmer and digital artist
 ## December 4 Thursday Lectures
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
-**Mixed Initiative Co-Creative Design for Long-Term Human-AI Musical Partnership**
+**Mixed Initiative Co-Creative Design for Long-Term Human-AI Musical Partnership**  
 Ken Deguernel, CNRS, Laboratoire CRISTAL, Lille 
 
 **Generative Spatial Synthesis of Sound and Music (ERC G3S)**  
@@ -461,7 +461,7 @@ Cette recherche examine la rencontre entre intelligence artificielle et intuitio
 Au terme de plusieurs mois de recherche ayant mené à la création de quatorze prototypes d'applications musicales, un constat s'impose : un fossé persiste entre le potentiel promis par l'IA et sa réalité compositionnelle. La machine reproduit sans saisir, répète sans intuition véritable.
 Cette conférence présente un bilan à la fois critique et artistique de cette expérience de co-création entre compositeur et algorithme. Elle interroge les notions d'itération, d'intuition et de style algorithmique, et inclut l'audition d'une courte pièce pour clarinette  née de cette collaboration interprétée par Eric Lamberger. Au-delà de l'aspect technique, je souhaite ouvrir une réflexion sur la possibilité d'une « boîte compositionnelle ouverte » : un espace où chaque compositeur pourrait entrer en dialogue avec sa propre mémoire musicale par l'intermédiaire de la machine.
 
-**Gilbert Nouno** (Haute Ecole de musique de Genève (HEM)), **Christophe Fellay** (École de design et haute école d'art du Valais (EDHEA)), **Nathalie Hérold** (IReMus - Sorbone Université), **Pierre Alexandre Tremblay** (Conservatorio della Svizzera italiana) **Evaluation of AI based improvisation systems**
+**[Gilbert Nouno](https://gilbertnouno.net/)** (Haute Ecole de musique de Genève (HEM)), **[Christophe Fellay](https://www.christophefellay.com/)** (École de design et haute école d'art du Valais (EDHEA)), **[Nathalie Hérold](https://www.iremus.cnrs.fr/fr/membres-permanents/nathalie-herold)** (IReMus - Sorbone Université), **P[ierre Alexandre Tremblay](https://www.pierrealexandretremblay.com/)** (Conservatorio della Svizzera italiana) **Evaluation of AI based improvisation systems**
 
 Drawing on exploratory studio sessions and a workshop at HEM Geneva, we offer a practice-based evaluation of AI devices for free improvisation. We articulate conditions of stage operativity with poietic/esthetic effects, that is, how the agent transforms the act of playing and the act of listening, in order to probe their digital organology. The study yields development directions for agents conceived as co-acting partners within a shared capacity for action between human and device, aiming at the conjunction of surprise and formal coherence.
 
