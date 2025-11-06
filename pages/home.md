@@ -11,7 +11,7 @@ Summary: Improtech Paris gathers scholars, technologists, musicians, makers, aro
 
 **Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
 
-After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Paris** (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time !
+After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Paris** (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time!
 
 See the **[Programme](https://improtech.ircam.fr/ikparis/pages/programme.html)** for details and reservations.
 
