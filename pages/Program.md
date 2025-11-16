@@ -3,7 +3,7 @@ title: Programme
 
 
 Access to lectures and workshop is free, but reservation is highly recommended **[here.](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025)**  
-Access to Ircam concerts is through Ircam web page [Concert 1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail) and [Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail)  
+Access to Ircam concerts is through Ircam web page [Concert 1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail) and [Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-2/detail)  
 Access to Dynamo is through the [Dynamo web page](https://www.banlieuesbleues.org/dynamo/).  
 
 
