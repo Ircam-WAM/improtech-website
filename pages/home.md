@@ -15,6 +15,21 @@ After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Imp
 
 See the **[Programme](https://improtech.ircam.fr/ikparis/pages/programme.html)** for details and reservations.
 
+
+**Improtech** est à la fois un festival musical et une rencontre interdisciplinaire réunissant des acteurs de la recherche et de la création du monde entier autour du thème de l'improvisation musicale en interaction avec les intelligences numériques, dans une approche assumée de co-créativité homme-machine.
+
+Après des éditions très appréciées à New York, Philadelphie, Athènes, Uzeste et Tokyo, Improtech Paris (ikParis'25) débarque pour la première fois à Paris, à l'Ircam, où le concept a été créé !
+
+Au programme : des conférences, des ateliers/performances, des installations-concerts et trois concerts exceptionnels en soirée. Ils incitent à une triple synthèse : celle de la culture instrumentale acoustique et de l’Intelligence artificielle créative, celle de l’improvisation soliste et de l’écriture pour ensemble mixte et enfin celle de la spatialisation et de l’immersion sonore renouvelées elles aussi par l’IA créative.
+
+**[Programme Complet](https://improtech.ircam.fr/ikparis/pages/programme.html)**
+
+Réservations Ircam : [Conférences et workshops (gratuit)](https://www.ircam.fr/agenda/improtech-paris-2025/detail), [Concert #1 (2 décembre)](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail), [Concert #2 (5 décembre)](https://www.ircam.fr/agenda/improtech-paris-2025-concert-2/detail)
+
+Réservations Dynamo : [7 décembre](https://www.banlieuesbleues.org/dynamo/evenement/5318/2025-12-07-1800-dynamo-reachin-paris-steve-lehman-miles-okazaki-improtech-paris-2025/)
+
+
+
 <br>
 <img src="./images/Logo_ikPT_MSS.png" width="200" style="float:left" hspace="10">
 Organized as part of the European [REACH project](reach.ircam.fr), the Improtech international workshop-festival is dedicated to combining the universal art of improvisation with digital intelligence cultures through a series of conferences, interdisciplinary workshops, installations, performances, and concerts. After traveling across three continents and bringing together leading figures in the field, **Improtech returns to Ircam**, one of its founders, for an edition that will focus on space and composition/improvidsation and pay tribute to American composer George Lewis, an essential reference in musical AI. 
