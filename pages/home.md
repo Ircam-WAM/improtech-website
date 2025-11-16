@@ -9,20 +9,17 @@ Summary: Improtech Paris gathers scholars, technologists, musicians, makers, aro
 
 #### Workshop - Festival in Paris -- December 2 to 7, 2025
 
-**Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**. After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Paris** (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time!
+**Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**. After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Paris** (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time! See the **[Programme](https://improtech.ircam.fr/ikparis/pages/programme.html)** for details and reservations.
 
-See the **[Programme](https://improtech.ircam.fr/ikparis/pages/programme.html)** for details and reservations.
 
----
+Organisé dans le cadre du projet européen **[REACH](https://reach.ircam.fr)**, le festival international **Improtech@Paris** combine l’art universel de **l’improvisation** et les cultures de l’**intelligence numérique** à travers une série de conférences, d’ateliers interdisciplinaires, d’installations, de performances et de concerts. Après avoir parcouru trois continents et réuni des figures de proue du domaine, Improtech revient à l’Ircam, l’un de ses fondateurs, pour une 6e édition qui met l’accent sur l’**espace et la composition/improvisation** et rend hommage au compositeur américain **George Lewis**, une référence incontournable dans le domaine de l’IA musicale.  
+L’Ircam accueille cette année les concerts d’Improtech dans sa salle de concert unique au monde, l’Espace de projection, incitant à **une triple synthèse** : celle de la culture instrumentale acoustique et de l’Intelligence artificielle créative, celle de l’improvisation soliste et de l’écriture pour ensemble mixte, et enfin celle de la spatialisation et de l’immersion sonore renouvelées elles aussi par l’IA créative.  
+Improtech @ Paris accueille plusieurs personnalités exceptionnelles, dont le grand jazzman new- yorkais **Steve Lehman**, **Joëlle Léandre**, la diva de la contrebasse qui a reçu le prestigieux « Lifetime Achievement Award » pour l’ensemble de sa carrière, le compositeur, tromboniste et pionnier de l’IA musicale **George Lewis**, la décoiffante soprano colombienne **Johanna Vargas**, Justin Vali virtuose de la cithare malgache et star de la world music découvert par Peter Gabriel, l’électro- hackeur NSDOS et bien d’autres encore.  
+L’événement de clôture, programmé à la Dynamo – Banlieues Bleues de Pantin, met en vedette les saxophoniste et guitariste de jazz contemporain **Steve Lehman et Miles Okazaki**, mondialement reconnus comme figures de proue de l'improvisation contemporaine, dans une master class publique et un concert d’improvisation en compagnie des **Somax Brothers** de l’Ircam sur leurs drôles de machines gonflées à l’IA.
 
-**Improtech** est à la fois un festival musical et une rencontre interdisciplinaire réunissant des acteurs de la recherche et de la création du monde entier autour du thème de l'improvisation musicale en interaction avec les intelligences numériques, dans une approche assumée de co-créativité homme-machine. Après des éditions très appréciées à New York, Philadelphie, Athènes, Uzeste et Tokyo, Improtech Paris (ikParis'25) débarque pour la première fois à Paris, à l'Ircam, où le concept a été créé !
-
-Au programme: deux concerts à l'ircam, le 2 et le 5 décembre, un concert à la Dynamo - Banlieues Bleues le 7 décembre. Conférences et workshops du 3 au 5 décembre, Installations - concerts le 6 décembre à l'ircam.
+Au programme: **deux concerts à l'ircam**, le 2 et le 5 décembre, **un concert à la Dynamo **- Banlieues Bleues le 7 décembre. **Conférences et workshops/performances** du 3 au 5 décembre, **Installations - concerts** le 6 décembre à l'ircam.
 
 **[Programme complet et réservations](https://improtech.ircam.fr/ikparis/pages/programme.html)**
-
-
-**Improtech @ Paris 2025** incitera à **une triple synthèse** : celle de la culture instrumentale acoustique et de l’Intelligence artificielle créative, celle de l’improvisation soliste et de l’écriture pour ensemble mixte et enfin celle de la spatialisation et de l’immersion sonore renouvelées elles aussi par l’**IA créative**.
 
 
 
