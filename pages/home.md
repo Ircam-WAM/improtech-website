@@ -11,6 +11,9 @@ Organisé dans le cadre du projet européen **[REACH](https://reach.ircam.fr)**,
 
 L’Ircam accueille Improtech dans sa salle de concert unique au monde, l’**Espace de projection**, incitant à **une triple synthèse** : celle de la culture instrumentale acoustique et de l’Intelligence artificielle créative, celle de l’improvisation soliste et de l’écriture pour ensemble mixte, et enfin celle de la spatialisation et de l’immersion sonore renouvelées elles aussi par l’IA créative.  
 
+
+<br>
+<img src="./images/Logo_ikPT_MSS.png" width="200" style="float:left" hspace="10">
 **Improtech @ Paris** accueille plusieurs personnalités exceptionnelles, dont le grand jazzman new- yorkais **Steve Lehman**, **Joëlle Léandre**, la diva de la contrebasse, le compositeur, tromboniste et pionnier de l’IA musicale **George Lewis**, la décoiffante soprano colombienne **Johanna Vargas**, **Justin Vali** le grand virtuose de la cithare malgache, l’électro- hackeur **NSDOS**, le poète sonore **Jaap Blonk**, les **solistes de l'Ensemble Intercontemporain** **Nicolas Crosse et Aurélien Gignoux**, le **Spat'Sonore** de spatialisation physique tentaculaire, la **Batterie Fragile** d'**Yves Chaudouët** et des porcelainiers de Limoges et bien d’autres encore.
 
 Le concert de clôture à la Dynamo – Banlieues Bleues de Pantin met en vedette les saxophoniste et guitariste de jazz contemporain **Steve Lehman et Miles Okazaki**, mondialement reconnus comme figures de proue du genre, dans une **master class** publique et un concert d’improvisation en compagnie des **Somax Brothers** de l’Ircam sur leurs drôles de machines gonflées à l’IA.
