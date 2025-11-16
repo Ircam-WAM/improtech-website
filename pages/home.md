@@ -6,17 +6,12 @@ Tags: improtech, ircam, improvisation, cocreativity, computer music, performance
 Authors: Gerard Assayag
 Summary: Improtech Paris gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-
-#### Workshop - Festival in Paris -- December 2 to 7, 2025
-
-**Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**. After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Paris** (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time! See the **[Programme](https://improtech.ircam.fr/ikparis/pages/programme.html)** for details and reservations.
-
-
 #### Workshop - Festival à Paris --  2 au 7 décembre, 2025
 Organisé dans le cadre du projet européen **[REACH](https://reach.ircam.fr)**, le festival international **Improtech@Paris** combine l’art universel de **l’improvisation** et les cultures de l’**intelligence numérique** à travers une série de conférences, d’ateliers interdisciplinaires, d’installations, de performances et de concerts. Après avoir parcouru trois continents et réuni des figures de proue du domaine, Improtech revient à l’Ircam, l’un de ses fondateurs, pour une 6e édition qui met l’accent sur l’**espace et la composition/improvisation** et rend hommage au compositeur américain **George Lewis**, une référence incontournable dans le domaine de l’IA musicale.  
 
 L’Ircam accueille Improtech dans sa salle de concert unique au monde, l’**Espace de projection**, incitant à **une triple synthèse** : celle de la culture instrumentale acoustique et de l’Intelligence artificielle créative, celle de l’improvisation soliste et de l’écriture pour ensemble mixte, et enfin celle de la spatialisation et de l’immersion sonore renouvelées elles aussi par l’IA créative.  
-Improtech @ Paris accueille plusieurs personnalités exceptionnelles, dont le grand jazzman new- yorkais **Steve Lehman**, **Joëlle Léandre**, la diva de la contrebasse, le compositeur, tromboniste et pionnier de l’IA musicale **George Lewis**, la décoiffante soprano colombienne **Johanna Vargas**, **Justin Vali** le grand virtuose de la cithare malgache, l’électro- hackeur **NSDOS**, l epoète sonore **Jaap Blonk** et bien d’autres encore.  
+
+**Improtech @ Paris** accueille plusieurs personnalités exceptionnelles, dont le grand jazzman new- yorkais **Steve Lehman**, **Joëlle Léandre**, la diva de la contrebasse, le compositeur, tromboniste et pionnier de l’IA musicale **George Lewis**, la décoiffante soprano colombienne **Johanna Vargas**, **Justin Vali** le grand virtuose de la cithare malgache, l’électro- hackeur **NSDOS**, le poète sonore **Jaap Blonk**, les **solistes de l'Ensemble Intercontemporain** **Nicolas Crosse et Aurélien Gignoux**, le **Spat'Sonore** de spatialisation physique tetaculaire, la **Batterie Fragile** d'**Yves Chaudouët** et des porcelainiers de Limoges et bien d’autres encore.
 
 Le concert de clôture à la Dynamo – Banlieues Bleues de Pantin met en vedette les saxophoniste et guitariste de jazz contemporain **Steve Lehman et Miles Okazaki**, mondialement reconnus comme figures de proue du genre, dans une **master class** publique et un concert d’improvisation en compagnie des **Somax Brothers** de l’Ircam sur leurs drôles de machines gonflées à l’IA.
 
@@ -24,6 +19,8 @@ Au programme: **deux concerts à l'ircam**, le 2 et le 5 décembre, **un concert
 
 **[Programme complet et réservations](https://improtech.ircam.fr/ikparis/pages/programme.html)**
 
+
+*Improtech** is both a musical festival and an interdisciplinary workshop bringing together actors of research and creation from all over the world fostering musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity. After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo Improtech @ Paris (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time! See the* **[Detailed Programme](https://improtech.ircam.fr/ikparis/pages/programme.html)**
 
 
 <br>
