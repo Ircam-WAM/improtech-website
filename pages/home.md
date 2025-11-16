@@ -9,16 +9,13 @@ Summary: Improtech Paris gathers scholars, technologists, musicians, makers, aro
 
 #### Workshop - Festival in Paris -- December 2 to 7, 2025
 
-**Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**.
-
-After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Paris** (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time!
+**Improtech** is both a **musical festival** and an **interdisciplinary workshop** bringing together actors of research and creation from all over the world fostering **musical improvisation** in interaction with **digital intelligences**, in an assumed approach of human-machine **co-creativity**. After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo **Improtech Paris** (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time!
 
 See the **[Programme](https://improtech.ircam.fr/ikparis/pages/programme.html)** for details and reservations.
 
+---
 
-**Improtech** est à la fois un festival musical et une rencontre interdisciplinaire réunissant des acteurs de la recherche et de la création du monde entier autour du thème de l'improvisation musicale en interaction avec les intelligences numériques, dans une approche assumée de co-créativité homme-machine.
-
-Après des éditions très appréciées à New York, Philadelphie, Athènes, Uzeste et Tokyo, Improtech Paris (ikParis'25) débarque pour la première fois à Paris, à l'Ircam, où le concept a été créé !
+**Improtech** est à la fois un festival musical et une rencontre interdisciplinaire réunissant des acteurs de la recherche et de la création du monde entier autour du thème de l'improvisation musicale en interaction avec les intelligences numériques, dans une approche assumée de co-créativité homme-machine. Après des éditions très appréciées à New York, Philadelphie, Athènes, Uzeste et Tokyo, Improtech Paris (ikParis'25) débarque pour la première fois à Paris, à l'Ircam, où le concept a été créé !
 
 Au programme : des conférences, des ateliers/performances, des installations-concerts et trois concerts exceptionnels en soirée. Ils incitent à une triple synthèse : celle de la culture instrumentale acoustique et de l’Intelligence artificielle créative, celle de l’improvisation soliste et de l’écriture pour ensemble mixte et enfin celle de la spatialisation et de l’immersion sonore renouvelées elles aussi par l’IA créative.
 
