@@ -22,12 +22,7 @@ Après des éditions très appréciées à New York, Philadelphie, Athènes, Uze
 
 Au programme : des conférences, des ateliers/performances, des installations-concerts et trois concerts exceptionnels en soirée. Ils incitent à une triple synthèse : celle de la culture instrumentale acoustique et de l’Intelligence artificielle créative, celle de l’improvisation soliste et de l’écriture pour ensemble mixte et enfin celle de la spatialisation et de l’immersion sonore renouvelées elles aussi par l’IA créative.
 
-**[Programme Complet](https://improtech.ircam.fr/ikparis/pages/programme.html)**
-
-Réservations Ircam : [Conférences et workshops (gratuit)](https://www.ircam.fr/agenda/improtech-paris-2025/detail), [Concert #1 (2 décembre)](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail), [Concert #2 (5 décembre)](https://www.ircam.fr/agenda/improtech-paris-2025-concert-2/detail)
-
-Réservations Dynamo : [7 décembre](https://www.banlieuesbleues.org/dynamo/evenement/5318/2025-12-07-1800-dynamo-reachin-paris-steve-lehman-miles-okazaki-improtech-paris-2025/)
-
+**[Programme et réservations](https://improtech.ircam.fr/ikparis/pages/programme.html)**
 
 
 <br>
