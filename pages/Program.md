@@ -2,12 +2,10 @@ title: Programme
 ---
 
 
-Access to lectures and workshop is free, but reservation is highly recommended **[here.](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025)**  
-Access to Ircam concerts is through Ircam web page [Concert 1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail) and [Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-2/detail)  
-Access to Dynamo is through the [Dynamo web page](https://www.banlieuesbleues.org/dynamo/).  
+Lectures and workshop are free, [reservation  highly recommended here](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025), [Reservation Concert #1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail), [Reservation #Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-2/detail), [Reservation Concert3](https://www.banlieuesbleues.org/dynamo/evenement/5318/2025-12-07-1800-dynamo-reachin-paris-steve-lehman-miles-okazaki-improtech-paris-2025/).  
 
 
-- [CONCERTS](#december-2-tuesday)
+- [CONCERTS #1 Ircam dec 2](#december-2-tuesday), [CONCERTS #2 Ircam dec 5](#december-5-friday), [CONCERTS #3 Dynamo dec 7](#december-7-sunday)
 - [INSTALLATIONS-PERFORMANCES](#december-6-saturday)
 - [WORKSHOPS](#december-3-wednesday-workshops)
 - [LECTURES](#december-4-thursday-lectures)
@@ -305,6 +303,7 @@ entre étoile bleue et étoile dorée.
 
 
  **REACHin' Paris** Internationally recognized as leaders in the field of modern improvisation and compositional thought, Miles Okazaki (electric guitar, live electronics) and Steve Lehman (alto saxophone) will join the Ircam Somax Brothers (Gérard Assayag and Marco Fiorini) with their Somax2 AI Agents, in a collection of short compositions and improvisations showcasing a variety of approaches to musician-machine interaction. In this cocreative experiment of a new kind, the musicians may enjoy their full freedom of expression while the algorithmic systems in presence (Dogstar by Miles Okazaki and Ircam’s Somax2) navigate their way to follow their steps and expand their flows in an  electroacoustic and generative space. This concert will also feature ipt~ an innovative tool for real-time instrumental playing techniques recognition by Nicolas Brochec, Joakim Borg and Marco Fiorini that will enhance the “machine listening” process to better “understand” musical gestures.
+ [Concert Page at the Dynamo](https://www.banlieuesbleues.org/dynamo/evenement/5318/2025-12-07-1800-dynamo-reachin-paris-steve-lehman-miles-okazaki-improtech-paris-2025/)
 
 
 ### Installations Performances
