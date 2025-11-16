@@ -149,6 +149,10 @@ Claudie Boucau, flutes
 **AI at Carnegie Hall and Electronic Instrument Design**  
 Levy Lorenzo, percussion and electronics
 
+**Activate Cities: Urban Inspiration and Live-coding**  
+NSDOS (Kirikou Des) electro-hack, dance  
+Noam Assayag litterature, voice  
+
 **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics** 
 Mikhail Malt, Somax2, live electronics, telematics  
 Cassia Carrascoza, flute, telematics  
@@ -157,9 +161,6 @@ Li Chin Li, sheng
 ** TikTok Djam **  
 Yohann Rabearivelo (Doctorant Reach), Ulysse Roussel (Doctorant), Martin Mahieu, Heny Zouari (Violon)
 
-**Activate Cities: Urban Inspiration and Live-coding**  
-NSDOS (Kirikou Des) electro-hack, dance  
-Noam Assayag litterature, voice  
 
 
 ## December 5 Friday Workshops
