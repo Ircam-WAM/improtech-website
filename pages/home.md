@@ -14,23 +14,23 @@ L’Ircam accueille Improtech dans sa salle de concert unique au monde, l’**Es
 
 <br>
 <img src="./images/Logo_ikPT_MSS.png" width="200" style="float:left" hspace="10">
-**Improtech @ Paris** accueille plusieurs personnalités exceptionnelles, dont le grand jazzman new- yorkais **Steve Lehman**, **Joëlle Léandre**, la diva de la contrebasse, le compositeur, tromboniste et pionnier de l’IA musicale **George Lewis**, la décoiffante soprano colombienne **Johanna Vargas**, **Justin Vali** le grand virtuose de la cithare malgache, l’électro- hackeur **NSDOS**, le poète sonore **Jaap Blonk**, les **solistes de l'Ensemble Intercontemporain** **Nicolas Crosse et Aurélien Gignoux**, le **Spat'Sonore** de spatialisation physique tentaculaire, la **Batterie Fragile** d'**Yves Chaudouët** et des porcelainiers de Limoges et bien d’autres encore.
-
+**Improtech @ Paris** accueille plusieurs personnalités exceptionnelles, dont le grand jazzman new- yorkais **Steve Lehman**, **Joëlle Léandre**, la diva de la contrebasse, le compositeur, tromboniste et pionnier de l’IA musicale **George Lewis**, la décoiffante soprano colombienne **Johanna Vargas**, **Justin Vali** le grand virtuose de la cithare malgache, l’électro- hackeur **NSDOS**, le poète sonore **Jaap Blonk**, les **solistes de l'Ensemble Intercontemporain** **Nicolas Crosse et Aurélien Gignoux**, le **Spat'Sonore** de spatialisation physique tentaculaire, la **Batterie Fragile** d'**Yves Chaudouët** et des porcelainiers de Limoges et bien d’autres encore.  
 Le concert de clôture à la Dynamo – Banlieues Bleues de Pantin met en vedette les saxophoniste et guitariste de jazz contemporain **Steve Lehman et Miles Okazaki**, mondialement reconnus comme figures de proue du genre, dans une **master class** publique et un concert d’improvisation en compagnie des **Somax Brothers** de l’Ircam sur leurs drôles de machines gonflées à l’IA.
 
 Au programme: **deux concerts à l'ircam**, le 2 et le 5 décembre, **un concert à la Dynamo **- Banlieues Bleues le 7 décembre. **Conférences et workshops/performances** du 3 au 5 décembre, **Installations - concerts** le 6 décembre à l'ircam.
 
 **[Programme complet et réservations](https://improtech.ircam.fr/ikparis/pages/programme.html)**
 
-
-*Improtech** is both a musical festival and an interdisciplinary workshop bringing together actors of research and creation from all over the world fostering musical improvisation in interaction with digital intelligences, in an assumed approach of human-machine co-creativity. After praised editions in New York, Philadelphia, Athens, Uzeste and Tokyo Improtech @ Paris (ikParis'25) will land down in Paris, at [Ircam,](https://www.ircam.fr) where the concept was created, for the first time! See the* **[Detailed Programme](https://improtech.ircam.fr/ikparis/pages/programme.html)**
-
-
 <br>
 <img src="./images/Logo_ikPT_MSS.png" width="200" style="float:left" hspace="10">
-Organized as part of the European [REACH project](reach.ircam.fr), the Improtech international workshop-festival is dedicated to combining the universal art of improvisation with digital intelligence cultures through a series of conferences, interdisciplinary workshops, installations, performances, and concerts. After traveling across three continents and bringing together leading figures in the field, **Improtech returns to Ircam**, one of its founders, for an edition that will focus on space and composition/improvidsation and pay tribute to American composer George Lewis, an essential reference in musical AI. 
+Organized as part of the European [REACH project](reach.ircam.fr), the Improtech international workshop-festival is dedicated to combining the universal art of improvisation with digital intelligence cultures through a series of conferences, interdisciplinary workshops, installations, performances, and concerts. After traveling across three continents and bringing together leading figures in the field, **Improtech returns to Ircam**, one of its founders, for an edition that will focus on space and composition/improvisation and pay tribute to American composer **George Lewis**, an essential reference in musical AI. 
 
 This year, Ircam will host Improtech  concerts in its unique concert hall, Espace de projection, encouraging **a triple synthesis**:  that of acoustic instrumental culture with the original interactive artificial intelligence developed by the REACH project, that of solo improvisation with writing for mixed ensembles, and finally that of spatialization and sound immersion, also renewed by creative AI. This groundbreaking combination, supported by leading artistic figures in **composition, improvisation, performance, and technology**, will undoubtedly create a dazzling version of this sixth Improtech.
+
+**[Detailed Programme](https://improtech.ircam.fr/ikparis/pages/programme.html)**
+
+
+
 
 <br>
 <br>
