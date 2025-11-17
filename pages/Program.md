@@ -55,10 +55,10 @@ Feat. [Mari Kimura](https://www.marikimura.com/), violon, [Pierre Couprie](https
 ### 20:00 IMPROTECH CONCERT #2 at Espace de Projection, Ircam
 
 
-**Artisticiel**  
-Bernard Lubat piano, voice  
-Gérard Assayag AI-Agents Omax & Somax2  
-Marc Chemillier AI-Agents Djazz  
+**Boulez Reloaded**  
+[Elaine Chew](https://eniale.kcl.ac.uk/biography-music/) piano  
+[Thierry Miroglio](https://www.thierrymiroglio.com/) percussions  
+Gérard Assayag AI-Agents Somax2
 
 **Solo for sliding Trombone**  
 After John Cage composition  
@@ -286,7 +286,10 @@ entre structure et surprise,
 entre étoile bleue et étoile dorée.  
 
 
-**Artisticiel** This set-up is at the heart of the CD-book Artisticiel, a manifesto for cocreative interaction, with Bernard Lubat and Ircam / EHESS researchers Gérard Assayag and Marc Chemillier operating computer systems (OMax, SoMax, Djazz) capable of « listening » carefully, capturing the game of improvising musicians in real time, in order to produce new improvisations combining imitations and transformations. In direct contact with the human performers, the computer learns how to play, making steady progress toward musical expertise, tirelessly increasing the amount of structured information stored in its database, while human operators are still in control of global strategies (when to choose silence, responsory or heterophony, scarcity or complexity etc.). These experiments with Bernard Lubat are supported by the Nouvelle-Aquitaine Region.
+**Boulez Reloaded**  
+[Elaine Chew](https://eniale.kcl.ac.uk/biography-music/) piano  
+[Thierry Miroglio](https://www.thierrymiroglio.com/) percussions  
+Gérard Assayag AI-Agents Somax2
  
 **Solo for Sliding Trombone** This Performance presents an artistic research project exploring the performance of John Cage’s “Solo for Sliding Trombone” using AI generative tools within the Somax2 environment. The performance investigates the interplay between human interpretation, AI-assisted performance, and Cage’s core concepts of silence, indeterminacy, and unintentionality. By integrating AI agents as virtual performers and employing techniques like “coloring the silence” and “expansions,” the research aims to push the boundaries of Cage’s indeterminacy. This artistic research resulted in a unique set of improvised performances, captured and presented in a box set with 7 distinct tracks, showcasing the dynamic interplay between human and AI creativity within the framework of Cage’s innovative musical philosophy.
  
