@@ -2,15 +2,13 @@ title: Programme
 ---
 
 
-Access to lectures and workshop is free, but reservation is highly recommended **[here.](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025)**  
-Access to Ircam concerts is through Ircam web page [Concert 1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail) and [Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail)  
-Access to Dynamo is through the [Dynamo web page](https://www.banlieuesbleues.org/dynamo/).  
+Lectures and workshop are free, [reservation  highly recommended here](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025), [Reservation Concert #1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail), [Reservation #Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-2/detail), [Reservation Concert #3](https://www.banlieuesbleues.org/dynamo/evenement/5318/2025-12-07-1800-dynamo-reachin-paris-steve-lehman-miles-okazaki-improtech-paris-2025/).  
 
 
-- [CONCERTS](#december-2-tuesday)
-- [INSTALLATIONS-PERFORMANCES](#december-6-saturday)
-- [WORKSHOPS](#december-3-wednesday-workshops)
-- [LECTURES](#december-4-thursday-lectures)
+- [CONCERT #1 (Ircam dec 2)](#december-2-tuesday), [CONCERT #2 (Ircam dec 5)](#december-5-friday), [CONCERT #3 (Dynamo dec 7)](#december-7-sunday)
+- [INSTALLATIONS-PERFORMANCES (Ircam dec 6)](#december-6-saturday)
+- [WORKSHOPS (Ircam dec 3-5)](#december-3-wednesday-workshops)
+- [LECTURES (Ircam dec 4-5)](#december-4-thursday-lectures)
 - Notes and abstracts : [CONCERTS](#abstracts), [Workshops](#workshops), [Installations-Performances](#installations-performances), [Lectures](#lectures) 
 
 
@@ -57,10 +55,10 @@ Feat. [Mari Kimura](https://www.marikimura.com/), violon, [Pierre Couprie](https
 ### 20:00 IMPROTECH CONCERT #2 at Espace de Projection, Ircam
 
 
-**Artisticiel**  
-Bernard Lubat piano, voice  
-Gérard Assayag AI-Agents Omax & Somax2  
-Marc Chemillier AI-Agents Djazz  
+**Boulez Reloaded**  
+[Elaine Chew](https://eniale.kcl.ac.uk/biography-music/) piano  
+[Thierry Miroglio](https://www.thierrymiroglio.com/) percussions  
+Gérard Assayag AI-Agents Somax2
 
 **Solo for sliding Trombone**  
 After John Cage composition  
@@ -150,6 +148,10 @@ Claudie Boucau, flutes
 **AI at Carnegie Hall and Electronic Instrument Design**  
 Levy Lorenzo, percussion and electronics
 
+**Activate Cities: Urban Inspiration and Live-coding**  
+NSDOS (Kirikou Des) electro-hack, dance  
+Noam Assayag litterature, voice  
+
 **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics** 
 Mikhail Malt, Somax2, live electronics, telematics  
 Cassia Carrascoza, flute, telematics  
@@ -158,9 +160,6 @@ Li Chin Li, sheng
 ** TikTok Djam **  
 Yohann Rabearivelo (Doctorant Reach), Ulysse Roussel (Doctorant), Martin Mahieu, Heny Zouari (Violon)
 
-**Activate Cities: Urban Inspiration and Live-coding**  
-NSDOS (Kirikou Des) electro-hack, dance  
-Noam Assayag litterature, voice  
 
 
 ## December 5 Friday Workshops
@@ -195,7 +194,7 @@ Sivan Eldar, composer, Jean-Louis Giavitto, CNRS Ircam, Augustin Muller, Ircam, 
 **Gestures in Electronic Improvised Music**  
 Pierre Couprie, Evry Paris-Saclay University
 
-**Extended Instrumental Techniques Recognition for Generative Coimprovisation**  
+**Real-Time Recognition of Instrumental Playing Techniques for Composition and CoCreative Interaction**  
 Nicolas Brochec, Geidai University Tokyo  
 Marco Fiorini, Ircam, Collegium Musicae  
 
@@ -286,7 +285,8 @@ entre structure et surprise,
 entre étoile bleue et étoile dorée.  
 
 
-**Artisticiel** This set-up is at the heart of the CD-book Artisticiel, a manifesto for cocreative interaction, with Bernard Lubat and Ircam / EHESS researchers Gérard Assayag and Marc Chemillier operating computer systems (OMax, SoMax, Djazz) capable of « listening » carefully, capturing the game of improvising musicians in real time, in order to produce new improvisations combining imitations and transformations. In direct contact with the human performers, the computer learns how to play, making steady progress toward musical expertise, tirelessly increasing the amount of structured information stored in its database, while human operators are still in control of global strategies (when to choose silence, responsory or heterophony, scarcity or complexity etc.). These experiments with Bernard Lubat are supported by the Nouvelle-Aquitaine Region.
+**Boulez Reloaded** Conceived in homage to Pierre Boulez on his centennial celebrated worldwide, “Boulez Reloaded” is a musical trio that brings to the live stage human-AI cocreativity and skilled human improvisers. An open, semi-improvised dialog between multiple confronting music streams will draw material from the rich musical history that shaped Boulez and his music. Elaine Chew will perform, adapt, and improvise on excerpts of pieces such as Boulez’s Fragment d’une ébauche (1987) or 1st piano sonata (1946). Gérard Assayag will guide somax2 AI agents' improvisations towards different interaction strategies and sonic material drawn both from Elaine Chew’s live piano playing and corpuses of Boulez’s works including Pli Selon Pli, sometimes switching to totally different sonic universes. Thierry Miroglio will blend in with various percussions in a “tintinnabulant” (tinkling) spirit that  Boulez would have much appreciated. The musician’s and the machine’s reciprocal listening and adaptation  produce rich and previously unheard combinations. A variety of new possible readings of Boulez' complexity emerge, offering a way of bringing his works to a new life beyond their finitude in a homage spirit, and a resolutely new aesthetical and ethical approach to AI.
+In this musician-AI dialog, the music that Boulez loved, analyzed and conducted can slip in, notably Ravel whose 150th birthday is  also celebrated this year, extending the idea of re-creation to that of a meta-level dialogue of musics and influences fueled by AI.
  
 **Solo for Sliding Trombone** This Performance presents an artistic research project exploring the performance of John Cage’s “Solo for Sliding Trombone” using AI generative tools within the Somax2 environment. The performance investigates the interplay between human interpretation, AI-assisted performance, and Cage’s core concepts of silence, indeterminacy, and unintentionality. By integrating AI agents as virtual performers and employing techniques like “coloring the silence” and “expansions,” the research aims to push the boundaries of Cage’s indeterminacy. This artistic research resulted in a unique set of improvised performances, captured and presented in a box set with 7 distinct tracks, showcasing the dynamic interplay between human and AI creativity within the framework of Cage’s innovative musical philosophy.
  
@@ -304,6 +304,7 @@ entre étoile bleue et étoile dorée.
 
 
  **REACHin' Paris** Internationally recognized as leaders in the field of modern improvisation and compositional thought, Miles Okazaki (electric guitar, live electronics) and Steve Lehman (alto saxophone) will join the Ircam Somax Brothers (Gérard Assayag and Marco Fiorini) with their Somax2 AI Agents, in a collection of short compositions and improvisations showcasing a variety of approaches to musician-machine interaction. In this cocreative experiment of a new kind, the musicians may enjoy their full freedom of expression while the algorithmic systems in presence (Dogstar by Miles Okazaki and Ircam’s Somax2) navigate their way to follow their steps and expand their flows in an  electroacoustic and generative space. This concert will also feature ipt~ an innovative tool for real-time instrumental playing techniques recognition by Nicolas Brochec, Joakim Borg and Marco Fiorini that will enhance the “machine listening” process to better “understand” musical gestures.
+ [Concert Page at the Dynamo](https://www.banlieuesbleues.org/dynamo/evenement/5318/2025-12-07-1800-dynamo-reachin-paris-steve-lehman-miles-okazaki-improtech-paris-2025/)
 
 
 ### Installations Performances
@@ -428,9 +429,9 @@ While the industrial markets for 3D audio and artificial intelligence in music a
 We present an interface for controlling Djazz and Somax with Unity. Unity is a video game engine: an environment for creating games, a process that involves the design of many aspects such as visuals, physics, characters, and rules for winning, as well as music. While game engines like Unity traditionally offer linear control of looped playback of prerecorded audio tracks for music design, Unity can also be used as a control interface for generative music systems such as Djazz and Somax. The combination of the systems is appealing: unscripted, dynamically changing musical accompaniments offer richer experiences in video games. Nonetheless, a friction arises between the game engine and the music system, as the relationship of control and interaction is called into question. Are the experiential aspects of game play that are considered ‘meaningful” similar to those in musical improvisation? If so, do the same musical parameters affect these experiential aspects? Should a musical co-improvisation system be used as a musical accompaniment to an extra-musical experience such as a game? Or is this last question misleading: is game play another form of interaction that invites as much co-creativity as direct musical interaction? Two perspectives that let us start answering these questions are the ludic and the narrative; these perspectives have been used in analysis of both music and video games. We will present examples of Unity in combination with Djazz and Somax which illustrate each of these perspectives and suggest methods of further development and exploration into this combination.
 
 
-**[Nicolas Brochec](https://nicolasbrochec.com)**, Tokyo University of the Arts Geidai, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Ircam) **Real-Time Recognition of Instrument Playing Techniques for Mixed Music and CoCreative Interaction**
+**[Nicolas Brochec](https://nicolasbrochec.com)**, Tokyo University of the Arts Geidai, **[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/)** (Ircam) **Real-Time Recognition of Instrumental Playing Techniques for Composition and CoCreative Interaction**
 
-We are going to detail the techniques, methodologies, and outcomes that led to the development of an interactive system based on real-time Instrumental Playing Technique (IPT) recognition. Starting from exploratory studies on the flute, we will discuss soundbank recording, data format, and data augmentation, as well as state-of-the-art machine learning model architectures developed in our research. By connecting our model to the co-creative AI system Somax2, we are able to interact with generative agents by means of real-time recognition of IPT classes, adding a new dimension to its interaction paradigm and addressing potential scenarios of co-creative human-machine interaction in mixed music for improvisation and composition.
+Playing techniques have been practiced throughout the history of music in every cultural context. With the advent of contemporary music in the West in the second half of the 20th century, playing techniques became one of the central parameters of musical expression, if not the primary parameter in specific genres. Despite the advent of computers in music practices and the emergence of computer music in the 1970s, playing techniques have been largely disregarded by music algorithms due to their complex nature. Recently, with the advent of artificial intelligence, which enables more precise real-time music analysis, the possibility of designing computer music tools based on playing techniques has increased. Yet, the compositional desire of composer Nicolas Brochec to create playing technique-based human-machine music interactions for mixed music composition led to collaboration with improviser and engineer Marco Fiorini, who shared the same vision for improvisation and cocreative interaction. In this lecture, we are going to present the compositional and improvisational motivations behind ipt~, a Max/MSP external for real-time recognition of instrumental playing techniques, as well as methods and techniques that led to a reliable and robust system, spanning from sound bank recording to algorithm design and training.
 
 **[Pierre Couprie](https://www.pierrecouprie.fr/)** (Evry Paris-Saclay University) **Gestures in Electronic Improvised Music**
 
