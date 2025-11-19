@@ -111,6 +111,8 @@ The Somax Brothers (Gérard Assayag, Marco FIorini) Somax2 AI Agents
 
 *This concert follows a Master-Class in the afternoon with the same musicians.*
 
+---
+
 ## December 6 Saturday
 
 ### 14:00  - 19:00 INSTALLATIONS / PERFORMANCES in Studio 5, Ircam  
@@ -126,6 +128,7 @@ Thierry Miroglio, Aurelien Gignoux, percussions
 NOSFELL, voice
 Somax Brothers, AI Agents Somax2 / Somax2Collider  
 
+---
 
 ## December 3 Wednesday Workshops
 
@@ -172,7 +175,6 @@ Li Chin Li, sheng
 Yohann Rabearivelo (Doctorant Reach), Ulysse Roussel (Doctorant), Martin Mahieu, Heny Zouari (Violon)
 
 
-
 ## December 5 Friday Workshops
 ### 11h - 13h Workshops in Studio 5, Ircam 
 
@@ -186,6 +188,7 @@ Raphaël Forment, musician, researcher, free-software programmer
 Rémi Georges, sound artist, composer and computer music designer  
 Guillaume Piccarreta, programmer and digital artist
 
+---
 
 ## December 4 Thursday Lectures
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
@@ -237,6 +240,7 @@ Nicolas Souchal, Diemo Schwartz, Ircam
 **The meaning of « co » in « co-creative »**  
 Pierre Saint-Germier, CNRS, Ircam  
 
+---
 
 ## Abstracts
 
@@ -317,6 +321,7 @@ In this musician-AI dialog, the music that Boulez loved, analyzed and conducted 
  **REACHin' Paris** Internationally recognized as leaders in the field of modern improvisation and compositional thought, Miles Okazaki (electric guitar, live electronics) and Steve Lehman (alto saxophone) will join the Ircam Somax Brothers (Gérard Assayag and Marco Fiorini) with their Somax2 AI Agents, in a collection of short compositions and improvisations showcasing a variety of approaches to musician-machine interaction. In this cocreative experiment of a new kind, the musicians may enjoy their full freedom of expression while the algorithmic systems in presence (Dogstar by Miles Okazaki and Ircam’s Somax2) navigate their way to follow their steps and expand their flows in an  electroacoustic and generative space. This concert will also feature ipt~ an innovative tool for real-time instrumental playing techniques recognition by Nicolas Brochec, Joakim Borg and Marco Fiorini that will enhance the “machine listening” process to better “understand” musical gestures.
  [Concert Page at the Dynamo](https://www.banlieuesbleues.org/dynamo/evenement/5318/2025-12-07-1800-dynamo-reachin-paris-steve-lehman-miles-okazaki-improtech-paris-2025/)
 
+---
 
 ### Installations Performances
  
@@ -328,7 +333,7 @@ Conçue en porcelaine biscuit par le plasticien, écrivain et metteur en scène 
 Le prototype de la Batterie fragile, à l’ÉSAD-Pyrénées en 2016, fait partie de la collection du FRAC Nouvelle-Aquitaine MÉCA. La V2 de Batterie fragile, développée avec les céramistes de l’ENSAD-Limoges, est celle qui sera activée pendant les journées d’Improtech.
 La batterie fragile sera jouée par Thierry Miroglio, Aurélien Gignoux, avec divers musiciens dont Jean-Brice Godet (Clarinette), Nosfell (voix, texte) et le système d'IA générative cocréatif Somax2.
 
-
+---
 
 ### Workshops
 
@@ -422,7 +427,7 @@ The Sophtar is a tabletop string instrument with an embedded system for digital 
 Other features of the Sophtar include a pressure-sensitive fretted neck, two sound boxes, and bespoke interface elements. It combines conventional tactile musical affordances with recent machine learning models and digital signal processing algorithms, which are deeply integrated in the design of the instrument and have a strong influence on how it is played and the way it sounds.
 During this workshop I will presents the instrument and its distinctive techniques, and improvise with different algorithms and models.
 
-
+---
 
 ### Lectures
 
