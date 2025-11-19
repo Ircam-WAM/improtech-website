@@ -88,8 +88,7 @@ Marc Chemillier AI-Agents Djazz
 George Lewis composition  
 [Joëlle Léandre](https://pad.philharmoniedeparis.fr/0050152-joelle-leandre.aspx) bass, voice   
 [Miya Masaoka](https://miyamasaoka.com/bio-cv/) composition, koto  
-[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/) AI-Agents Somax2, Disklaviers
-[Damon Holzborn](https://damonholzborn.com/) and Marco Fiorini, SoVo software
+[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/) and [Damon Holzborn](https://damonholzborn.com/) SoVo AI system
 
 
 ## December 7 Sunday
