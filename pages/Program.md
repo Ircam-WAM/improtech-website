@@ -7,14 +7,22 @@ title: Programme
 - Concert Tickets : **[Concert #1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail)**, **[#Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-2/detail)**, **[Concert #3](https://www.banlieuesbleues.org/dynamo/evenement/5318/2025-12-07-1800-dynamo-reachin-paris-steve-lehman-miles-okazaki-improtech-paris-2025/)**.  
 
 
+### Program Table
 
-- [CONCERT #1 (Ircam dec 2)](#december-2-tuesday), [CONCERT #2 (Ircam dec 5)](#december-5-friday), [CONCERT #3 (Dynamo dec 7)](#december-7-sunday)
-- [INSTALLATIONS-PERFORMANCES (Ircam dec 6)](#december-6-saturday)
-- [WORKSHOPS (Ircam dec 3-5)](#december-3-wednesday-workshops)
-- [LECTURES (Ircam dec 4-5)](#december-4-thursday-lectures)
-- Notes and abstracts : [CONCERTS](#abstracts), [Workshops](#workshops), [Installations-Performances](#installations-performances), [Lectures](#lectures) 
+- **[CONCERT #1](#december-2-tuesday)**, Ircam, Dec. 2
+- **[CONCERT #2](#december-5-friday)**, Ircam, Dec. 5
+- **[CONCERT #3](#december-7-sunday)**, Dynamo, Dec. 7
+- **[INSTALLATIONS-CONCERTS](#december-6-saturday)**, Ircam Dec. 6
+- **[WORKSHOPS](#december-3-wednesday-workshops)**, Ircam Dec. 3-5
+- **[LECTURES](#december-4-thursday-lectures)**, Ircam Dec. 4-5
 
+### Program Detailed Notes
+- [Concerts](#abstracts)
+- [Workshops](#workshops)
+- [Installations-Performances](#installations-performances)
+- [Lectures](#lectures) 
 
+---
 
 ## December 2 Tuesday
 
