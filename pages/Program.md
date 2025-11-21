@@ -107,7 +107,7 @@ George Lewis composition
 
 ### 14:00 Master Class at La Dynamo, Pantin
 
-[Steve Lehman](https://www.stevelehman.com/),[Miles Okazaki](https://www.milesokazaki.com/about/bio-short), The Somax Brothers (Gérard Assayag, Marco FIorini) 
+[Steve Lehman](https://www.stevelehman.com/),[Miles Okazaki](https://www.milesokazaki.com/about/bio-short), The Somax Brothers (Gérard Assayag, Marco Fiorini) 
 
 
 ### 18:00 IMPROTECH CONCERT #3 at La Dynamo, Pantin
@@ -115,7 +115,7 @@ George Lewis composition
 **REACHin' Paris**  
 [Steve Lehman](https://www.stevelehman.com/), Saxophones  
 [Miles Okazaki](https://www.milesokazaki.com/about/bio-short), Guitar, Somax2 AI Agents  
-The Somax Brothers (Gérard Assayag, Marco FIorini) Somax2 AI Agents  
+The Somax Brothers (Gérard Assayag, Marco Fiorini) Somax2 AI Agents  
 
 *This concert follows a Master-Class in the afternoon with the same musicians.*
 
