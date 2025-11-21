@@ -11,16 +11,19 @@ title: Programme
 
 - **[CONCERT #1](#december-2-tuesday)**, Ircam, Dec. 2
 - **[CONCERT #2](#december-5-friday)**, Ircam, Dec. 5
-- **[CONCERT #3](#december-7-sunday)**, Dynamo, Dec. 7
+- **[CONCERT #3](#december-7-sunday)** and **[Master Class](#december-7-sunday)**, Dynamo, Dec. 7
 - **[INSTALLATIONS-CONCERTS](#december-6-saturday)**, Ircam Dec. 6
 - **[WORKSHOPS](#december-3-wednesday-workshops)**, Ircam Dec. 3-5
 - **[LECTURES](#december-4-thursday-lectures)**, Ircam Dec. 4-5
 
 ### Program Notes
+
 - [Concerts](#abstracts)
 - [Workshops](#workshops)
 - [Installations-Performances](#installations-performances)
 - [Lectures](#lectures) 
+- [Master Class](#masterclass) 
+
 
 ---
 
@@ -101,6 +104,11 @@ George Lewis composition
 
 
 ## December 7 Sunday
+
+### 14:00 Master Class at La Dynamo, Pantin
+
+[Steve Lehman](https://www.stevelehman.com/),[Miles Okazaki](https://www.milesokazaki.com/about/bio-short), The Somax Brothers (Gérard Assayag, Marco FIorini) 
+
 
 ### 18:00 IMPROTECH CONCERT #3 at La Dynamo, Pantin
 
@@ -240,6 +248,8 @@ Nicolas Souchal, Diemo Schwartz, Ircam
 
 **The meaning of « co » in « co-creative »**  
 Pierre Saint-Germier, CNRS, Ircam  
+
+
 
 ---
 
@@ -496,6 +506,10 @@ It is increasingly common for researchers in the field of computational creativi
 
 We present three technologies for free non-idiomatic audio–visual improvisation, the fruit of long-term research and musical application in performance and compositional contexts. First, corpus-based concatenative synthesis leverages machine listening and allows to play music by selecting  grains from pre- or live-recorded sound via gesture-controlled navigation in a timbre space defined by perceptual audio descriptors. Second, the extension of corpus-based synthesis to the domain of images enables audio–visual improvisation via cross-modal mappings between the audio and visual perceptive dimensions. Third, the audio-augmented trumpet uses the sound of the instrument itself to control sound processing, unlike typical sensor-based augmented instruments. The audio-augmentation is based on real-time sound analysis driving sound processes such as additive synthesis, resonators, and auto-convolution. The main aim of this audio-visually extended trumpet is to explore human/augmented-instrument relationships that introduce unpredictability, navigating between moments of control and moments of adaptation to situations of non-control, which is particularly relevant to the practice of improvisation. We will perform a short piece that combines these three technologies by live-recording the augmented trumpet to feed the corpus-based embodied instrument CataRT, and to control image generation from a corpus of drawings by Elizabeth Saint-Jalmes, creating a symbiotic shared multi-modal instrument.
 
+
+### Master Class
+
+**[Steve Lehman](https://www.stevelehman.com/)and [Miles Okazaki](https://www.milesokazaki.com/about/bio-short)** give an exceptional masterclass open to the public before the concert, in which they will discuss their musical trajectory as composers and instrumentalists and shed valuable light on their creative relationship with technology. They will be accompanied by the Somax Brothers (Gérard Assayag and Marco Fiorini) to share demonstrations of the generative software (Dogstar and Somax2) used in the concert and thoughts on interaction strategies and the type of listening and responsiveness that such an experience with the machine brings into play. The masterclass will end with a session of Q&A and a discussion with the audience.
 
 
 <br>
