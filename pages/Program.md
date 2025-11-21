@@ -5,7 +5,7 @@ title: Programme
 
 <br>
 <p align="center">
-  <img src="../images/Flyer_carre_program.png" width="400">
+  <img src="../images/Flyer_carre_program.png" width="700">
 </p>
 <br>
 
