@@ -1,6 +1,8 @@
 title: Programme
 ---
 
+*[Printed Program in PDF (short)](../doc/Communique_Presse_ikPP25.pdf)*
+
 ### Reservations
 
 - Lectures and workshop are free, [reservation  highly recommended here](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025)
