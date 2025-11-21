@@ -18,6 +18,10 @@ Title: Infos
 
 ### Reservations
 
+- Lectures and workshop are free, [reservation  highly recommended here](https://ircam-billetterie.mapado.com/event/639598-improtech-paris-2025)
+- Concert Tickets : **[Concert #1](https://www.ircam.fr/agenda/improtech-paris-2025-concert-1/detail)**, **[#Concert 2](https://www.ircam.fr/agenda/improtech-paris-2025-concert-2/detail)**, **[Concert #3](https://www.banlieuesbleues.org/dynamo/evenement/5318/2025-12-07-1800-dynamo-reachin-paris-steve-lehman-miles-okazaki-improtech-paris-2025/)**.  
+
+### Press 
 
 <br>
 <br>
