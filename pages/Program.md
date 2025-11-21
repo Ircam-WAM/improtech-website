@@ -16,7 +16,7 @@ title: Programme
 - **[WORKSHOPS](#december-3-wednesday-workshops)**, Ircam Dec. 3-5
 - **[LECTURES](#december-4-thursday-lectures)**, Ircam Dec. 4-5
 
-### Program Detailed Notes
+### Program Notes
 - [Concerts](#abstracts)
 - [Workshops](#workshops)
 - [Installations-Performances](#installations-performances)
@@ -118,15 +118,16 @@ The Somax Brothers (Gérard Assayag, Marco FIorini) Somax2 AI Agents
 ### 14:00  - 19:00 INSTALLATIONS / PERFORMANCES in Studio 5, Ircam  
 
 **WWW**  
+for [Spat'Sonore](http://www.spatsonore.fr/): Tentacular Physical Spatialisation  
 José-Miguel Fernandez composition, AI-Agents Somax2Collider, immersive electronics  
-Amaryllis Billet, Philippe Bord, Nicolas Chedmail, Roméo Monteiro, Maxime Morel, Joris Rühl, Spat'Sonore physical spatialisation installation  
+Spat' musicians : Amaryllis Billet, Philippe Bord, Nicolas Chedmail, Roméo Monteiro, Maxime Morel, Joris Rühl
 
 **Batterie Fragile**  
-Yves Chaudouet inventor of the Fragile Drum  
-Jean-Brice Godet, clarinettes  
+[Yves Chaudouët](http://www.dda-aquitaine.org/fr/yves-chaudouet/) creator of the Fragile Drum  
+[Jean-Brice Godet](https://jeanbricegodet.com/music/Menu.html), clarinettes  
 Thierry Miroglio, Aurelien Gignoux, percussions  
-NOSFELL, voice
-Somax Brothers, AI Agents Somax2 / Somax2Collider  
+[NOSFELL](https://www.nosfell.com/), voice
+The Somax Brothers, AI Agents Somax2 / Somax2Collider  
 
 ---
 
