@@ -22,7 +22,7 @@ title: Programme
 - [Workshops](#workshops)
 - [Installations-Performances](#installations-performances)
 - [Lectures](#lectures) 
-- [Master Class](#masterclass) 
+- [Master Class](#master-class)
 
 
 ---
@@ -509,7 +509,7 @@ We present three technologies for free non-idiomatic audio–visual improvisatio
 
 ### Master Class
 
-**[Steve Lehman](https://www.stevelehman.com/)and [Miles Okazaki](https://www.milesokazaki.com/about/bio-short)** give an exceptional masterclass open to the public before the concert, in which they will discuss their musical trajectory as composers and instrumentalists and shed valuable light on their creative relationship with technology. They will be accompanied by the Somax Brothers (Gérard Assayag and Marco Fiorini) to share demonstrations of the generative software (Dogstar and Somax2) used in the concert and thoughts on interaction strategies and the type of listening and responsiveness that such an experience with the machine brings into play. The masterclass will end with a session of Q&A and a discussion with the audience.
+**[Steve Lehman](https://www.stevelehman.com/) and [Miles Okazaki](https://www.milesokazaki.com/about/bio-short)** give an exceptional masterclass open to the public before the concert, in which they will discuss their musical trajectory as composers and instrumentalists and shed valuable light on their creative relationship with technology. They will be accompanied by the Somax Brothers (Gérard Assayag and Marco Fiorini) to share demonstrations of the generative software (Dogstar and Somax2) used in the concert and thoughts on interaction strategies and the type of listening and responsiveness that such an experience with the machine brings into play. The masterclass will end with a session of Q&A and a discussion with the audience.
 
 
 <br>
