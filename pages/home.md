@@ -10,7 +10,11 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 
 <br>
 
-#### [IMPROTECH@PARIS 2025 : Programme et réservations](https://improtech.ircam.fr/ikparis)  du 2 au 7 Décembre à l'Ircam and La Dynamo de Banlieues Bleues.
+#### IMPROTECH@PARIS 2025 du 2 au 7 Décembre à l'Ircam et La Dynamo de Banlieues Bleues.
+
+[Programme et réservations ici](https://improtech.ircam.fr/ikparis) 
+
+
 
 <br>
 
