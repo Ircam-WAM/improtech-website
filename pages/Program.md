@@ -105,11 +105,12 @@ Marc Chemillier AI-Agents Djazz
 **in memoriam Susan Alcorn**  
 [Miya Masaoka](https://miyamasaoka.com/bio-cv/) composition, koto  
 
-**SoVo II**
-George Lewis composition  
+
+**Nomadologies**  
+George Lewis, composition  
 [Joëlle Léandre](https://pad.philharmoniedeparis.fr/0050152-joelle-leandre.aspx) bass, voice   
 [Miya Masaoka](https://miyamasaoka.com/bio-cv/) composition, koto  
-[Marco Fiorini](https://forum.ircam.fr/profile/fiorini/) and [Damon Holzborn](https://damonholzborn.com/) SoVo AI system
+Marco Fiorini, Damon Holzborn, George Lewis, Gérard Assayag, SoVo AI system  
 
 
 ## December 7 Sunday
@@ -351,7 +352,10 @@ In this musician-AI dialog, the music that Boulez loved, analyzed and conducted 
 **in memoriam Susan Alcorn** by kotoist Miya Masaoka will celebrate the great musician Susan Alcorn who left this earth in January of this year. Miya, Susan and viola player LaDonna Smith performed as a trio at [Improtech 2017](https://ikparisphilly.ircam.fr/) in Philadelphia.
 
 
- **SoVo II** is both a collaborative musical work and a new cocreative improvisation system conceived to expand the communicative terrain of human-machine collaboration, discussed for quite some time by George Lewis and Gerard Assayag during their encounters at preceding Improtechs. Designed and implemented in 2024-25 by Marco Fiorini, Damon Holzborn, George Lewis and Gerard Assayag, the SoVo system represents the convergence of decades of innovation in artificial intelligence and improvisation.  SoVo is not a fixed composition, but a dynamic environment where creative agency is distributed among human virtuoso performers Joëlle Léandre and Miya Masaoka, and improvising software agents operating in an integrated architecture combining Lewis’ Voyager system with the program Somax2 from the [REACH](https://reach.ircam.fr) project. The system merges symbolic and audio-based interaction, combining in real time rule based algorithmic generation with machine learning and cognitive modeling, and uses machine listening and adaptive strategies both between the program and the musicians and between the So and Vo components. This performance will also feature ipt~ a new, groundbreaking tool for real-time instrumental playing techniques recognition by Nicolas Brochec, Joakim Borg and Marco Fiorini, that will enhance "machine listening" to better "understand" musical gestures. The system engages in the improvisational process with creative autonomy, where intention, memory, and form emerge through co-authored musical discourse.
+**Nomadologies** is a musical work realized as a real-time dialogic collaboration among contrabassist Joëlle Léandre, kotoist Miya Masaoka, and SoVo, a new cocreative improvisation system conceived to expand the communicative terrain of human-machine collaboration in ways discussed for quite some time by George Lewis and Gerard Assayag during their encounters at preceding Improtechs.  
+Designed and implemented in 2024-25 by Marco Fiorini, Damon Holzborn, George Lewis and Gérard Assayag, the SoVo system represents the convergence of decades of innovation in artificial intelligence and improvisation. SoVo is not a fixed composition, but a dynamic environment where creative agency is distributed among human virtuoso performers Léandre and Masaoka, and improvising software agents operating in an integrated architecture combining Lewis’ Voyager system with the program Somax2 from the REACH project.  
+The system merges symbolic and audio-based interaction, combining in real time rule based algorithmic generation with machine learning and cognitive modeling, and uses machine listening and adaptive strategies both between the program and the musicians and between the So and Vo components.  
+This performance will also feature ipt~ a new, groundbreaking tool for real-time instrumental playing techniques recognition by Nicolas Brochec, Joakim Borg and Marco Fiorini, that will enhance "machine listening" to better "understand" musical gestures. The system engages in the improvisational process with creative autonomy, where intention, memory, and form emerge through co-authored musical discourse.
 
 
  **REACHin' Paris** Internationally recognized as leaders in the field of modern improvisation and compositional thought, Miles Okazaki (electric guitar, live electronics) and Steve Lehman (alto saxophone) will join the Ircam Somax Brothers (Gérard Assayag and Marco Fiorini) with their Somax2 AI Agents, in a collection of short compositions and improvisations showcasing a variety of approaches to musician-machine interaction. In this cocreative experiment of a new kind, the musicians may enjoy their full freedom of expression while the algorithmic systems in presence (Dogstar by Miles Okazaki and Ircam’s Somax2) navigate their way to follow their steps and expand their flows in an  electroacoustic and generative space. This concert will also feature ipt~ an innovative tool for real-time instrumental playing techniques recognition by Nicolas Brochec, Joakim Borg and Marco Fiorini that will enhance the “machine listening” process to better “understand” musical gestures.
