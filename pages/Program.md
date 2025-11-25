@@ -65,11 +65,11 @@ Feat. [Mari Kimura](https://www.marikimura.com/), violon, [Pierre Couprie](https
 **Deleph**  
 [Jaap Blonk](http://www.jaapblonk.com/Pages/biography.html) voice, sound poetry  
 [Benny Sluchin](https://aicf.org/artist/benny-sluchin/) trombone  
-[Georges Bloch](http://repmus.ircam.fr/bloch) AI-Agents Omax5, Somax2  
+[Georges Bloch](http://repmus.ircam.fr/bloch) AI-Agents Omax5, Somax2, immersive electronics
 
 **In albireo luogo…**  
 [Lara Morciano](https://brahms.ircam.fr/fr/lara-morciano) composition  
-[Joëlle Léandre](https://pad.philharmoniedeparis.fr/0050152-joelle-leandre.aspx), [Nicolas Crosse](https://www.ensembleintercontemporain.com/en/soliste/nicolas-crosse/)] bass  
+[Joëlle Léandre](https://pad.philharmoniedeparis.fr/0050152-joelle-leandre.aspx), [Nicolas Crosse](https://www.ensembleintercontemporain.com/en/soliste/nicolas-crosse/) bass  
 [José-Miguel Fernandez](https://ressources.ircam.fr/en/jose-miguel-fernandez) AI-Agents Somax2Collider, immersive electronics  
 
 
@@ -116,14 +116,16 @@ George Lewis composition
 
 ### 14:00 Master Class at La Dynamo, Pantin
 
-[Steve Lehman](https://www.stevelehman.com/),[Miles Okazaki](https://www.milesokazaki.com/about/bio-short), The Somax Brothers (Gérard Assayag, Marco Fiorini) 
+Steve Lehman](https://www.stevelehman.com/), Saxophones  
+[Miles Okazaki](https://www.milesokazaki.com/about/bio-short), Guitar 
+The Somax Brothers (Gérard Assayag, Marco Fiorini) Somax2 AI Agents  
 
 
 ### 18:00 IMPROTECH CONCERT #3 at La Dynamo, Pantin
 
 **REACHin' Paris**  
 [Steve Lehman](https://www.stevelehman.com/), Saxophones  
-[Miles Okazaki](https://www.milesokazaki.com/about/bio-short), Guitar, Somax2 AI Agents  
+[Miles Okazaki](https://www.milesokazaki.com/about/bio-short), Guitar 
 The Somax Brothers (Gérard Assayag, Marco Fiorini) Somax2 AI Agents  
 
 *This concert follows a Master-Class in the afternoon with the same musicians.*
@@ -137,14 +139,19 @@ The Somax Brothers (Gérard Assayag, Marco Fiorini) Somax2 AI Agents
 **WWW**  
 for [Spat'Sonore](http://www.spatsonore.fr/): Tentacular Physical Spatialisation  
 José-Miguel Fernandez composition, AI-Agents Somax2Collider, immersive electronics  
-Spat' musicians : Amaryllis Billet, Philippe Bord, Nicolas Chedmail, Roméo Monteiro, Maxime Morel, Joris Rühl
+Amaryllis Billet  (violin)  
+Philippe Bord  (French horn)  
+Nicolas Chedmail (French horn)  
+Roméo Monteiro (percussions)  
+Maxime Morel (brass instruments)  
+Joris Rühl  (clarinet)  
 
 **Batterie Fragile**  
 [Yves Chaudouët](http://www.dda-aquitaine.org/fr/yves-chaudouet/) creator of the Fragile Drum  
-[Jean-Brice Godet](https://jeanbricegodet.com/music/Menu.html), clarinettes  
+[Jean-Brice Godet](https://jeanbricegodet.com/music/Menu.html), clarinets  
 Thierry Miroglio, Aurelien Gignoux, percussions  
-[NOSFELL](https://www.nosfell.com/), voice
-The Somax Brothers, AI Agents Somax2 / Somax2Collider  
+[NOSFELL](https://www.nosfell.com/), voice, texts  
+Mikhail Malt, Somax2 AI Agents
 
 ---
 
@@ -152,26 +159,26 @@ The Somax Brothers, AI Agents Somax2 / Somax2Collider
 
 ### 10h - 13h Workshop *Resounding Bodies in Space*  in Studio 2, Ircam  
 
-Alberto Maria Gatti, composer, designer  
+Alberto Maria Gatti, composer, sound designer, computer music designer
 Anaïs del Sordo, voice, body harness  
-Marco Fiorini Guitar, Spatial Agents Somax2  
+Marco Fiorini PhD researcher (Ircam, Sorbonne University), Guitar, Spatial Agents Somax2  
 
 ### 14h - 19h Workshops in Studio 5, Ircam 
 
 **Breathing Media Projects featuring 1000+Yr old traditional Gagaku music reimagined with cutting-edge sensors technology**  
-Tamami Tono, Sho  
-Atsushi Todokoro, video  
+Tamami Tono, sho player, composer 
+Atsushi Todokoro, creative coder, visual artist (Maebashi Institute of Technology)
 
 **Mugic Magic**  
-Mari Kimura, Mugic sensors, violon  
-Tamami Tono, Sho  
-Minako Ito, Bugaku dance  
+Mari Kimura, violin, Mugic Sensors inventor (UC Irvine)
+Tamami Tono, sho player, composer
+Minako Ito, Bugaku dancer
 
 **The Sophtar: an electroacoustic feedback instrument with embedded algorithms for human-machine improvisation**  
-Federico Visi, Sophtar Instrument, Somax2  
+Federico Visi, composer, performer, Sophtar Instrument inventor (Universität der Künste Berlin)
 
 **First Meeting**  
-Alain Blesing, Guitare électrique, Somax2  
+Alain Blesing, composer, electric guitar, Somax2  
 Claudie Boucau, flutes
 
 ## December 4 Thursday Workshops
@@ -181,16 +188,19 @@ Claudie Boucau, flutes
 Levy Lorenzo, percussion and electronics
 
 **Activate Cities: Urban Inspiration and Live-coding**  
-NSDOS (Kirikou Des) electro-hack, dance  
-Noam Assayag litterature, voice  
+NSDOS (Kirikou Des), composer, electro-hacker, dancer  
+Noam Assayag, writer, visual artist, performer  
 
 **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics** 
-Mikhail Malt, Somax2, live electronics, telematics  
-Cassia Carrascoza, flute, telematics  
-Li Chin Li, sheng  
+Mikhail Malt, Somax2 AI Agents, live electronics, telematics  
+Cassia Carrascoza, flute, telematics (Universidade de São Paulo)
+Li-Chin Li, sheng 
 
-** TikTok Djam **  
-Yohann Rabearivelo (Doctorant Reach), Ulysse Roussel (Doctorant), Martin Mahieu, Heny Zouari (Violon)
+**TikTok Djam**  
+Yohann Rabearivelo, PhD researcher (EHESS)  
+Ulysse Roussel, PhD researcher (Sorbonne University)  
+Martin Mahieu, musician  
+Heny Zouari, violin, PhD researcher (EHESS)  
 
 
 ## December 5 Friday Workshops
@@ -198,11 +208,11 @@ Yohann Rabearivelo (Doctorant Reach), Ulysse Roussel (Doctorant), Martin Mahieu,
 
 **Hypercept ~ quatuor d’improvisation**  
 Gyorgy Kurtag, synthesizers  
-Donatien Garnier, Metaphorminx instrument, poetry  
-Emmanuelle Pépin, dance
+Donatien Garnier, Metaphorminx instrument, poet  
+Emmanuelle Pépin, dancer
 
-**Pratiques du Live Coding**  
-Raphaël Forment, musician, researcher, free-software programmer  
+**Live Coding Practices**  
+Raphaël Forment, musicologist and music software designer  
 Rémi Georges, sound artist, composer and computer music designer  
 Guillaume Piccarreta, programmer and digital artist
 
@@ -212,23 +222,28 @@ Guillaume Piccarreta, programmer and digital artist
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
 **Mixed Initiative Co-Creative Design for Long-Term Human-AI Musical Partnership**  
-Ken Deguernel, CNRS, Laboratoire CRISTAL, Lille 
+Ken Deguernel, CNRS, Laboratoire CRISTAL Lille
 
 **Generative Spatial Synthesis of Sound and Music (ERC G3S)**  
-Alain Bonardi, Université Paris 8, Emma Frid, Paul Goutmann, Axel Chemla-Romeu-Santos
+Alain Bonardi, Université Paris 8 – CICM / MUSIDANSE – Projet ERC G3S  
+Emma Frid, Université Paris 8 – CICM / MUSIDANSE – Projet ERC G3S  
+Paul Goutmann, Université Paris 8 – CICM / MUSIDANSE – Projet ERC G3S  
+Axel Chemla-Romeu-Santos, Université Paris 8 – CICM / MUSIDANSE – Projet ERC G3S  
 
 **Somax2 for Live Visual Music: Co-Improvisation with Creative Agents**  
-Sabina Covarrubias, Synesthesic Devices
+Sabina Covarrubias, digital artist, Synesthesic Devices founder
 
 **Composition and improvisation in contemporary opera**  
-Sivan Eldar, composer, Jean-Louis Giavitto, CNRS Ircam, Augustin Muller, Ircam, Le Balcon 
+Sivan Eldar, composer  
+Jean-Louis Giavitto, CNRS, Ircam  
+Augustin Muller, computer music designer (Ircam, Le Balcon)
 
 **Gestures in Electronic Improvised Music**  
 Pierre Couprie, Evry Paris-Saclay University
 
 **Real-Time Recognition of Instrumental Playing Techniques for Composition and CoCreative Interaction**  
-Nicolas Brochec, Geidai University Tokyo  
-Marco Fiorini, Ircam, Collegium Musicae  
+Nicolas Brochec, Phd researcher (Geidai University Tokyo)  
+Marco Fiorini, PhD researcher (Ircam, Sorbonne University)
 
 
 ## December 5 Friday lectures
@@ -237,26 +252,27 @@ Marco Fiorini, Ircam, Collegium Musicae
 
 **The Odd Couple - Human & AI Making Music in the Moment**  
 Oded Ben Tal, Kingston University, London  
-David Dolan, pianist, Guildhall School of Music & Drama London  
+David Dolan, Guildhall School of Music & Drama London  
 
 **Unity Interfaces for Djazz and Somax: Ludic and Narrative Perspectives on Musical Machine Co-creativity**  
 Daniel Brown, University de Picardie  
 Steve Horowitz, Composer
 
 **Transmettre son style à l'IA : récit d'une collaboration improbable**  
-Jean-Rémy Guédon, composer, musician  
+Jean-Rémy Guédon, composer, performer
 
 **Evaluation of AI based improvisation systems**  
-Gilbert Nouno, Haute Ecole de Musique de Genève (HEM)  
-Christophe Fellay, École de design et Haute école d'art du Valais (EDHEA)  
-Nathalie Hérold, IReMus - Sorbone Université  
-Pierre Alexandre Tremblayn Conservatorio della Svizzera italiana  
+Gilbert Nouno, Haute Ecole de Musique de Genève   
+Christophe Fellay, École de design et Haute école d'art du Valais  
+Nathalie Hérold, IReMus - Sorbonne Université  
+Pierre Alexandre Tremblay, Conservatorio della Svizzera italiana  
 
 **Extensymbiosis — The Audio–Visually Augmented Trumpet and Multi-modal Corpus-based Synthesis as a Shared Instrument**  
-Nicolas Souchal, Diemo Schwartz, Ircam
+Nicolas Souchal, PhD researcher (Ircam)
+Diemo Schwartz, Ircam
 
 **The meaning of « co » in « co-creative »**  
-Pierre Saint-Germier, CNRS, Ircam  
+Pierre Saint-Germier, CNRS, Ircam
 
 
 
