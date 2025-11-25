@@ -116,8 +116,8 @@ George Lewis composition
 
 ### 14:00 Master Class at La Dynamo, Pantin
 
-Steve Lehman](https://www.stevelehman.com/), Saxophones  
-[Miles Okazaki](https://www.milesokazaki.com/about/bio-short), Guitar 
+[Steve Lehman](https://www.stevelehman.com/), Saxophones  
+[Miles Okazaki](https://www.milesokazaki.com/about/bio-short), Guitar  
 The Somax Brothers (Gérard Assayag, Marco Fiorini) Somax2 AI Agents  
 
 
@@ -149,9 +149,10 @@ Joris Rühl  (clarinet)
 **Batterie Fragile**  
 [Yves Chaudouët](http://www.dda-aquitaine.org/fr/yves-chaudouet/) creator of the Fragile Drum  
 [Jean-Brice Godet](https://jeanbricegodet.com/music/Menu.html), clarinets  
-Thierry Miroglio, Aurelien Gignoux, percussions  
-[NOSFELL](https://www.nosfell.com/), voice, texts  
-Mikhail Malt, Somax2 AI Agents
+Thierry Miroglio, percussions
+Aurelien Gignoux, percussions  
+[NOSFELL](https://www.nosfell.com/), composer, voice, texts  
+Mikhail Malt, composer, Somax2 AI Agents
 
 ---
 
@@ -192,7 +193,7 @@ NSDOS (Kirikou Des), composer, electro-hacker, dancer
 Noam Assayag, writer, visual artist, performer  
 
 **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics** 
-Mikhail Malt, Somax2 AI Agents, live electronics, telematics  
+Mikhail Malt, composer, Somax2 AI Agents, live electronics, telematics  
 Cassia Carrascoza, flute, telematics (Universidade de São Paulo)
 Li-Chin Li, sheng 
 
