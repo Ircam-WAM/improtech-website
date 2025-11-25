@@ -160,7 +160,7 @@ Mikhail Malt, composer, Somax2 AI Agents
 
 ### 10h - 13h Workshop *Resounding Bodies in Space*  in Studio 2, Ircam  
 
-Alberto Maria Gatti, composer, sound designer, computer music designer
+Alberto Maria Gatti, composer, sound designer, computer music designer  
 Anaïs del Sordo, voice, body harness  
 Marco Fiorini PhD researcher (Ircam, Sorbonne University), Guitar, Spatial Agents Somax2  
 
