@@ -128,7 +128,6 @@ The Somax Brothers (Gérard Assayag, Marco Fiorini) Somax2 AI Agents
 [Miles Okazaki](https://www.milesokazaki.com/about/bio-short), Guitar 
 The Somax Brothers (Gérard Assayag, Marco Fiorini) Somax2 AI Agents  
 
-*This concert follows a Master-Class in the afternoon with the same musicians.*
 
 ---
 
