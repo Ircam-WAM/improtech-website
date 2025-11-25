@@ -194,7 +194,7 @@ Noam Assayag, writer, visual artist, performer
 
 **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics**  
 Mikhail Malt, composer, Somax2 AI Agents, live electronics, telematics  
-Cassia Carrascoza, flute, telematics (Universidade de São Paulo)
+Cassia Carrascoza, flute, telematics (Universidade de São Paulo)  
 Li-Chin Li, sheng 
 
 **TikTok Djam**  
