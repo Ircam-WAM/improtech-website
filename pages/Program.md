@@ -222,6 +222,8 @@ Guillaume Piccarreta, programmer and digital artist
 ## December 4 Thursday Lectures
 ### 9h30 - 13h Lectures in Stravinsky hall, Ircam 
 
+*[Go to Zoom connexion starting at 9:15 Paris Time](https://us06web.zoom.us/j/89583652158?pwd=eLN5s2WUhC19KmgTEJCXAJXmm8vJfu.1)*
+
 **Mixed Initiative Co-Creative Design for Long-Term Human-AI Musical Partnership**  
 Ken Deguernel, CNRS, Laboratoire CRISTAL Lille
 
@@ -247,6 +249,8 @@ Marco Fiorini, PhD researcher (Ircam, Sorbonne University)
 
 ## December 5 Friday lectures
 ### 14h - 19h Lectures in Stravinsky hall, Ircam
+
+*[Go to Zoom connexion starting at 13:45 Paris Time](https://us06web.zoom.us/j/81045288443?pwd=cieSoAWTUJX9WFyPGtTQGLwZL9i8Gw.1)*
 
 
 **The Odd Couple - Human & AI Making Music in the Moment**  
