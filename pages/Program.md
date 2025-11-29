@@ -192,6 +192,8 @@ Levy Lorenzo, percussion and electronics
 NSDOS (Kirikou Des), composer, electro-hacker, dancer  
 Noam Assayag, writer, visual artist, performer  
 
+*Change : the two following workshsops will take place in Stravinsky Room at 16:30*
+
 **PURE MALT: Augmented Improvisations, from instrumental gesture to telematics**  
 Mikhail Malt, composer, Somax2 AI Agents, live electronics, telematics  
 Cassia Carrascoza, flute, telematics (Universidade de São Paulo)  
