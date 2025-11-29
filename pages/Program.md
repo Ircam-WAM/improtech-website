@@ -234,10 +234,8 @@ Axel Chemla-Romeu-Santos, Université Paris 8 – CICM / MUSIDANSE – Projet ER
 **Somax2 for Live Visual Music: Co-Improvisation with Creative Agents**  
 Sabina Covarrubias, digital artist, Synesthesic Devices founder
 
-**Composition and improvisation in contemporary opera**  
-Sivan Eldar, composer  
-Jean-Louis Giavitto, CNRS, Ircam  
-Augustin Muller, computer music designer (Ircam, Le Balcon)
+**The meaning of « co » in « co-creative »**  
+Pierre Saint-Germier, CNRS, Ircam
 
 **Gestures in Electronic Improvised Music**  
 Pierre Couprie, Evry Paris-Saclay University
@@ -262,6 +260,11 @@ Steve Horowitz, Composer
 **Transmettre son style à l'IA : récit d'une collaboration improbable**  
 Jean-Rémy Guédon, composer, performer
 
+**Composition and improvisation in contemporary opera**  
+Sivan Eldar, composer  
+Jean-Louis Giavitto, CNRS, Ircam  
+Augustin Muller, computer music designer (Ircam, Le Balcon)
+
 **Evaluation of AI based improvisation systems**  
 Gilbert Nouno, Haute Ecole de Musique de Genève   
 Christophe Fellay, École de design et Haute école d'art du Valais  
@@ -271,9 +274,6 @@ Pierre Alexandre Tremblay, Conservatorio della Svizzera italiana
 **Extensymbiosis — The Audio–Visually Augmented Trumpet and Multi-modal Corpus-based Synthesis as a Shared Instrument**  
 Nicolas Souchal, PhD researcher (Ircam)
 Diemo Schwartz, Ircam
-
-**The meaning of « co » in « co-creative »**  
-Pierre Saint-Germier, CNRS, Ircam
 
 
 
