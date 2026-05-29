@@ -14,7 +14,6 @@ Summary: Improtech Paris gathers scholars, technologists, musicians, makers, aro
 
 <br>
 <br>
-  
 
 Organisé dans le cadre du projet européen **[REACH](https://reach.ircam.fr)**, le festival international **Improtech@Paris** combine l’art universel de **l’improvisation** et les cultures de l’**intelligence numérique** à travers une série de conférences, d’ateliers interdisciplinaires, d’installations, de performances et de concerts. Après avoir parcouru trois continents et réuni des figures de proue du domaine, Improtech revient à l’Ircam, l’un de ses fondateurs, pour une 6e édition qui met l’accent sur l’**espace et la composition/improvisation** et rend hommage au compositeur américain **George Lewis**, une référence incontournable dans le domaine de l’IA musicale.  
 
