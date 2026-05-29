@@ -6,9 +6,10 @@ Tags: ircam, improvisation, performance, human machine interaction, improtech, o
 Authors: Gerard Assayag
 Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence
 
-#### This is the general Improtech Home Site
+#### (This is the general Improtech Home)
 
-[Go to the last Improtech Home Page : IMPROTECH@PARIS 2025](https://improtech.ircam.fr/ikparis)
+<br>
+<br>
 
 ### [NEW ! ALL THE IMPROTECH@PARIS 2025 MOVIES NOW AVAILABLE HERE](https://reach.ircam.fr/index.php/2026/05/25/improtechparis-2025-the-movies/)
 
@@ -29,6 +30,8 @@ After praised editions in New York, Philadelphia and Athens, **Improtech @ Uzest
 Go to the [Uzeste edition 2023](https://improtech.ircam.fr/ikuzeste) web site.
 
 ### Previous Improtech Editions
+
+[Paris edition 2025](https://improtech.ircam.fr/ikparis)
 
 [Paris - Tokyo edition 2024](https://improtech.ircam.fr/ikparistokyo)
 
