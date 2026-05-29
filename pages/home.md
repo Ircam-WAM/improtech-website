@@ -10,7 +10,7 @@ Summary: Improtech Paris gathers scholars, technologists, musicians, makers, aro
 
 <br>
 
-### [NEW ! ALL THE IMPROTECH@PARIS 2025 MOVIES NOW AVAILABLE HERE](https://reach.ircam.fr/index.php/2026/05/25/improtechparis-2025-the-movies/)
+### [NEW ! ALL THE IMPROTECH@PARIS 2025 MOVIES NOWS  AVAILABLE HERE](https://reach.ircam.fr/index.php/2026/05/25/improtechparis-2025-the-movies/)
 
 <br>
 <br>
