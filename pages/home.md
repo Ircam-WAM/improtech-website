@@ -8,14 +8,11 @@ Summary: Improtech Paris - Athina 2019 gathers scholars, technologists, musician
 
 #### This is the general Improtech Home Site
 
+[Go to the last Improtech Home Page : IMPROTECH@PARIS 2025](https://improtech.ircam.fr/ikparis)
+
+### [NEW ! ALL THE IMPROTECH@PARIS 2025 MOVIES NOW AVAILABLE HERE](https://reach.ircam.fr/index.php/2026/05/25/improtechparis-2025-the-movies/)
+
 <br>
-
-#### IMPROTECH@PARIS 2025 du 2 au 7 Décembre à l'Ircam et La Dynamo de Banlieues Bleues.
-
-#### [Programme et réservations ici](https://improtech.ircam.fr/ikparis) 
-
-
-
 <br>
 
 ### A New alliance
